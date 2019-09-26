@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">108</journal-id>
+            <journal-code>rprm</journal-code>
+            <journal-eureka-code-one>RPGM</journal-eureka-code-one>
+            <nid nid-status="current">685</nid>
+            <journal-title>Recent Patents on Regenerative Medicine</journal-title>
+            <full-journal-title>Recent Patents on Regenerative Medicine</full-journal-title><journal-seo-title>recent-patents-on-regenerative-medicine</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-2973</journal-issn>
+                <journal-issn issn-type="print">2210-2965</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Regenerative Medicine</italic>
+                    </bold> publishes review and research articles, and guest edited thematic issues on important regenerative medicine e.g. stem cells, gene therapy, tissue engineering, and tissue and organ regeneration. A selection of important and recent patents on regenerative medicine is also included in the journal. The journal is essential reading for all researchers involved in regenerative medicine. The journal also covers current research in fast emerging areas of regenerative medicine e.g. stem cells, gene therapy, tissue engineering, and tissue and organ regeneration. </p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rprm-journal-cover.gif</journal-cover-image>
+            <journal-description>Recent Patents on Regenerative Medicine publishes review and research articles, and guest edited thematic issues on important recent patents on regenerative medicine e.g. stem cells, gene therapy, tissue engineering, and tissue and organ regeneration. A selection of important and recent patents on regenerative medicine is also included in the journal. </journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Regenerative Medicine</keyword>
+                <keyword>regenerative medicine</keyword>
+                <keyword>organ regeneration</keyword>
+                <keyword>  Regenerative medicine</keyword>
+                <keyword>Stem cell </keyword>
+                <keyword>Regenerative organ</keyword>
+                <keyword>Transplantation Regenerative medicine</keyword>
+                <keyword>Organ transplant Regenerative medicine</keyword>
+                <keyword>Tissue engineering </keyword>
+                <keyword> Progenitor cells </keyword>
+                <keyword>Cord blood and regenerative medicine</keyword>
+                <keyword>gene therapy and regenerative medicine</keyword>
+                <keyword>Mesenchymal Stromal Cells </keyword>
+                <keyword>organ regeneration</keyword>
+                <keyword>Cardiac Regeneration </keyword>
+                <keyword>Vasculogenesis-Related Cell Types </keyword>
+                <keyword>Regenerative Therapies</keyword>
+                <keyword>Skin Regeneration</keyword>
+                <keyword>Pluripotency</keyword>
+                <keyword>Neurogenesis</keyword>
+                <keyword>Cartilage Regeneration</keyword>
+                <keyword>Skeletal Muscle Regeneration</keyword>
+                <keyword>Stem Cell Therapy</keyword>
+                <keyword>Cell Reprogramming </keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Recent-Patents-on-Regenerative-Medicine/677962618886448</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rprm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rprm@benthamscience.org">rprm@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPRM">bsp-cms.eurekaselect.com/index.php/RPRM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemical Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>PubsHub</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>J-Gate.</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

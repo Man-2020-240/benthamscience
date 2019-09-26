@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">137</journal-id>
+            <journal-code>nbe</journal-code>
+            <journal-eureka-code-one>NBE</journal-eureka-code-one>
+            <nid nid-status="current">109857</nid>
+            <journal-title>Neuroscience and Biomedical Engineering (Discontinued)</journal-title>
+            <full-journal-title>Neuroscience and Biomedical Engineering(Discontinued)</full-journal-title>
+            <journal-seo-title>neuroscience-and-biomedical-engineering</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-3860</journal-issn>
+                <journal-issn issn-type="print">2213-3852</journal-issn>
+            </journal-issn-list>
+            <journal-rationale>
+                <sec>
+                    <title>Rationale:</title>
+                    <p>
+                        <bold>
+                            <italic>Neuroscience and Biomedical Engineering</italic>
+                        </bold>  are two research fields, but their inter-dependence and overlap are of obvious importance to many of us. Without the ever-advancing biomedical engineering technologies, neuroscience would not be what we know it today. And without the challenges and motivations from the neuroscience researches, biomedical engineering loses one of the major foundations for its very existence. Indeed, the solutions to many complicated neuroscience problems will involve highly coordinated and truly interdisciplinary research efforts between neuroscientists and biomedical engineers. This new journal is a platform that brings together scientists and engineers for a better understanding and efficient communication working on the rapidly growing research fields of neuroscience and biomedical engineering.</p>
+                </sec>
+            </journal-rationale>
+            <journal-aims-scope>
+                <p>
+                    NBE is the official journal of the Institute of Complex Medical Engineering (ICME). The journal promotes the best interdisciplinary research in neuroscience and biomedical engineering. NBE welcomes contributions in any domain of neural and biomedical engineering ranging in content from practical/clinical applications through experimental science, technological developments to quantitative and/or statistical methodology discussions. NBE publishes the following article types: original articles, research reviews, and book reviews.</p>
+                <p>
+					The goal of this journal is to establish a new forum for this interdisciplinary field so that neuroscientists and biomedical engineers can publish their research works in one periodical. NBE is devoted to bridge the gap between <italic>Neuroscience and Biomedical Engineering</italic>, and to foster the mutual understanding in both fields.</p>
+                <p>Typical topics include, but certainly are not limited, to the following:</p>
+                <p>Neural Technology and Neural Rehabilitation</p>
+                <p>Neurology and Signal Processing</p>
+                <p>Biomedical Informatics</p>
+                <p>Biomechanics and Neural Control</p>
+                <p>Theoretical and Computational Neuroscience</p>
+                <p>Imaging Neuroscience</p>
+            </journal-aims-scope>
+            <key-features>
+                <sec>
+                    <title>Key Features:</title>
+                    <p>
+                        <list list-type="bullet">
+                            <list-item>
+                                <p>Original research papers and special issues for topics </p>
+                            </list-item>
+                            <list-item>
+                                <p>Basic neurosciences, and biomedical engineering technologies</p>
+                            </list-item>
+                            <list-item>
+                                <p>Existing and potential clinical applications</p>
+                            </list-item>
+                            <list-item>
+                                <p>Periodic ‘Review Papers’ from world-recognized experts</p>
+                            </list-item>
+                            <list-item>
+                                <p>International scope</p>
+                            </list-item>
+                            <list-item>
+                                <p>No page charges</p>
+                            </list-item>
+                            <list-item>
+                                <p>Rapid publication times</p>
+                            </list-item>
+                            <list-item>
+                                <p>Free color in electronic version</p>
+                            </list-item>
+                        </list>
+                    </p>
+                </sec>
+            </key-features><journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>nbe-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.neuroscienceandbiomedicalengineering.com/</journal-insight>-->
+            <journal-description>Neuroscience and Biomedical Engineering aims to provide a reliable, up-to-date and freely available scientific information platform that bypasses the delays and accessibility restrictions of the traditional scientific press</journal-description>
+            <keyword-group>
+                <keyword>Biomedical Engineering</keyword>
+                <keyword>Neuroscience</keyword>
+                <keyword>communication</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nbe@benthamscience.org">nbe@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/NBE">bsp-cms.eurekaselect.com/index.php/NBE</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

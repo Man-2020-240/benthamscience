@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170220-001</article-id>
+            <title-group>
+                <article-title>Targeting legumain as a novel therapeutic strategy in cancers</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/148446">Targeting Legumain As a Novel Therapeutic Strategy in Cancers</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 2-JAN-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Chun Wai Mai et al. will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-drug-targets/#top">Current Drug Target</uri>, Volume 18, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Legumain (LGMN), or asparaginyl endopeptidase, is a newly identified lysosomal cysteine protease. It was recently found to be over-expressed in tumour microenvironment, an enclosed environment that facilitates the interaction among the human solid tumours, tumour-associated endothelial and stromal cells, as well as in tumour-associated macrophages. These non-malignant cells support the growth of the tumours, metastasis and the survival of tumours. One of the identified key biomarkers driving the complexity of tumour microenvironment is LGMN. LGMN is a robust acidic cysteine endopeptidase with remarkably restricted specificity for hydrolysis of asparaginyl bonds.</p>
+        <p>LGMN is well conserved, having been reportedly preent in plants, invertebrate parasites, as well as in mammals. Mammalian LGMN processes the self and foreign antigens expressed by antigen presenting cells and proteolytically activates toll-like receptor, the innate immunity receptor. Since LGMN has been implicated in tumour development and can potentially be developed into both diagnostic and therapeutic markers. This review aims to relate the recent findings on the biology of LGMN in cancers, to the therapeutic advancements in targeting LGMN in human cancers.</p>
+        <p>LGMN may serve as both a potential oncogenic marker and a molecular target for treatment of cancer especially for personalized medicine. Although recent findings have shed light on the functional roles and expression patterns of LGMN, further investigations are still warranted to elucidate the exact role and underlying mechanism of action for LGMN in cancer. Recent discoveries have also demonstrated that targeting LGMN directly or utilizing LGMN as a prodrug activator are promising strategies for cancer management in the future. However, further research is necessary before such therapeutic strategies can be fully realized.</p>
+        <p>For more info, please visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-drug-targets/article/148446/">https://benthamscience.com/journals/current-drug-targets/article/148446/</uri></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mai</surname>
+                            <given-names>C.W.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chung</surname>
+                            <given-names>F.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Leong</surname>
+                            <given-names>C.O.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Targeting legumain as a novel therapeutic strategy in cancers.</article-title>
+                    <source>Curr. Drug Targets</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1389450117666161216125344</pub-id>
+                    <pub-id pub-id-type="pmid">27993111</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

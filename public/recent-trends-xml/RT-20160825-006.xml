@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20160825-006</article-id>
+<title-group>
+<article-title>Selecting good &apos;drug-like&apos; properties to optimize small molecule blood-brain barrier penetration</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-medicinal-chemistry/volume/23/issue/14/page/1392/">Selecting Good ‘Drug-Like’ Properties to Optimize Small Molecule Blood-Brain Barrier Penetration</uri></aff>
+<aff><bold>Public Release:</bold> 15-JUL-2016</aff>
+
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<history>
+                <date date-type="released">
+                    <day>15</day>
+                    <month>07</month>
+                    <year>2016</year>
+                </date>
+            </history>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Paul C Trippier is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-medicinal-chemistry/#top">Current Medicinal Chemistry</uri> volume 23, issue 14</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>In this review, the current state of knowledge in designing pharmacologically active small molecules to possess physicochemical properties sufficient to engender blood-brain barrier (BBB) penetration is examined. The success rate to achieve clinical approval of drugs target to central nervous system (CNS) indications is the lowest of all disease states. We review and examine the physicochemical properties of drug molecules necessary to penetrate the BBB and conclude a list of properties, that if adhered to, would provide the greatest possible chance of a designed small molecule penetrating into the brain.</p>
+<list id="L1" list-type="bullet"><list-item><p>Minimize the number of hydrogen bond donors.</p></list-item>
+<list-item><p>Exclude acid functionality.</p></list-item>
+<list-item><p>Engender higher lipophilicity.</p></list-item>
+<list-item><p>Retain a molecular weight below 500 Da.</p></list-item></list>
+<p>From this list it can be seen that all of these physicochemical properties interrelate, providing a tangled web of challenges for CNS drug discovery. Above all, the pharmacophore of the small molecule responsible for the desired activity must be retained and worked into a structure that emphasizes the presented properties.</p>
+<p>We review the concepts of BBB penetration including a discussion of the terminology of &apos;penetration&apos;, the physicochemical properties influencing BBB penetration, the In Silico, In Vitro and In Vivo methods and models available to measure BBB penetration, data analysis required and recommended for assessment of BBB penetration and look to forthcoming developments in the field.</p>
+<p>This paper is meant to serve as a first point of reference for readers wishing to understand the basics of recent advances in BBB penetration by small molecules and those looking to ensure the best possible chance of designing a small molecule to enter the brain.</p>
+</body>
+<back>
+<ref-list>
+<title>Reference:</title>
+<ref id="r1"><nlm-citation citation-type="journal"><person-group person-group-type="author"><name><surname>Trippier</surname><given-names>P.C.</given-names></name></person-group><article-title>Selecting Good &#x2018;Drug-Like&#x2019; Properties to Optimize Small Molecule Blood-Brain Barrier Penetration.</article-title><source>Curr. Med. Chem.</source><year>2016</year><volume>23</volume><issue>14</issue><fpage>1392</fpage><lpage>1407</lpage><pub-id pub-id-type="doi">10.2174/0929867323666160405112353</pub-id><pub-id pub-id-type="pmid">27048339</pub-id></nlm-citation></ref>
+</ref-list>
+</back>
+</article>

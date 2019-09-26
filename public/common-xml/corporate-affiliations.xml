@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<corporate-affiliations>
+    <corporate-affiliation-list>
+        <corporate-affiliation-entry logo-orientation="both">
+            <corporate-affiliation-id>01</corporate-affiliation-id>
+            <corporate-affiliation-name>Portico</corporate-affiliation-name>
+            <corporate-affiliation-link>http://www.portico.org/digital-preservation/</corporate-affiliation-link>
+            <corporate-affiliation-logo>portico.png</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+        <corporate-affiliation-entry logo-orientation="horizontal">
+            <corporate-affiliation-id>02</corporate-affiliation-id>
+            <corporate-affiliation-name>Crossref</corporate-affiliation-name>
+            <corporate-affiliation-link>http://www.crossref.org/</corporate-affiliation-link>
+            <corporate-affiliation-logo>crossref.png</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+        <corporate-affiliation-entry logo-orientation="horizontal">
+            <corporate-affiliation-id>03</corporate-affiliation-id>
+            <corporate-affiliation-name>Ithenticat</corporate-affiliation-name>
+            <corporate-affiliation-link>http://www.ithenticate.com/</corporate-affiliation-link>
+            <corporate-affiliation-logo>ith-logo.png</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+        <corporate-affiliation-entry logo-orientation="horizontal">
+            <corporate-affiliation-id>04</corporate-affiliation-id>
+            <corporate-affiliation-name>ScholerOne</corporate-affiliation-name>
+            <corporate-affiliation-link>http://scholarone.com/</corporate-affiliation-link>
+            <corporate-affiliation-logo>scholarone.jpg</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+        <corporate-affiliation-entry logo-orientation="horizontal">
+            <corporate-affiliation-id>05</corporate-affiliation-id>
+            <corporate-affiliation-name>Kudos</corporate-affiliation-name>
+            <corporate-affiliation-link>https://www.growkudos.com/</corporate-affiliation-link>
+            <corporate-affiliation-logo>kudos.png</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+        <corporate-affiliation-entry logo-orientation="horizontal">
+            <corporate-affiliation-id>06</corporate-affiliation-id>
+            <corporate-affiliation-name>EurekAlert</corporate-affiliation-name>
+            <corporate-affiliation-link>http://www.eurekalert.org/</corporate-affiliation-link>
+            <corporate-affiliation-logo>eurekaalert.jpg</corporate-affiliation-logo>
+        </corporate-affiliation-entry>
+    </corporate-affiliation-list>
+</corporate-affiliations>

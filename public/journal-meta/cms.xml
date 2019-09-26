@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">96</journal-id>
+            <journal-code>cms</journal-code>
+            <journal-eureka-code-one>MATS</journal-eureka-code-one>
+            <journal-eureka-code-two>CMS</journal-eureka-code-two>
+            <nid-one nid-status="old">673</nid-one>
+            <nid nid-status="current">172204</nid>
+            <journal-title>Current Materials Science</journal-title>
+            <journal-former-title>Recent Patents on Materials Science</journal-former-title>
+            <full-journal-title>Current Materials Science</full-journal-title>
+            <journal-seo-title>current-materials-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2666-1462</journal-issn>
+                <journal-issn issn-type="print">2666-1454</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Materials Science</italic>
+                    </bold> publishes full-length/mini reviews, research articles, recent patents and guest edited thematic issues in all areas of materials science. The journal is essential reading for all researchers involved in materials science. The journal also covers recent research in fast emerging areas of materials science, biomaterials, biological materials, magnetic materials, medical implant materials, nanomaterials, ceramics, plastics, polymers, semi-conductors, coatings, composites, paper, wood, textile, methods, design and techniques.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19700171005</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>12</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cms-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.recentpatentsonmaterialsscience.com/</journal-insight>-->
+<journal-history>Recent Patents on Materials Science was launched in 2008 and later renamed in 2019 as Current Materials Science.</journal-history>
+            <journal-description>The journal is essential reading for all researchers involved in materials science. The journal also covers recent research (where patents have been registered) in fast emerging areas of materials science, biomaterials, biological materials, magnetic materials, medical implant materials, nanomaterials, ceramics, plastics, polymers, semi-conductors, coatings, composites, paper, wood, textile, methods, design and techniques. </journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Materials Science </keyword>
+                <keyword>ceramics</keyword>
+                <keyword>nanomaterials</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Recent-Patents-on-Materials-Science/384878128285236</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+        <journal-flyer>cms-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cms@benthamscience.net">cms@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMS">bsp-cms.eurekaselect.com/index.php/CMS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>INSPEC</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>METADEX</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20181112-001</article-id>
+            <title-group>
+                <article-title>Monitoring serum Albumin can help patients recover from gastrectomy</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/163747/article">Preoperative Albumin Level Serves as a Predictor for Postoperative Pulmonary Complications Following Elective Laparoscopic Gastrectomy</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 1-OCT-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>01</day>
+                    <month>10</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>The article by <italic>Dr. Junping Chen et al.</italic> is published in  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cpd/">Current Pharmaceutical Design</uri>, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        
+        <p>As one of the most common malignant tumors, gastric cancer (GC) occupies the second leading cause of cancer-related deaths worldwide with an increasing trend. The reduced physiological function and low immunity in elderly patients with gastric cancer leads to a significantly increased incidence of postoperative complications. In addition, postoperative complications among elderly patients are usually associated with prolonged hospitalization, increased economic burdens / costs and impaired postoperative recovery. Postoperative pulmonary complications (PPCs) are one set of under-reported complications including a series of clinical conditions and can be fatal. The prevalence of PPCs in different surgeries has been reported to be 2% to 19%. Numerous articles have provided evidence that PPCs can contribute to increased mortality and prolonged hospital stay. Consequently, to evaluate the complication risk appropriately, prevent complications and improve the outcomes in the elderly is strongly needed in surgical patients. Postoperative pulmonary complications (PPCs) can contribute to increased mortality and prolonged hospital stay in surgical patients with gastric cancer (GC). This study aimed to investigate potential risk factors for PPCs in elderly GC patients following elective laparoscopic gastrectomy.</p>
+        <p>This retrospective single-center cohort study was approved by the Medical Institutional Ethics Committee of Zhejiang province. Eligible consecutive elderly patients (aged over 65 years) who were diagnosed with gastric cancer and scheduled to undergo elective laparoscopic gastrectomy at Ningbo NO.2 Hospital between January, 2013 and July, 2017 were enrolled in this study. Data regarding the demographics (age, gender, body mass index, etc.), comorbidities (diabetes mellitus, hypertension, lung disease, ischemic heart disease, etc.), clinicopathological characteristics (TNM stage, etc.), operation types (subtotal and total gastrectomy), postoperative complications and outcomes were recorded in details. Preoperative forced expiratory volume in one second/forced volume capacity (FEV1/FVC) was also measured and recorded. All the laparoscopic operation procedures including the gastrectomy resections and lymph node dissections were performed following the Japanese guidelines. As illustrated by previous data, PPCs were defined as the development of hypoxaemia, severe hypoxia, bronchospasm, suspected pulmonary infection, pulmonary infiltrate, aspiration pneumonitis, Acute Respiratory Distress Syndrome (ARDS), atelectasis, pleural effusion, pulmonary oedema within postoperative 30 days. The definitions of PPCs were confirmed by a same experienced respiratory physician according to the clinical symptoms, physical examination, blood tests and imageological examination. The occurrence of PPCs within postoperative 30 days was set as the primary end point. Preoperative blood samples were obtained in the morning from all enrolled patients for the analyses of blood cell, biochemistry and inflammatory cytokines. Continuous variables were analyzed by Student t-test or Mann Whitney U test, and categorical variables by chi-square test or Fisher exact test appropriately. Those factors with a p &lt; 0.05 on univariate analysis were enrolled into the multivariate logistic regression analysis to investigate the association with PPCs. In the multivariate logistic regression model, the continuous variables (including age, duration of surgery, hemoglobin, etc.) were grouped into high vs low with the median level as the cut-off value. The predictive value of preoperative albumin level for PPCs was analyzed by a receiver operating characteristic (ROC) curve.</p>
+        <p>35 of all the 262 enrolled patients have developed PPCs with an incidence of 13.4%. Age, chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF), forced expiratory volume in one second/ forced vital capacity (FEV1/FVC) ratio, duration of operation, hemoglobin, albumin and C-reactive protein (CRP) were potential risk factors for PPCs by univariate analysis. The preoperative albumin level was the only independent risk factor for PPCs (OR: 1.15, 95%CI: 1.06-1.28, P=0.011) by multiple logistic regression analysis. Preoperative albumin level was a predictor for PPCs with an area under the curve (AUC) of 0.728 and a cut-off value of 33.8 mg/dl (specificity: 54.19%, sensitivity: 77.14%, P&lt;0.001).</p>
+        <p>Preoperative albumin level was an independent risk factor for PPCs in elderly GC patients after elective laparoscopic gastrectomy. As verified by many studies, malnutrition is widely accepted as a common problem that may lead to adverse effects and poor outcomes in surgical patients. Albumin, one of the most commonly used biomarkers for nutrition evaluation, is also reported to be a negative acute phase protein by a study conducted in critically ill trauma patients. As a reproducible and reliable predictor of surgical risk, decreased albumin level has been suggested as a predictor for prolonged hospital stay, increased postoperative complications and increased mortality rate. A recent literature review has revealed that preoperative hypoalbuminemia is significantly associated with increased risk of postoperative surgical site infection and poor postoperative outcomes. Our study has firstly highlighted the association of preoperative albumin expression as a risk factor for the development of PPCs. Decreased albumin closely correlates with the impaired innate immune response, macrophage activation and unregulated macrophage apoptosis. The impaired respiratory muscle function caused by hypoalbuminemia can lead to pulmonary dysfunction and other PPCs. Moreover, decreased osmotic pressure due to hypoalbuminemia promotes fluid shift to the interstitial space, resulting in pulmonary congestion and edema, which leads to respiratory dysfunction and the development of PPCs. These may be potential explanations for the predictive role of albumin expression for PPCs in elderly GC surgical patients.</p>
+        <p>For more information on the research study, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/163747">http://www.eurekaselect.com/163747</ext-link></p>
+    </body>
+</article>

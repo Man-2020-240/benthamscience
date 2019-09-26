@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>photocat</journal-code>
+            <journal-eureka-code-one>PHOTOCAT</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Journal of Photocatalysis</journal-title>
+            <full-journal-title>Journal of Photocatalysis</full-journal-title>
+            <journal-seo-title>journal-of-photocatalysis</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2665-9778</journal-issn>
+                <journal-issn issn-type="print">2665-976X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>“Journal of Photocatalysis” would publish high quality research papers, reviews, and short communications focused on photocatalysis from many different scientific areas including Chemistry, Chemical Engineering, Materials Science, Materials Engineering, Environmental Engineering, Nanotechnology and Green Chemistry.</p>
+                <p>“Journal of Photocatalysis” would accept novel papers in the following fields:
+            <list list-type="bullet">
+            <list-item>
+            <p>Preparation and characterization of new photocatalysts.</p>
+            </list-item>
+            <list-item>
+            <p>Photocatalytic elimination of environmental pollutants in liquid or gas phase.</p>
+            </list-item>
+            <list-item>
+            <p>Self-cleaning materials.</p>
+            </list-item>
+            <list-item>
+            <p>Thin films.</p>
+            </list-item>
+            <list-item>
+            <p>Photocatalytic syntheses of valuable products.</p>
+            </list-item>
+            <list-item>
+            <p>Photocatalytic hydrogen generation and CO2 reduction.</p>
+            </list-item>
+            <list-item>
+            <p>Kinetics and mechanistic aspects of photocatalytic reactions.</p>
+            </list-item>
+            <list-item>
+            <p>Combination of photocatalysis with other technologies, such as membrane technologies and photoelectrocatalysis.</p>
+            </list-item>
+            <list-item>
+            <p>Engineering aspects of photocatalytic processes.</p>
+            </list-item>
+            <list-item>
+            <p>Homogeneous photocatalysis.</p>
+            </list-item>
+            <list-item>
+            <p>Theory, modelling and computational aspects regarding the mechanisms of activation of photocatalysis.</p>
+            </list-item>
+         </list>
+            </p>
+            </journal-aims-scope>
+               <!-- <scimago sjr-status="no">
+                    <scimago-jr-id>4700152434</scimago-jr-id>
+                </scimago>-->
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>photocat-journal-cover.gif</journal-cover-image>
+                <!--  <journal-insight>http://www.currentpsychiatryreviews.com/</journal-insight>
+<journal-history>Current Psychiatry Reviews was launched in 2005 and later renamed in 2019 as Current Psychiatry Research and Reviews.</journal-history>
+            <journal-description>Current Psychiatry Reviews is an essential reading for all clinicians, psychiatrists and researchers in psychiatry.</journal-description>
+            <keyword-group>
+                <keyword>Psychiatry</keyword>
+                <keyword>psychiatrists</keyword>
+                <keyword>pharmacology</keyword>
+            </keyword-group>-->
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+              <journal-flyer>photocat-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="photocat@benthamscience.net">photocat@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/PHOTOCAT">bsp-cms.eurekaselect.com/index.php/PHOTOCAT</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

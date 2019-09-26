@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">114</journal-id>
+            <journal-code>cic</journal-code>
+            <journal-eureka-code-one>CIC</journal-eureka-code-one>
+            <nid nid-status="current">691</nid>
+            <journal-title>Current Inorganic Chemistry (Discontinued)</journal-title>
+            <full-journal-title>Current Inorganic Chemistry(Discontinued)</full-journal-title>
+            <journal-seo-title>current-inorganic-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-945X</journal-issn>
+                <journal-issn issn-type="print">1877-9441</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Inorganic Chemistry</bold>, a peer-reviewed journal,  publishing original research, review articles and guest edited thematic issues in  all areas of inorganic chemistry. The journal's scope includes the synthesis, crystal structure, physical methods, thermodynamics, reactivity, spectroscopy, electronic and bonding properties of significant new and known (bio) inorganic and organometallic compounds.</p>
+                <p>
+                    <bold>Current Inorganic Chemistry</bold> is an important and reliable source of information on current developments, research and theory in the field. The emphasis is on publishing high quality articles.</p>
+            </journal-aims-scope>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608057900</ebook-id>
+                        <ebook-title>Ion Implantation and Activation Vol:2</ebook-title>
+                        <ebook-link>http://www.benthamscience.com/ebooks/9781608057900/index.htm</ebook-link>
+                        <ebook-cover>9781608057900.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608057900</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/117411</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>8</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>cic-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.currentinorganicchemistry.com/</journal-insight>-->
+            <journal-description>Current Inorganic Chemistry, a peer reviewed journal, is an important and reliable source of current information on developments and research and theory in the field. The emphasis will be on publishing quality articles rapidly and freely available worldwide.</journal-description>
+            <keyword-group>
+                <keyword>Current Inorganic Chemistry </keyword>
+                <keyword>reactivity, spectroscopy</keyword>
+                <keyword>synthesis, structure,</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cic@benthamscience.org">cic@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CIC">bsp-cms.eurekaselect.com/index.php/CIC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

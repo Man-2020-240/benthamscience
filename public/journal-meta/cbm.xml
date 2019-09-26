@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status = "discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">89</journal-id>
+            <journal-code>cbm</journal-code>
+            <journal-eureka-code-one>CBM</journal-eureka-code-one>
+            <journal-eureka-code-two>RPBM</journal-eureka-code-two>
+            <nid nid-status="current">141478</nid>
+            <nid-one nid-status="old">666</nid-one>
+            <journal-title>Current Biomarkers (Under Re-organization)</journal-title>
+            <full-journal-title>Current Biomarkers (Under Re-organization)</full-journal-title>
+            <journal-former-title>Recent Patents on Biomarkers</journal-former-title>
+            <journal-seo-title>current-biomarkers</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2468-4236</journal-issn>
+                <journal-issn issn-type="print">2468-4228</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Biomarkers</italic>
+                    </bold> publishes reviews, research articles and guest edited thematic issues on biomarkers. The coverage includes novel biomarkers in basic, medical, environmental, and pharmaceutical research. A selection of important and recent patents on biomarkers is also included in the journal. The journal is essential reading for all researchers involved in biomarker research and discovery. The journal also covers current research in fast emerging biomarker applications; discovery and validation for drug discovery, clinical development and molecular diagnostics.</p>
+            </journal-aims-scope>
+            <journal-current-volume>8</journal-current-volume>
+            <journal-current-issues>1</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>cbm-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentbiomarkers.com/index.php</journal-insight>
+            <journal-description>Current Biomarkers</journal-description>
+            <keyword-group>
+                <keyword>Current Biomarkers</keyword>
+                <keyword>fast emerging patent</keyword>
+                <keyword>molecular diagnostics</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Recent-Patents-on-Biomarkers/433943120035195</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <!--<journal-flyer>cbm-flyer.pdf</journal-flyer>-->
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rpbm@benthamscience.org">cbm@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPBM">bsp-cms.eurekaselect.com/index.php/RPBM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

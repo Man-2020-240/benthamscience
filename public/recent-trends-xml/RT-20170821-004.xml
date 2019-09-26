@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170821-004</article-id>
+            <title-group>
+                <article-title>Mechanisms of neuronal cell death in AGE-exposed retinas -- research and literature review</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/142324/article">Mechanisms of Neuronal Cell Death in AGE-exposed Retinas - Research and Literature Review</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 25-MAY-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Guzel Bikbova et al is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-diabetes-reviews/#top">Current Diabetes Reviews</uri>, Volume 13, Issue 3, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Gradual accumulation of glycated proteins, lipids and nucleic acid is a common process in normal aging, however rise in blood glucose levels, an increase of oxidative stress over time triggering further protein modification and resulting in impairment of defense mechanisms. AGEs accumulation in various tissues under diabetic conditions plays an important role in the development of neuronal and vascular complications such as diabetic retinopathy. Glycation plays a significant role in the pathogenesis of retinal diabetic neuropathy by triggering different mechanisms resulting in neuronal dysfunction.The death of retinal ganglion cells (RGCs) and their axons is the common pathological change in AGE-exposed retina. Identifying the mechanisms of the onset and progression of RGC death and axonal degeneration in patients with diseases associated with AGEs accumulation including diabetic retinopathy are represented in this review e.g. results of laboratory studies with the suggestion that AGEs play an important role in the pathogenesis of diabetic retinal neuropathy triggering different mechanisms that result in neuronal dysfunction.</p>
+        <p>Additionally new therapeutic approaches, the regenerative effect of different neurotrophic factors such as neurotrophin-4, hepatocyte growth factor, glial cell line-derived neurotrophic factor, and Tauroursodeoxycholic acid on RGCs are represented in this review.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/node/142324/article/mechanisms-of-neuronal-cell-death-in-age-exposed-retinas-research-and-literature-review">http://www.eurekaselect.com/node/142324/article/mechanisms-of-neuronal-cell-death-in-age-exposed-retinas-research-and-literature-review</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>BikBova</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Mechanisms of Neuronal Cell Death in AGE-exposed Retinas - Research and Literature Review.</article-title>
+                    <source>Curr. Diabetes Rev.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1573399812666160519111333</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20160825-005</article-id>
+<title-group>
+<article-title>Hypoxia radiotracer produced automatically in dose-on-demand fashion</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-radiopharmaceuticals/article/144220/">Automated PET Radiotracer Manufacture on the BG75 System Imaging Validation studies of [18F] Fluoromisonidazole ([18F] FMISO)</uri></aff>
+<aff><bold>Public Release:</bold> 25-JUL-2016</aff>
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<history>
+                <date date-type="released">
+                    <day>25</day>
+                    <month>07</month>
+                    <year>2016</year>
+                </date>
+            </history>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Hong Yuan et al. will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-radiopharmaceuticals/#top">Current Radiopharmaceuticals</uri> Journal Volume 9, 2016</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Positron Emission Tomography (PET) is a non-invasive imaging modality with applications for diagnosis and patient management in the specialties of oncology, neurology and cardiology. The possibility of imaging cellular processes in real time depends on the accurate detection of radiation coming from radiotracers, which are injected into the patient and later accumulate selectively based on the biological processes that are monitored.</p>
+<p>The use of PET and combined modalities PET/CT or PET/MRI have dramatically improved the standard of care for patients in the last thirty years. However, access to radiotracers is far from trivial. The average cost for equipment, facilities and trained personnel can be close to 10 million USD, thus developing a centralized market model where the radiotracers are manufactured in bulk and then individual doses are shipped to hospitals or imaging facilities. An important caveat is that the doses can only reach a radius of ca. 3 hours in the best case, for fluorine-18 radiotracers. This manufacturing model hinders the application of PET to millions of patients that are outside the radius of central manufacturing sites. Automated systems like the BG 75 make possible to expand the coverage for application and the number of patients serviced without the need of life disruption events. Examples of used radiotracers include [18F]FDG for sugar metabolism, [18F]FLT for cellular proliferation and [18F]FMISO for imaging of hypoxia.</p>
+<p>A total of twelve single-doses of [18F]FMISO were prepared over three days, passing all standard quality control requirements for radiochemical identity and purity. The average time for synthesis and purification for a single dose was less than 30 min in good yield, showing the potential for a full day manufacture of sixteen doses with a single set of reagents. The system has the potential to automate the majority of quality control tests providing a final report for review of the operators. The doses produced were injected in mice and its uptake and biodistribution evaluated. The radiotracer exhibited the same expected features for this type of radiotracers. These results validate and confirm the capability for the BG75 system to produce common fluorine-18 radiotracers in a consistent and automated fashion, minimizing costs related to personnel and medical facilities.</p>
+<p>In conclusion, the hypoxia radiotracer [18F]FMISOcan be prepared and purified in automated fashion in a single dose and single use cartridge. The radiotracer prepared in this way passes standard quality controls and accumulates selectively in hypoxic tissue, thus establishing equivalency to the radiotracer manufactured in bulk in a centralized facility.</p>
+</body>
+</article>

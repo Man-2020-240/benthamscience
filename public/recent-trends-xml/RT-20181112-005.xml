@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20181112-005</article-id>
+            <title-group>
+                <article-title>Cloud computing load balancing based on ant colony algorithms improves performance</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/165072/article">A Performed Load Balancing Algorithm for Public Cloud Computing Using Ant Colony Optimization</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 29-OCT-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>29</day>
+                    <month>10</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>The article by Dr. Awatif Ragmani <italic>et al.</italic> is published in  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/recent-patents-on-computer-science/">Recent Patents on Computer Science</uri>, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Cloud computing has strongly contributed to the revolution of the traditional IT model. This paradigm has also contributed to the rise of applications using large amounts of data. Particularly, the quality of service and cost are two major points in the Cloud environment. This new concept which proposes to offer applications and IT infrastructures in the form of service available on demand and payable according to the duration of use must optimize both the performance of its resources and the respect of attractive pricing policies.</p>
+        <p>The Cloud computing model relies on the exploitation of several datacenters installed on different geographical locations. Each datacenter hosts servers which include the virtual machines in charge of processing users&apos; requests. The geographic extent of the cloud architecture, as well as the number of interactions that exist between the physical components, make the mission of analysis and optimization of the performance highly complex. Our study proposes to study the performance by considering the Cloud model as a black box with a list of inputs gathering the factors that can influence the performance of the system and the outputs that translate the Key Performance Indicators (KPIs). Each KPI makes it possible to measure the evolution of an aspect of the system performance such as the response time or the cost of service. The process of identifying and evaluating the influencing factors was carried out on the basis of Taguchi experience plans. This study includes two steps that aim to improve the performance of Cloud services while ensuring a lower price level. The first step is the evaluation of the Cloud model via a performance analysis methodology inspired by Taguchi concept and the second step details the implementation of a three-tier architecture.</p>
+        <p>The modeling of the system, as well as all the simulation scenarios, were carried out via the CloudAnalyst simulator. This simulator dedicated to Cloud architecture allows the implementation of various inputs configurations defined on the basis of Taguchi tables in order to find out the function f that links each output to the system&apos;s inputs. The conclusions of this study revealed the impact of the load balancing policy as well as the size of the queries and the location of the datacenters with respect to the user on the response time, the processing time and the total cost. Particularly, the load balancing demonstrated a substantial impact on the performance of the Cloud system.</p>
+        <p>Following a comparative study of several load balancing algorithms, it was possible to define a three-tier solution based on an ant colony algorithm. The choice of the ant colony algorithm was justified by its ability to identify an optimal solution within a reasonable time and to be able to manage a wide area network encompassing thousands of nodes. These characteristics have made it possible to have a solution that satisfies both the response time and cost criteria. The architecture has also two controllers in order to decrease the load of the main controller and contribute to improving the processing time of the system.</p>
+        <p>For more information, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/165072">http://www.eurekaselect.com/165072</ext-link></p>
+    </body>
+</article>

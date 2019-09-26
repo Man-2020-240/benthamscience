@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<offers xmlns:xlink="http://www.w3.org/1999/xlink">
+    <sec>
+        <table width="700" align="center" frame="border" cellpadding="0" cellspacing="0" style="padding:5px;">
+            <tr>
+                <td colspan="4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../../../../journal-images/offer/special-offer.jpg"/></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+				<table style="background-color:#eeeeee;" width="700">
+					<tr>
+						<td style="padding:5px; text-align:left;" colspan="2">
+						<p>Starting from <span style="color:#ff0000;">15 Dec 2017 till 31 Jan 2018</span>, Bentham Science Publishers is offering a substantial discount on its publications and other ancillary services:</p>
+					</td>
+					</tr>
+					<tr>
+					<td style="padding:5px; text-align:left;">
+					<list list-type="bullet">
+						<list-item>
+							<p>All printed books/eBooks ordered or purchased during this period will be discounted by 30%.</p>
+						</list-item>
+						<list-item>
+							<p>All PPV journal articles purchased during this period will be discounted by 30%.</p>
+						</list-item>
+						<list-item>
+							<p>	Additional services such as Open Access publication, color figure processing for manuscripts, quick track services, promotional services, and reprints will be discounted by 30% during this period.</p>
+						</list-item>
+					</list></td>
+					<td>
+					<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../../../../journal-images/offer/offer.jpg"/>
+					</td>
+					</tr>
+					<tr>
+						<td colspan="2" style="padding:5px; text-align:left;" ><p>Readers can choose any book from our catalog of over <span style="color:#ff0000;">700</span> publications in a variety of scientific fields from <uri xlink:href="http://ebooks.benthamscience.com/catalog-ebooks.php">here</uri>.</p></td>
+					</tr>
+					<tr>
+						<td colspan="2" style="padding:5px; text-align:left;" ><p>Our PPV articles are categorized by disease and can be accessed <uri xlink:href="http://www.eurekaselect.com/alldiseases/">here</uri>.</p></td>
+					</tr>
+					<tr>
+						<td colspan="2" style="padding:5px; text-align:left;" ><p>To avail these discounts, simply use the code <span style="color:#ff0000;">BSPPRC283</span> on our e-store (<uri xlink:href="http://www.eurekaselect.com">www.eurekaselect.com</uri>) when purchasing your e-book or article. There is no limit to the number of discounted books or articles you can purchase. Please quote this code when you place your order for any of our other services during this period to avail this discount.</p></td>
+					</tr>
+					<tr>
+						<td colspan="2" style="padding:5px; text-align:left;" ><p>For more information on this offer or to place your order, you can contact our office at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="marketing@benthamscience.org">marketing@benthamscience.org</email>.</p></td>
+					</tr>
+				</table>
+	
+				</td>
+            </tr>
+        </table>
+    </sec>
+</offers>

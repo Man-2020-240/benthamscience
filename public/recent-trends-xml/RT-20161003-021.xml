@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-021</article-id>
+            <title-group>
+                <article-title>Antibody drug conjugates have shown clinical efficacy with acceptable toxicity</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144559/article">Therapeutic Immunoconjugates. Which Cytotoxic Payload: Chemotherapeutic Drug (ADC) or Radionuclide (ARC) ?</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 11-NOV-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This research article by Dr. Jean-Fran&#x00E7;ois Chatal et al. has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-cancer-therapy-reviews/#top">Current Cancer Therapy Reviews</uri>Volume 15, Issue 1, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-3.jpg"/>
+        </p>
+        <p>Antibody Drug Conjugates (ADCs) have shown a clearly documented efficacy and acceptable toxicity and can be easily implemented in oncology departments where chemotherapy administration is a routine practice. A similar efficacy with acceptable toxicity has been documented with Antibody Radionuclide Conjugates (ARCs) which need to be injected with the help of a nuclear medicine department which can be a limitation for referral from an oncologist.</p>
+        <p>In a review collecting the clinical results of 11 studies including 598 patients treated with 6 ADCs and 9 studies (including 377 patients treated with 5 ARCs), toxicity was generally less frequent with ADCs than with ARCs but often led to more uncomfortable side effects. Both conjugates have shown some clinical efficacy in terms of survival (progression free survival or overall survival) depending on the tumor type, radiosensitive or not.</p>
+        <p>The good results of both conjugates could be significantly improved in the future.Targeting Cancer Stem Cells (CSC) using both cytotoxic payloads (drugs or radionuclides) could delay tumor relapse. Preclinical studies have shown a promising therapeutic index with long-term tumor regression warranting a clinical application.</p>
+        <p>Efficacy of ARCs could be improved with the use of alpha-emitting radionuclides which deliver a high fraction of their energy inside the targeted tumor cell leading to highly efficient killing especially for isolated tumor cells or clusters of malignant cells in the body.</p>
+        <p>The efficacy of both ADCs and ARCs could be enhanced by parallel treatment with immune checkpoint inhibitors thus providing synergistic immunogenic cell death.</p>
+        <p>In conclusion therapeutic immunoconjugates using chemotherapeutic drug or radionuclides as cytotoxic payloads have clearly shown clinical efficacy, which could be significantly improved in the near future.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-cancer-therapy-reviews/volume/12/issue/1/page/54/">http://benthamscience.com/journals/current-cancer-therapy-reviews/volume/12/issue/1/page/54/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chatal</surname>
+                            <given-names>J.-F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kraeber-Bodéré</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bodet-Milin</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rousseau</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Therapeutic immunoconjugates. Which cytotoxic payload: chemotherapeutic drug (ADC) or radionuclide (ARC)?</article-title>
+                    <source>Curr. Cancer Ther. Rev.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1573394712666160805121312</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">121</journal-id>
+            <journal-code>cmsb</journal-code>
+            <journal-eureka-code-one>CMSB</journal-eureka-code-one>
+            <journal-eureka-code-two>CMB</journal-eureka-code-two>
+            <nid nid-status="current">173868</nid>
+            <nid-one nid-status="old">105178</nid-one>
+            <journal-title>Current Metabolomics and Systems Biology</journal-title>
+            <full-journal-title>Current Metabolomics and Systems Biology</full-journal-title>
+            <journal-former-title>Current Metabolomics</journal-former-title>
+            <journal-seo-title>current-metabolomics-and-systems-biology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2666-3392</journal-issn>
+                <journal-issn issn-type="print">2666-3384</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>Current Metabolomics and Systems Biology publishes full-length/mini reviews, original research articles, thematic issues, and technical notes covering all aspects of the recent advancements and applications of Omics technology to systems biology, disease diagnosis, personalized medicine, drug discovery, toxicity, nutrition and food, environmental studies, and functional genomics. While the journal emphasis metabolomics, manuscripts describing the application of other Omics technology (e.g., genomics, proteomics, and transcriptomics), especially in combination with metabolomics, to systems biology are also welcome. This includes the application of Omics technology to clinical studies. Manuscripts appropriate for Current Metabolomics and Systems Biology should emphasize the application, development or enhancement of OMICS technology. Original research articles and reviews in the following areas of metabolomics and other Omics fields are of special interest to the readers of this journal:</p>
+                <p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>Application of Omics to any and all biological systems including, but not limited, to: humans, animals, plants, microbes, microbiome, cell cultures, tissues, organs, food and biofluids</p>
+                        </list-item>
+                        <list-item>
+                            <p>Automation and high-throughput technology</p>
+                        </list-item>
+                        <list-item>
+                            <p>Bioinformatics</p>
+                        </list-item>
+                        <list-item>
+                            <p>Characterization of new metabolites, proteins or genes identified as part of an Omics study</p>
+                        </list-item>
+                        <list-item>
+                            <p>Chemometrics, statistical analysis, and other approaches to data analysis</p>
+                        </list-item>
+                         <list-item>
+                            <p>Clinical applications</p>
+                        </list-item>
+                        <list-item>
+                            <p>Databases, including collections of reference spectra</p>
+                        </list-item>
+                        <list-item>
+                            <p>Disease biomarkers</p>
+                        </list-item>
+                        <list-item>
+                            <p>Drug discovery, efficacy, toxicity, and personalized medicine </p>
+                        </list-item>
+                        <list-item>
+                            <p>Integration of analytical techniques and/or various OMICS datasets </p>
+                        </list-item>
+                        <list-item>
+<p>Metanalysis of multiple Omics studies</p>
+</list-item>
+                        <list-item>
+                            <p>Metabolic, protein or gene profiling and/or directed metabolite, protein and/or gene analysis</p>
+                        </list-item>
+                        <list-item>
+                            <p>New analytical experiments and techniques (NMR, MS, FTIR, etc) </p>
+                        </list-item>
+                        <list-item>
+<p>New methods to detect or identify novel metabolites, proteins or genes</p>
+</list-item>
+                        <list-item>
+                            <p>Novel sensors and instrumentation for detecting metabolites </p>
+                        </list-item>
+                        <list-item>
+                            <p>Sample preparation, extraction techniques and chromatography </p>
+                        </list-item>
+                        <list-item>
+                            <p>Software</p>
+                        </list-item>
+                         <list-item>
+                            <p>Metabolism of drugs and xenobiotics and the development of quantitative methods for the targeted determination of specific metabolites</p>
+                        </list-item>
+                    </list>
+                </p>
+            </journal-aims-scope>
+            <journal-current-volume>7</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cmsb-journal-cover.gif</journal-cover-image>
+            <!-- <journal-insight>http://www.currentmetabolomics.com/</journal-insight> -->
+<!--<journal-history>Current Metabolomics Journal was launched in 2013. Dr. Robert Powers and Dr. David Watson are the Co- Editors  of the journal.</journal-history>-->
+<journal-history>Current Metabolomics, was launched in 2013 and later renamed in 2019 as Current Metabolomics and Systems Biology.</journal-history>
+            <journal-description>Original research articles and reviews in the following areas of metabolomics are of special interest to the readers of this journal:</journal-description>
+            <keyword-group>
+                <keyword>Current Metabolomics</keyword>
+                <keyword>Automation and high-throughput technology</keyword>
+                <keyword> Disease biomarkers</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <!-- <social-media-link social-media-link-type="facebook"> https://www.facebook.com/pages/Bentham-Science-Drug-Metabolism-Journals/229089253942539?ref=hl</social-media-link> -->
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers-drug-metabolism-journals?trk=biz-brand-tree-co-name%20</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cmsb-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmsb@benthamscience.net">cmsb@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMB">bsp-cms.eurekaselect.com/index.php/CMB</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+                <agency-logo>CAS.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

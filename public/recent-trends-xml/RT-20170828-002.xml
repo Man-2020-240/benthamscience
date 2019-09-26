@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170828-002</article-id>
+            <title-group>
+                <article-title>Nutlin-3, a p53-Mdm2 antagonist for nasopharyngeal carcinoma treatment</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/154246">Nutlin-3, A P53-Mdm2 Antagonist for Nasopharyngeal Carcinoma Treatment</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 23-AUG-2017</aff>
+            <abstract>
+                <p>This article by Dr. Voon Yee-Lin et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/mrmc/#top">Mini-Reviews in Medicinal Chemistry</uri>, Volume 17, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Nasopharyngeal carcinoma (NPC) is a common epithelial squamous cell head and neck cancer which is strongly associated with gamma herpes Epstein-Barr virus infection and the intake of salted fish. NPC incidence remain significantly high among men in the populations of Southern China, Hong Kong, Taiwan, Northern Africa and Southeast Asia. It has claimed many thousands of lives worldwide with approximately 80,000 new cases diagnosed annually and a mortality rate that exceeds 50,000. There are several approaches to fight NPC, which include surgery, radiation therapy and chemotherapy. NPC treatment remain one of the most intractable challenge for medicine. Radiation therapy alone has failed to provide a significant improvement in the overall survival rate of NPC, compared to chemotherapy. Radiocurable NPC is still dependent on concurrent treatment of megavoltage radiation with chemo drugs. Chemo-resistance persists as the major challenge in the management of patients diagnosed with metastatic NPC. In view of these challenges, it is understandable that scientists are trying to discover p53-based targeted therapy which could be applied as effective NPC therapies.</p>
+        <p>Recent discoveries have demonstrated that utilizing Nutlin-3 as a p53 activator is promising strategy for cancer management in the future. This review describes the potential use of newly discovered anticancer molecule Nutlin-3 and the future directions of its clinical research for NPC treatment. Nutlin-3 specifically targets p53-Mdm2 interaction and offers new therapeutic opportunities by enhancing cancer cell growth arrest and apoptosis through the restoration of the p53-mediated tumor suppression pathway while producing minimal cytotoxicity and side effects. In this regard, restoration of p53 tumor suppressor gene with Nutlin-3 could be explored for the discovery of alternative NPC therapies. However, further research is necessary before such new therapeutic strategies can be fully realized. New cancer therapeutic strategies, induce p53-dependent actions and currently ongoing clinical trials for drugs against human cancers have also been mentioned in the review. This study suggests that the development of effective cancer therapeutics is still in progress. Although Nutlin-3 is far from ready for its clinical use for NPC, it is still an attractive alternative drug that should be given attention and explored further, given the poor prognosis and limited treatment choices for NPC.</p>
+        <p>This article is open access and can be downloaded from: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/154246">http://www.eurekaselect.com/154246</ext-link></p>
+        <sec>
+            <title>Authors:</title>
+            <p>Voon Yee-Lin*<sup>1,2</sup>, Wong Pooi-Fong<sup>2</sup> and Alan Khoo Soo-Beng<sup>3</sup></p>
+            <p>
+                <sup>1</sup>Institute for Medical Research, National Institutes of Health, Ministry of Health Malaysia;</p>
+            <p>
+                <sup>2</sup>Department of Pharmacology, Faculty of Medicine, University of Malaya, 50603 Kuala Lumpur, Malaysia;</p>
+            <p>
+                <sup>3</sup>Molecular Pathology Unit, Cancer Research Centre, Institute for Medical Research, 50588 Kuala Lumpur, Malaysia</p>
+        </sec>
+    </body>
+</article>

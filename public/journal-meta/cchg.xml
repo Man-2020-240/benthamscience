@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">140</journal-id>
+            <journal-code>cchg</journal-code>
+            <journal-eureka-code-one>CCHG</journal-eureka-code-one>
+            <nid nid-status="current">111472</nid>
+            <journal-title>Current Chromatography</journal-title>
+            <full-journal-title>Current Chromatography</full-journal-title>
+            <journal-seo-title>current-chromatography</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-2414</journal-issn>
+                <journal-issn issn-type="print">2213-2406</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Chromatography</bold> is an international peer-reviewed scientific journal, which publishes full-length/mini reviews, original research articles and short communications in all core areas of fundamental and applied separation science. Current Chromatography encourages the publication of Thematic issues devoted to the development of new advanced separation methods and technologies as well as to the current progress in application of separation sciences for solution of general and more specific needs.</p>
+                    <p>The scope of the journal includes various modes of chromatography, electrophoresis, and other related methods, hyphenated and other multi-dimensional techniques, sample preparation, and detection options such as mass spectrometry, infra-red spectroscopy and others.</p>
+                    <p>The journal aims to cover major advances in both basic and applied separation science of relevance to chemical and biomedical disciplines.</p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cchg-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentchromatography.com/index.php/</journal-insight>
+<journal-history>Current Chromatography was introduced in 2014 with the assistance of Dr. Pavel N. Nesterenko, who is the current Editor-in-Chief serving since 2014.</journal-history>
+            <journal-description>Current Chromatography aims to cover major advances in both basic and applied separation science of relevance to chemical and biomedical disciplines.</journal-description>
+            <keyword-group>
+                <keyword>Chromatography</keyword>
+                <keyword>electrophoresis</keyword>
+                <keyword>biomedical disciplines</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cchg-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cchg@benthamscience.net">cchg@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CCHG">bsp-cms.eurekaselect.com/index.php/CCHG</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>nemj</journal-code>
+            <journal-eureka-code-one>NEMJ</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>New Emirates Medical Journal</journal-title>
+            <full-journal-title>New Emirates Medical Journal</full-journal-title>
+            <journal-seo-title>new-emirates-medical-journal</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">0250-6882</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><italic><bold>New Emirates Medical Journal (NEMJ)</bold></italic> formally known as Emirates Medical Journal (EMJ) is an official
+journal of the Emirates Medical Association (EMA), UAE, is an Open Access online journal. The NEMJ
+publishes original research, clinical reports, case studies, short research communications, reviews, book
+reviews, correspondence, and editorials. An exclusive platform “Student Forum” for aspiring medical
+students and post-graduate students is provided to encourage student submissions in all the medical
+specialties including pre-clinical, para-clinical, and clinical subjects, medical education, clinical
+management and various aspects of medicine and public health.</p>
+                <p>Each peer-reviewed article that is published in the New Emirates Medical Journal is universally and freely
+accessible via the Internet in an easily readable and printable PDF format.</p>
+            </journal-aims-scope>
+               <!-- <scimago sjr-status="no">
+                    <scimago-jr-id>4700152434</scimago-jr-id>
+                </scimago>-->
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>nemj-journal-cover.gif</journal-cover-image>
+                <!--  <journal-insight>http://www.currentpsychiatryreviews.com/</journal-insight>
+<journal-history>Current Psychiatry Reviews was launched in 2005 and later renamed in 2019 as Current Psychiatry Research and Reviews.</journal-history>
+            <journal-description>Current Psychiatry Reviews is an essential reading for all clinicians, psychiatrists and researchers in psychiatry.</journal-description>
+            <keyword-group>
+                <keyword>Psychiatry</keyword>
+                <keyword>psychiatrists</keyword>
+                <keyword>pharmacology</keyword>
+            </keyword-group>-->
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+              <journal-flyer>nemj-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nemj@benthamscience.net">nemj@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/NEMJ">bsp-cms.eurekaselect.com/index.php/NEMJ</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

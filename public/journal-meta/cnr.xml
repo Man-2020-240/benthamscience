@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">31</journal-id>
+            <journal-code>cnr</journal-code>
+            <journal-eureka-code-one>CNR</journal-eureka-code-one>
+            <nid nid-status="current">608</nid>
+            <journal-title>Current Neurovascular Research</journal-title>
+            <full-journal-title>Current Neurovascular Research</full-journal-title>
+            <journal-seo-title>current-neurovascular-research</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-5739</journal-issn>
+                <journal-issn issn-type="print">1567-2026</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Neurovascular Research</italic>
+                    </bold> provides a cross platform for the publication of scientifically rigorous research that addresses disease mechanisms of both neuronal and vascular origins in neuroscience. The journal serves as an international forum publishing novel and original work as well as timely neuroscience research articles, full-length/mini reviews in the disciplines of cell developmental disorders, plasticity, and degeneration that bridges the gap between basic science research and clinical discovery. Current Neurovascular Research emphasizes the elucidation of disease mechanisms, both cellular and molecular, which can impact the development of unique therapeutic strategies for neuronal and vascular disorders.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>130017</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608054671</ebook-id>
+                        <ebook-title>Neurobiology of Mood Disorders</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608054671/index.htm</ebook-link>
+                        <ebook-cover>9781608054671.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608054671</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119874</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>16</journal-current-volume>
+            <journal-current-issues>5</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cnr-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.current-neurovascular-research.com/</journal-insight>
+<journal-history>Current Neurovascular Research Journal was launched in 2004. Dr. Kenneth Maiese serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Neurovascular Research emphasizes the elucidation of disease mechanisms, both cellular and molecular, which can impact the development of unique therapeutic strategies for neuronal and vascular disorders.</journal-description>
+            <keyword-group>
+                <keyword>Neurovascular Research</keyword>
+                <keyword>neuroscience research</keyword>
+                <keyword>neuronal and vascular disorders</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <impact-factor>1.811</impact-factor>
+            <five-year-impact-factor>2.239</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Clinical Neurology</category-name>
+                    <rank>148</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>199</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Neurosciences</category-name>
+                    <rank>220</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>267</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>cnr-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cnr@benthamscience.net">cnr@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CNR">bsp-cms.eurekaselect.com/index.php/CNR</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Neuroscience Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Current Contents&#x00AE; - Clinical Medicine</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>ISI Alerting Services</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Biological Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

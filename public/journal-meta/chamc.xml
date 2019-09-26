@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">20</journal-id>
+            <journal-code>chamc</journal-code>
+            <journal-eureka-code-one>CHAMC</journal-eureka-code-one>
+            <journal-eureka-code-two>CMCCHA</journal-eureka-code-two>
+            <nid nid-status="current">597</nid>
+            <nid-one nid-status="old">670</nid-one>
+            <journal-title>Cardiovascular &#x0026; Hematological Agents in Medicinal Chemistry</journal-title>
+            <journal-former-title>Current Medicinal Chemistry - Cardiovascular &#x0026; Hematological Agents</journal-former-title>
+            <full-journal-title>Cardiovascular and Hematological Agents in Medicinal Chemistry</full-journal-title>
+            <journal-seo-title>cardiovascular-and-hematological-agents-in-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6182</journal-issn>
+                <journal-issn issn-type="print">1871-5257</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Cardiovascular &#x0026; Hematological Agents in Medicinal Chemistry</italic>
+                    </bold> aims to cover all the latest and outstanding developments in medicinal chemistry and rational drug design for the discovery of new Cardiovascular &#x0026;  Hematological Agents. Each issue contains a series of timely in-depth/mini reviews, original research articles and drug clinical trial studies written by leaders in the field covering a range of current topics in Cardiovascular &#x0026; Hematological medicinal chemistry.</p>
+                <p>
+                    <bold>
+                        <italic>Cardiovascular &#x0026; Hematological Agents in Medicinal Chemistry</italic>
+                    </bold> is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in cardiovascular &#x0026;  hematological drug discovery.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4400151415</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608058587</ebook-id>
+                        <ebook-title>"Frontiers in Clinical Drug Research: Hematology"</ebook-title>
+                        <ebook-link>http://www.benthamscience.com/ebooks/9781608058587/index.htm</ebook-link>
+                        <ebook-cover>9781608058587.gif</ebook-cover>
+                        <ebook-content-link>http://ebooks.benthamscience.com/book/9781608058587/</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/122851</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>17</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>chamc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.cardiovascularhematologicalagentsinmedicinalchemistry.com/</journal-insight>
+<journal-history>Current Medicinal Chemistry - Cardiovascular &#x0026; Hematological Agents was launched in 2003 and later renamed in 2006 as  Cardiovascular &#x0026; Hematological Agents in Medicinal Chemistry.</journal-history>
+            <journal-description>Cardiovascular &#x0026; Hematological Agents in Medicinal Chemistry aims to cover all the latest and outstanding developments in medicinal chemistry and rational drug design for the discovery of new Cardiovascular &#x0026;  Hematological Agents. Each issue contains a series of timely in-depth reviews, original research articles and drug clinical trial studies written by leaders in the field covering a range of current topics in Cardiovascular &#x0026;  Hematological medicinal chemistry.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Cardiology-Journals/347226935416914?ref=hl</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/cardiology-and-cardiovascular-science?trk=biz-brand-tree-co-name</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>chamc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="chamc@benthamscience.net">chamc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMCCHA">bsp-cms.eurekaselect.com/index.php/CMCCHA</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

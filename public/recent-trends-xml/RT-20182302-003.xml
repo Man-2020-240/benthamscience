@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20182302-003</article-id>
+            <title-group>
+                <article-title>New and highly sensitive ELISA technique for bioanalysis of bevacizumab</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/159273">Development of New ELISA with High Sensitivity and Selectivity for Bioanalysis of Bevacizumab: A Monoclonal Antibody Used for Cancer Immunotherapy</uri>
+            </aff>
+            <aff>
+                <bold>PUBLIC RELEASE:</bold> 31-JAN-2018</aff>
+            <abstract>
+                <p>This article by Dr. Manal A. El-Gendy et al. will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cac/">Current Analytical Chemistry</uri>, Volume 14, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>This article explores the development and validation of a new enzyme-linked immunosorbent assay (ELISA) with high sensitivity and selectivity for bioanalysis of bevacizumab (BEV), a monoclonal antibody used for immunotherapy of different types of cancer. BEV was captured by specific specific antigen human vascular endothelial growth factor protein; (VEGF) immobilized onto a 96-well assay plate. The BEV-VEGF complex formed onto the plate wells were quantified using horseradish peroxidase labeled anti-human IgG (HRP-IgG) and 3,3`,5,5`-tetramethylbenzidine (TMB) as a chromogenic substrate for peroxidase enzyme. The optimum conditions for conducting the proposed ELISA were established and its analytical performance was evaluated as per the guidelines for the validation of immunoassays for bioanalysis of therapeutic monoclonal antibody. The assay limit of detection was 1.01 ng /mL and the effective working dynamic range was 3.07-100 ng/mL. The accuracy and precision of the assay were proved. The present assay with high throughput analysis very easy to perform in a 96-well plate and permits an operator to analyze a batch of ~ 200 samples, in triplicate. This facilitates the processing of a large number of samples in a clinical setting. ELISA eliminated the need for pretreatment of plasma samples by affinity chromatography or other sophisticated equipment. The proposed ELISA is a useful and powerful method in estimating the nano - gram level of BEV. It has been widely used in the life science researches application The basic principle of an ELISA is to use an enzyme to detect the binding of antigen (Ag) antibody (Ab) complex. The enzyme converts a colorless substrate (chromogen) to a colored product, indicating the presence of Ag: Ab complex binding formation avoiding hazard of radiation which comes from the use of radioactive isotopes. The proposed ELISA for BEV is expected to contribute in studying its PK, PD, TDM, and assessing the expected bioavalilability of biosimillars or biobetters.</p>
+        <p>For more information, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/159273">http://www.eurekaselect.com/159273</ext-link></p>
+        <p>Ibrahim A. Darwish, Mona M. Al-Shehri and Manal A. El-Gendy*</p>
+        <p>Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, P.O. Box 2457, Riyadh 11451, Saudi Arabia.</p>
+    </body>
+</article>

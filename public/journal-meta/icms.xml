@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">113</journal-id>
+            <journal-code>icms</journal-code>
+            <journal-eureka-code-one>ICMS</journal-eureka-code-one>
+            <journal-eureka-code-two>RPTCS</journal-eureka-code-two>
+            <nid nid-status="current">122661</nid>
+            <nid-one nid-status="old">690</nid-one>
+            <journal-title>Innovations in Corrosion and Materials Science</journal-title>
+            <journal-former-title>Recent Patents on Corrosion Science</journal-former-title>
+            <full-journal-title>Innovations in Corrosion and Materials Science</full-journal-title>
+            <journal-seo-title>innovations-in-corrosion-and-materials-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2352-0957</journal-issn>
+                <journal-issn issn-type="print">2352-0949</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Innovations in Corrosion and Materials Science</italic>
+                    </bold> publishes full-length/ mini reviews and research articles, guest edited thematic issues and reviews on patents in corrosion and materials science. The journal aims to provide the most complete and reliable source of information on current developments in the field. The journal is essential reading for all researchers involved in corrosion and materials science.</p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>icms-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.innovationsincorrosionandmaterialsscience.com/</journal-insight>
+<journal-history>Innovations in Corrosion and Materials Science, was launched in 2011 and later renamed in 2014 as Recent Patents on Corrosion Science.</journal-history>
+            <journal-description>Innovations in Corrosion and Materials Science publishes review and research articles, guest edited thematic issues ,and reviews on patents  in corrosion and materials science. The journal aims to provide the most complete and reliable source of information on current developments in the field. The journal is essential reading for all researchers involved in corrosion and materials science.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>icms-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="icms@benthamscience.net">icms@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTCS">bsp-cms.eurekaselect.com/index.php/RPTCS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency  order='first'>
+                <agency-id>IDX2</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

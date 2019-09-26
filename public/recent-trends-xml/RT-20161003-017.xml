@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-017</article-id>
+            <title-group>
+                <article-title>The Role of Natural Killer T Cells in Acute Kidney Injury: Angel or Evil?</article-title>
+            </title-group>
+            <aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-protein-and-peptide-science/article/145510/">The Role of Natural Killer T Cells in Acute Kidney Injury: Angel or Evil?</uri></aff>
+            <aff><bold>Public Release:</bold> 30-SEP-2016</aff>
+            
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>30</day>
+                    <month>09</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+            <p>This research article by Dr. Chao Hu et al is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-protein-and-peptide-science/#top">Current Protein &amp; Peptide Science</uri>, Volume 17, Issue 8, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>The mechanism of natural killer T (NKT) cells in acute kidney injury (AKI) has been reported frequently in recent studies. This review highlights the recent insight gained into the role and mechanisms of NKT cells in AKI in light of new researches on NKT cells subsets, membrane receptors, and clinical immunosuppressive agents.</p>
+        <p>Acute kidney injury (AKI) is a clinically severe disease. Natural killer T (NKT) cells, which bridge the innate and adaptive immune system, are thought to play a critical role in the pathogenesis of AKI. Meanwhile, ischemia-reperfusion (IR) injury, which induces endothelial cell dysfunction along with tubular endothelium and casts injury, is also believed to be a risk factor of AKI.</p>
+        <p>Research on the V&#x03B1;14-J&#x03B1;18 TCR&#x03B1; chain and T cell receptors (TCRs) shows that CD1d-restricted NKT cells can be categorized into type I and type II subtypes. Functionally, type I NKT cells may be involved in inflammation by generating various cytokines, whereas activation of type II NKT cells could regulate the inflammatory response by inducing anergy in type I NKT cells. Thus, the subtle balance between type I and II NKT cells sustain the physiological inflammatory response instead of inflammatory cascade.</p>
+        <p>Several membrane receptors, such as adenosine receptor and purinergic receptors, found on the surfaces of NKT cells may regulate the immune response through activating endogenous immunosuppressive pathways. Plenty of reports have shown that A<sub>2A</sub>Rs agonists may partially abrogate the tissue injury associated with IR injury in the kidney. For instance, ATL146e, a kind of selective agonist of A<sub>2A</sub>Rs, could reduce approximately 70%-80% renal IR injury in mice and rat models.</p>
+        <p>Additionally, some kinds of drugs, which have been applied to clinical settings, also take effect by regulating the activity of NKT cells to alleviate both cellular and humoral inflammation. As an example, rapamycin, a kind of mTOR inhibitor, has been identified to alleviate IR injury by recruiting NKT cells from spleen to the IR-induced kidney. These renoprotective NKT cells improved renal function depending on rapamycin&#x2019;s immunosuppressive regimen selection.</p>
+        <p>In conclusion, the distinct cell subtypes, give NKT cells an opportunity to play a significant role in developing and relieving AKI, especially in IR injury. It is promising that regulation of NKT cells to be a potential mechanism in developing current clinical agents for the treatment of AKI. In conclusion, further research is needed to elucidate the specific and comprehensive role of NKT cells in AKI.</p>
+    </body>
+</article>

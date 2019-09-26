@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">
+            </journal-id>
+            <journal-code>tte</journal-code>
+            <journal-eureka-code-one>TTE</journal-eureka-code-one>
+            <nid nid-status="current">115997</nid>
+            <journal-title>Technology Transfer and Entrepreneurship</journal-title>
+            <full-journal-title>Technology Transfer and Entrepreneurship</full-journal-title>
+            <journal-seo-title>technology-transfer-and-entrepreneurship</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-8102</journal-issn>
+                <journal-issn issn-type="print">2213-8099</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>"Technology Transfer and Entrepreneurship"</italic>
+                    </bold> (TTE) publishes definitive reviews/mini-reviews articles including case histories covering a broad range of topics that underlie the business of biomedical research, specifically translating basic scientific discoveries into commercial opportunities. This includes understanding of the technology transfer process and entrepreneurship in academia, the biotechnology and pharmaceutical industries; directed towards economic development, better healthcare, and long-term job creation.</p>
+                <p>The journal scope includes economic insights on how technology is transferred within the bioscience and healthcare industries, and the underlying entrepreneurship that embodies scientific and biomedical research.</p>
+                <p>Interested authors should send a 1-page proposal and outline for their proposed review/original research article to either of the journal Editors at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="“cbeyer@promentispharma.com">cbeyer@promentispharma.com</email> or <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dgross@padrugdiscovery.org">dgross@padrugdiscovery.org</email>.</p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>tte-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.technologytransferandentrepreneurship.com/index.php</journal-insight>
+<journal-history>Technology Transfer and Entrepreneurship Journal was launched in 2014. Dr. Dennis M. Gross and Dr. Chad E. Beyer  are the Co- Editors  of the journal.</journal-history>
+            <journal-society-accreditation>
+                <society-entry>
+                    <society-name>SPECIAL OFFER FOR SOCIETY OF PHYSICIAN ENTREPRENEURS (SOPE) MEMBERS:</society-name>
+                    <society-logo>sope-full-color-print.gif</society-logo>
+                    <society-link>
+                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sopenet.org/">http://www.sopenet.org/</uri>
+                    </society-link>
+                </society-entry>
+            </journal-society-accreditation>
+            <journal-description>Technology Transfer and Entrepreneurship includes economic insights on how technology is transferred within the bioscience and healthcare industries, and the underlying entrepreneurship that embodies scientific and biomedical research.</journal-description>
+            <keyword-group>
+                <keyword>Transfer and Entrepreneurship</keyword>
+                <keyword>Technology</keyword>
+                <keyword>biotechnology</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Business-Journals/1426721210915746?ref=br_tf</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>tte-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tte@benthamscience.net">tte@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/TTE">bsp-cms.eurekaselect.com/index.php/TTE</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>RePEc/LogEc</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

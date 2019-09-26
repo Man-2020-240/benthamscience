@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">34</journal-id>
+            <journal-code>cos</journal-code>
+            <journal-eureka-code-one>COS</journal-eureka-code-one>
+            <nid nid-status="current">611</nid>
+            <journal-title>Current Organic Synthesis</journal-title>
+            <full-journal-title>Current Organic Synthesis</full-journal-title>
+            <journal-seo-title>current-organic-synthesis</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6271</journal-issn>
+                <journal-issn issn-type="print">1570-1794</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Organic Synthesis</italic>
+                    </bold> publishes  in-depth/mini reviews, original research articles and letter/short communications on all areas of synthetic organic chemistry i.e. asymmetric synthesis, organometallic chemistry, novel synthetic approaches to complex organic molecules, carbohydrates, polymers, protein chemistry, DNA chemistry, supramolecular chemistry, molecular recognition and new synthetic methods in organic chemistry. The frontier reviews provide the current state of knowledge in these fields and are written by experts who are internationally known for their eminent research contributions. The journal is essential reading to all synthetic organic chemists. Current Organic Synthesis should prove to be of great interest to synthetic chemists in academia and industry who wish to keep abreast with recent developments in key fields of organic synthesis.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4700152613</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>16</journal-current-volume>
+            <journal-current-issues>8</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cos-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentorganicsynthesis.com/</journal-insight>
+<journal-history>Current Organic Synthesis Journal was launched in 2004. Dr. Liangnian He  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The frontier reviews provide the current state of knowledge in these fields and are written by experts who are internationally known for their eminent research contributions. The journal is essential reading to all synthetic organic chemists. Current Organic Synthesis should prove to be of great interest to synthetic chemists in academia and industry who wish to keep abreast with recent developments in key fields of organic synthesis.</journal-description>
+            <keyword-group>
+                <keyword>Current Organic Synthesis</keyword>
+                <keyword>supramolecular chemistry</keyword>
+                <keyword>carbohydrates</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <impact-factor>1.841</impact-factor>
+            <five-year-impact-factor>1.757</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Chemistry, Organic</category-name>
+                    <rank>34</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>57</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <journal-flyer>cos-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cos@benthamscience.net">cos@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/COS">bsp-cms.eurekaselect.com/index.php/COS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded (SciSearch®)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemistry Citation Index®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>ISI Alerting Services</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Current Contents® / Physical</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Chemical and Earth Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>BIOSIS Review Report and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

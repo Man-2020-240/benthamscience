@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">118</journal-id>
+            <journal-code>npj</journal-code>
+            <journal-eureka-code-one>NPJ</journal-eureka-code-one>
+            <nid nid-status="current">695</nid>
+            <journal-title>The Natural Products Journal</journal-title>
+            <full-journal-title>The Natural Products Journal</full-journal-title>
+            <journal-seo-title>the-natural-products-journal</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-3163</journal-issn>
+                <journal-issn issn-type="print">2210-3155</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>The Natural Products Journal</italic>
+                    </bold>   a peer reviewed journal, aims to publish all the latest and outstanding developments in natural products.</p>
+                <p>
+                    <bold>
+                        <italic>The Natural Products Journal</italic>
+                    </bold> publishes original research articles, full-length/mini reviews, letters and guest edited issues on all aspects of research and development in the field including: isolation, purification, structure elucidation, synthesis and bioactivity of chemical compounds found in nature.</p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>npj-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.thenaturalproductsjournal.com/</journal-insight>
+<journal-history>The Natural Products Journal was launched in 2011. Dr. Bin Wu  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The Natural Products Journal publishes original research articles, reviews, letters and guest edited issues on all aspects of research and development in the field including: isolation, purification, structure elucidation, synthesis and bioactivity of chemical compounds found in nature.</journal-description>
+            <keyword-group>
+                <keyword>The Natural Products Journal   </keyword>
+                <keyword>chemical compounds found in nature</keyword>
+                <keyword>isolation, purification, structure </keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Engineering-Journals/188450778011259</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>npj-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="npj@benthamscience.net">npj@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/NPJ">bsp-cms.eurekaselect.com/index.php/NPJ</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

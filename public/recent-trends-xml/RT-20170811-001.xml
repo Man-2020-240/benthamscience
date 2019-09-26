@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170811-001</article-id>
+            <title-group>
+                <article-title>Inhibition of tau protein aggregation by rhodanine-based compounds</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/149699/article">Inhibition of Tau Protein Aggregation by Rhodanine-based Compounds Solubilized Via Specific Formulation Additives to Improve Bioavailability and Cell Viability</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 4-JUL-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Eckhard Mandelkow et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-alzheimer-research/#top">Current Alzheimer Research</uri>, Volume 14, Issue 7, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>The design of tailored peptide-polymer conjugates as drug-specific formulation additives offers access to next generation precision additives that can render problematic small organic drugs water-soluble and improve bioavailability. The method can be applied to a large spectrum of entities of fluorescent or non-fluorescent drugs. Herein we report the solubilization of two poorly water-soluble, potential anti-Alzheimer disease (AD) drugs based on the rhodanine core. The compounds showed inhibitory activity to prevent the aggregation of Tau proteins into paired helical filaments (PHFs) and neurofibrillary tangles (NFTs), both of which are associated with AD pathogenesis.</p>
+        <p>Using a fluorescence microscopy-based screening procedure, peptide sequences with high drug binding capacity are identified from large peptide libraries. The synthesis of corresponding peptide-poly(ethylene glycol) (peptide-PEG) conjugates leads to precision formulation additives for the potential anti-AD drugs. Whereas the PEG-blocks of the conjugates provide water solubility and drug shielding, the drug specific hosting is dominated by the peptide-segments, binding the drug in a non-covalent manner and thus bypassing the requirements of additional drug approval procedures.</p>
+        <p>Application in several bioassays of inhibition of Tau protein aggregation indicated that the formulation additives do not reduce drug efficacy and activity. The drug formulations showed a reduction of the fibril formation of the tested Tau construct comparable to the drug alone dissolved in DMSO. Thus, drug release from the conjugates is feasible. The activities of the compound-complexes in in vitro experiments on Tau4RD&#x0394;K280-expressing N2a cells were significantly enhanced, resulting in improved cell viability and reduced apoptosis, which correlates with a lower ratio of insoluble to soluble Tau aggregates.</p>
+        <p>The precision formulation additives offer opportunities for early stage drug structure or lead compound testing in DMSO free systems. This is important as DMSO is currently believed to affect relevant protein functions and might influence cell studies.</p>
+        <p>For more information, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/149699/article">http://www.eurekaselect.com/149699/article</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mandelkow</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Inhibition of Tau Protein Aggregation by Rhodanine-based Compounds Solubilized Via Specific Formulation Additives to Improve Bioavailability and Cell Viability.</article-title>
+                    <source>Curr. Alzheimer Res.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1567205014666170202103136</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

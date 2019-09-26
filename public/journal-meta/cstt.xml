@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">43</journal-id>
+            <journal-code>cstt</journal-code>
+            <journal-eureka-code-one>CST</journal-eureka-code-one>
+            <nid nid-status="current">620</nid>
+            <journal-title>Current Signal Transduction Therapy</journal-title>
+            <full-journal-title>Current Signal Transduction Therapy</full-journal-title>
+            <journal-seo-title>current-signal-transduction-therapy</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-389X</journal-issn>
+                <journal-issn issn-type="print">1574-3624</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    In recent years a breakthrough has occurred in our understanding of the molecular pathomechanisms of human diseases whereby most of our diseases are related to intra and intercellular communication disorders. The concept of signal transduction therapy has got into the front line of modern drug research, and a multidisciplinary approach is being used to identify and treat signaling disorders.</p>
+                <p>The journal publishes timely in-depth/mini reviews, research article and drug clinical trial studies in the field of signal transduction therapy. Thematic issues are also published to cover selected areas of signal transduction therapy. Coverage of the field includes genomics, proteomics, medicinal chemistry and the relevant diseases involved in signaling e.g. cancer, neurodegenerative and inflammatory diseases. <bold><italic>Current Signal Transduction Therapy</italic></bold> is an essential journal for all involved in drug design and discovery.
+</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>5800173390</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>14</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cstt-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentsignaltransductiontherapy.com/</journal-insight>
+<journal-history>Current Signal Transduction Therapy was launched in 2006. Dr. Jingxuan Yang serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The journal publishes timely in-depth reviews, research article and drug clinical trial studies in the field of signal transduction therapy. Thematic issues are also published to cover selected areas of signal transduction therapy. Coverage of the field includes genomics, proteomics, medicinal chemistry and the relevant diseases involved in signaling e.g. cancer, neurodegenerative and inflammatory diseases. Current Signal Transduction Therapy is an essential journal for all involved in drug design and discovery.</journal-description>
+            <keyword-group>
+                <keyword>Current Signal Transduction Therapy </keyword>
+                <keyword>medicinal chemistry</keyword>
+                <keyword>neurodegenerative and inflammatory diseases</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <!--    <impact-factor>0.452</impact-factor>
+            <five-year-impact-factor>0.496</five-year-impact-factor> !-->
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>cstt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cstt@benthamscience.net">cstt@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CSTT">bsp-cms.eurekaselect.com/index.php/CSTT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>PubsHub</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

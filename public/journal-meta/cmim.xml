@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">33</journal-id>
+            <journal-code>cmim</journal-code>
+            <journal-eureka-code-one>CMIM</journal-eureka-code-one>
+            <journal-eureka-code-two>CMIR</journal-eureka-code-two>
+            <nid nid-status="current">610</nid>
+            <journal-title>Current Medical Imaging</journal-title>
+            <journal-former-title>Current Medical Imaging Reviews</journal-former-title>
+            <full-journal-title>Current Medical Imaging</full-journal-title>
+            <journal-seo-title>current-medical-imaging</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6603</journal-issn>
+                <journal-issn issn-type="print">1573-4056</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Medical Imaging</bold> publishes full-length/mini review articles, original research articles, case reports, drug clinical trial studies and guest edited thematic issues on all the latest advances on medical imaging dedicated to clinical research. All relevant areas are covered by the journal, including advances in the diagnosis, instrumentation and therapeutic applications related to all modern medical imaging techniques.</p>
+                <p>The journal is essential reading for all clinicians and researchers involved in medical imaging and diagnosis.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4700152432</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>15</journal-current-volume>
+            <journal-current-issues>10</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cmim-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentmedicalimagingreviews.com/</journal-insight>
+<journal-history>Current Medical Imaging Reviews, was launched in 2005 and later renamed in 2019 as Current Medical Imaging.</journal-history>
+            <journal-description>Current Medical Imaging includes advances in the diagnosis, instrumentation and therapeutic applications.</journal-description>
+            <keyword-group>
+                <keyword>imaging techniques</keyword>
+                <keyword>medical imaging</keyword>
+                <keyword>therapeutic applications</keyword>
+            </keyword-group>
+            <impact-factor>0.533</impact-factor>
+            <five-year-impact-factor>0.647</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Radiology, Nuclear Medicine &#x0026; Medical Imaging</category-name>
+                    <rank>123</rank>
+                    <rank-suffix>rd</rank-suffix>
+                    <total-journals>129</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cmim-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmim@benthamscience.net">cmim@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMIM">bsp-cms.eurekaselect.com/index.php/CMIM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>JCR/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Current Contents® - Clinical Medicine</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Index to Scientific Reviews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>EMNursing</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

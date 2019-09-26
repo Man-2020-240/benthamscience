@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170110-004</article-id>
+            <title-group>
+                <article-title>Insulin resistance and polycystic ovary syndrome</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/article/144110/">Insulin Resistance and Polycystic Ovary Syndrome</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 13-DEC-2016</aff>
+            <abstract>
+                <p>This research article by Dr. Paolo Moghetti has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/#top">Current Pharmaceutical Design</uri>, Volume 22, Issue 36, 2016</p>
+            </abstract>           
+        </article-meta>
+    </front>
+    <body>
+        <p>Insulin resistance represents a major issue for people with polycystic ovary syndrome (PCOS), an endocrine disorder which is very common in young women, according to a new analysis of available data carried out by Dr. Paolo Moghetti, Associate Professor of Endocrinology at the University of Verona, Italy. His study reviewed information on epidemiology, pathogenesis, pathophysiology and treatment of the impaired insulin action frequently found in women with the condition. According to this analysis, insulin resistance appears to be a key mechanism in the pathogenesis of PCOS itself, primarily because hyperinsulinemia has a strict, probably bidirectional, interaction with androgen excess. Moreover, the impairment in insulin action is a central mechanism in the origin of metabolic abnormalities, which are also frequently found in these women and represent a major aspect underlying the medical burden attributed to PCOS. However, it is important to note that the risk of insulin resistance differs between clinical phenotypes of PCOS. Therefore, phenotyping of these women is helpful in defining their individual metabolic risk.</p>
+        <p>A fundamental question, which still remains unsolved, is why a large percentage of people with PCOS are insulin resistant. Most available data suggest that these women may have alterations in insulin action of heterogeneous origins, which induce specific abnormalities in these subjects due to the presence of intrinsic defects. Both genetic and acquired factors seem to be involved in this process. Body fat excess, which is another common feature of these women, may contribute to this phenomenon, combining with the effect of PCOS per se and worsening many clinical abnormalities typical of these subjects. In terms of treatment, insulin sensitization, by lifestyle changes and/or specific medications, is a strategy that shows several potential beneficial effects in this condition. However, treatment of these women must be personalized.</p>
+        <p>For more information about the article, please link to <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/article/144110/">http://benthamscience.com/journals/current-pharmaceutical-design/article/144110/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Moghetti</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Insulin Resistance and Polycystic Ovary Syndrome.</article-title>
+                    <source>Curr. Pharm. Des.</source>
+                    <year>2016</year>
+                    <volume>22</volume>
+                    <issue>36</issue>
+                    <fpage>5526</fpage>
+                    <lpage>5534</lpage>
+                    <pub-id pub-id-type="doi">10.2174/1381612822666160720155855</pub-id>
+                    <pub-id pub-id-type="pmid">27510482</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

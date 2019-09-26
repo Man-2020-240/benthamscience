@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-027</article-id>
+            <title-group>
+                <article-title>Zebrafish as an animal model to study the effects of endocrine disruptors</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/142133/article">Toxicogenomics to Evaluate Endocrine Disrupting Effects of Environmental Chemicals Using the Zebrafish Model</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 18-NOV-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This research article by Dr. Karina Caballero-Gallardo et al. has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-genomics/#top">Current Genomics</uri> Volume 17, Issue 6, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-6.jpg"/>
+        </p>
+        <p>Water is vital for our survival. However, water quality is always a concern for public health authorities as it may contain diverse environmental pollutants, including endocrine disrupting chemicals (EDCs). Endocrine disrupting chemicals are one group of potentially hazardous substances that comprise natural and synthetic chemicals, with the ability to mimic endogenous hormones or interfere with their biosynthesis, metabolism, and normal functions. Common examples are bisphenol A, triclosan, phthalates, lead, mercury, nickel and polychlorinated biphenyls, among others.</p>
+        <p>Fish are known to be quite sensitive to the effects of EDCs and therefore, are employed as research models to study the possible impacts of these chemicals in humans. In a review led by Purdue University (USA) and the University of Cartagena (Colombia), a team of researchers has proposed the zebrafish as a model to predict the effects of EDCs on humans using toxicogenomic tools, such as microarrays or whole-genome sequencing. This is possible due to the fact that zebrafish genes that have significantly altered expression after exposure to EDCs are very similar to those found in humans. In addition, many of the glandular system found in zebrafish have similarities with those in humans, making this fish model suitable to study alterations on the endocrine system.</p>
+        <p>According to the authors, vitellogenin and aromatase cytochrome P450 are key genes that can be monitored in zebrafish to detect the presence of EDCs in water samples, especially at environmentally relevant concentrations.</p>
+        <p>Toxicogenomic tools also offer the possibility to find new mechanisms by which EDCs alter the reproductive status of zebrafish, allowing its use to test the safety of new products entering the market. The possibilities are immense and the goal is to continue finding new markers of toxicity, and therefore alternative bridges to link EDC exposure to common diseases in humans.</p>
+        <p>Co-authors of the paper include Karina Caballero-Gallardo, Jesus Olivero-Verbel (University of Cartagena, Cartagena, Colombia) and Jennifer L. Freeman (Purdue University, USA).</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-genomics/volume/17/issue/6/page/515/">http://benthamscience.com/journals/current-genomics/volume/17/issue/6/page/515/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Caballero-Gallardo</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Olivero-Verbel</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Freeman</surname>
+                            <given-names>J.L.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Toxicogenomics to Evaluate Endocrine Disrupting Effects of Environmental Chemicals Using the Zebrafish Model.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1389202917666160513105959</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

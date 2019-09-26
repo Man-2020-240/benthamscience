@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">112</journal-id>
+            <journal-code>rpsp</journal-code>
+            <journal-eureka-code-one>RPTSP</journal-eureka-code-one>
+            <nid nid-status="current">689</nid>
+            <journal-title>Recent Patents on Signal Processing (Discontinued)</journal-title>
+            <full-journal-title>Recent Patents on Signal Processing(Discontinued)</full-journal-title>
+            <journal-seo-title>recent-patents-on-signal-processing</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-6124</journal-issn>
+                <journal-issn issn-type="print">2210-6863</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Signal Processing</italic>
+                    </bold> publishes review and research articles, and guest edited thematic issues on recent patents in the field of Signal Processing. The journal is an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in Signal Processing.</p>
+            </journal-aims-scope>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpsp-journal-cover.gif</journal-cover-image>
+            <journal-description>The journal is an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in Signal Processing.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Signal Processing</keyword>
+                <keyword>Space exploration</keyword>
+                <keyword>space colonization</keyword>
+                <keyword>Signal</keyword>
+                <keyword>Signaling</keyword>
+                <keyword>Signal compression</keyword>
+                <keyword>audio compression</keyword>
+                <keyword>image compression</keyword>
+                <keyword>video compression</keyword>
+                <keyword>Image processing</keyword>
+                <keyword>Video processing</keyword>
+                <keyword>APSK systems</keyword>
+                <keyword> Signal Theory</keyword>
+                <keyword>Stochastic Processes</keyword>
+                <keyword>Spectral Analysis</keyword>
+                <keyword>Pattern Recognition</keyword>
+                <keyword>Sensors</keyword>
+                <keyword>Acoustic and Vibration Signal Processing</keyword>
+                <keyword>Remote Sensing</keyword>
+                <keyword>Signal Processing Technology</keyword>
+                <keyword>Speech Processing</keyword>
+                <keyword>Radar Signal Processing</keyword>
+                <keyword>Sonar Signal Processing</keyword>
+                <keyword>Radar</keyword>
+                <keyword>Satellite</keyword>
+                <keyword>Broadcasting </keyword>
+                <keyword>Antenna</keyword>
+                <keyword>Wireless</keyword>
+                <keyword>Radio waves </keyword>
+                <keyword>Video coding</keyword>
+                <keyword>Communication</keyword>
+                <keyword>Electromagnetic radiation</keyword>
+                <keyword>Sensor Networks</keyword>
+                <keyword>Propagation</keyword>
+                <keyword>Microwave</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpsp-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rptsp@benthamscience.org">rptsp@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTSP">bsp-cms.eurekaselect.com/index.php/RPTSP</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

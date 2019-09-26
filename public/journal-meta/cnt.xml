@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cnt</journal-code>
+           <!-- <journal-eureka-code-one>CNT</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>-->
+            <journal-title>Current Nutraceuticals</journal-title>
+            <full-journal-title>Current Nutraceuticals</full-journal-title>
+            <journal-seo-title>current-nutraceuticals</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2665-9794</journal-issn>
+                <journal-issn issn-type="print">2665-9786</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>“Current Nutraceuticals” publishes original research articles, mini- and full-length reviews, feature articles, technical notes and thematic issues covering all aspects of nutraceuticals, from the isolation and comprehensive characterization of secondary metabolites and their synthesis to the biological activity of nutritional constituents and antioxidants, clinical, population, ethnological and agricultural studies. The journal also explicitly welcomes interdisciplinary contributions considering wider social, cultural, ethical and applied aspects of nutraceuticals and nutrition in modern society.</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Isolation and comprehensive chemical and physical characterization of active ingredients</p>
+                    </list-item>
+                    <list-item>
+                        <p>Secondary metabolites from plants and (micro-)organisms</p>
+                    </list-item>
+                    <list-item>
+                        <p>Antioxidants</p>
+                    </list-item>
+                    <list-item>
+                        <p>Chemoprevention</p>
+                    </list-item>
+                    <list-item>
+                        <p>Biomarkers of nutrition and health</p>
+                    </list-item>
+                    <list-item>
+                        <p>Chemistry of nutraceuticals, including synthesis</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nutrition and ageing</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nutrition and lifestyle</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nutraceuticals and drug development</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nutraceuticals in agriculture</p>
+                    </list-item>
+                    <list-item>
+                        <p>Healthy diets</p>
+                    </list-item>
+                    <list-item>
+                        <p>Nutraceuticals in Society: Wider cultural, social, ethical, ecological and economic implications</p>
+                    </list-item>
+                </list>
+            </journal-aims-scope>
+            <journal-current-volume>1</journal-current-volume>
+            <journal-current-issues>1</journal-current-issues>
+            <journal-current-year>2020</journal-current-year>
+            <journal-cover-image>cnt-journal-cover.gif</journal-cover-image>
+            <journal-flyer>cnt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cnt@benthamscience.net">cnt@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CNT">bsp-cms.eurekaselect.com/index.php/CNT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+</journal>

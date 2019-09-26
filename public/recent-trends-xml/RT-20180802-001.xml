@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+   <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180802-001</article-id>
+            <title-group>
+                <article-title>Synthesis of tetrapeptides and screening of their antioxidant properties</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/161347/article">Synthesis of Tetrapeptides and Screening of their Antioxidant Properties</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 5-JUL-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>05</day>
+                    <month>07</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p><italic>This article by Dr. Rani Maharani et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-bioactive-compounds/">Current Bioactive Compounds</uri>, Volume 14, 2018</italic></p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Antioxidant peptides are a class of peptides that contribute to improving human health by the prevention or treatment of chronic diseases such as cancer, diabetes, and cardiovascular diseases. In the past few decades, many research projects were carried out to search for antioxidant peptides, particularly in marine products. Among the antioxidant peptides from marine products is tetrapeptide, NH-L-Pro-L-Ala-Gly-L-Tyr-OH (PAGY), which is obtained from gelatin hydrolysate of amur sturgeon skin (Acipenser schrenckii). PAGY has IC50 of 5.38 mg/mL for DPPH radical scavenging activity. However, the population of amur sturgeon fish has currently declined and is threatened. Due to this, the preparation of tetrapeptide PAGY by a synthetic method is be considered to be more sustainable, and also can prevent the extinction of A. schrenkii.</p>
+        <p>Analogues of PAGY were designed in order to determine new and potential antioxidant peptides. The design was based on a review of antioxidant peptide by Zou et al. (2016). There are Tyr, Phe, Pro, His and Leu that often appear in the sequence of the antioxidant peptides. Residues Trp, Tyr, and Phe are known as aromatic amino acids that can potentially increase the antioxidant properties of the peptides. A combination of hydrophillic and hydrophobic residues in the sequence is another important factor for the bioactivity. Zou et al. also describe that residues Pro and Trp are known as hydrogen donors that can terminate the hydroxy radical. Based on this information, residues Tyr and Pro are maintaned due to their important contribution to the antioxidant activity. Residue Gly and Ala were replaced with potent residues such as Phe, Ser, and Ala.</p>
+        <p>Tetrapeptide PAGY and its analogues, namely, PSGY, PAFY, PFFY, and PAIY, have been successfully synthesized by solid phase peptide synthesis (SPPS) with Fmoc/t-Bu strategy. Resin 2-chlorotrityl chloride was employed in the synthesis as solid support due to its properties to avoid diketopiperazine formation. The resin was also shown to be able to avoid extensive racemization during the attachment of the first amino acid, particularly in Fmoc-based peptide synthesis. Synthesis was carried out in the C to N direction, due to the ease of temporary protection group cleavage at N atom compared to the cleavage of C atom temporary protection group. A combination of HBTU/HOBt was used to facilitate all coupling reactions. All Fmoc deprotection steps took advantage of 20% piperidine in DMF. Cleavage of linear peptides was conducted by reacting the peptide-resin with 95% TFA in water. The use of 95% TFA in water was due to the presence of t-Bu protecting group of Tyr and Ser side chain, while water was used as a carbocation scavenger, which was formed during the resin cleavage. The resin was then filtered and concentrated by a rotary evaporator at 40 oC.</p>
+        <p>The crudes were then analyzed by analytical RP-HPLC (gradient of acetonitrile:water) using a LiChrospher RP-18 column and PDA detector in 254 nm. The spectra of analytical RP-HPLC indicated that all tetrapeptides have good purity when only a single peak appeared.</p>
+        <p>All peptides were characterised by HR-TOF-MS showing correct molecular mass ions of m/z 405.2047, 421.1324, 495.3156, 461.3090, and 571.4377, representing the [M-H]- of PAGY, PSGY, PAFY, PAIY, and PFFY, respectively. The peptides were also characterised by using 1H-NMR. The spectra showed the expected proton signals, unless for NH-C=O signals. It was expected that three NH-C=O proton signals will appear at the chemical shift between 8-9 ppm. However, only two NH-C=O proton signals appeared. Other signals were revealed in the spectra of all peptides, indicating that the desired tetrapeptides have been successfully obtained.</p>
+        <p>A DPPH assay was then conducted to all of the tetrapeptides. The results indicate that the synthesised PAGY has IC50 of 1.750 mg/mL after a triplicate experiment. This value is higher than the IC50 value for the natural products (IC50 5.38 mg/mL). It seems likely that the purity difference between the synthesised and isolated PAGY can be a factor making the IC50 value difference. The PSGY compound has the highest DPPH inhibition activity of all other tetrapeptides, with IC50 of 1.116 mg/mL. The presence of additional hydroxyl group in serine side chain can act as an additional electron donor, and offer a better stabilization against DPPH radical species. The presence of aromatic amino acid phenylalanine in the peptide chain was found to increase the antioxidant activity of analogue PAFY compared to PAGY, PAIY and PFFY. The presence of two phenylalanines in PFFY did not offer a significant increase in the antioxidant activity. However, the antioxidant activity of PFFY is still slightly higher than PAGY. The replacement of glycine residue with isoleucine, which is more hydrophobic in PAIY, was found to slightly increase the antioxidant activity compound to PAGY. The result of the biological assay showed that compositions of the amino acids in the peptides play a crucial role in the antioxidant activity.</p>
+        <p>For more information, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/161347">http://www.eurekaselect.com/161347</ext-link></p>
+        <p>Reference: &#x00A0;Maharani R, et al, (2018). Synthesis of Tetrapeptides and Screening of their Antioxidant Properties,&#x00A0;<italic>Current Bioactive Compounds</italic>. DOI: 10.2174/1573407214666180417152417</p>
+    </body>
+</article>

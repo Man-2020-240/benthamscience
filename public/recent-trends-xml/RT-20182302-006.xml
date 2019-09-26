@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20182302-006</article-id>
+            <title-group>
+                <article-title>Getting a GRiP on Chemoresistance: A Review of GRP78 as a Therapeutic Target in Cancer</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/153221">GRP78 Influences Chemoresistance and Prognosis in Cancer</uri>
+            </aff>
+            <aff>
+                <bold>PUBLIC RELEASE:</bold> 22-FEB-2018</aff>
+            <abstract>
+                <p>This article by Dr. Reginald Hill and Dr. Jenifer B. Gifford will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cdt/">Current Drug Targets</uri>, Volume 19, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Innate or acquired resistance to current standard-of-care therapies is a major hindrance to successful chemotherapeutic intervention. There is a critical need to elucidate the underlying mechanisms responsible for chemoresistance in order to accelerate the development of more efficacious treatment strategies.</p>
+        <p>Endoplasmic Reticulum (ER) stress response proteins are produced by cells undergoing periods of stress and facilitate the folding of proteins. The studies highlighted in this review article by researchers from the Hill Lab at the University of Notre Dame, show that ER stress response proteins are also overexpressed in cancer cells, and are often associated with high resistance to chemotherapy and poor prognosis. Specifically, elevated expression of GRP78, the master regulator of the unfolded protein response, has been shown to induce chemoresistance and serves as a indictor of poor prognosis in patients with a variety of cancers.</p>
+        <p>This review focuses on the role of GRP78 in regulating signaling pathways that control cell survival and draw attention to its value as a prognostic marker and therapeutic target. It shows that elevated GRP78 expression is predictive of resistance to chemotherapy and tumor resurgence in many cancers. Moreover, GRP78 regulates chemoresistance through several branches of the unfolded protein response as well as through modulation of the PI3K/AKT pathway.</p>
+        <p>Elevated GRP78 expression has been linked to the failure of a growing number of current standard-of-care therapies, which suggest that it is necessary to identify strategies to inhibit GRP78 function in order to sensitize chemotherapy-resistant tumors to currently available treatment regimens.</p>
+    </body>
+</article>

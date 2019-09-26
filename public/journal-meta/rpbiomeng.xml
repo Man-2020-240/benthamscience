@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">102</journal-id>
+            <journal-code>rpbiomeng</journal-code>
+            <journal-eureka-code-one>BIOMENG</journal-eureka-code-one>
+            <nid nid-status="current">679</nid>
+            <journal-title>Recent Patents on Biomedical Engineering (Discontinued)</journal-title>
+             <full-journal-title>Recent Patents on Biomedical Engineering(Discontinued)</full-journal-title>
+             <journal-seo-title>recent-patents-on-biomedical-engineering</journal-seo-title>
+
+            <journal-issn-list>
+                <journal-issn issn-type="online">1874-7647</journal-issn>
+                <journal-issn issn-type="print">2211-3320</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Biomedical Engineering</italic>
+                    </bold>   publishes reviews, research articles and guest edited thematic issues on recent patents in the field of biomedical engineering e.g. on tissue and cellular engineering; biological signal processing and instrumentation; biomechanics, electrophysiology; imaging, medical devices, surgical devices and diagnostic instruments. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &amp; therapeutic agents related to biomedical engineering.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19700172401</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2014</journal-current-year>
+            <journal-cover-image>rpbiomeng-journal-cover.gif</journal-cover-image>
+            <journal-description>The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &amp; therapeutic agents related to biomedical engineering.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Biomedical Engineering </keyword>
+                <keyword>biomedical engineering</keyword>
+                <keyword>tissue and cellular engineering</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpbiomeng-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="biomeng@benthamscience.org">biomeng@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/BIOMENG">bsp-cms.eurekaselect.com/index.php/BIOMENG</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>EMBiology</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>PubsHub</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>J-Gate.</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

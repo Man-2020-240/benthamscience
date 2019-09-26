@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cath</journal-code>
+            <journal-eureka-code-one>CATH</journal-eureka-code-one>
+            <nid nid-status="current">160587</nid>
+            <journal-title>Current Antiplatelet Therapy (Discontinued)</journal-title>
+            <full-journal-title>Current Antiplatelet Therapy (Discontinued)</full-journal-title>
+            <journal-seo-title>current-antiplatelet-therapy</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2542-6125</journal-issn>
+                <journal-issn issn-type="print">2542-6117</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Antiplatelet Therapy</italic>
+                    </bold>, a peer-reviewed journal, publishes timely reviews, original research articles,  guest edited thematic issues,  editorials and clinical trials.  The journal aims to cover all aspects of the recent advancements and applications in antiplatelet therapy of synthetic and natural origin. The topics of interest will include but are not limited to:       
+                <list list-type="bullet">
+                <list-item>
+                <p>Synthetic agents with antiplatelet actions including derivates and structural activity relationship </p>
+                </list-item>
+                <list-item>
+                <p>Natural agents especially secondary metabolites with pronounced antiplatelet effects.</p>
+                </list-item>
+                <list-item>
+                <p>Evidence based complementary and alternative therapy having antiplatelet effects.</p>
+                </list-item>
+                <list-item>
+                <p>Molecular docking and simulation studies on antiplatelet agents.</p>
+                </list-item>
+                <list-item>
+                <p>Detail mechanistic studies on antiplatelet agents </p>
+                </list-item>
+                <list-item>
+                <p>Clinical trials on any class of antiplatelet agents</p>
+                </list-item>
+                
+                </list></p>
+            </journal-aims-scope>
+            <!--<new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608054671</ebook-id>
+                        <ebook-title>Neurobiology of Mood Disorders</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608054671/index.htm</ebook-link>
+                        <ebook-cover>9781608054671.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608054671</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119874</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>-->
+            <!--<journal-current-volume>1</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>-->
+            <journal-cover-image>cath-journal-cover.gif</journal-cover-image>
+            <!--<journal-description>The journal serves as a comprehensive, multidisciplinary expert forum for neuropharmacologists and neuroscientists.</journal-description>
+            <keyword-group>
+                <keyword>Current Neuropharmacology</keyword>
+                <keyword>systems/behavioura</keyword>
+                <keyword>comprehensive reviews</keyword>
+            </keyword-group>
+            <impact-factor>3.365</impact-factor>
+            <five-year-impact-factor>3.623</five-year-impact-factor>-->
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="benthamscience">http://benthamscience.com/social-media-main.php</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cath-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cath@benthamscience.org">cath@benthamscience.org</email>
+            </journal-email>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

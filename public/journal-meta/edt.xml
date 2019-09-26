@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">147</journal-id>
+            <journal-code>edt</journal-code>
+            <journal-eureka-code-one>EDT</journal-eureka-code-one>
+            <nid nid-status="current">119247</nid>
+            <journal-title>Epigenetic Diagnosis &#x0026; Therapy (Discontinued)</journal-title>
+            <full-journal-title>Epigenetic Diagnosis and Therapy(Discontinued)</full-journal-title>
+            <journal-seo-title>epigenetic-diagnosis-and-therapy</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2214-0840</journal-issn>
+                <journal-issn issn-type="print">2214-0832</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>Advances in personalized biomedical research have established that all major human diseases in addition to having a large number of genetic alterations, exhibit prominent epigenetic abnormalities. Epigenetic abnormalities can be used: i) as biomarkers for molecular diagnosis, ii) as therapeutic targets, and iii) as prognostic factors of a diseased individual. Epigenetic information can be stored in multiple dimensions, such as in form of DNA modifications and non-coding RNAs or protein polymorphisms and such as in the differential regulatory machineries and signal transduction pathways of cells in health and disease. Epigenetics choreographs the interface between genes and the environment of an individual.</p>
+                <p>
+                    <bold>
+                        <italic>Epigenetic Diagnosis &#x0026; Therapy</italic>
+                    </bold> a  peer-reviewed journal, publishes high-impact basic, translational, and clinical original research on epigenetic medicine. The journal aims to publish manuscripts which reflect novelty in all areas of diagnosis and intervention/therapeutic epigenetic medicine, being of general interest and of outstanding significance. The Journal publishes original research, expert review articles, drug clinical trial studies and guest edited thematic issues.</p>
+            </journal-aims-scope>
+            <journal-current-volume>2</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>edt-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.epigeneticdiagnosistherapy.com/</journal-insight>-->
+            <journal-description>Epigenetic Diagnosis &#x0026; Therapy, a peer-reviewed journal, publishes high-impact basic, translational, and clinical original research on epigenetic medicine. The journal aims to publish manuscripts which reflect novelty in all areas of diagnosis and intervention/therapeutic epigenetic medicine, being of general interest and of outstanding significance. The Journal publishes original research, expert review articles, drug clinical trial studies and guest edited thematic issues.</journal-description>
+            <keyword-group>
+                <keyword>Epigenetic Diagnosis &#x0026; Therapy</keyword>
+                <keyword>Epigenetics choreographs</keyword>
+                <keyword>genetic alterations</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="edt@benthamscience.org">edt@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/EDT">bsp-cms.eurekaselect.com/index.php/EDT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20161003-029</article-id>
+<title-group>
+<article-title>Recent advances in ligand and structure based screening of potent quorum sensing inhibitors</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144325/article">Recent Advances in Ligand and Structure Based Screening of Potent Quorum Sensing Inhibitors Against Antibiotic Resistance Induced Bacterial Virulence</uri></aff>
+            <aff><bold>Public Release:</bold> 26-OCT-2016</aff>
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Sisir Nandi has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/recent-patents-on-biotechnology/#top">Recent Patents on Biotechnology</uri> Volume 10, Issue 2, 2016</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Antibiotic resistance induced bacterial virulence via quorum sensing is a growing threat in the treatment of microbial infections. A number of anti-quorum sensing approaches have been documented to screen potent inhibitors against quorum sensing. Experimental screening of a large chemical compound library against a quorum sensing biological target is an established technology for lead identification but it is expensive, laborious and time consuming. Therefore, computer-aided high throughput ligand and structure based virtual screening are most effective pharmacoinformatic tools prior to experiment. Only 3D QSAR of synthetic AHL analogs, farnesol and furanones as biofilm matrix inhibitors were reported. But there is hardly any 2D QSAR of these analogs and others such as AI-2, SAM, SAH and SRH derivatives performed yet. Therefore it could be done considering a number of 2D descriptors which may provide a better tool for rational anti-quorum sensing drug design. SRH utilizes Lux S to produce DPD and homocysteine. AI-2 can be obtained from DPD and homocysteine is being utilized to formulate SAM biosynthesis. But currently there are no antibacterial SRH compounds that target the bacterial quorum sensing system of Lux S to reduce bacterial virulence. Therefore, new synthetic approaches are required for the generation of promising SRH derivatives. Crystal structures of AHL synthase and SAM-dependent methyl transferase targeted by SAM and MTAN targeted by SAH are not developed yet. So pharmacophore models of SAM and SAH could be generated to focus the 3D crucial features of these compounds for developing their potential synthetic analogs. Ligand and structure based modeling of AI-2 synthetic analogs, histidine kinase inhibitors; efflux pump inhibitors as well as natural compounds are not done so far. Therefore, it could be alternative points to carry out the ligand and structure based modeling and screening of future anti-quorum sensing leads having higher efficacy against antibiotic resistance induced bacterial virulence.</p>
+<p>For more information, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/recent-patents-on-biotechnology/article/144325/">http://benthamscience.com/journals/recent-patents-on-biotechnology/article/144325/</ext-link></p>
+</body>
+<back>
+<ref-list>
+<title>Reference:</title>
+<ref id="r1"><nlm-citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nandi</surname><given-names>S.</given-names></name></person-group><article-title>Recent Advances in Ligand and Structure Based Screening of Potent Quorum Sensing Inhibitors Against Antibiotic Resistance Induced Bacterial Virulence.</article-title><source>Recent Pat. Biotechnol.</source><year>2016</year><pub-id pub-id-type="doi">10.2174/1872208310666160728104450</pub-id></nlm-citation></ref>
+</ref-list>
+</back>
+</article>

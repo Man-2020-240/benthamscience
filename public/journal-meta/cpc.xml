@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">107</journal-id>
+            <journal-code>cpc</journal-code>
+            <journal-eureka-code-one>CPC</journal-eureka-code-one>
+            <nid nid-status="current">684</nid>
+            <journal-title>Current Physical Chemistry</journal-title>
+            <full-journal-title>Current Physical Chemistry</full-journal-title>
+            <journal-seo-title>current-physical-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-9476</journal-issn>
+                <journal-issn issn-type="print">1877-9468</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Physical Chemistry</italic>
+                    </bold> publishes research articles, full-length/mini reviews, and topical issues on the important recent developments in physical chemistry and allied disciplines.</p>
+                <p>The scope of the journal covers all areas of physical chemistry, including surface science, colloids and interfaces, thermodynamics, spectroscopy, molecular structure, solid state chemistry, catalysis, kinetics, theoretical chemistry, chemical physics and biophysical chemistry.</p>
+                <p>
+                    <bold>
+                        <italic>Current Physical Chemistry</italic>
+                    </bold> is an essential journal for every physical chemist who wishes to be kept informed and up-to-date with the latest and most important developments.</p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cpc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentphysicalchemistry.com/index.php</journal-insight>
+<journal-history>Current Physical Chemistry was launched in 2011. Dr. Karl J. Jalkanen  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Physical Chemistry is an essential journal for every physical chemist who wishes to be kept informed and up-to-date with the latest and most important developments.</journal-description>
+            <keyword-group>
+                <keyword>Current Physical Chemistry</keyword>
+                <keyword>solid state chemistry</keyword>
+                <keyword>catalysis</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012?fref=ts</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cpc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cpc@benthamscience.net">cpc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CPC">bsp-cms.eurekaselect.com/index.php/CPC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

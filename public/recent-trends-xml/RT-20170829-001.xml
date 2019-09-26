@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170829-001</article-id>
+            <title-group>
+                <article-title>Non-thermal atmospheric pressure plasma treatment</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/148214/article">Improvement in Natural Dyeing with the Aid of Atmospheric Pressure Plasma Treatment: A Green Solution for Leather Processing</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 29-AUG-2017</aff>
+            <abstract>
+                <p>This article by Dr. Hemen Dave et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/cee/#top">Current Environmental Engineering</uri>, Volume 4, Issue 2, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>India is a second largest producer of leather, and being so, leather production and dyeing significantly contribute to pollution of water resources in India. Consistent dyeing of leather is difficult due to the unique nature of the raw material (matrix of collagen fibers), thus leather dyeing and finishing involves numerous wet chemical treatments having huge environmental impacts. Considering this, group of researchers in India have explored atmospheric pressure non-thermal plasma treatment to improve natural dyeing of leather in order to provide an eco-friendly alternative for wet-chemical treatment and dyeing using a synthetic dyes.</p>
+        <p>&#x201C;India is a country having its own ancient art of leather tanning and dyeing using natural products. The ancient art of natural dyeing are though not completely elapsed, however with course of time, become limited as natural dyes are failed to contend with synthetic dyes in terms of prices, wide availability, broad range of bright color and fastness. Growing awareness about negative impacts of synthetic dyes on the environment and its health hazards lead scientists and people in general for relooking at use of naturals dyes.&#x201D; explained the Indian researchers.</p>
+        <p>It is further said &#x201C;For successful commercial use of natural dyes, relevant scientific studies is needed to optimize the performance of natural dyes, also applications of natural dyes should be supported by new scientific technologies for better extraction, exhaustion, dye uptake, uniformity of shade and fastness properties. Non-thermal plasma technology is one such technology which considerably being explore now a days as a dry and eco-friendly pre-treatment to improve natural dyeing of natural and synthetic fibers.&#x201D;</p>
+        <p>The key part of the study is activation of grain surface of goat hide with atmospheric pressure plasma (dielectric barrier discharge) generated in ammonia gas. The researchers have successfully demonstrated formation of nitrogen and oxygen containing functional groups on the grain surface as consequence of the plasma treatment with ATR-FTIR spectroscopy and X-ray Photoelectron Spectroscopy. The functional groups can significantly improve natural dyeing as it may provide site for electrostatic attractions and binding of natural dye molecules.</p>
+        <p>In the study, dyeing properties of the plasma treated goat hide is studied for three commercially available natural dyes of which dyeing with Eco-Mango Yellow dye resulted significant improvement in coloration. The dye is produced from pomegranate (<italic>Punica granatum</italic>) &amp; <italic>Curcuma longa</italic>. The <italic>Punica granatum</italic> contains various polyphenols (tannins) and flavonoids, and traditionally been used in India for leather tanning and coloration.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/148214">http://www.eurekaselect.com/148214</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hemen</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <source>Improvement in Natural Dyeing with the Aid of Atmospheric Pressure Plasma Treatment: A Green Solution for Leather Processing.</source>
+                    <year>2017</year>
+                    <publisher-name>Current Environmental Engineering</publisher-name>
+                    <pub-id pub-id-type="doi">10.2174/2212717804666161208125652</pub-id>
+
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

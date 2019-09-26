@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170110-003</article-id>
+            <title-group>
+                <article-title>Schiff bases of benzothiazol-2-ylamine and thiazolo[5,4-b] pyridin-2-ylamine</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/central-nervous-system-agents-in-medicinal-chemistry/volume/16/issue/3/page/240/">Schiff Bases of Benzothiazol-2-ylamine and Thiazolo[5,4-b] pyridin-2-ylamine as Anticonvulsants: Synthesis, Characterization and Toxicity Profiling*</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 9-DEC-2016</aff>
+            <abstract>
+                <p>This research article by Dr. Rashmi Shukla et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/central-nervous-system-agents-in-medicinal-chemistry/#top">Central Nervous System Agents in Medicinal Chemistry</uri>, Volume 16, Issue 3, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>A series of Schiff bases of benzothiazol-2-ylamine/thiazolo [5, 4-b] pyridin-2-ylamine was synthesized. Aniline/4-aminopyridine was converted to the corresponding thiourea derivative, which was then cyclized to obtain benzothiazol-2-ylamine/thiazolo [5, 4-b] pyridin-2-ylamine. Finally, these were condensed with various aromatic and heteroaromatic aldehydes to obtain twelve novel Schiff bases of benzothiazol-2-ylamine and thiazolo [5, 4-b] pyridin-2-ylamine.</p>
+        <p>The synthesized compounds were characterized by spectral analysis and screened for their anticonvulsant activity using the maximal electroshock (MES) test and isoniazid (INH) induced convulsions test, with phenytoin and diazepam respectively, as the standard drugs. The majority of the compounds were more potent against MES induced convulsions than INH induced convulsions. The relationship between the synthesized compounds and the log P values was also studied, which revealed that the higher the value the better the activity. Schiff bases of benzothiazol-2-ylamine were more effective than thiazolo [5, 4-b] pyridin-2-ylamine against MES induced convulsions. The compound benzothiazol-2-yl-(1H-indol-2-ylmethylene)-amine was the most potent member of the series against both types of convulsions. All the synthesized compounds were predicted to be non-toxic by in-silico toxicity profiling through the Lazar and Osiris properties explorer. Thus, it may be concluded that the Schiff bases of benzothiazol-2-ylamine exhibit the potential to be promising and non-toxic anticonvulsant agents.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/central-nervous-system-agents-in-medicinal-chemistry/volume/16/issue/3/page/240/">http://benthamscience.com/journals/central-nervous-system-agents-in-medicinal-chemistry/volume/16/issue/3/page/240/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Shukla</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Singh</surname>
+                            <given-names>A.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sonar</surname>
+                            <given-names>P.K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mishra</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Saraf</surname>
+                            <given-names>S.K.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Schiff Bases of Benzothiazol-2-ylamine and Thiazolo[5,4-b] pyridin-2-ylamine as Anticonvulsants: Synthesis, Characterization and Toxicity Profiling.</article-title>
+                    <source>Cent. Nerv. Syst. Agents Med. Chem.</source>
+                    <year>2016</year>
+                    <volume>16</volume>
+                    <issue>3</issue>
+                    <fpage>240</fpage>
+                    <lpage>248</lpage>
+                    <pub-id pub-id-type="doi">10.2174/1871524916666160428110728</pub-id>
+                    <pub-id pub-id-type="pmid">27121381</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

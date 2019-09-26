@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<media-partner>
+    <media-partner-list list-type="media-partner">
+        <media-entry logo-orientation="horizontal">
+            <media-name>OXFORD GLOBAL</media-name>
+            <media-image>og-logo.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.oxfordglobal.co.uk/">http://www.oxfordglobal.co.uk/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>COMTECMED</media-name>
+            <media-image>cony.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://comtecmed.com/cony/2010/">http://comtecmed.com/cony/2010/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>EVOLUTION-SUMMIT</media-name>
+            <media-image>evolution-summit.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.evolution-summit.com/BenthamSciencePublishersListing">http://www.evolution-summit.com/BenthamSciencePublishersListing</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>BIOSCIENCES</media-name>
+            <media-image>bio-sciences.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.selectbiosciences.com/">http://www.selectbiosciences.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>COMBICHEM LAB</media-name>
+            <media-image>combic.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.combichemlab.com/">http://www.combichemlab.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="vertical">
+            <media-name>SWETS BLACKWELL</media-name>
+            <media-image>swet-blackwell.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.swetsblackwell.com/">http://www.swetsblackwell.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>IP INNOVATION</media-name>
+            <media-image>ip-innovation.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.ip-innovation.info/">http://www.ip-innovation.info/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>TECHNOMICS</media-name>
+            <media-image>technomics.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.technomics.co.jp/">http://www.technomics.co.jp/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>ISSX</media-name>
+            <media-image>issx.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.issx.org/">http://www.issx.org/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>AMERICAN PEPTIDE SOCIETY</media-name>
+            <media-image>american-peptide.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.ampepsoc.org/">http://www.ampepsoc.org/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>ACTA PHARMACOLOGICA SINICA</media-name>
+            <media-image>acta-pharmacologica.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.chinaphar.com/">http://www.chinaphar.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>ALZHEIMER RESEARCH FOURTH</media-name>
+            <media-image>alzheimer-research.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.alzforum.org/">http://www.alzforum.org/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>HENRY STEWART TALKS</media-name>
+            <media-image>henry-stewart-talks.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.hstalks.com/dmes">http://www.hstalks.com/dmes</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>ZING CONFERENCES</media-name>
+            <media-image>zing-logo-for-adverts.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.zingconferences.com/">http://www.zingconferences.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>AMERICAN SOCIETY FOR ADOLESCENT PSYCHIATRY</media-name>
+            <media-image>american-society.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://www.adolpsych.org/">http://www.adolpsych.org/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>NB SCIENCE LIMITED</media-name>
+            <media-image>nb-science-limited.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://nbscience.com/">http://nbscience.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry logo-orientation="horizontal">
+            <media-name>LAB ROOTS</media-name>
+            <media-image>lab-roots.gif</media-image>
+            <media-description>
+            </media-description>
+            <media-link>
+                <uri xmlns:xlink="http://labroots.com/">http://labroots.com/</uri>
+            </media-link>
+        </media-entry>
+    </media-partner-list>
+</media-partner>

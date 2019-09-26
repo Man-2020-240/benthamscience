@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">137</journal-id>
+            <journal-code>cdrr</journal-code>
+            <journal-eureka-code-one>CDRR</journal-eureka-code-one>
+            <journal-eureka-code-two>CDAR</journal-eureka-code-two>
+            <nid nid-status="current">164531</nid>
+            <nid-one nid-status="old">671</nid-one>
+            <journal-title>Current Drug Research Reviews</journal-title>
+            <journal-former-title>Current Drug Abuse Reviews</journal-former-title>
+            <full-journal-title>Current Drug Research Reviews</full-journal-title>
+            <journal-seo-title>current-drug-research-reviews</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2589-9783</journal-issn>
+                <journal-issn issn-type="print">2589-9775</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Drug Research Reviews</italic>
+                    </bold> publishes research articles, full-length/mini review articles and clinical studies on the design and development of new drugs, including drug targeting,  medicinal chemistry, in-silico drug design, combinatorial chemistry, meta-analyses, drug abuse and addiction,  drug-drug interactions and enzyme kinetics; species scaling and extrapolations; drug transporters; target organ toxicity and inter-individual variability in drug exposure-response; extrahepatic metabolism; bio-activation, reactive metabolites, high-throughput screening, drug targets and structure-activity relationships.</p>
+                <p>The journal aims to cover the latest developments in all important aspects of drug design, delivery, development and research.</p>
+                <p>Current Drug Research Reviews is essential for all pharmaceutical scientists involved in drug design and development.</p>
+            </journal-aims-scope>
+            <!--<scimago sjr-status="no">
+                <scimago-jr-id>18400156715</scimago-jr-id>
+            </scimago>-->
+            <journal-current-volume>11</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cdrr-journal-cover.gif</journal-cover-image>
+            <!-- <journal-insight>http://www.currentdrugresearchreviews.com/</journal-insight>-->
+<journal-history>Current Drug Abuse Reviews was launched in 2008 and later renamed in 2018 as  Current Drug Research Reviews.</journal-history>
+            <journal-description>Current Drug Research Reviews publishes research articles, review article and  clinical studies on the design and development of new drugs, including drug targeting,  medicinal chemistry, in-silico drug design, combinatorial chemistry, meta-analyses, drug abuse and addiction,  drug-drug interactions and enzyme kinetics; species scaling and extrapolations; drug transporters; target organ toxicity and inter-individual variability in drug exposure-response; extrahepatic metabolism; bio-activation, reactive metabolites, high-throughput screening, drug targets and structure-activity relationships.
+
+The journal aims to cover the latest developments in all important aspects of drug design, delivery, development and research.
+
+Current Drug Research Reviews is essential for all pharmaceutical scientists involved in drug design and development.</journal-description>
+            <!-- <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers-uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BSPDrugTherapy?ref=hl</social-media-link>
+            </social-media-link-list>-->
+            <journal-flyer>cdrr-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdrr@benthamscience.net">cdrr@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDRR">bsp-cms.eurekaselect.com/index.php/CDRR</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency  order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EMCare</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

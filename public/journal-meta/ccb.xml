@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="no">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">71</journal-id>
+            <journal-code>ccb</journal-code>
+            <journal-eureka-code-one>CCB</journal-eureka-code-one>
+            <nid nid-status="current">648</nid>
+            <journal-title>Current Chemical Biology</journal-title>
+            <full-journal-title>Current Chemical Biology</full-journal-title>
+            <journal-seo-title>current-chemical-biology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1872-3136</journal-issn>
+                <journal-issn issn-type="print">2212-7968</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Chemical Biology</italic>
+                    </bold> aims to publish full-length and mini reviews as well as research papers on exciting new developments at the chemistry-biology interface, covering topics related to Chemical Synthesis, Science at Chemistry-Biology Interface and Chemical Mechanisms of Biological Systems.</p>
+                    <p><bold>
+                        <italic>Current Chemical Biology</italic>
+                    </bold> covers the following areas:</p>
+                <p><bold><undeline>Chemical Synthesis</undeline></bold> (Syntheses of biologically important macromolecules including proteins, polypeptides, oligonucleotides, oligosaccharides etc.; Asymmetric synthesis; Combinatorial synthesis; Diversity-oriented synthesis; Template-directed synthesis; Biomimetic synthesis; Solid phase biomolecular synthesis; Synthesis of small biomolecules: amino acids, peptides, lipids, carbohydrates and nucleosides; and Natural product synthesis).</p>
+                <p><bold><undeline>Science at Chemistry-Biology Interface</undeline></bold> (Chemical informatics; Macromolecular catalysts and receptors; Enzymatic synthesis; Biosynthetic engineering; Combinatorial biosynthesis; Plant cell based chemistry; Bacterial and viral cell based chemistry; Chemistry of cellular processes in plants/animals; Receptor chemistry; Cell signaling chemistry; Drug design through understanding of disease processes; Synthetic biology; New high throughput screening techniques; Small molecular array fabrication; Chemical genomics; Chemical and biological approaches to carbohydrates proteins and nucleic acids design; Chemical and biological regulation of biosynthetic pathways; and Unnatural biomolecular analogs).</p>
+                <p><bold><undeline>Chemical Mechanisms of Biological Systems</undeline></bold> (Mechanisms of drug design; Molecular recognition; Enzyme inhibition mechanisms; Chemical mechanisms of biological functions; Molecular machines; Chemical ecology; Metal ions in biological systems; Metalloenzymes; Chemical mechanisms, proteomics and metabonomics; Chemical imaging; Small molecule-biological target interactions; Biologically active natural products; Elucidation of biosynthetic pathways; and Simulation and modeling of biomolecules).</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>11300153735</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>13</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>ccb-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentchemicalbiology.com/index.php/</journal-insight>
+<journal-history>Current Chemical Biology was launched in 2007. Dr. Ricardo Riguera serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Chemical Biology aims to publish full-length and mini reviews as well as research papers on exciting new developments at the chemistry-biology interface, covering topics relating to Chemical Synthesis, Science at Chemistry-Biology Interface and Chemical Mechanisms of Biological Systems.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>ccb-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ccb@benthamscience.net">ccb@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CCB">bsp-cms.eurekaselect.com/index.php/CCB</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EMBiology</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

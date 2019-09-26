@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">100</journal-id>
+            <journal-code>raeeng</journal-code>
+            <journal-eureka-code-one>EEENG</journal-eureka-code-one>
+            <journal-eureka-code-two>EENG</journal-eureka-code-two>
+            <nid nid-status="current">122589</nid>
+            <nid-one nid-status="old">99320</nid-one>
+            <nid-two nid-status="old">677</nid-two>
+            <journal-title>Recent Advances in Electrical &#x0026; Electronic Engineering</journal-title>
+            <journal-former-title>Recent Patents on Electrical &#x0026; Electronic Engineering</journal-former-title>
+            <full-journal-title>Recent Advances in Electrical and Electronic Engineering</full-journal-title>
+            <journal-seo-title>recent-advances-in-electrical-and-electronic-engineering</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2352-0973</journal-issn>
+                <journal-issn issn-type="print">2352-0965</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Advances in Electrical &#x0026; Electronic Engineering</italic>
+                    </bold> publishes full-length/mini reviews and research articles, guest edited thematic issues on electrical and electronic engineering and applications. The journal also covers research in fast emerging applications of electrical power supply, electrical systems, power transmission, electromagnetism, motor control process and technologies involved and related to electrical and electronic engineering.</p>
+                <p>The journal is essential reading for all researchers in electrical and electronic engineering science.</p>
+            </journal-aims-scope>
+            <journal-current-volume>12</journal-current-volume>
+            <journal-current-issues>6</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>raeeng-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.recentadvancesinelectricalelectronicengineering.com/</journal-insight>
+<journal-history>Recent Patents on Electrical Engineering was launched in 2008 and later renamed in 2012 as Recent Patents on Electrical &#x0026; Electronic Engineering and in 2014 as Recent Advances in Electrical &#x0026; Electronic Engineering.</journal-history>
+            <journal-description>The journal is essential reading for all researchers in electrical and electronic engineering science.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Engineering-Journals/188450778011259</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>raeeng-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="raeeng@benthamscience.net">raeeng@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/EENG">bsp-cms.eurekaselect.com/index.php/EENG</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

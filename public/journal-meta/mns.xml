@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">106</journal-id>
+            <journal-code>mns</journal-code>
+            <journal-eureka-code-one>MNS</journal-eureka-code-one>
+            <nid nid-status="current">683</nid>
+            <journal-title>Micro and Nanosystems</journal-title>
+            <full-journal-title>Micro and Nanosystems</full-journal-title>
+            <journal-seo-title>micro-and-nanosystems</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1876-4037</journal-issn>
+                <journal-issn issn-type="print">1876-4029</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>Science and technology on micro and nanoscales have been attracting great attention globally. <bold>
+                        <italic>Micro and Nanosystems</italic>
+                    </bold> provides a very fast and best forum for experimental and theoretical studies of fundamental and interdisciplinary research on micro and nanoscales. The emphasis is put on applications of micro and nanosystems to  various different disciplines  such as tissue engineering, medicine, energy, environment, food, and security. The topics on nanoimprint lithography, nano-reactor, molecular device, microfluidics, and MEMS are strongly welcome.</p>
+           
+            <p><bold>
+                        <italic>Micro and Nanosystems</italic>
+                    </bold> especially emphasizes on industrial and scalable methods for producing micro and nano scale materials and devices, pushing the technology from science to engineering.</p>
+             </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19700186897</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608057696</ebook-id>
+                        <ebook-title>Micro and Nanomachining Technology Size, Model and Complex Mechanism</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608057696/index.htm</ebook-link>
+                        <ebook-cover>9781608057696.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608057696</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119928</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>11</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>mns-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.microandnanosystems.com/</journal-insight>
+<journal-history>Micro and Nanosystems was launched in 2009. Dr. Javier Carrasco  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The topics to be addressed will include Lab-on-a-chip, microfluidics, nano-biotechnology, micro and nanomanufacturing, printed electronics and MEMS.</journal-description>
+            <keyword-group>
+                <keyword>Micro and Nanosystems</keyword>
+                <keyword>micro and nanoscale</keyword>
+                <keyword>environmental, food, security and consumer</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>mns-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mns@benthamscience.net">mns@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/MNS">bsp-cms.eurekaselect.com/index.php/MNS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20190214-001</article-id>
+            <title-group>
+                <article-title>Synthes, in silico molecular docking &#x0026; pharmacokinetic studies</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/162197/article">Synthesis, In silico Molecular Docking and Pharmacokinetic Studies, In vitro Antimycobacterial and Antimicrobial Studies of New Imidozolones Clubbed with Thiazolidinedione</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 11-JAN-2019</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>11</day>
+                    <month>01</month>
+                    <year>2019</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>
+                    <italic>This article by Dr. Navin B. Patel et al. is published in Current Computer-Aided Drug Design Volume 14, Issue 4 , 2018</italic>
+                </p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Researchers from the Department of Chemistry, Veer Narmad South Gujarat University, India have designed and synthesized azole scaffolds (a series of A series of (E)-5-(4-((Z)-4-substitutedbenzylidene-2-thienylmethylene-5-oxo- 2-phenyl-4,5-dihydro-1H-imidazol-1-yl) benzylidene)thiazolidine-2,4-diones). Analysis of ligand-protein interactions was also conducted using molecular docking studies with (InhA) Enoyl-ACP reductase of the type II fatty acid synthase (FAS-II) system along with an investigation of the ADME properties of the scaffolds for use in oral medicine.</p>
+        <p>In vitro antimycobacterial activity was carried out against the M. tuberculosis H37Rv strain using Lowenstein-Jensen medium and antimicrobial activity against two gram-positive bacteria (S. aureus, S. pyogenes), two gram-negative bacteria (E. coli, P. aeruginosa) and three fungal species (C. albicans, A. niger, A. clavatus) using the broth microdilution method. In silico molecular docking studies were carried out using Glide (grid-based ligand docking) program incorporated in the Schrödinger molecular modeling package by Maestro 11.0 and ADME properties of synthesized compounds was performed using DruLito software.</p>
+        <p>Patel et al's investigations revealed 6 compounds that exhibited promising antimicrobial activity and 1 compound (labelled 3n) which showed very good antimycobacterial activity along with Gilde docking score (-8.864) and with the one violation in Lipinski's rule of five.</p>
+        <p>The researchers note that this is a preliminary result which gives directions for improving pharmaceutical derivatives for the treatment of tuberculosis.</p>
+                
+        
+        <p>The article can be obtained from the following link: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/162197">http://www.eurekaselect.com/162197</ext-link></p>
+    </body>
+</article>

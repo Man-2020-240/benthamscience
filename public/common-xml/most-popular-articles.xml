@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<most-popular-articles>
+	<most-popular-articles-list>
+
+	<journal-entry>
+		<article-journal>acamc</article-journal>
+		<article-entry>
+			<article-volume>16</article-volume>
+			<article-number>4</article-number>
+			<article-year>2016</article-year>
+			<article-title>Recent Developments on 1,2,4-Triazole Nucleus in Anticancer Compounds: A Review</article-title>
+			<article-author>Ramandeep Kaur, Ashish Ranjan Dwivedi, Bhupinder Kumar and Vinod Kumar</article-author>
+			<article-doi>10.2174/1871520615666150819121106</article-doi>
+		</article-entry>
+		<article-entry>
+			<article-volume>17</article-volume>
+			<article-number>2</article-number>
+			<article-year>2017</article-year>
+			<article-title>Breast Cancer: Current Molecular Therapeutic Targets and New Players</article-title>
+			<article-author>Siddavaram Nagini</article-author>
+			<article-doi>10.2174/1871520616666160502122724</article-doi>
+		</article-entry>
+	</journal-entry>
+
+	<journal-entry>
+		<article-journal>ccdt</article-journal>
+		<article-entry>
+			<article-volume>18</article-volume>
+			<article-number>2</article-number>
+			<article-year>2018</article-year>
+			<article-title>Clinical Trials with Oncolytic Measles Virus: Current Status and Future Prospects</article-title>
+			<article-author>Pavlos Msaouel, Mateusz Opyrchal, Angela Dispenzieri, Kah Whye Peng, Mark J. Federspiel, Stephen J. Russell and Evanthia Galanis*</article-author>
+			<article-doi>10.2174/1568009617666170222125035</article-doi>
+		</article-entry>
+		<article-entry>
+			<article-volume>18</article-volume>
+			<article-number>1</article-number>
+			<article-year>2018</article-year>
+			<article-title>Mechanisms for the Inhibition of Colon Cancer Cells by Sulforaphane through Epigenetic Modulation of MicroRNA-21 and Human Telomerase Reverse Transcriptase (hTERT) Down-regulation</article-title>
+			<article-author>Samantha L. Martin, Rishabh Kala and Trygve O. Tollefsbol*</article-author>
+			<article-doi>10.2174/1568009617666170206104032</article-doi>
+		</article-entry>
+	</journal-entry>
+
+	<journal-entry>
+		<article-journal>cdt</article-journal>
+			<article-entry>
+			<article-volume>19</article-volume>
+			<article-number>1</article-number>
+			<article-year>2018</article-year>
+			<article-title>Cytochrome P450 Structure, Function and Clinical Significance: A Review</article-title>
+			<article-author>Palrasu Manikandan and Siddavaram Nagini*</article-author>
+			<article-doi>10.2174/1389450118666170125144557</article-doi>
+		</article-entry>
+	</journal-entry>
+
+
+
+
+	<journal-entry>	
+		<article-journal>cmc</article-journal>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>2</article-number>
+				<article-year>2018</article-year>
+				<article-title>Absolute Configuration Determination by Quantum Mechanical Calculation of Chiroptical Spectra: Basics and Applications to Fungal Metabolites</article-title>
+				<article-author>Stefano Superchi*, Patrizia Scafato, Marcin Gorecki and Gennaro Pescitelli*</article-author>
+				<article-doi>10.2174/0929867324666170310112009</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>1</article-number>
+				<article-year>2018</article-year>
+				<article-title>Structure, Function, Involvement in Diseases and Targeting of 14-3-3 Proteins: An Update</article-title>
+				<article-author>Ylenia Cau, Daniela Valensin, Mattia Mori, Sara Draghi and Maurizio Botta*</article-author>
+				<article-doi>10.2174/0929867324666170426095015</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>11</article-number>
+				<article-year>2018</article-year>
+				<article-title>Immune Checkpoint Inhibitors and Cardiac Toxicity: An Emerging issue</article-title>
+				<article-author>Gilda Varricchi*, Giancarlo Marone, Valentina Mercurio, Maria Rosaria Galdiero, Domenico Bonaduce and Carlo G. Tocchetti*</article-author>
+				<article-doi>10.2174/0929867324666170407125017</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>1</article-number>
+				<article-year>2018</article-year>
+				<article-title>Hydroxypyridinone Derivatives: A Fascinating Class of Chelators with Therapeutic Applications - An Update</article-title>
+				<article-author>Sílvia Chaves, Luca Piemontese, Asha Hiremathad and M. Amélia Santos*</article-author>
+				<article-doi>10.2174/0929867324666170330092304</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>2</article-number>
+				<article-year>2018</article-year>
+				<article-title>Bioactive Metabolites from Pathogenic and Endophytic Fungi of Forest Trees</article-title>
+				<article-author>Marco Masi, Lucia Maddau, Benedetto Teodoro Linaldeddu, Bruno Scanu , Antonio Evidente and Alessio Cimmino*</article-author>
+				<article-doi>10.2174/0929867324666170314145159</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>25</article-volume>
+				<article-number>32</article-number>
+				<article-year>2018</article-year>
+				<article-title>Gut-brain Axis: Role of Lipids in the Regulation of Inflammation, Pain and CNS Diseases</article-title>
+				<article-author>Roberto Russo*, Claudia Cristiano, Carmen Avagliano, Carmen De Caro, Giovanna La Rana, Giuseppina Mattace Raso, Roberto Berni Canani, Rosaria Meli and Antonio Calignano</article-author>
+				<article-doi>10.2174/0929867324666170216113756</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>	
+		<article-journal>cmm</article-journal>
+			<article-entry>
+				<article-volume>16</article-volume>
+				<article-number>6</article-number>
+				<article-year>2016</article-year>
+				<article-title>The Role of the PERK/eIF2 alpha/ATF4/CHOP Signaling Pathway in Tumor Progression During Endoplasmic Reticulum Stress</article-title>
+				<article-author>W. Rozpedek, D. Pytel, B. Mucha, H. Leszczynska, J.A. Diehl and I. Majsterek</article-author>
+				<article-doi>10.2174/1566524016666160523143937</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>	
+		<article-journal>cn</article-journal>
+			<article-entry>
+				<article-volume>14</article-volume>
+				<article-number>7</article-number>
+				<article-year>2016</article-year>
+				<article-title>Brain-derived Neurotrophic Factor (BDNF)-TrkB Signaling in Inflammation-related Depression and Potential Therapeutic Targets</article-title>
+				<article-author>Ji-chun Zhang, Wei Yao and Kenji Hashimoto</article-author>
+				<article-doi>10.2174/1570159X14666160119094646</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>15</article-volume>
+				<article-number>1</article-number>
+				<article-year>2017</article-year>
+				<article-title>Molecular and Cellular Mechanisms of Rapid-Acting Antidepressants Ketamine and Scopolamine</article-title>
+				<article-author>Eric S. Wohleb, Danielle Gerhard, Alex Thomas and Ronald S. Duman</article-author>
+				<article-doi>10.2174/1570159X14666160309114549</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>
+		<article-journal>cnsnddt</article-journal>
+			<article-entry>		
+				<article-volume>15</article-volume>
+				<article-number>3</article-number>
+				<article-year>2016</article-year>
+				<article-title>Inflammatory Mechanisms and Oxidative Stress as Key Factors Responsible for Progression of Neurodegeneration: Role of Brain Innate Immune System</article-title>
+				<article-author>Jerzy Leszek, George E. Barreto, Kazimierz Gąsiorowski, Euphrosyni Koutsouraki, Marco Ávila-Rodrigues and Gjumrakch Aliev</article-author>
+				<article-doi>10.2174/1871527315666160202125914</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>
+		<article-journal>cpd</article-journal>
+			<article-entry>
+				<article-volume>22</article-volume>
+				<article-number>2</article-number>
+				<article-year>2016</article-year>
+				<article-title>Oxidative Stress and Parkinson's Disease: New Hopes in Treatment with Herbal Antioxidants</article-title>
+				<article-author>Amir Sarrafchi, Mahmoud Bahmani, Hedayatollah Shirzad and Mahmoud Rafieian-Kopaei</article-author>
+				<article-doi>10.2174/1381612822666151112151653</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>22</article-volume>
+				<article-number>5</article-number>
+				<article-year>2016</article-year>
+				<article-title>Inflammatory Process in Alzheimer's and Parkinson's Diseases: Central Role of Cytokines</article-title>
+				<article-author>Qamre Alam, Mohammad Zubair Alam, Gohar Mushtaq, Ghazi A. Damanhouri, Mahmood Rasool, Mohammad Amjad Kamal and Absarul Haque</article-author>
+				<article-doi>10.2174/1381612822666151125000300</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>22</article-volume>
+				<article-number>1</article-number>
+				<article-year>2016</article-year>
+				<article-title>Air Pollution Exposure and Blood Pressure: An Updated Review of the Literature</article-title>
+				<article-author>Paolo Giorgini, Paolo Di Giosia, Davide Grassi, Melvyn Rubenfire, Robert D. Brook and Claudio Ferri</article-author>
+				<article-doi>10.2174/1381612822666151109111712</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>	
+		<article-journal>ctmc</article-journal>
+			<article-entry>	
+				<article-volume>16</article-volume>
+				<article-number>11</article-number>
+				<article-year>2016</article-year>
+				<article-title>Sulfur Containing Scaffolds in Drugs: Synthesis and Application in Medicinal Chemistry</article-title>
+				<article-author>Minghao Feng, Bingqing Tang, Steven H. Liang and Xuefeng Jiang</article-author>
+				<article-doi>10.2174/1568026615666150915111741</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>17</article-volume>
+				<article-number>21</article-number>
+				<article-year>2017</article-year>
+				<article-title>An Unprecedented Revolution in Medicinal Chemistry Driven by the Progress of Biological Science</article-title>
+				<article-author>Kuo-Chen Chou*</article-author>
+				<article-doi>10.2174/1568026617666170414145508</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>		
+		<article-journal>lddd</article-journal>
+			<article-entry>	
+				<article-volume>14</article-volume>
+				<article-number>5</article-number>
+				<article-year>2017</article-year>
+				<article-title>Synthesis of Mannich Bases by Two Different Methods and Evaluation of their Acetylcholine Esterase and Carbonic Anhydrase Inhibitory Activities</article-title>
+				<article-author>Halise I. Gul*, Alkan Demirtas, Gokbay Ucar, Parham Taslimi and İlhami Gulcin</article-author>
+				<article-doi>10.2174/1570180814666161128120612</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>	
+		<article-journal>mc</article-journal>
+			<article-entry>
+				<article-volume>13</article-volume>
+				<article-number>6</article-number>
+				<article-year>2017</article-year>
+				<article-title>iPGK-PseAAC: Identify Lysine Phosphoglycerylation Sites in Proteins by Incorporating Four Different Tiers of Amino Acid Pairwise Coupling Information into the General PseAAC</article-title>
+				<article-author>Li-Ming Liu, Yan Xu and Kuo-Chen Chou</article-author>
+				<article-doi>10.2174/1573406413666170515120507</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>	
+		<article-journal>mc</article-journal>
+			<article-entry>
+				<article-volume>13</article-volume>
+				<article-number>6</article-number>
+				<article-year>2017</article-year>
+				<article-title>iPreny-PseAAC: Identify C-terminal Cysteine Prenylation Sites in Proteins by Incorporating Two Tiers of Sequence Couplings into PseAAC</article-title>
+				<article-author>Yan Xu, Zu Wang, Chunhui Li and Kuo-Chen Chou</article-author>
+				<article-doi>10.2174/1573406413666170419150052</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>13</article-volume>
+				<article-number>8</article-number>
+				<article-year>2017</article-year>
+				<article-title>iRNA-2methyl: Identify RNA 2'-O-methylation Sites by Incorporating Sequence-Coupled Effects into General PseKNC and Ensemble Classifier</article-title>
+				<article-author>Wang-Ren Qiu*, Shi-Yu Jiang , Bi-Qian Sun, Xuan Xiao*, Xiang Cheng and Kuo-Chen Chou*</article-author>
+				<article-doi>10.2174/1573406413666170623082245</article-doi>
+			</article-entry>
+	</journal-entry>
+
+	<journal-entry>
+		<article-journal>mrmc</article-journal>
+			<article-entry>
+				<article-volume>16</article-volume>
+				<article-number>3</article-number>
+				<article-year>2016</article-year>
+				<article-title>The Role Oxidative Stress in the Pathogenesis of Eye Diseases: Current Status and a Dual Role of Physical Activity</article-title>
+				<article-author>Joanna Kruk, Katarzyna Kubasik-Kladna and Hassan Y. Aboul-Enein</article-author>
+				<article-doi>10.2174/1389557516666151120114605</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>17</article-volume>
+				<article-number>2</article-number>
+				<article-year>2017</article-year>
+				<article-title>New Progress in Azole Compounds as Antimicrobial Agents</article-title>
+				<article-author>Hui-Zhen Zhang, Lin-Ling Gan, Hui Wang and Cheng-He Zhou</article-author>
+				<article-doi>10.2174/1389557516666160630120725</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>18</article-volume>
+				<article-number>2</article-number>
+				<article-year>2018</article-year>
+				<article-title>A Review on Pharmacological Properties of Coumarins</article-title>
+				<article-author>Devulapally Srikrishna, Chandraiah Godugu and Pramod Kumar Dubey*</article-author>
+				<article-doi>10.2174/1389557516666160801094919</article-doi>
+			</article-entry>
+			<article-entry>
+				<article-volume>18</article-volume>
+				<article-number>1</article-number>
+				<article-year>2018</article-year>
+				<article-title>Recent Progress in Biological Activities of Indole and Indole Alkaloids</article-title>
+				<article-author>Thokchom Prasanta Singh and Okram Mukherjee Singh* </article-author>
+				<article-doi>10.2174/1389557517666170807123201</article-doi>
+			</article-entry>
+	</journal-entry>
+	
+	</most-popular-articles-list>
+</most-popular-articles>

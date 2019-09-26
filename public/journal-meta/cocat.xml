@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">143</journal-id>
+            <journal-code>cocat</journal-code>
+            <journal-eureka-code-one>COCAT</journal-eureka-code-one>
+            <nid nid-status="current">114477</nid>
+            <journal-title>Current Organocatalysis</journal-title>
+            <journal-sub-title>Organocatalysis and Synthetic Methods</journal-sub-title>
+            <full-journal-title>Current Organocatalysis</full-journal-title>
+            <journal-seo-title>current-organocatalysis</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-3380</journal-issn>
+                <journal-issn issn-type="print">2213-3372</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Organocatalysis</italic>
+                    </bold> is an international peer-reviewed journal that publishes significant research in all areas of organocatalysis. The journal covers organo homogeneous/heterogeneous catalysis, innovative mechanistic studies and kinetics of organocatalytic processes focusing on practical, theoretical and computational aspects. It also includes potential applications of organocatalysts in the fields of drug discovery, synthesis of novel molecules, synthetic method development, green chemistry and chemoenzymatic reactions.</p>
+                <p>This journal also accepts papers on methods, reagents, and mechanism of a synthetic process and technology pertaining to chemistry. Moreover, this journal features full-length/mini review articles within organocatalysis and synthetic chemistry. It is the premier source of organocatalysis and synthetic methods related information for chemists, biologists and engineers pursuing research in industry and academia.</p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cocat-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentorganocatalysis.com/</journal-insight>
+<journal-history>Current Organocatalysis was introduced in 2014 with the assistance of Dr. Bimal K. Banik, who is the current Editor-in-Chief serving since 2014.</journal-history>
+            <journal-description>Current Organocatalysis covers organo homogeneous/heterogeneous catalysis, innovative mechanistic studies and kinetics of organocatalytic processes focusing on practical, theoretical and computational aspects.</journal-description>
+            <keyword-group>
+                <keyword>organocatalysis</keyword>
+                <keyword>computational aspects</keyword>
+                <keyword>homogeneous/heterogeneous catalysis</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cocat-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cocat@benthamscience.net">cocat@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/COCAT">bsp-cms.eurekaselect.com/index.php/COCAT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX20</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

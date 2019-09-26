@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170811-002</article-id>
+            <title-group>
+                <article-title>The role of electrochemotherapy in radiosensitization of tumor cells</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/153527/article">Radiosensitizing Effect of Electrochemotherapy: A Systematic Review of Protocols and Efficiency</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 4-JUL-2017</aff>
+            <abstract>
+                <p>This article by Dr. Ali Yadollahpour et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-drug-targets/#top">Current Drug Targets</uri>, Volume 18, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+    <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20170811-002.jpg"/>
+        </p>
+        <p>Radiotherapy is an important method in treatment of tumors, but it can be held responsible for biological damages. Improvements in this therapeutic method have begun by developing targeted drug delivery system along with developing efficient radiosensitizing agents through which targeted uptake of the chemotherapeutic drugs into the tumor cells and tumor specific sensitization are increased. Electroporation (EP) has shown promising potentials as a targeted drug delivery system and radiosensitizing technique. EP increases chemotherapy drug uptake in the tumor cells which in turn increases its intracellular accumulation and thus the radiosensitizing effect. When EP is combined by chemotherapeutic drugs, this treatment is named ECT.</p>
+        <p>There are two basic requirements for an effective ECT: (1) appropriate electrical parameters and (2) type, administration route, and concentration of chemotherapeutic agent. In all studies (preclinical &amp; clinical), the best treatment response was obtained in the group that treated with ECT before irradiation. In addition, previous studies showed that the skin tumors of the head and neck can be successfully treated with a combination of ECT and electron beam in clinics. We can conclude that combination of ECT and radiotherapy can be considered for patients with progressive skin tumors in the head and neck area to increase the likelihood of a favorable therapeutic outcome and to preserve cosmetic appearance and function of the normal surrounding tissues.</p>
+        <p>In summary, three main mechanisms have been reportedly responsible for radiosensitizing effect of ECT: (1) increased drug uptake in the cells due to EP phenomenon, (2) generation of reactive oxygen species by electric pulses, and (3) vascular alteration particularly antivascular effects.</p>
+        <p>For further information about this research, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/153527">http://www.eurekaselect.com/153527</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference: </title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Rezaee</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Radiosensitizing effect of electrochemotherapy: A systematic review of protocols and efficiency.</article-title>
+                    <source>Curr. Drug Targets</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1389450118666170622091014</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

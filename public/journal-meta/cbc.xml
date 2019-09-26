@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">6</journal-id>
+            <journal-code>cbc</journal-code>
+            <journal-eureka-code-one>CBC</journal-eureka-code-one>
+            <nid nid-status="current">583</nid>
+            <journal-title>Current Bioactive Compounds</journal-title>
+            <full-journal-title>Current Bioactive Compounds</full-journal-title>
+            <journal-seo-title>current-bioactive-compounds</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6646</journal-issn>
+                <journal-issn issn-type="print">1573-4072</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>The journal aims to provide full-length/mini review articles as well as research papers on new bioactive compounds with proven activities in various biological screenings and pharmacological models with a special emphasis on stereoeselective synthesis. The aim is to provide a valuable information source of bioactive compounds synthesized or isolated, which can be used for further development of pharmaceuticals by industry and academia.</p>
+                <p>The journal should prove to be essential reading for pharmacologists, natural product chemists and medicinal chemists who wish to be kept informed and up-to-date with the most important developments on new bioactive compounds of natural or synthetic origin, including their stereoeselective synthesis.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>5800173401</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>15</journal-current-volume>
+            <journal-current-issues>6</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cbc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentbioactivecompounds.com/</journal-insight>
+<journal-history>Current Bioactive Compounds was launched in 2005. Dr. Adriano Mollica serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The journal aims to provide comprehensive review articles as well as research papers on new bioactive compounds with proven activities in various biological screenings and pharmacological models with a special emphasis on stereoeselective synthesis.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="Twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cbc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cbc@benthamscience.net">cbc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CBC">bsp-cms.eurekaselect.com/index.php/CBC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+        <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>International Pharmaceutical Abstracts </agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Biological Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

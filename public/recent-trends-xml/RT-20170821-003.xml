@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170821-003</article-id>
+            <title-group>
+                <article-title>A patent study on the great new hope emerging from marine derived anticancer drugs</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/149076/article">Marine Derived Anticancer Drugs Targeting Microtubule</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 21-JUN-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Biswa Prasun Chatterji et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/recent-patents-on-anti-cancer-drug-discovery/#top">Recent Patents on Anti-Cancer Drug Discovery</uri>, Volume 12, Issue 2, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Anticancer agents targeting microtubule from marine sources hold great potential in the field of cancer therapeutics and are gradually advancing in the clinical setup.</p>
+        <p>Microtubule dynamics govern crucial cellular functions and this is why microtubules are one of the most attractive anticancer drug targets. Microtubule targeting agents (MTAs) have the ability to treat a wide range of cancers. However, drug induced cytotoxicity and adverse side effects have hindered their development. Another major setback is multiple drug resistance in tumor cells. These limitations have prompted the need to develop novel MTAs from alternative sources, with better therapeutic efficacies. Recently, MTAs from marine sources have grabbed much attention due to their unique tubulin binding features and remarkable ability to reduce tumor progression.</p>
+        <p>The authors have summarized some of the most promising marine derived MTAs by systematically searching patent databases such as USPTO, Espacenet and WIPO for recent patents published from 2006 up to 2016. After a critical data analysis, only those patents focusing on the chemical synthesis and/or modifications of marine derived MTAs along with a significant demonstration of their in vitro and/or in vivo activity have been reviewed.</p>
+        <p>The survey of recent patents revealed that chemically modified versions of marine derived MTAs, overcoming drug resistance and their novel combination therapies increasing the overall efficacy, have positioned them as future anticancer blockbusters. Of particular interest are dolastatin, laulimalide, peloruside, hemiasterlin, halichondrin, eribulin mesylate, discodermolide, dictyostatin, cryptophycin and their analogs which have significant antiproliferative potency against a wide array of cancers and are also able to overcome multidrug resistance. A deeper understanding of the molecular mechanisms behind the specific drug interactions and of microtubule molecular biology in general, combined with innovative therapeutic regimen would lead to major advances in the field of cancer therapy.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/149076">http://www.eurekaselect.com/149076</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chatterji</surname>
+                            <given-names>B.P.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>A patent study on the great new hope emerging from marine derived anticancer drugs targeting microtubules.</article-title>
+                    <source>Recent Patents Anticancer. Drug Discov.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1574892812666170109141003</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

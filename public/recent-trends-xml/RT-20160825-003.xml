@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20160825-003</article-id>
+<title-group>
+<article-title>Flexibility in the molecular design of acetylcholinesterase reactivators</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/letters-in-drug-design-and-discovery/volume/13/issue/5/page/360/">Flexibility in the Molecular Design of Acetylcholinesterase Reactivators: Probing Representative Conformations by Chemometric Techniques and Docking/QM Calculations</uri></aff>
+<aff><bold>Public Release:</bold> 27-JUL-2016</aff>
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<history>
+                <date date-type="released">
+                    <day>27</day>
+                    <month>07</month>
+                    <year>2016</year>
+                </date>
+            </history>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Willian E.A. de Lima et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/letters-in-drug-design-and-discovery/#top">Letters in Drug Design &#x0026; Discovery Journal</uri> Volume 13, Issue 5, 2016</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>The study of the mechanism of reactivation of acetylcholinesterase (AChE) inhibited by organophosphates (OP) is still a challenge for theoretical chemists since mechanistic studies, involve electronic transfer and breaking and formation of chemical bonds. The solution for this is the Quantum Mechanics/Molecular Mechanics (QM/MM) approach. The QM/MM approach has been implemented with docking, Monte Carlo and molecular dynamics methods. As many configurations are generated in the MM step, the number of QM calculations required in a hybrid QM/MM simulation is too high. In order to circumvent this situation, in this work, an occupancy frequency approach based on chemometric techniques is proposed to select promising representative configurations for reaction mechanism calculations. In fact, this selection method focuses on representative configurations of the whole system that could mimetize the average structure. Thus, the occupancy frequency calculations seem to be a powerful tool in multiscale simulations for sequential QM/MM calculations. It is necessary to emphasize that the investigation about the dynamic contribution ought to be taken into account to select an adequate group of statistically representative conformations. In this way, the configurations produced during the simulation may be radically decreased with no loss of statistical data. We intensively feel that this theoretical investigation may be useful for the design and choice of new acetylcholinesterase reactivators, because the flexibility and stereoselectivity of the reactivation process of AChE by oximes is one of the most serious issues. The occupancy frequency approach can also be extended to other examples, mainly when there is no information about the bioactive conformation from experimental results. Theoretical methods have shown to be a useful tool in the mechanistic study inside enzymes active site.</p>
+</body>
+<back>
+<ref-list>
+<title>Reference</title>
+<ref id="r1"><nlm-citation citation-type="journal"><person-group person-group-type="author"><name><surname>de Lima</surname><given-names>W.A.</given-names></name><etal/></person-group><article-title>Flexibility in the Molecular Design of Acetylcholinesterase Reactivators: Probing Representative Conformations by Chemometric Techniques and Docking/QM Calculations.</article-title><source>Lett. Drug Des. Discov.</source><year>2016</year><pub-id pub-id-type="doi">10.2174/1570180812666150918191550</pub-id></nlm-citation></ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170918-001</article-id>
+            <title-group>
+                <article-title>1-good-neighbor diagnosability of alternating group graph networks under PMC and MM* model</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/148189/article">The 1-Good-Neighbor Diagnosability of Alternating Group Graph Networks Under the PMC Model and MM* Model</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 18-SEP-2017</aff>
+            <abstract>
+                <p>This article by Dr. Shiying Wang and Dr. Ji Jirimutu is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/Recent%20Patents%20on%20Computer%20Science/#top">Recent Patents on Computer Science</uri>, Volume 10, Issue 2, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-170927002.jpg"/>
+        </p>
+        <p>Many multiprocessor systems have interconnection networks as underlying topologies and an interconnection network is usually represented by a graph where nodes represent processors and links represent communication links between processors. For these systems, the study of topological properties of its interconnection network is important. In 2012, Peng et al. proposed a new measure for fault diagnosis of the system, namely, the -good-neighbor diagnosability (which is also called the -good-neighbor conditional diagnosability), which requires that every fault-free node contains at least fault-free neighbors. Since the probability that all the neighbors of a fault vertex fail and create faults is more to the probability that all the neighbors of a fault-free vertex fail and create faults in the system, we consider the situation that no faulty set can contain all the neighbors of any fault-free vertex in the system. In particular, 1-good-neighbor diagnosability of the system is no faulty set containing all the neighbors of any fault-free vertex in the system, which is also called the nature diagnosability of the system.</p>
+        <p>The -dimensional alternating group graph network has been proved to be an important viable candidate for interconnecting a multiprocessor system. The feature of includes low degree of node, small diameter, symmetry, and high degree of fault-tolerance. In this paper, we prove that the 1-good-neighbor diagnosability of is for under the PMC model and MM* model, the 1-good-neighbor diagnosability of 4-dimensional alternating group graph network under the PMC is 4 and the 1-good-neighbor diagnosability of under the MM* model is 3. In this paper, we investigate the problem of 1-good-neighbor diagnosability of under the PMC model and MM* model. It is proved that the 1-good-neighbor diagnosability of under the PMC model and MM* model is when . The above results show that the 1-good-neighbor diagnosability is several times larger than the classical diagnosability of depending on the condition: 1-good-neighbors. The work will help engineers to develop more different measures of 1-good-neighbor diagnosability based on application environment, network topology, network reliability, and statistics related to fault patterns.</p>
+        <p>For more information on this research, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/148189">http://www.eurekaselect.com/148189</ext-link></p>
+    </body>
+</article>

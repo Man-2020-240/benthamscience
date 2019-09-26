@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">151</journal-id>
+            <journal-code>rpst</journal-code>
+            <journal-eureka-code-one>RPTST</journal-eureka-code-one>
+            <journal-eureka-code-two>RPTST</journal-eureka-code-two>
+            <nid nid-status="current">121022</nid>
+            <nid-one nid-status="old">688</nid-one>
+            <journal-title>Recent Progress in Space Technology (Discontinued)</journal-title>
+            <full-journal-title>Recent Progress in Space Technology(Discontinued)</full-journal-title><journal-seo-title>recent-progress-in-space-technology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-6116</journal-issn>
+                <journal-issn issn-type="print">2210-6871</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Progress in Space Technology</italic>
+                    </bold> publishes reviews, research articles and guest edited thematic issues in the field of Space Technology, including reviews on patents. The journal is essential reading for all researchers involved in the fields of Space Technology. Research areas covered by the Journal are: Space exploration , Space colonization, telemetry, satellite television, weather forecasting, Global Positioning System (GPS), Satellite, Asteroid mining, Spacecraft and Aerobot, etc.</p>
+            </journal-aims-scope>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpst-journal-cover.gif</journal-cover-image>
+            <journal-description>The journal is essential reading for all researchers involved in the fields of Space Technology. Research areas covered by the Journal are: Space exploration , Space colonization, telemetry, satellite television, weather forecasting, Global Positioning System (GPS), Satellite, Asteroid mining, Spacecraft and Aerobot</journal-description>
+            <keyword-group>
+                <keyword>Recent Progress in Space Technology</keyword>
+                <keyword>Space exploration</keyword>
+                <keyword>space colonization</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpst-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rptst@benthamscience.org">rptst@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTST">bsp-cms.eurekaselect.com/index.php/RPTST</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>J-Gate</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO.</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180314-002</article-id>
+            <title-group>
+                <article-title>Trastuzumab (Herceptin) and the risk factors for its toxic effects on the heart</article-title>
+            </title-group>
+            <aff>
+                <bold>Research article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/157882">Toxicology of Trastuzumab: An Insight into Mechanisms of Cardiotoxicity</uri>
+            </aff>
+            <aff>
+                <bold>PUBLIC RELEASE:</bold> 14-MAR-2018</aff>
+            <abstract>
+                <p>This article by Dr. M. Saeed Sheikh and Dr. Jie An is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/ccdt/">Current Cancer Drug Targets</uri>, Volume 18, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Trastuzumab (Herceptin) is a monoclonal antibody for the treatment of breast and stomach cancers. Although trastuzumab is a valuable therapeutic, its toxicity on the heart remains a major concern. Trastuzumab mediates such toxic effects via various mechanisms and there are several risk factors for its cardiotoxic effects. Single nucleotide polymorphisms for HER2 gene are of particular interest as risk factors because of their predictive value to improve the utility of trastuzumab via pharmacogenomics and pharmacogenetics approaches.</p>
+        <p>Trastuzumab (also known as Herceptin) is a humanized monoclonal antibody that is used for the treatment of breast and stomach cancers. Trastuzumab binds to cell surface molecule HER2, a member of the Epidermal Growth Factor Receptor (EGFR) family. Increased levels of HER2 are noted in breast and gastric cancers. Abnormal levels of HER2 send aberrant signals inside cells that contribute to tumor growth, and trastuzumab blocks these signals thereby mediating the anticancer effects. The mechanisms via which trastuzumab mediates these effects are multifaceted and although it has proven to be a valuable agent, its toxicity on the heart is a major concern. In their scholarly article titled, &#x201C;Toxicology of Trastuzumab: An Insight into Mechanisms of Cardiotoxicity&#x201D;, Drs. An and Sheikh have reviewed the possible mechanisms by which trastuzumab could potentially mediate its toxic effects on the heart. The authors have also discussed the potential risk factors for trastuzumab-induced cardiac toxicity.</p>
+        <p>Trastuzumab has a box warning about its toxic effects such as &#x201C;cardiomyopathy, infusion reactions, embryo-fetal toxicity and pulmonary toxicity&#x201D;. Congestive heart failure, significant decrease in left ventricular cardiac function, serious infusion reactions, and pulmonary toxicity are the serious situations warranting temporary or complete stoppage of trastuzumab use.</p>
+        <p>In the heart, HER2 (the trastuzumab&#x2019;s target) and other members of the EGFR family such as HER4 and HER3 have important physiological functions.  The heart endothelial cells secrete Neuregulin 1 (NRG-1) that binds to HER4 and HER3 and induces their dimerization with HER2, and consequently activates PI3K/Akt, MAPK and Src/FAK pathways. Activation of these signaling pathways serves to confer protective effects on the heart, and trastuzumab by binding to HER2 could potentially disrupt these protective effects. Trastuzumab-mediated cardiotoxic effects may also involve inhibition of anti-apoptotic pathways and increase in angiotensin II (ANGII). ANGII is suggested to inhibit the protective effects of NRG-1. Additional mechanisms appear to involve inhibition of expression of genes associated with DNA repair, cardiac and mitochondrial functions. Inhibition of stem cells and autophagy in the heart is also implicated.</p>
+        <p>Several risks factors have been implicated in trastuzumab-mediated toxic effects on the heart. Co-treatment with anthracyclines such as doxorubicin or epirubcin, or prior history of their use is associated with enhanced risk of trastuzumab cardiac toxicity. Renal dysfunction, alcohol consumption, hypertension, diabetes, older age and the history of heart disease are also risk factors for the toxic effects of trastuzumab on the heart.</p>
+        <p>Single nucleotide polymorphisms (SNPs) for HER2 gene are additional risk factors. Two SNPs including rs1136201 and rs1058808 in the coding region of HER2 are of note. The rs1136201 is associated with a change at codon 655 that results in valine residue in place of isoleucine consequently affecting the transmembrane domain of the HER2 receptor. The rs1058808 is linked to a change at codon 1170 that leads to alanine in place of proline thereby affecting the tail region of HER2 protein. These SNPs have the potential to affect the function of HER2 receptor. In certain patients, these polymorphisms are associated with trastuzumab-induced toxic effects on the heart. Additional studies particularly those involving pharmacogenomics and pharmacogenetics approaches are needed to further refine the patient population with these SNPs at risk of developing the toxic effects of trastuzumab. In the future, pharmacogenetic tests can be developed to harness the predictive value of these polymorphisms and to improve the utility of trastuzumab, which is an effective cancer therapeutic. </p>
+        <p>
+            <bold>Keywords:&#x00A0;</bold>Trastuzumab, Pertuzumab, Ado-trastuzumab, cardiotoxicity, breast cancer, gastric cancer, risk factors.</p>
+    </body>
+</article>

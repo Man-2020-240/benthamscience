@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<instructions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<sec>
+        <title>Bentham Journal Management System</title>
+        <sec>
+            <title>Online Manuscript Submission and Tracking System</title>
+            <div class="row" style="padding:20px; padding-top:0px;">
+			<div class="col-md-10" style="padding:10px; vertical-align:top; font-size:17px; font-style:italic;">The Journal Management System (JMS) is a web-based manuscript submission and tracking system developed by Bentham Science Publishers for efficient, fast and cost effective processing of submitted manuscripts. JMS has been designed with the objective to ensure step-by-step online processing and tracking of manuscripts for authors, editors and the publisher; from submission to acceptance and final reproduction.</div>
+			<div class="col-md-2" style="font-size:4em; border-radius:7px; background-color:#F66108;"><graphic xlink:href="../journal-images/instructions/JMS.png"/></div>
+			</div>
+            <div style="box-shadow: 0px 2px 10px #888888; padding:3px;">
+			<ul class="nav nav-pills">
+				<li class="active" style="text-align:right;" role="presentation">
+					<a data-toggle="tab" aria-expanded="true" href="#tab01">
+						Introduction
+					</a>
+				</li>
+				<li style="text-align:right;" role="presentation">
+					<a data-toggle="tab" aria-expanded="false" href="#tab02">
+						Getting Started
+					</a>
+				</li>
+				<li style="text-align:right;" role="presentation">
+					<a data-toggle="tab" aria-expanded="false" href="#tab03">
+						Peer-Reviewing and Editorial Decision
+					</a>
+				</li>
+				<li style="text-align:right;" role="presentation">
+					<a data-toggle="tab" aria-expanded="false" href="#tab04">
+						Online Paper Tracking
+					</a>
+				</li>
+				<li style="text-align:right;" role="presentation">
+					<a data-toggle="tab" aria-expanded="false" href="#tab05">
+						For enquiries
+					</a>
+				</li>
+			</ul>
+			
+            <div class="tab-content" style="padding:3px;">
+            <div class="tab-pane active" id="tab01" style="box-shadow: 0px 2px 10px #888888; padding:10px;">
+                <title>Introduction:</title>
+                <p>JMS is a user friendly system that can be conveniently operated. The system allows rapid and easy submission of original and revised manuscripts and indicates their status throughout the submission process. Authors accessing the system for the first time will be required to Register themselves online at <uri xlink:href="https://bentham.manuscriptpoint.com">https://bentham.manuscriptpoint.com</uri> and create a JMS account to submit a paper to a particular journal from the available list in the registration form.</p>
+                <p>Once registered, authors will not be required to REGISTER again. They may submit another manuscript to the same journal or any other Bentham Science journal using the same USER ID and PASSWORD.</p>
+                <p>The Author can type the keyword in the search field to search the relevant journal an indicated by an arrow.</p>
+                <table frame="none" rules="none" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:center"><graphic xlink:href="../journal-images/instructions/intro.png"/></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>Each manuscript submission will be followed by a confirmation email to the corresponding author. Authors can log onto JMS at any time to view the status of their manuscripts. The system will notify the corresponding author by e-mail once a decision has been made on the peer-reviewed manuscript.</p>
+            </div>
+            <div class="tab-pane" id="tab02" style="box-shadow: 0px 2px 10px #888888; padding:10px;">
+                <title>Getting Started:</title>
+                <p>1. The submission process for authors is simplified in four steps: enter manuscript information;</p>
+                <p>2. Log on to JMS at <uri xlink:href="http://jms.eurekaselect.com/journals/">http://jms.eurekaselect.com/journals/</uri>,</p>
+                <table frame="none" rules="none" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:center"><graphic xlink:href="../journal-images/instructions/getting-start.png"/></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>3. Register yourself as an Author for any Bentham journal.</p>
+                <table frame="none" rules="none" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:center"><graphic xlink:href="../journal-images/instructions/getting-start2.png"/></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>4. The submitting author will receive an email confirmation from JMS.</p>
+                <p>5. The author can submit the ABSTRACT or complete MANUSCRIPT after completing the registration form.</p>
+                <table frame="none" rules="none" width="100%">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:center"><graphic xlink:href="../journal-images/instructions/getting-start3.png"/></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>6. Upload manuscript files (as MS Word, PDF or a single Zip folder) figures, tables, schemes, video files etc.</p>
+                <p>7. When you have selected all the files you wish to upload, click the Save &#x0026; Continue button.</p>
+            </div>
+            <div class="tab-pane" id="tab03" style="box-shadow: 0px 2px 10px #888888; padding:10px;">
+                <title>Peer-Reviewing and Editorial Decision:</title>
+                <p>Journals Editors receive an email alert for a new submission and must then assign reviewers on the manuscript. The reviewers receive a notification email requesting for peer-reviewing the assigned manuscript. Interested reviewers submit their comments online. Alternatively, they may decline the activity online. Authors receive a peer-reviewing completion notification with the editorial decision by email. The authors may retrieve the reviewers comments from JMS. Revised manuscripts must be submitted along with a response letter. Manuscripts will be subjected to final reviewing by the Reviewers/Editors and an editorial decision will be duly conveyed to the authors regarding their submitted work.</p>
+            </div>
+            <div class="tab-pane" id="tab04" style="box-shadow: 0px 2px 10px #888888; padding:10px;">
+                <title>Online Paper Tracking:</title>
+                <p>Authors may track all the stages of publication online until their manuscript is finalized and is ready for publication. Log onto JMS and click the article title from the available list of your submitted manuscripts to view the detailed status at every stage of peer-review and editorial decision.</p>
+            </div>
+            <div class="tab-pane" id="tab05" style="box-shadow: 0px 2px 10px #888888; padding:10px;">
+                <title>For enquiries:</title>
+                <p>Please visit <uri xlink:href="http://jms-support.eurekaselect.com/open.php">http://jms-support.eurekaselect.com/open.php</uri></p>
+            </div>
+			</div>
+			</div>
+        </sec>
+    </sec>
+</instructions>

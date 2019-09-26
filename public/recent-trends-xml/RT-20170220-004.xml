@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170220-004</article-id>
+            <title-group>
+                <article-title>The role of size in development of mucosal liposome-lipopeptide vaccine</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144080">The Role of Size in Development of Mucosal Liposome-Lipopeptide Vaccine Candidates Against Group A Streptococcus</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 20-JAN-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Khairunnisa A. Ghaffar et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/medicinal-chemistry/#top">Medicinal Chemistry</uri>, Volume 13, Issue 1, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Group A Streptococcus (GAS), or Streptococcus pyogenes is an exclusivel y human Gram-positive pathogenic bacteria. A delay in treatment of GAS infection often lead to severe diseases such as rheumatic heart disease which attributes to hundreds of thousands deaths annually. For the past few decades, the quest for a commercial GAS vaccine has been futile mainly due to the presence of multiple GAS serotypes (more than 200). Currently, one of the most investigated strategies used to develop a vaccine against GAS includes the use of conserved epitopes from a major virulent factor of GAS, i.e. the M-protein. In this study, lipopeptide bearing two lipid moieties, a major B-cell GAS epitope derived from the M-protein (J14) and a universal T-helper epitope (P25) were chosen as the vaccine candidate. Cationic liposomes were used as the delivery vehicle due to their ability to adhere to the negatively charged membrane of the cells in the mucosa. As size was often reported to have an influence on immune response, liposomes of varying sizes (70 nm to 1000 nm) encapsulating the vaccine candidate were prepared. The mice were immunized intranasally with the liposomes of different sizes. Though the differences between these groups were not statistically significant, a trend was observed whereby the level of IgG production was inversely proportional to the size of liposomes.In addition, a mixture of different liposome sizes elicited the same antibody titres as the smallest liposomes. Nonetheless, all mice which were immunized with a liposome-lipopeptide delivery system elicited high levels of systemic (IgG) and mucosal antibodies (IgA), which were discernably higher than those induced with the help of commercial adjuvant (cholera toxin B subunit). Furthermore, the produced systemic antibodies were able to opsonize GAS clinical isolates.</p>
+        <p>For more information about the article, please visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/medicinal-chemistry/article/144080/">http://benthamscience.com/journals/medicinal-chemistry/article/144080/</uri></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ghaffar</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                    </person-group>
+                    <source>The Role of Size in Development of Mucosal Liposome-Lipopeptide Vaccine Candidates Against Group A Streptococcus</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1573406412666160720093138</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<social-media>
+    <sec>
+        <title>Social MEDIA AT BENTHAM SCIENCE PUBLISHERS</title>
+        <p>Welcome to Benthams social media page. Here you can have a look at our social media profile on various forums.</p>
+        <p>We are pleased to invite you to Follow and Join our social forums. You can ask questions, share your community and much more.</p>
+    </sec>
+    <social-media-list social-media-list-type="company-page">
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers - Worldwide</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="wordpress">http://benthamsciencepublishers.wordpress.com/</social-media-link>
+                <social-media-link social-media-link-type="youtube">https://www.youtube.com/channel/UCFzSVHgGkjFW2Q8WV8-gzUw</social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers India</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers US</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers Japan</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers IR</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers UK</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers ebooks</social-media-name>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+    </social-media-list>
+    <social-media-list social-media-list-type="importance-pages">
+        <social-media-entry>
+            <social-media-name>High Imapct Factors Journal</social-media-name>
+			<social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers Reprints</social-media-name>
+			<social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Bentham Science Publishers Librarian Network</social-media-name>
+			<social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+        <social-media-entry>
+            <social-media-name>Open Access Plus</social-media-name>
+			<social-media-link-list>
+                <social-media-link social-media-link-type="facebook">
+                </social-media-link>
+            </social-media-link-list>
+        </social-media-entry>
+    </social-media-list>
+</social-media>

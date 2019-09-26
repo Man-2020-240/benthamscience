@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blocked-countries>
+	<country-entry>
+		<country-name>Korea</country-name>
+		<country-code>KP</country-code>
+	</country-entry>
+	<country-entry>
+		<country-name>Israel</country-name>
+		<country-code>IL</country-code>
+	</country-entry>
+	<country-entry>
+		<country-name>Iran</country-name>
+		<country-code>IR</country-code>
+	</country-entry>
+	<country-entry>
+		<country-name>Syrian Arab Republic</country-name>
+		<country-code>SY</country-code>
+	</country-entry>
+	<country-entry>
+		<country-name>Sudan</country-name>
+		<country-code>SD</country-code>
+	</country-entry>
+	<country-entry>
+		<country-name>Sudan</country-name>
+		<country-code>SD</country-code>
+	</country-entry>
+</blocked-countries>

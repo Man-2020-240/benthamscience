@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">109</journal-id>
+            <journal-code>aps</journal-code>
+            <journal-eureka-code-one>APS</journal-eureka-code-one>
+            <nid nid-status="current">686</nid>
+            <journal-title>Adolescent Psychiatry</journal-title>
+            <full-journal-title>Adolescent Psychiatry</full-journal-title>
+            <journal-seo-title>adolescent-psychiatry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-6774</journal-issn>
+                <journal-issn issn-type="print">2210-6766</journal-issn>
+            </journal-issn-list>
+            <journal-special-offer>
+                <special-offer-logo>american-society-for-adolescent.gif</special-offer-logo>
+                <special-offer-link>https://benthamscience.com/journals/adolescent-psychiatry/special-offer-details/SO-20140219-001/</special-offer-link>
+            </journal-special-offer>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Adolescent Psychiatry</italic>
+                    </bold> a peer-reviewed journal, aims to provide mental health professionals who work with adolescents with current information relevant to the diagnosis and treatment of psychiatric disorders in adolescents.</p>
+                <p>
+                    <bold>
+                        <italic>Adolescent Psychiatry</italic>
+                    </bold> reports of original research, critical/mini reviews of topics relevant to practitioners, clinical observations with analysis and discussion, analysis of philosophical, ethical or social aspects of the fields of psychiatry and mental health, case reports with discussions, letters, and position papers.</p>
+                <p>Topics include adolescent development and developmental psychopathology, psychotherapy and other psychosocial treatment approaches, psychopharmacology, and service settings and programs. The primary focus of the work should be on adolescents, transition-aged youth, or emerging adults, that is, persons 12-24 years of age . Articles on families of adolescents, or adults who have been followed since adolescence will also be considered.</p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>aps-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.adolescentpsychiatryinfo.com/</journal-insight>
+<journal-history>Adolescent Psychiatry was introduced in 2011 with the assistance of Dr. Lois T. Flaherty, who is the current Editor-in-Chief serving since 2011.</journal-history>
+            <journal-society-accreditation>
+                <society-entry>
+                    <society-name>American Society for Adolescent Psychiatry</society-name>
+                    <society-logo>american-society-for-adolescent-psychiatry.gif</society-logo>
+                    <society-link>
+                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://adolescent-psychiatry.org/">http://adolescent-psychiatry.org/</uri>
+                    </society-link>
+                </society-entry>
+            </journal-society-accreditation>
+            <journal-description>Adolescent Psychiatry, a peer-reviewed journal, and the official journal of the American Society for Adolescent Psychiatry,  aims to provide mental health professionals who work with adolescents with current information relevant to the diagnosis and treatment of psychiatric disorders in adolescence.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Adolescent-Psychiatry/300016823461142</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>aps-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aps@benthamscience.net">aps@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/APS">bsp-cms.eurekaselect.com/index.php/APS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>PsycINFO</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

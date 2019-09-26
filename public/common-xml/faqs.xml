@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<faqs>
+    <sec>
+        <title>General FAQ’s</title>
+        <sec>
+            <title>For Authors:</title>
+            <question-list>
+                <question-entry id="AUTHQ1">
+                    <question-text>How do I publish my article?</question-text>
+                    <answer-text>Please submit your article online. An online submission and tracking service via Internet facilitates a speedy and cost-effective submission of manuscripts. The full manuscript has to be submitted online via Bentham's Content Management System (CMS) at (bsp-cms.eurekaselect.com). The link “Submit Manuscript Online” leads you directly to the submission system used by that journal.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ2">
+                    <question-text>What reference style should I use?</question-text>
+                    <answer-text>For Author’s convenience Bentham has developed templates to help you prepare your manuscript. </answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ3">
+                    <question-text>How do I submit my manuscript?</question-text>
+                    <answer-text>Please submit your article online. An online submission and tracking service via Internet facilitates a speedy and cost-effective submission of manuscripts. The full manuscript has to be submitted online via Bentham's Content Management System (CMS) at (bsp-cms.eurekaselect.com). The link “Submit Manuscript Online” leads you directly to the submission system used by that journal.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ4">
+                    <question-text>What is CMS?</question-text>
+                    <answer-text>The Content Management System (CMS) is a web-based manuscript submission and tracking system developed by Bentham Science Publishers for efficient, fast and cost effective processing of submitted manuscripts. CMS has been designed with the objective to ensure step-by-step online processing and tracking of manuscripts for authors, editors and the publisher; from submission to acceptance and final reproduction.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ5">
+                    <question-text>How do I check the status of my submitted article?</question-text>
+                    <answer-text>Each manuscript submission will be followed by a confirmation email to the corresponding author.
+                    <break/>Authors may track all the stages of publication online until their manuscript is finalized and is ready for publication. Log onto CMS and click the article title from the available list of your submitted manuscripts to view the detailed status at every stage of peer-review and editorial decision.
+                </answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ6">
+                    <question-text>How long will it take to process my submitted manuscript?</question-text>
+                    <answer-text>Most journals aim to communicate decisions to authors within three to four months of the start of the review process. There are a number of factors that may influence the actual time taken, most notably the availability and responsiveness of the article's referees. In consequence, peer review times do vary per journal. During the peer review process article will show a status of ‘Under Review’.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ7">
+                    <question-text>Are there any charges for publishing in BSP journals?</question-text>
+                    <answer-text>For the majority of Bentham journals, publishing an article is free of charge. If a journal requires page charges, you will find them on the journal's Instructions for Authors.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ8">
+                    <question-text>What is Scholar One?</question-text>
+                    <answer-text>Scholar One Manuscripts is the premier journal and peer review tool for scholarly publishers and societies. <break/>
+                	Scholar One Manuscripts has broad application in the marketplace, used by some of the most prestigious commercial publishers, societies, associations, and university presses in the world. Its high-level configuration delivers overviews of manuscript status and identifies bottlenecks to maximize workflow capacity.</answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+        <sec>
+            <title>For Reviewers</title>
+            <question-list>
+                <question-entry id="REVQ1">
+                    <question-text>What is CMS?</question-text>
+                    <answer-text>The Content Management System (CMS) is a web-based manuscript submission and tracking system developed by Bentham Science Publishers for efficient, fast and cost effective processing of submitted manuscripts. CMS has been designed with the objective to ensure step-by-step online processing and tracking of manuscripts for authors, editors, reviewers and the publisher; from submission to acceptance and final reproduction.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ2">
+                    <question-text>How can I become a reviewer?</question-text>
+                    <answer-text>Typically reviewers are invited to conduct a review by a journal or editor. Editors usually select researchers that are experts in the same subject area as the paper. However, if you think you would be a good reviewer for a specific journal you can always contact one of the journal's editors.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ3">
+                    <question-text>Where can I access articles for review?</question-text>
+                    <answer-text>The reviewers will receive a notification email requesting for peer-reviewing the assigned manuscript. Interested reviewers will submit their comments online. Alternatively, they may decline the activity online.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ4">
+                    <question-text>How do I post my review comments?</question-text>
+                    <answer-text>Interested reviewers will submit their comments online via Bentham's Content Management System (CMS) at (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/">bsp-cms.eurekaselect.com</uri>)</answer-text>
+                </question-entry>
+                <question-entry id="REVQ5">
+                    <question-text>For Subscribers and Librarians?</question-text>
+                    <answer-text>For subscriber &#x0026; Librarians inquiries write at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscription@benthamscience.org">subscription@benthamscience.org</email>.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ6">
+                    <question-text>Where can I find the subscription rates for all the journals?</question-text>
+                    <answer-text>Subscription rate of current year &#x0026; previous year can be found on the below links respectively:<break/>
+						<list list-type="order">
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2016/">http://benthamscience.com/journal-subscriptions/2016/</uri>
+			                    </p>
+			                </list-item>
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2016/">http://benthamscience.com/journal-subscriptions/2016/</uri>
+			                    </p>
+			                </list-item>
+			            </list> 
+				 </answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+    </sec>
+    <sec>
+        <title>FAQ’s for e-prints/reprints</title>
+        <sec>
+            <title>REPRINTS:</title>
+            <question-list>
+                <question-entry id="REPQ1">
+                    <question-text>What is a reprint?</question-text>
+                    <answer-text>Reprints are customized, reproductions of articles printed on high-quality paper for your marketing and training needs. Reprints can be used to share articles with your prospects at trade shows and conferences, or used to mail articles to your customers.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ2">
+                    <question-text>How and where are reprints typically used?</question-text>
+                    <answer-text>There are many creative ways to utilize reprints, in healthcare industry reprints are used when pharmaceutical companies require reprints based on their research. They contact communication companies to provide them with reprints.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ3">
+                    <question-text>What kind of paper will my reprint be printed on?</question-text>
+                    <answer-text>All our reprints are printed on 60-lb. glossy paper.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ4">
+                    <question-text>Can I have color reprints?</question-text>
+                    <answer-text>Yes, reprints can be printed in color or if preferred, color articles can be converted to black &#x0026; white. Additional fee may apply.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ5">
+                    <question-text>What is the standard delivery time?</question-text>
+                    <answer-text>Orders have a maximum turn-around time of 36 business days from receipt of your order to delivery - at any destination, whatever the quantity. We can also accommodate rush orders.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ6">
+                    <question-text>What are the costs?</question-text>
+                    <answer-text>The cost is calculated based on the number of pages, color or black and white quality and the quantity required.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ7">
+                    <question-text>Is there a minimum order?</question-text>
+                    <answer-text>Reprints require a minimum order of 25 copies.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ8">
+                    <question-text>I need an inventory code on my reprints: can this be done?</question-text>
+                    <answer-text>Yes, we can print your code on the last page of the reprint.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ9">
+                    <question-text>Can my company logo be added?</question-text>
+                    <answer-text>Yes, in most cases, this is permissible.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ10">
+                    <question-text>Can I add a cover to my reprint?</question-text>
+                    <answer-text>Title page covers are included. These covers include the journal's logo, article title, author name(s) and citation information printed on Journal cover page.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ11">
+                    <question-text>Can I add supplementary information to my reprint?</question-text>
+                    <answer-text>Reprints can be customized with additional typesetting (including supplementary information published online), product codes or logos, as well as info about your project or organization, a CV/résumé, biography or advertisement. Additional fees may apply.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ12">
+                    <question-text>Can I reprint my color article in black and white?</question-text>
+                    <answer-text>Yes, color graphics can be converted to grayscale for printing in black and white.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ13">
+                    <question-text>Can I reprint an older article?</question-text>
+                    <answer-text>Yes, we can.</answer-text>
+                </question-entry>
+                <question-entry id="REPQ14">
+                    <question-text>Can I see a proof of my reprint?</question-text>
+                    <answer-text>Proofs are provided only for customized reprints (i.e. codes, disclaimers, PI’s, etc.) in 4 working days for standard delivery and in 2 days when the order is expedited. Proofs must be approved in 3 days to ensure delivery in <bold>36 business days</bold> for standard shipping. For rush orders, proofs must be approved in <bold>24 hours</bold> or less. </answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+        <sec>
+            <title>COMMERCIAL REPRINTS:</title>
+            <question-list>
+                <question-entry id="CREPQ1">
+                    <question-text>How are articles reprinted?</question-text>
+                    <answer-text>Reprints are available exactly as originally printed. They can be ordered in black and white or full color and can be customized with additional typesetting, logos and covers.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ2">
+                    <question-text>Can I add supplementary information to my reprint?</question-text>
+                    <answer-text>Reprints can be customized with additional typesetting, product codes or logos, as well as info about your project or organization, or advertisement. Additional fees may apply.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ3">
+                    <question-text>Can I reprint my color article in black and white?</question-text>
+                    <answer-text>Yes, color graphics can be converted to grayscale for printing in black and white.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ4">
+                    <question-text>Can I reprint an older article?</question-text>
+                    <answer-text>Yes, we can.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ5">
+                    <question-text>Can I reprint an issue?</question-text>
+                    <answer-text>Yes, generally it is possible to reprint entire issues in large quantities.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ6">
+                    <question-text>Can I reprint an entire supplement?</question-text>
+                    <answer-text>Yes, the entire supplement can be reprinted.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ7">
+                    <question-text>Can I combine various articles into one reprint?</question-text>
+                    <answer-text>Yes, it can be done but additional charges may apply.</answer-text>
+                </question-entry>
+                <question-entry id="CREPQ8">
+                    <question-text>Can I see a proof of my reprint?</question-text>
+                    <answer-text>Proofs are provided only for customized reprints (i.e. codes, disclaimers, PI’s, etc.) in <bold>4 working days</bold> for standard delivery and in 2 days when the order is expedited. Proofs must be approved in <bold>3 days</bold> to ensure delivery in <bold>36 business days</bold> for standard shipping. For rush orders, proofs must be approved in <bold>24 hours</bold> or less.</answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+        <sec>
+            <title>EPRINTS:</title>
+            <question-list>
+                <question-entry id="EPQ1">
+                    <question-text>What is an e-print and how does it differ from a Reprint?</question-text>
+                    <answer-text>An e-print is an electronic copy of an article that can be purchased in multiple units, with full copyright compliance. It is downloaded from the publishers secure servers and can be used internally within your organization or for external purposes. Reprints are a similar concept, but your original quality article is delivered on paper.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ2">
+                    <question-text>Can I add a cover to my e-print?</question-text>
+                    <answer-text>In most of the cases, yes you can.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ3">
+                    <question-text>Can I add supplementary information to my e-print?</question-text>
+                    <answer-text>Yes.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ4">
+                    <question-text>Can older articles be supplied as e-prints?</question-text>
+                    <answer-text>Yes</answer-text>
+                </question-entry>
+                <question-entry id="EPQ5">
+                    <question-text>Can I buy a PDF for electronic distribution or post on a website?</question-text>
+                    <answer-text> Purchase of an e-print is required. </answer-text>
+                </question-entry>
+                <question-entry id="EPQ6">
+                    <question-text>What happens when the PDF uses run out?</question-text>
+                    <answer-text>You will be notified that your PDF license is about to expire. At that time you may renew your license.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ7">
+                    <question-text>Can I translate the article?</question-text>
+                    <answer-text>Yes, we will provide you the permission to do this.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ8">
+                    <question-text>How do I get further information?</question-text>
+                    <answer-text>You can get further information at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ambreenirshad@benthamscience.org">ambreenirshad@benthamscience.org</email></answer-text>
+                </question-entry>
+                <question-entry id="EPQ9">
+                    <question-text>For Subscribers and Librarians?</question-text>
+                    <answer-text>For subscriber &#x0026; Librarians inquiries write at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscription@benthamscience.org">subscription@benthamscience.org</email>.</answer-text>
+                </question-entry>
+                <question-entry id="EPQ10">
+                    <question-text>Where can I find the subscription rates for all the journals?</question-text>
+                    <answer-text>Subscription rate of current year &#x0026; previous year can be found on the below links respectively:<break/>
+			            <list list-type="order">
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2016/">http://benthamscience.com/journal-subscriptions/2016/</uri>
+			                    </p>
+			                </list-item>
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2016/">http://benthamscience.com/journal-subscriptions/2016/</uri>
+			                    </p>
+			                </list-item>
+			            </list>
+		            </answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+    </sec>
+</faqs>

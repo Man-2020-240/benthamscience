@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">104</journal-id>
+            <journal-code>cppm</journal-code>
+            <journal-eureka-code-one>CPPM</journal-eureka-code-one>
+            <journal-eureka-code-two>CPG</journal-eureka-code-two>
+            <nid nid-status="current">681</nid>
+            <nid-one nid-status="old">621</nid-one>
+            <journal-title>Current Pharmacogenomics and Personalized Medicine</journal-title>
+            <full-journal-title>Current Pharmacogenomics and Personalized Medicine</full-journal-title>
+            <journal-seo-title>current-pharmacogenomics-and-personalized-medicine</journal-seo-title>
+            <journal-former-title>Current Pharmacogenomics</journal-former-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6913</journal-issn>
+                <journal-issn issn-type="print">1875-6921</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Pharmacogenomics and Personalized Medicine</italic>
+                    </bold> (CPPM) is a transdisciplinary peer-reviewed biomedical journal that reports new findings and cutting-edge concepts in both pharmacogenomics and personalized medicine under a single cover. CPPM is an accelerator for global personalized medicine and pharmacogenomics. Importantly, the journal provides a multi-disciplinary integrated platform from cell to society to address diagnostics and responsible pharmacogenomics applications in developing countries.</p>
+                <p>CPPM cooperates with the Ibero-American Network of Pharmacogenetics and the Pacific Rim Association for Clinical Pharmacogenetics and welcomes peer reviewed contributions from qualified authors in any global region including the Central and Latin American countries, Asia-Pacific and developing countries.</p>
+                <p>The Journal scope is defined by three inter-connected aims. First, we are interested in genomics/postgenomics biotechnologies and diagnostics that enable global personalized medicine science (including and beyond pharmacogenomics) as long as they explain person-to-person and population differences in disease susceptibility or response to a health intervention, and they can be mechanistically substantiated. Second, we approach personalized medicine as ‘personalized health interventions’ focusing primarily on drug therapy, but also other interventions such as nutrition, vaccines, surgical devices, emerging cell-based therapies that collectively contribute to healthcare. Third, we strive to integrate molecular and clinical investigation with public policy, global health diplomacy and social studies of biotechnology that collectively shape postgenomics future(s) and innovation trajectories in life sciences. Priority will be given to expert reviews/ mini-reviews and research articles that include original ideas and findings related to the journal scope and mandate.</p>
+                <!--<p>This journal follows the International Committee of Medical Journal Editors (ICMJE) (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.icmje.net">www.icmje.org</uri>) guidance for authorship, peer review and editorial independence. All manuscripts submitted for publication will be immediately subjected to editorial scrutiny. Manuscripts that do not conform to the CPPM format and editorial style will be returned to the authors. Only those articles that may potentially pass the rigorous standards of the peer review process are sent out for critical appraisal by independent expert referees invited from the international editorial board and the broader scientific community.</p>
+                <p>CPPM offers a transdisciplinary, peer-reviewed and intellectually stimulating forum for academic researchers, health professionals, pharmaceutical and biotechnology industries, policy makers, government and global health stakeholders interested in pharmacogenomics and global personalized medicine. The journal is published two times per year and printed on acid-free paper.</p>
+            --></journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>17700156434</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>17</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cppm-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentpharmacogenomicsandpersonalizedmedicine.com/</journal-insight>
+<journal-history>Current Pharmacogenomics was launched in 2003 and later renamed in 2008 as  Current Pharmacogenomics and Personalized Medicine.</journal-history>
+            <journal-description>Current Pharmacogenomics and Personalized Medicine offers a transdisciplinary, peer-reviewed and intellectually stimulating forum for academic researchers, health professionals, pharmaceutical and biotechnology industries, policy makers.</journal-description>
+            <keyword-group>
+                <keyword>Personalized Medicine</keyword>
+                <keyword>Pharmacogenomics</keyword>
+                <keyword>biotechnology industries</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cppm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cppm@benthamscience.net">cppm@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CPPM">bsp-cms.eurekaselect.com/index.php/CPPM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>EMBiology</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Media Finder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

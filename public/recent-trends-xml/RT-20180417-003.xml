@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180417-003</article-id>
+            <title-group>
+                <article-title>Cytochrome P450 3A4 induction: Lumacaftor versus ivacaftor?</article-title>
+            </title-group>
+            <aff>Research article: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/160801/article">Cytochrome P450 3A4 Induction: Lumacaftor versus Ivacaftor Potentially Resulting in Significantly Reduced Plasma Concentration of Ivacaftor</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 12-APR-2018</aff>
+            <abstract>
+                <p>This article by Dr. Elena K. Schneider is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/dml/">Drug Metabolism Letters</uri>, Volume 12, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Cystic fibrosis (CF) is the most common, genetically acquired, life-shortening chronic illness affecting young Australians today. There is no cure, and patients with CF undergo life-long and extremely costly medical treatments. Orkambi (Vertex Pharmaceuticals), the novel lumacaftor-ivacaftor combination is the first CF therapeutic that treats the CF disease itself. Worryingly, a number of conflicting reports have emerged that overshadow the clinical efficacy of this important first-in class drug. As there are no other therapeutic alternative we must optimize its use to increase efficacy while minimizing side-effects.</p>
+        <p>'Since releases of ivacaftor-lumacaftor combination several red-flags have been raised that highlight the clinical efficacy of this combination strategy maybe be limited due to antagonistic drug-drug interactions. Our lab is invested in shedding light on the pharmacology of cystic fibrosis transmembrane conductions regulator (CFTR) drugs and we have investigated potential cytochrome interactions of ivacaftor, its major metabolites lumacaftor and tezacaftor&apos; says Dr Elena K Schneider, a Research Fellow from the University of Melbourne, Department of Pharmacology &amp; Therapeutics.</p>
+        <p>In the last couple of years, Dr Schneider and her lab group have intensively worked on the pharmacology of two new breakthrough CF medications, ivacaftor and lumacaftor and is now able to provide a pharmacological and analytical platform for clinicians to improve patients&apos; outcomes by optimization of therapy. For example, Dr Schneider found that lumacaftor and ivacaftor-M6 metabolite markedly induced the activity of cytochrome CYP3A4; however, not ivacaftor-M1 and the novel CFTR modulator tezacaftor. She hypothesized that the cytochrome P450 3A4 induction (lumacaftor versus ivacaftor) potentially results in significantly reduced plasma concentration of ivacaftor in patients receiving Orkambi therapy which could explain the reduced efficacy. In addition to the above, Dr Schneider is looking at ADME parameters of CFTR modulators including pharmacokinetic/pharmacodynamic parameters.</p>
+        <p>Dr Elena Schneider, research fellow at University of Melbourne, is working to fill this gap in knowledge. She aims to optimise the current treatment options and improving the lives of CF patients.</p>
+        <p>For more information about the research study, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/160801">http://www.eurekaselect.com/160801</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schneider</surname>
+                            <given-names>EK.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Cytochrome P450 3A4 Induction: Lumacaftor versus Ivacaftor Potentially Resulting in Significantly Reduced Plasma Concentration of Ivacaftor.</article-title>
+                    <source>Drug Metabolism Letters</source>
+                    <year>2018</year>
+                    <volume>12</volume>
+                    <pub-id pub-id-type="doi">10.2174/1872312812666180328105259</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>
+

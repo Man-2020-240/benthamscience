@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-code>sdrm</journal-code>
+            <journal-eureka-code-one>SDRM</journal-eureka-code-one>
+            <nid nid-status="current">162101</nid>
+            <journal-title>Sustainability and Disaster Risk Management (Discontinued)</journal-title>
+            <full-journal-title>Sustainability and Disaster Risk Management (Discontinued)</full-journal-title>
+            <journal-seo-title>sustainability-and-disaster-risk-management</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2542-615X</journal-issn>
+                <journal-issn issn-type="print">2542-6141</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <italic>Sustainability and Disaster Risk Management</italic> is a peer-reviewed journal with a focus on all areas of environmental sustainability, disaster risk reduction and management, decision and policy making and management. The journal publishes original research, review articles, and guest edited thematic issues. The journal aims to bring key stakeholders in managing the environment and disasters from academia, government, and industry to share their knowledge and views on how to build a resilient society through publishing of high quality research that will have both decision making and policy implications. It aims to publish articles that deal with both natural and man-made disasters that ultimately affect the environment and our quality of life.</p>
+                <p>The journal scope covers, though it is not limited to, the following topics:
+                <list list-type="bullet">
+                <list-item>
+                <p>Disaster Risk Reduction and Management</p>
+                </list-item>
+                <list-item>
+                <p>Sustainable development</p>
+                </list-item>
+                <list-item>
+                <p>Humanitarian Efforts</p>
+                </list-item>
+                <list-item>
+                <p>Silent and Relief Networks</p>
+                </list-item>
+                <list-item>
+                <p>Community/City Resilience</p>
+                </list-item>
+                <list-item>
+                <p>Climate Change Adaptation</p>
+                </list-item>
+                <list-item>
+                <p>Disaster relief and supply chain management</p>
+                </list-item>
+                <list-item>
+                <p>Predictions of disasters</p>
+                </list-item>
+                 <list-item>
+                <p>Vulnerability assessment</p>
+                </list-item>
+                <list-item>
+                <p>Poverty and gender issues in sustainable development</p>
+                </list-item>
+                <list-item>
+                <p>Environmental impact assessments</p>
+                </list-item>
+                </list></p>
+            </journal-aims-scope>
+            <!--<new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608054671</ebook-id>
+                        <ebook-title>Neurobiology of Mood Disorders</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608054671/index.htm</ebook-link>
+                        <ebook-cover>9781608054671.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608054671</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119874</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>-->
+            <journal-current-volume>1</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>sdrm-journal-cover.gif</journal-cover-image>
+            <!--<journal-description>The journal serves as a comprehensive, multidisciplinary expert forum for neuropharmacologists and neuroscientists.</journal-description>
+            <keyword-group>
+                <keyword>Current Neuropharmacology</keyword>
+                <keyword>systems/behavioura</keyword>
+                <keyword>comprehensive reviews</keyword>
+            </keyword-group>
+            <impact-factor>3.365</impact-factor>
+            <five-year-impact-factor>3.623</five-year-impact-factor>-->
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="benthamscience">http://benthamscience.com/social-media-main.php</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>sdrm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sdrm@benthamscience.org">sdrm@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/SDRM">bsp-cms.eurekaselect.com/index.php/SDRM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

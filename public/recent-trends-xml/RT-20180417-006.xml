@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180417-006</article-id>
+            <title-group>
+                <article-title>The use of immunotherapy to treat metastatic breast cancer</article-title>
+            </title-group>
+            <aff>
+Review article: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/159672/article">The Use of Immunotherapy to Treat Metastatic Breast Cancer</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 19-MAR-2018</aff>
+            <abstract>
+                <p>This article by Dr. Andrea Nicolini et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cmc/">Current Medicinal Chemistry</uri>, Volume 25, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Breast cancer, in the stage with distant metastases, is an incurable disease with a 5 years survival rate of about 5-10% (1). Immunotherapy has recently improved survival in metastatic breast cancer patients with breast cancer harbouring the expression of HER 2 receptor. Particularly in HER 2 positive patients pertuzumab plus trastuzumab and docetaxel is the recommended first line regimen and in triple negative breast cancer patients (TNBC) bevacizumab plus paclitaxel or docetaxel is a reasonable option. In the metastatic breast cancer patients responding to conventional antiestrogens without or with HER 2 receptor, the addition of interferon beta-interleukin 2 sequence importantly prolongs quality and length of survival in a pilot study of 42 patients. In fact, in all patients median progression-free survival (PFS) from the beginning of hormone-therapy was 33 months, (Fig.<xref ref-type="fig" rid="F">1</xref>) and median OS 82 months (Fig <xref ref-type="fig" rid="F">2</xref>); cumulative survival at 5 and 10 years&#x00B1;SE were 0.69&#x00B1;0.07 and 0.15&#x00B1;0.06 respectively. In the overall population these data confirm the previously reported findings (2-4). In the luminal sub-type, median PFS was 33 months (Fig.<xref ref-type="fig" rid="F">3</xref>) and median OS was 91 months (Fig <xref ref-type="fig" rid="F">4</xref>).</p>
+        <fig id="F" position="float">
+        <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20180417-006.jpg"/></p>
+        </fig>
+        <p>In the non-luminal sub-type, median PFS was 32 months and median OS was 59 months. Therefore, a relevant PFS and OS improvement occurred both in luminal and in non-luminal molecular subtypes compared with that expected in similar populations. In fact, equal or less than 10 months [<xref ref-type="bibr" rid="r5">5</xref>, <xref ref-type="bibr" rid="r6">6</xref>] is the reported median PFS in non-luminal breast cancer patients and it ranges from 11.2 months [<xref ref-type="bibr" rid="r7">7</xref>] to 15.6 months [<xref ref-type="bibr" rid="r8">8</xref>] in luminal patients. Moreover, 30.6 and 24.4 months have been reported as the best median OS in luminal and non-luminal breast cancer patients respectively [<xref ref-type="bibr" rid="r9">9</xref>]. In some observational or phase I/II studies on HER 2 peptide/protein vaccines promising although preliminary findings have been reported.</p>
+        <p>For more information, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/159672">http://www.eurekaselect.com/159672</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="r1">
+                <label>1</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cheng</surname>
+                            <given-names>Y.C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ueno</surname>
+                            <given-names>N.T.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Improvement of survival and prospect of cure in patients with metastatic breast cancer.</article-title>
+                    <source>Breast Cancer</source>
+                    <year>2012</year>
+                    <volume>19</volume>
+                    <issue>3</issue>
+                    <fpage>191</fpage>
+                    <lpage>199</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s12282-011-0276-3</pub-id>
+                    <pub-id pub-id-type="pmid">21567170</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r2">
+                <label>2</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nicolini</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Carpi</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ferrari</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Biava</surname>
+                            <given-names>P.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rossi</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Immunotherapy and Hormone-therapy in Metastatic Breast Cancer: A Review and an Update.</article-title>
+                    <source>Curr. Drug Targets</source>
+                    <year>2016</year>
+                    <volume>17</volume>
+                    <issue>10</issue>
+                    <fpage>1127</fpage>
+                    <lpage>1139</lpage>
+                    <pub-id pub-id-type="doi">10.2174/1389450117666160201114752</pub-id>
+                    <pub-id pub-id-type="pmid">26844558</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r3">
+                <label>3</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nicolini</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Carpi</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Beta-interferon and interleukin-2 prolong more than three times the survival of 26 consecutive endocrine dependent breast cancer patients with distant metastases: an exploratory trial.</article-title>
+                    <source>Biomed. Pharmacother.</source>
+                    <year>2005</year>
+                    <volume>59</volume>
+                    <issue>5</issue>
+                    <fpage>253</fpage>
+                    <lpage>263</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.biopha.2004.05.019</pub-id>
+                    <pub-id pub-id-type="pmid">15913946</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r4">
+                <label>4</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nicolini</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rossi</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ferrari</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Carpi</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Clinical and laboratory patterns during immune stimulation in hormone responsive metastatic breast cancer.</article-title>
+                    <source>Biomed. Pharmacother.</source>
+                    <year>2014</year>
+                    <volume>68</volume>
+                    <issue>2</issue>
+                    <fpage>171</fpage>
+                    <lpage>178</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.biopha.2013.11.005</pub-id>
+                    <pub-id pub-id-type="pmid">24491318</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r5">
+                <label>5</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fan</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Xie</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cao</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tao</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hu</surname>
+                            <given-names>X.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Chemotherapy of metastatic triple negative breast cancer: Experience of using platinum-based chemotherapy.</article-title>
+                    <source>Oncotarget</source>
+                    <year>2015</year>
+                    <volume>6</volume>
+                    <issue>40</issue>
+                    <fpage>43135</fpage>
+                    <lpage>43143</lpage>
+                    <pub-id pub-id-type="doi">10.18632/oncotarget.5654</pub-id>
+                    <pub-id pub-id-type="pmid">26447756</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r6">
+                <label>6</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fan</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Xu</surname>
+                            <given-names>B.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yuan</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ma</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>J.Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ding</surname>
+                            <given-names>X.Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>Q.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cai</surname>
+                            <given-names>R.G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Docetaxel-cisplatin might be superior to docetaxel-capecitabine in the first-line treatment of metastatic triple-negative breast cancer.</article-title>
+                    <source>Ann. Oncol.</source>
+                    <year>2013</year>
+                    <volume>24</volume>
+                    <issue>5</issue>
+                    <fpage>1219</fpage>
+                    <lpage>1225</lpage>
+                    <pub-id pub-id-type="doi">10.1093/annonc/mds603</pub-id>
+                    <pub-id pub-id-type="pmid">23223332</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r7">
+                <label>7</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lam</surname>
+                            <given-names>S.W.</given-names>
+                        </name>
+                        <name>
+                            <surname>de Groot</surname>
+                            <given-names>S.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Honkoop</surname>
+                            <given-names>A.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jager</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>ten Tije</surname>
+                            <given-names>A.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bos</surname>
+                            <given-names>M.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Linn</surname>
+                            <given-names>S.C.</given-names>
+                        </name>
+                        <name>
+                            <surname>van den Bosch</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kroep</surname>
+                            <given-names>J.R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Braun</surname>
+                            <given-names>J.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>van Tinteren</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Boven</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <collab>Dutch Breast Cancer Research Group</collab>
+                    </person-group>
+                    <article-title>Paclitaxel and bevacizumab with or without capecitabine as first-line treatment for HER2-negative locally recurrent or metastatic breast cancer: a multicentre, open-label, randomised phase 2 trial.</article-title>
+                    <source>Eur. J. Cancer</source>
+                    <year>2014</year>
+                    <volume>50</volume>
+                    <issue>18</issue>
+                    <fpage>3077</fpage>
+                    <lpage>3088</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ejca.2014.10.008</pub-id>
+                    <pub-id pub-id-type="pmid">25459393</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r8">
+                <label>8</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dickler</surname>
+                            <given-names>M.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Barry</surname>
+                            <given-names>W.T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cirrincione</surname>
+                            <given-names>C.T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ellis</surname>
+                            <given-names>M.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Moynahan</surname>
+                            <given-names>M.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Innocenti</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hurria</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rugo</surname>
+                            <given-names>H.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lake</surname>
+                            <given-names>D.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hahn</surname>
+                            <given-names>O.</given-names>
+                        </name>
+                        <name>
+                            <surname>Schneider</surname>
+                            <given-names>B.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tripathy</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Carey</surname>
+                            <given-names>L.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Winer</surname>
+                            <given-names>E.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hudis</surname>
+                            <given-names>C.A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Phase III Trial Evaluating Letrozole As First-Line Endocrine Therapy With or Without Bevacizumab for the Treatment of Postmenopausal Women With Hormone Receptor-Positive Advanced-Stage Breast Cancer: CALGB 40503 (Alliance).</article-title>
+                    <source>J. Clin. Oncol.</source>
+                    <year>2016</year>
+                    <volume>34</volume>
+                    <issue>22</issue>
+                    <fpage>2602</fpage>
+                    <lpage>2609</lpage>
+                    <pub-id pub-id-type="doi">10.1200/JCO.2015.66.1595</pub-id>
+                    <pub-id pub-id-type="pmid">27138575</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r9">
+                <label>9</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zielinski</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>L&#x00E1;ng</surname>
+                            <given-names>I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Inbar</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kah&#x00E1;n</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Greil</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Beslija</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Stemmer</surname>
+                            <given-names>S.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zvirbule</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Steger</surname>
+                            <given-names>G.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Melichar</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pienkowski</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sirbu</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Petruzelka</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Eniu</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Nisenbaum</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Dank</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Anghel</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Messinger</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Brodowicz</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <collab>TURANDOT investigators</collab>
+                    </person-group>
+                    <article-title>Bevacizumab plus paclitaxel versus bevacizumab plus capecitabine as first-line treatment for HER2-negative metastatic breast cancer (TURANDOT): primary endpoint results of a randomised, open-label, non-inferiority, phase 3 trial.</article-title>
+                    <source>Lancet Oncol.</source>
+                    <year>2016</year>
+                    <volume>17</volume>
+                    <issue>9</issue>
+                    <fpage>1230</fpage>
+                    <lpage>1239</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S1470-2045(16)30154-1</pub-id>
+                    <pub-id pub-id-type="pmid">27501767</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

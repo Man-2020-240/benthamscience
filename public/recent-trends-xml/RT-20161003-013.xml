@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-013</article-id>
+            <title-group>
+                <article-title>Nanocatalysis for organic chemistry</article-title>
+            </title-group>
+            <aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/article/139510/">Nanocatalysis for Organic Chemistry</uri></aff>
+            <aff><bold>Public Release:</bold> 26-AUG-2016</aff>
+            
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>26</day>
+                    <month>08</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+            <p>This research article by Dr. Zhe Liu et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/#top">Current Organic Chemistry</uri>, Volume 20, Issue 19, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Nanocatalysis has attracted much attention in the past few years. Functionalized materials with a nano-/submicro-dimension display a significant and dramatically powerful catalytic capability than traditional catalysts in organic chemical reactions due to the increased surface area which they provide and multiple catalytic centers in their structures. This is especially true for chiral catalysis and natural product synthesis, where nanocatalysts play an important role in enhancing the yield and TON (turn-over number) of specific chemical products. Nanocatalysts also have the potential to facilitate purification techniques and efficient catalytic processes in recycling projects. This review article entitled Nanocatalysis for Organic Chemistry aims to conclude the recent research proceedings on nanocatalysis, such as catalyst design, construction and modifications, and their applications in organic reactions, particularly to chemo-selective and coupling reactions. Crucial influential factors are also fully discussed in this review. The future and perspectives for the community of nanocatalysis are outlooked for the ever-emerging aspect in this field upon that current bottle-necks and challenges are overcome.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/article/139510/">http://benthamscience.com/journals/current-organic-chemistry/article/139510/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Xu</surname>
+                            <given-names>Q.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Nanocatalysis for Organic Chemistry.</article-title>
+                    <source>Curr. Org. Chem.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1385272820666160215235505</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

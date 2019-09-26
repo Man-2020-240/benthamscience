@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">54</journal-id>
+            <journal-code>iddt</journal-code>
+            <journal-eureka-code-one>IDDT</journal-eureka-code-one>
+            <journal-eureka-code-two>CDTID</journal-eureka-code-two>
+            <nid nid-status="current">631</nid>
+            <nid-one nid-status="old">663</nid-one>
+            <journal-title>Infectious Disorders - Drug Targets</journal-title>
+            <journal-former-title>Current Drug Targets - Infectious Disorders</journal-former-title>
+            <full-journal-title>Infectious Disorders - Drug Targets</full-journal-title>
+            <journal-seo-title>infectious-disorders-drug-targets</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-3989</journal-issn>
+                <journal-issn issn-type="print">1871-5265</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Infectious Disorders - Drug Targets</italic>
+                    </bold> aims to cover all the latest and outstanding developments in medicinal chemistry, pharmacology, molecular biology, genomics and biochemistry of contemporary molecular targets involved in infectious disorders e.g. disease specific proteins, receptors, enzymes, genes. Each issue of the journal contains a series of timely in-depth reviews/mini-reviews and research articles written by leaders in the field covering a range of current topics on drug targets involved in infectious disorders. As the discovery, identification, characterization and validation of novel human drug targets for anti-infective drug discovery continue to grow, this journal will be essential reading for all pharmaceutical scientists involved in drug design, discovery and development.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4600151527</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608058549</ebook-id>
+                        <ebook-title>"Frontiers in Clinical Drug Research: Anti-Infectives"</ebook-title>
+                        <ebook-link>http://www.benthamscience.com/ebooks/9781608054954/index.htm</ebook-link>
+                        <ebook-cover>9781608058549.gif</ebook-cover>
+                        <ebook-content-link>http://ebooks.benthamscience.com/book/9781608058549/</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/122995</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>19</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>iddt-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.infectiousdisordersdrugtargets.com/</journal-insight>
+<journal-history>Current Drug Targets - Infectious Disorders was launched in 2001 and later renamed in 2006 as Infectious Disorders - Drug Targets.</journal-history>
+            <journal-description>Each issue of the journal contains a series of timely in-depth reviews written by leaders in the field covering a range of current topics on drug targets involved in infectious disorders. As the discovery, identification, characterization and validation of novel human drug targets for anti-infective drug discovery continue to grow, this journal will be essential reading for all pharmaceutical scientists involved in drug discovery and development.</journal-description>
+            <keyword-group>
+                <keyword>Infectious Disorders - Drug Targets</keyword>
+                <keyword>systems/behavioura</keyword>
+                <keyword>comprehensive reviews</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Anti-InfectiveInfectious-Diseases-Journals/567770463306120?ref=br_tf</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>iddt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdtid@benthamscience.net">cdtid@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDTID">bsp-cms.eurekaselect.com/index.php/CDTID</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

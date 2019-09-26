@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cdent</journal-code>
+            <journal-eureka-code-one>CDENT</journal-eureka-code-one>
+            <nid nid-status="current">161287</nid>
+            <journal-title>Current Dentistry</journal-title>
+            <full-journal-title>Current Dentistry</full-journal-title>
+            <journal-seo-title>current-dentistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2542-5803</journal-issn>
+                <journal-issn issn-type="print">2542-579X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Dentistry</italic>
+                    </bold>, a peer-reviewed journal, publishes original research, full-length/mini reviews, and thematic issues in all areas of dental, oral and craniofacial sciences including biological, clinical, materials engineering and bioengineering aspects of dental research. The journal will be of interest to researchers in dental, oral, hard-tissue, and craniofacial science.</p>
+            </journal-aims-scope>
+            <!--<new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608054671</ebook-id>
+                        <ebook-title>Neurobiology of Mood Disorders</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608054671/index.htm</ebook-link>
+                        <ebook-cover>9781608054671.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608054671</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119874</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>-->
+            <journal-current-volume>1</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cdent-journal-cover.gif</journal-cover-image>
+            <journal-history>Current Dentistry was introduced in 2019 with the assistance of Alvaro Della Bona, who is the current Editor-in-Chief.</journal-history>
+            <!--<journal-description>The journal serves as a comprehensive, multidisciplinary expert forum for neuropharmacologists and neuroscientists.</journal-description>
+            <keyword-group>
+                <keyword>Current Neuropharmacology</keyword>
+                <keyword>systems/behavioura</keyword>
+                <keyword>comprehensive reviews</keyword>
+            </keyword-group>
+            <impact-factor>3.365</impact-factor>
+            <five-year-impact-factor>3.623</five-year-impact-factor>-->
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="benthamscience">http://benthamscience.com/social-media-main.php</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cdent-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdent@benthamscience.net">cdent@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDENT">bsp-cms.eurekaselect.com/index.php/CDENT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>ceng</journal-code>
+            <journal-eureka-code-one>CENG</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Current Chinese Engineering Science</journal-title>
+            <full-journal-title>Current Chinese Engineering Science</full-journal-title>
+            <journal-seo-title>current-chinese-engineering-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2665-9999</journal-issn>
+                <journal-issn issn-type="print">2665-9980</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><bold>Current Chinese Engineering Science</bold> publishes original research articles, letters, case reports, reviews/mini-reviews and guest edited thematic issues dealing with various topics related to engineering in China, while contributions from abroad are also welcome.</p>
+                <p><bold>Current Chinese Engineering Science</bold> is not limited to a specific aspect of the field but is
+instead devoted to a wide range of sub fields in the field. Articles of interdisciplinary nature are
+particularly welcome. Submission in the following areas are of special interest to the readers of
+this journal:
+            <list list-type="bullet">
+            <list-item>
+            <p>Aerospace Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Chemical Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Applied Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Ceramics Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Industrial Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Nuclear Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Biological Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Electrical Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Materials Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Offshore Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Civil Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Financial Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Mechanical Engineering etc.</p>
+            </list-item>
+            </list>
+            </p>
+            </journal-aims-scope>
+               <!-- <scimago sjr-status="no">
+                    <scimago-jr-id>4700152434</scimago-jr-id>
+                </scimago>-->
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>ceng-journal-cover.gif</journal-cover-image>
+                <!--  <journal-insight>http://www.currentpsychiatryreviews.com/</journal-insight>
+<journal-history>Current Psychiatry Reviews was launched in 2005 and later renamed in 2019 as Current Psychiatry Research and Reviews.</journal-history>
+            <journal-description>Current Psychiatry Reviews is an essential reading for all clinicians, psychiatrists and researchers in psychiatry.</journal-description>
+            <keyword-group>
+                <keyword>Psychiatry</keyword>
+                <keyword>psychiatrists</keyword>
+                <keyword>pharmacology</keyword>
+            </keyword-group>-->
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+               <journal-flyer>ceng-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ceng@benthamscience.net">ceng@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CENG">bsp-cms.eurekaselect.com/index.php/CENG</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

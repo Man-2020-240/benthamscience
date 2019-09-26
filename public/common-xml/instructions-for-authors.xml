@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<instructions-for-authors xmlns:xlink="http://www.w3.org/1999/xlink">
+    <sec>
+<sec>
+
+        <title>Instructions for Authors</title>
+        <table border="1" style="border:solid">
+            <tbody>
+                <tr>
+                    <td style="width:50%;" align="left"><list list-type="bullet">
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r1"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF; border-radius:5px;">Online Manuscript Submission</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r2"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Editorial Policies</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r3"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Copyright letter</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r4"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Manuscripts Published</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r5"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Manuscript Preparation</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r6"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Deceleration of Interest/Funding Sources</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r7"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Randomized Drug Clinical Trial Studies</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r8"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">References</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r9"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Figures/Illustrations</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r10"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Tables</span></xref></p>
+           </list-item>
+		   <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r11"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Permission for Reproduction</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r12"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Authors and Institutional Affiliations</span></xref></p>
+           </list-item>
+           </list>
+           </td>
+                    <td style="width:50%;" align="left">
+           <list list-type="bullet">
+           
+           
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r13"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Page Charges</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r14"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Language and Editing</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r15"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Proof Corrections</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r16"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Reprints</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r17"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Open Access Plus</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r18"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Reviewing and Promptness of Publication</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r19"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Quick Track Publication</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r20"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Copyright</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r21"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Self Archiving Policy</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r22"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">Plagiarism Prevention</span></xref></p>
+           </list-item>
+           <list-item style="display:block; padding-bottom:10px; padding-top:10px;">
+           <p><xref ref-type="bibr" rid="r23"><span style="font-size:10px; font-weight:bold;background:#006699; padding:5px; color:#FFFFFF;border-radius:5px;">E-pub Ahead of Schedule</span></xref></p>
+           </list-item>
+           </list>
+           </td>
+                </tr>
+            </tbody>
+        </table>
+        <sec id="r1">
+            <title>ONLINE MANUSCRIPT SUBMISSION:</title>
+            <p>An online submission and tracking service via Internet facilitates a speedy and cost-effective submission of manuscripts. The full manuscript has to be submitted online via Bentham's Content Management System (CMS) at  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://jms.eurekaselect.com/journals/cmir">http://jms.eurekaselect.com/journals/cmir</uri> / <bold><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-files/submission-instructions/submission-instructions-cmir.pdf"> View Submission Instructions Online</uri></bold></p>
+            <p>Manuscripts must be submitted by one of the authors of the manuscript, and should not be submitted by anyone on their behalf. The principal/corresponding author will be required to submit a Copyright Letter along with the manuscript, on behalf of all the co-authors (if any). The author(s) will confirm that the manuscript (or any part of it) has not been published previously or is not under consideration for publication elsewhere. Furthermore, any illustration, structure or table that has been published elsewhere must be reported, and copyright permission for reproduction must be obtaine. </p>
+            <p>For all online submissions, please provide soft copies of all the materials (main text in MS Word or Tex/LaTeX), figures/illustrations in TIFF, PDF or JPEG, and chemical structures drawn in ChemDraw (CDX)/ISISDraw (TGF) as separate files, while a PDF version of the entire manuscript must also be included, embedded with all the figures/illustrations/tables/chemical structures etc. It is advisable that the document files related to a manuscript submission should always have the name of the corresponding author as part of the file name, i.e., “Cilli MS text.doc, Cilli MS Figure 1, <italic>etc</italic>.</p>
+            <p>It is imperative that before submission, authors should carefully proofread the files for special characters, mathematical symbols, Greek letters, equations, tables, references and images, to ensure that they appear in proper format. </p>
+            <p>References, figures, tables, chemical structures etc. should be referred to in the text at the appropriate place where they are first discussed. Figure legends/captions should also be provided. </p>
+            <p>A successful electronic submission of a manuscript will be followed by a system-generated acknowledgement to the principal/corresponding author. Any queries therein should be addressed to <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.org">info@benthamscience.org</email> </p>
+        </sec>
+        <sec id="r2">
+            <title>EDITORIAL POLICIES:</title>
+            <p>The editorial policies of Bentham Science Publishers on publication ethics, peer-review, plagiarism, copyrights/ licenses, errata/corrections and article retraction/ withdrawal can be viewed at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-medical-imaging-reviews/editorial-policies/#top">Editorial Policy</uri></p>
+        </sec>
+        <sec id="r3">
+            <title>COPYRIGHT LETTER:</title>
+            <p>It is mandatory that a signed copyright letter also be submitted along with the manuscript by the author to whom correspondence is to be addressed, delineating the scope of the submitted article declaring the potential competing interests, acknowledging contributions from authors and funding agencies, and certifying that the paper is prepared according to the <bold>'Instructions for Authors'</bold>. All inconsistencies in the text and in the reference section, and any typographical errors must be carefully checked and corrected before the submission of the manuscript. The article should not contains any such material or information that may be unlawful, defamatory, fabricated, plagiarized, or which would, if published, in any way whatsoever, violate the terms and conditions as laid down in the copyright agreement. The authors acknowledge that the publishers have the legal right to take appropriate action against the authors for any such violation of the terms and conditions as laid down in the copyright agreement. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-files/copyright-letters/copyright-letter-cmir.pdf">Download the Copyright letter</uri></p>
+        </sec>
+        <sec id="r4">
+            <title>MANUSCRIPTS PUBLISHED:</title>
+            <p>The journal publishes peer-reviewed mini- and full-length review articles and drug clinical trial studies written in English. Single topic/thematic issues may also be considered for publication. </p>
+            <sec>
+                <title>Single Topic Issues:</title>
+                <p>These special issues are peer-reviewed and may contain invited or uninvited review/mini-review articles. A Single Topic Issue Editor will offer a short perspective and co-ordinate the solicitation of manuscripts between 3-5 (for a mini-thematic issue) to 6-10 (for full-length thematic issue) from leading scientists. Authors interested in editing a single topic issue, in the field of in an emerging topic of pediatric, may submit their proposal to the Editor-in-Chief at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmir@benthamscience.org">cmir@benthamscience.org</email> for consideration.</p>
+            </sec>
+            <sec>
+                <title>Conference Proceedings:</title>
+                <p>For proposals to publish conference proceedings in this journal, please contact us at email <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proceedings@benthamscience.org">proceedings@benthamscience.org</email> for consideration.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>MANUSCRIPT LENGTH:</title>
+            <sec>
+                <title>Mini-Reviews:</title>
+                <p>Mini-reviews should be 3000- 6000 words excluding figures, structures, photographs, schemes, tables etc.</p>
+            </sec>
+            <sec>
+                <title>Full-Length Reviews:</title>
+                <p>Full-length reviews should be 8000-40000 words excluding figures, structures, photographs, schemes, tables etc. </p>
+            </sec>
+            <sec>
+                <title>Systematic Reviews:</title>
+                <p>Systematic Reviews includes systematic updates in review protocols, methods, research, and results from all fields of health for any studies and updates on already published issues.</p>
+            </sec>
+            <sec>
+                <title>Registration of Systematic Reviews:</title>
+                <p>Bentham Science Publishers supports retrospective registration of systematic reviews, in a suitable registry (such as <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.crd.york.ac.uk/PROSPERO/">PROSPERO</uri>). The registered systematic review must include the registration number as the last line of the manuscript abstract.</p>
+            </sec>
+            <sec>
+                <title>Research Articles:</title>
+                <p>The total number of words for a published research article is from 4000 to 8000 words excluding figures, structures, photographs, schemes, tables, etc.</p>
+            </sec>
+            <sec>
+                <title>Case Histories:</title>
+                <p>Case histories are encouraged, and will fit either the research article or review formats listed above.</p>
+            </sec>
+            <sec>
+                <title>Randomized Drug Clinical Trial Studies:</title>
+                <p>Trial studies should be 1500 to 40000 words excluding figures, structures, photographs, schemes, tables etc.</p>
+            </sec>
+            <sec>
+                <title>Case Reports:</title>
+                <p>Case reports should describe new observations of findings or novel/unique outcomes relevant to the filed. The total number of words for a published case report is 1500 to 2000 words.</p>
+                <p>There is no restriction on the number of figures, tables or additional files e.g. video clips, animation and datasets, that can be included with each article online. Authors should include all relevant supporting data with each article (Refer to Supplementary Material section).</p>
+            </sec>
+        </sec>
+        <sec id="r5">
+            <title>MANUSCRIPT PREPARATION:</title>
+            <p>The manuscript should be written in English in a clear, direct and active style. All pages must be numbered sequentially, facilitating in the reviewing and editing of the manuscript.</p>
+        </sec>
+        <sec>
+            <title>MICROSOFT WORD TEMPLATE:</title>
+            <p>It is advisable that authors prepare their manuscript using the template available on the Web, which will assist in preparation of the manuscript according to Journal’s Format. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-files/template-files/cmir-template.doc">Download the Template</uri>.</p>
+            <p>Our contracted service provider <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri> can, if needed, provide professional assistance to authors for the improvement of English language and figures in manuscripts.</p>
+        </sec>
+        <sec>
+            <title>MANUSCRIPT SECTIONS FOR PAPERS:</title>
+            <p>Manuscripts submitted for research and review articles in the respective journal should be divided into the following sections:
+</p>
+            <p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Title</p>
+                    </list-item>
+                    <list-item>
+                        <p>Title Page</p>
+                    </list-item>
+                    <list-item>
+                        <p>Structured Abstract</p>
+                    </list-item>
+                    <list-item>
+                        <p>Graphical Abstract</p>
+                    </list-item>
+                    <list-item>
+                        <p>Keywords</p>
+                    </list-item>
+                    <list-item>
+                        <p>Text Organization</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conclusion</p>
+                    </list-item>
+                    <list-item>
+                        <p>List of Abbreviations (if any)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Consent for Publication</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conflict of Interest</p>
+                    </list-item>
+                    <list-item>
+                        <p>Acknowledgements</p>
+                    </list-item>
+                    <list-item>
+                        <p>References</p>
+                    </list-item>
+                    <list-item>
+                        <p>Appendices </p>
+                    </list-item>
+                    <list-item>
+                        <p>Figures/Illustrations (if any)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Chemical Structures (if any)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Tables (if any)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Supportive/Supplementary Material (if any)</p>
+                    </list-item>
+                </list>
+            </p>
+            <sec>
+                <title>Title:</title>
+                <p>The title of the article should be precise and brief and must not be more than 120 characters. Authors should avoid the use of non-standard abbreviations. The title must be written in title case except for articles, conjunctions and prepositions.</p>
+                <p>Authors should also provide a short ‘running title’. Title, running title, byline, correspondent footnote and keywords should be written as presented in original manuscripts. </p>
+            </sec>
+            <sec>
+                <title>Title Page:</title>
+                <p>Title page should include paper title, author(s) full name and affiliation, corresponding author(s) names complete affiliation/address, along with phone, fax and email.  </p>
+            </sec>
+            <sec>
+                <title>Structured Abstract:</title>
+                <p>The abstract of an article should be its clear, concise and accurate summary, having no more than 250 words, and including the explicit sub-headings (as in-line or run-in headings in bold). Use of abbreviations should be avoided and the references should not be cited in the abstract. Ideally, each abstract should include the following sub-headings, but these may vary according to requirements of the article.</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Background</p>
+                    </list-item>
+                    <list-item>
+                        <p>Objective</p>
+                    </list-item>
+                    <list-item>
+                        <p>Method</p>
+                    </list-item>
+                    <list-item>
+                        <p>Results</p>
+                    </list-item>
+                    <list-item>
+                        <p>Conclusion</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Graphical Abstract:</title>
+                <p>A graphic must be included with each manuscript for use in the Table of Contents (TOC). This must be submitted separately as an electronic file (preferred file types are EPS, PDF, TIFF, Microsoft Word, PowerPoint and CDX etc.). A graphical abstract, not exceeding 30 words along with the illustration, helps to summarize the contents of the manuscript in a concise pictorial form.  It is meant as an aid for the rapid viewing of the journals' contents and to help capture the readers’ attention.  The graphical abstract may feature a key structure, reaction, equation, etc. that the manuscript elucidates upon. It will be listed along with the manuscript title, authors’ names and affiliations in the contents page, typeset within an area of 5 cm by 17 cm, but it will not appear in the article PDF file or in print. </p>
+                <p>Graphical Abstracts should be submitted as a separate file (must clearly mention graphical abstract within the file) online via Bentham's Content Management System by selecting the option “supplementary material”.</p>
+            </sec>
+            <sec>
+                <title>Keywords:</title>
+                <p>6 to 8 keywords must be provided.</p>
+            </sec>
+            <sec>
+                <title>Text Organization:</title>
+                <p>The main text should begin on a separate page and should be divided into title page, abstract and the main text. The text may be subdivided further according to the areas to be discussed, which should be followed by the List of Abbreviations, Conflict of Interest, Acknowledgements and Reference sections. For review, the manuscript should be divided into title page, abstract and the main text. The text may be subdivided further according to the areas to be discussed, which should be followed by the Acknowledgements and Reference sections. For Research Articles the manuscript should begin with the title page and abstract followed by the main text, which must be structured into separate sections as <bold>Introduction, Material and Methods, Results, Discussion, Conclusion, Trial Registration, Conflict of Interest, Acknowledgements and References</bold>. The Review Article should mention any previous important recent and old reviews in the field and contain a comprehensive discussion starting with the general background of the field. It should then go on to discuss the salient features of recent developments. The authors should avoid presenting material which has already been published in a previous review. The authors are advised to present and discuss their observations in brief. The manuscript style must be uniform throughout the text and 10 pt Times New Roman fonts should be used. The full term for an abbreviation should precede its first appearance in the text unless it is a standard unit of measurement. The reference numbers should be given in square brackets in the text. Italics should be used for Binomial names of organisms (Genus and Species), for emphasis and for unfamiliar words or phrases. Non-assimilated words from Latin or other languages should also be italicized <italic>e.g. per se, et al. etc</italic>.</p>
+                <sec>
+                    <title>SECTION HEADINGS:</title>
+                    <p>Section headings should be numbered sequentially, left aligned and have the first letter capitalized, starting with the introduction. Sub-section headings however, should be in lower-case  and italicized with their initials capitalized. They should be numbered as 1.1, 1.2, <italic>etc.</italic></p>
+                </sec>
+                <sec>
+                    <title>INTRODUCTION:</title>
+                    <p>The Introduction section should include the background and aims of the research in a comprehensive manner.</p>
+                </sec>
+                <sec>
+                    <title>MATERIALS AND METHODS:</title>
+                    <p>This section provides details of the methodology used along with information on any previous efforts with corresponding references.  Any details for further modifications and research should be included.</p>
+                </sec>
+                <sec>
+                    <title>EXPERIMENTAL:</title>
+                    <p>Repeated information should not be reported in the text of an article. A calculation section must include experimental data, facts and practical development from a theoretical perspective.</p>
+                </sec>
+                <sec>
+                    <title>RESULTS:</title>
+                    <p>Results should be precise.</p>
+                </sec>
+                <sec>
+                    <title>DISCUSSION:</title>
+                    <p>This should explore the significance of the results of the work, and present reproducible procedure. Extensive citations and discussion of published literature should be avoided.</p>
+                    <p>The Results and discussions may be presented individually or combined in a single section with short and informative headings.</p>
+                </sec>
+                <sec>
+                    <title>CONCLUSION:</title>
+                    <p>A small paragraph summarizing the contents of the article,  presenting the final outcome of the research or proposing further study on the subject, may be  given at the end of the article under the Conclusion section.</p>
+                </sec>
+            </sec>
+        </sec>
+        <sec>
+            <title>Greek Symbols and Special Characters:</title>
+            <p>Greek symbols and special characters often undergo formatting changes and get corrupted or lost during preparation of manuscript for publication. To ensure that all special characters used are embedded in the text, these special characters should be inserted as a symbol but should not be a result of any format styling (Symbol font face) otherwise they will be lost during conversion to PDF/XML.</p>
+            <p>Authors are encouraged to consult reporting guidelines. These guidelines provide a set of recommendations comprising a list of items relevant to their specific research design. Chemical equations, chemical names, mathematical usage, unit of measurements, chemical and physical quantity &#x0026; units must conform to SI and Chemical Abstracts or IUPAC.</p>
+            <p>All kinds of measurements should be reported only in International System of Units (SI).</p>
+        </sec>
+        <sec>
+            <title>Appendices</title>
+            <p> In case there is a need to present lengthy, but essential methodological details, use appendices, which can be a part of the article. An appendix must not exceed three pages (Times New Roman, 10 point font, 900 max. words per page). The information should be provided in a condensed form, ruling out the need of full sentences. A single appendix should be titled APPENDIX, while more than one can be titled APPENDIX A, APPENDIX B, and so on.</p>
+        </sec>
+        <sec>
+            <title>Supportive/Supplementary Material:</title>
+            <p>We do encourage to append supportive material, for example a PowerPoint file containing a talk about the study, a PowerPoint file containing additional screenshots, a Word, RTF, or PDF document showing the original instrument(s) used, a video, or the original data (SAS/SPSS files, Excel files, Access Db files etc.) provided it is inevitable or endorsed by the journal's Editor.</p>
+            <p>Supportive/Supplementary material intended for publication must be numbered and referred to in the manuscript but should not be a part of the submitted paper. In-text citations as well as a section with the heading "Supportive/Supplementary Material" before the "References" section should be provided. Here, list all Supportive/Supplementary Material and include a brief caption line for each file describing its contents.</p>
+            <p>Any additional files will be linked to the final published article in the form supplied by the author, but will not be displayed within the paper. They will be made available in exactly the same form as originally provided <bold>only on our website</bold>. Please also make sure that each additional file is a single table, figure or movie (please do not upload linked worksheets or PDF files larger than one sheet). Supportive/Supplementary material must be provided in a single zipped file not larger than <bold>4 MB</bold>.</p>
+            <p>Authors must clearly indicate if these files are not for publication but meant for the reviewers'/editors' perusal only.</p>
+        </sec>
+        <sec>
+            <title>List of Abbreviations:</title>
+            <p>If abbreviations are used in the text either they should be defined in the text where first used, or a list of abbreviations can be provided.</p>
+        </sec>
+        <sec>
+            <title>DECELERATION OF INTEREST/FUNDING SOURCES</title>
+            <sec>
+                <title>Conflict of Interest:</title>
+                <p>Financial contributions and any potential conflict of interest  must be clearly acknowledged under the heading ‘Conflict of Interest’. Authors must list the source(s) of funding for the study. This should be done for each author.</p>
+            </sec>
+            <sec>
+                <title>Acknowledgements:</title>
+                <p>All individuals listed as authors must have contributed substantially to the design, performance, analysis, or reporting of the work and are required to indicate their specific contribution. Anyone (individual/company/institution) who has substantially contributed to the study for important intellectual content, or who was involved in the article’s drafting the manuscript or revising must also be acknowledged. </p>
+                <p>Guest or honorary authorship based solely on position (e.g. research supervisor, departmental head) is discouraged.</p>
+                <p>The specific requirements for authorship have been defined by the International Committee of Medical Journal Editors (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.icmje.org">www.icmje.org</uri>). Examples of authors' contributions are: 'designed research/study', 'performed research/study', 'contributed important reagents', 'collected data', 'analyzed data', 'wrote paper' etc. This information must be included in the submitted manuscript as a separate paragraph under the heading ‘Acknowledgements’. The corresponding author is responsible for obtaining permission from all co-authors for the submission of any version of the manuscript and for any changes in the authorship.</p>
+            </sec>
+        </sec>
+        <sec id="r6">
+            <title>STANDARD PROTOCOL ON APPROVALS, REGISTRATIONS, PATIENT CONSENTS &#x0026; ANIMAL PROTECTION:</title>
+            <p>All clinical investigations must be conducted according to the <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/">Declaration of Helsinki</uri> principles. Authors must comply with the guidelines of the International Committee of Medical Journal Editors (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.icmje.org">www.icmje.org</uri>) with regard to the patient’s consent for research or participation in a study. Patients' names, initials, or hospital numbers must not be mentioned anywhere in the manuscript (including figures). Editors may request that authors provide documentation of the formal review and recommendation from the institutional review board or ethics committee responsible for oversight of the study.</p>
+            <p>In addition to the standard patient consent for participation in research, authors are responsible for obtaining patient consent-to-disclose forms for all recognizable patients in photographs, videos, or other information that may be published in the Journal, in derivative works, or on the journal’s web site and providing the manuscript to the recognizable patient for review before submission. The consent-to-disclose form should indicate specific use (publication in the medical literature in print and online, with the understanding that patients and the public will have access) of the patient's information and any images in figures or videos, and must contain the patient's signature or that of a legal guardian along with a statement that the patient or legal guardian has been offered the opportunity to review the identifying materials and the accompanying manuscript.</p>
+            <p>For research involving animals, the authors should indicate whether the procedures followed were in accordance with the standards set forth in the eighth edition of Guide for the Care and Use of Laboratory Animals (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://grants.nih.gov/grants/olaw/guide-for-the-care-and-use-of-laboratory-animals_prepub.pdf">grants.nih.gov/grants/olaw/guide-for-the-care-and-use-of-laboratory-animals_prepub.pdf</uri>); published by the National Academy of Sciences, The National Academies Press, Washington, D.C.).</p>
+            <sec>
+                <title>Research Involving Animals:</title>
+                <p>Research work on animals should be carried out in accordance with the NC3Rs ARRIVE Guidelines. For <italic>In Vivo</italic> Experiments, visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nc3rs.org.uk/arrive-guidelines">https://www.nc3rs.org.uk/arrive-guidelines</uri></p>
+                <p>Authors must clearly state the name of the approval committee, highlighting that legal and ethical approval was obtained prior to initiation of the research work carried out on animals, and that the experiments were performed in accordance with the relevant guidelines and regulations stated below.</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>US authors should cite compliance with the US National Research Council's "<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nap.edu/read/5140/chapter/1">Guide for the Care and Use of Laboratory Animals</uri>"</p>
+                    </list-item>
+                    <list-item>
+                        <p>The US Public Health Service's "<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://grants.nih.gov/grants/olaw/references/phspol.htm">Policy on Humane Care and Use of Laboratory Animals</uri>" and "<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://grants.nih.gov/grants/olaw/Guide-for-the-Care-and-Use-of-Laboratory-Animals.pdf">Guide for the Care and Use of Laboratory Animals</uri>"</p>
+                    </list-item>
+                    <list-item>
+                        <p>UK authors should conform to UK legislation under <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gov.uk/government/publications/animals-scientific-procedures-act-1986-amendment-regulations">the Animals (Scientific Procedures) Act 1986 Amendment Regulations (SI 2012/3039)</uri>.</p>
+                    </list-item>
+                    <list-item>
+                        <p>European authors outside the UK should conform to <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32010L0063">Directive 2010/63/EU</uri>.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Research in animals must adhere to ethical guidelines of The <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.basel-declaration.org/basel-declaration/">Basel Declaration</uri> and the International Council for Laboratory Animal Science (ICLAS) has also published <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://iclas.org/committees/ethics-and-animal-welfare-committee">ethical guidelines</uri>.</p>
+                    </list-item>
+                    <list-item>
+                        <p>The manuscript must clearly include a declaration of compliance with relevant guidelines (e.g. the revised Animals (Scientific Procedures) Act 1986 in the UK and Directive 2010/63/EU in Europe) and/or relevant permissions or licences obtained by the <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://portals.iucn.org/library/efiles/documents/PP-003-En.pdf">IUCN Policy Statement on Research Involving Species at Risk of Extinction</uri> and the <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cites.org/">Convention on the Trade in Endangered Species of Wild Fauna and Flora</uri>.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Research Involving Plants:</title>
+                <p>All experimental research on plants (either cultivated or wild), must comply with international guidelines. The manuscript must clearly include a declaration of compliance of field studies with relevant guidelines and/or relevant permissions or licences obtained by the <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://portals.iucn.org/library/efiles/documents/PP-003-En.pdf">IUCN Policy Statement on Research Involving Species at Risk of Extinction</uri> and the <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cites.org/">Convention on the Trade in Endangered Species of Wild Fauna and Flora</uri>.</p>
+            </sec>
+            <sec>
+                <title>Consent for Publication:</title>
+                <p>If the manuscript has an individuals’ data, such as personal detail, audio-video material etc., consent should be obtained from that individual. In case of children, consent should be obtained from the parent or the legal guardian.</p>
+                <p>A specific declaration of such approval and consent-to-disclose form must be made in the copyright  letter and in a stand-alone paragraph at the end of the Methods section especially in the case of human studies where inclusion of a statement regarding obtaining the written informed consent from each subject or subject's guardian is a must. The original should be retained by the guarantor or corresponding author. Editors may request to provide the original forms by fax or email. </p>
+                <p>All such case reports should be followed by a proper consent prior to publishing.</p>
+            </sec>
+        </sec>
+        <sec id="r7">
+            <title>RANDOMIZED DRUG CLINICAL TRIAL STUDIES:</title>
+            <p>Randomized drug clinical trial studies are biomedical or health-related interventional and/or observational research studies conducted in phases in human beings who are randomly allocated to receive or not receive a preventive, therapeutic, or diagnostic intervention that follows a pre-defined protocol. The study is intended to determine the safety and efficacy of approaches to disease prevention, diagnosis and treatment.</p>
+            <p>Authors of randomized controlled trials are encouraged to submit trial protocols along with their manuscripts. All clinical trials must be registered (before recruitment of the first participant) at an appropriate online public trial registry that must be independent of for-profit interest (e.g.,<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</uri>). If you wish the editor(s) to consider an unregistered trial, please explain briefly why the trial has not been registered.</p>
+            <p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>All randomized clinical trials should include a flow diagram and authors should provide a completed randomized trial checklist (see CONSORT Flow Diagram and Checklist; <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.consort-statement.org">www.consort-statement.org</uri>) and a trial protocol. </p>
+                    </list-item>
+                    <list-item>
+                        <p>	Studies of diagnostic accuracy must be reported according to STARD guidelines; (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.stard-statement.org">www.stard-statement.org</uri>)  </p>
+                    </list-item>
+                    <list-item>
+                        <p>	Observational studies (cohort, case-control, or cross-sectional designs) must be reported according to the STROBE statement, and should be submitted with their protocols; (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.strobe-statement.org">www.strobe-statement.org</uri>).</p>
+                    </list-item>
+                    <list-item>
+                        <p>Genetic association studies must be reported according to STREGA guidelines; (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.medicine.uottawa.ca">www.medicine.uottawa.ca</uri>)</p>
+                    </list-item>
+                    <list-item>
+                        <p>Systematic reviews and meta-analyses must be reported according to PRISMA guidelines; (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.prisma-statement.org">www.prisma-statement.org</uri>)</p>
+                    </list-item>
+                    <list-item>
+                        <p>To find the reporting guidelines see (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.equator-network.org">www.equator-network.org</uri>)</p>
+                    </list-item>
+                </list>
+            </p>
+            <p>Important points to remember while submitting clinical trials:
+<list list-type="bullet">
+<list-item>
+<p>Each manuscript should clearly state an objective or hypothesis; the design and methods (including the study setting and dates, patients or participants with inclusion and exclusion criteria, or data sources, and how these were selected for the study); the essential features of any interventions; the main outcome measures; the main results of the study; a comment section placing the results in context with the published literature and addressing study limitations; and the conclusions. Data included in research reports must be original. </p>
+</list-item>
+
+<list-item>
+<p>Trial registry name, registration identification number, and the URL for the registry should be included at the end of the abstract and also in the space provided on the online manuscript submission form. If your research article reports the results of a controlled health care intervention, list the trial registry, along with the unique identifying number (Please note that there should be no space between the letters and numbers of your trial registration number). Studies designed for other purposes, such as to study pharmacokinetics or major toxicity (e.g., phase 1 trials), are exempted. </p>
+</list-item>
+
+<list-item>
+<p>	All reports of randomized trials should include a section entitled “Randomization and Masking”, within the Methods section.</p>
+</list-item>
+
+<list-item>
+<p>The manuscript must include a statement identifying the institutional and/or licensing committee that has approved the experiments, including any relevant details. </p>
+</list-item>
+
+<list-item>
+<p>	The SI system of units and the recommended international non-proprietary name (rINN) for drug names must be used. Kindly ensure that the dose, route, and frequency of administration of any drug you mention are correct. </p>
+</list-item>
+
+<list-item>
+<p>Please ensure that the clinical trials sponsored by pharmaceutical companies follow the guidelines on good publication practice: (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.gpp-guidelines.org">www.gpp-guidelines.org</uri>)</p>
+</list-item>
+</list>
+</p>
+            <p>The editors reserve the right to reject manuscripts that do not comply with the above-mentioned requirements. The author will be held responsible for false statements or failure to fulfill the above-mentioned requirements.</p>
+        </sec>
+        <sec id="r8">
+            <title>REFERENCES:</title>
+            <p>References must be listed in the Vancouver Style only. References should be numbered sequentially [in square brackets] in the text and listed in the same numerical order in the reference section. All references must be complete and accurate. Online citations should include the date of access. Journal titles should conform to the present Index Medicus abbreviations. It is necessary to list all authors if the total number of authors is 6 or less and for more than 6 authors use 3 authors and then <italic>et al</italic>.</p>
+            <p> See below few examples of references listed in the correct Vancouver Style.</p>
+            <sec>
+                <title>Typical Paper Reference:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[1]</label>
+                        <p>Cortright DN, Szallasi A. TRP channels and pain. Curr Pharm Des 2009; 15(15): 1736-49. </p>
+                    </list-item>
+                    <list-item>
+                        <label>[2]</label>
+                        <p>Frankel AE, Zuckero SL, Mankin AA, <italic>et al</italic>. Anti-CD3 recombinant diphtheria immunotoxin therapy of cutaneous T cell lymphoma. Curr Drug Targets 2009; 10(2): 104-9.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Typical Chapter Reference:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[3]</label>
+                        <p>Stevenson WG, Friedman PL. In: Hennekens CH, Ed. Clinical trials in cardiovascular disease. Philadelphia: WB Saunders Co. 1999; pp. 217-30.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Book Reference:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[4]</label>
+                        <p>Carlson BM. Human embryology and developmental biology. 3<sup>rd</sup> ed. St. Louis: Mosby 2004.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Edited Book: </title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[5]</label>
+                        <p>Brown AM, Stubbs DW, Eds. Medical physiology. New York: Wiley 1983.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Conference Paper and Proceedings: </title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[6]</label>
+                        <p>Bengtsson S, Solheim BG. Enforcement of data protection, privacy and security in medical informatics. In: Lun KC, Degoulet P, Piemme TE, Rienhoff O, Eds. MEDINFO 92. Proceedings of the 7<sup>th</sup> World Congress on Medical Informatics; 1992 Sep 6-10; Geneva, Switzerland. Amsterdam: North-Holland 1992; pp. 1561-5.</p>
+                    </list-item>
+                    <list-item>
+                        <label>[7]</label>
+                        <p>Kimura J, Shibasaki H, Eds. Recent advances in clinical neurophysiology. Proceedings of the 10<sup>th</sup> International Congress of EMG and Clinical Neurophysiology; 1995 Oct 15-19; Kyoto, Japan. Amsterdam: Elsevier 1996.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Journal Article on the Internet:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[8]</label>
+                        <p>Aylin P, Bottle A, Jarman B, Elliott, P. Paediatric cardiac surgical mortality in England after Bristol: descriptive analysis of hospital episode statistics 1991-2002. BMJ [serial on the Internet]. 2004 Oct 9; [cited 2004 October 15]; 329: [about 10 screens]. Available from: (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bmj.bmjjournals.com/cgi/content/full/329/7470/825">http://bmj.bmjjournals.com/cgi/content/full/329/7470/825</uri>)</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Book/Monograph on the Internet:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[9]</label>
+                        <p> Donaldson MS, Ed. Measuring the quality of health care [monograph on the internet]. Washington: National Academy Press 1999 [cited 2004 Oct 8]. Available from: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://legacy.netlibrary.com">http://legacy.netlibrary.com</uri></p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Web site/Homepage:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[10]</label>
+                        <p>HeartCentreOnline [homepage on the Internet]. Boca Raton, FL: HeartCentreOnline, Inc.; c2000-2004 [updated 2004 May 23; cited 2004 Oct 15]. Available from: <uri xmlns:xlink=" http://www.heartcenteronline.com" xlink:href=" http://www.heartcenteronline.com">www.icmje.org</uri></p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Journal with Part/Supplement:</title>
+                <p>If a journal carries continuous pagination throughout the volume, then the issue number can be omitted.</p>
+            </sec>
+            <sec>
+                <title>Issue with Supplement:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[11]</label>
+                        <p>Glauser TA. Integrating clinical trial data into clinical practice. Neurology 2002; 58(12 Suppl 7): S6-12.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Volume with Part:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[12]</label>
+                        <p>Abend SM, Kulish N. The psychoanalytic method from an epistemological viewpoint. Int J Psychoanal 2002; 83(Pt 2): 491-5.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Issue with Part:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[13]</label>
+                        <p>Ahrar K, Madoff DC, Gupta S, Wallace MJ, Price RE, Wright KC. Development of a large animal model for lung tumors. J Vasc Interv Radiol 2002; 13(9 Pt 1): 923-8.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>Patent:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[14]</label>
+                        <p>Pagedas AC, inventor; Ancel Surgical R&#x0026;D Inc., assignee. Flexible endoscopic grasping and cutting device and positioning tool assembly. United States patent US 20020103498. 2002 Aug.</p>
+                    </list-item>
+                </list>
+            </sec>
+            <sec>
+                <title>E-citations:</title>
+                <list list-type="simple">
+                    <list-item>
+                        <label>[15]</label>
+                        <p>Citations for articles/material published exclusively online or in open access (free-to-view), must contain the exact Web addresses (URLs) at the end of the reference(s), except those posted on an author’s Web site unless editorially essential, e.g. ‘Reference: Available from: URL’.</p>
+                    </list-item>
+                </list>
+                <p>Some important points to remember:
+											<list list-type="bullet">
+								<list-item>
+									<p>All references must be complete and accurate.</p>
+								</list-item>
+								<list-item>
+									<p>It is necessary to list all authors if the total number of authors is 6 or less and for more than 6 authors cite 3 authors and then use et al. phrase <italic>et al.</italic></p>
+								</list-item>
+								<list-item>
+									<p>Date of access should be provided for online citations.</p>
+								</list-item>
+								<list-item>
+									<p>Journal names should be abbreviated according to the Index Medicus/MEDLINE.</p>
+								</list-item>
+								<list-item>
+									<p>Punctuation should be properly applied as mentioned in the examples given above.</p>
+								</list-item>
+								<list-item>
+									<p>Superscript in the in-text citations and reference section should be avoided.</p>
+								</list-item>
+								<list-item>
+									<p>Abstracts, unpublished data and personal communications (which can only be included if prior permission has been obtained) should not be given in the references section. The details may however appear in the footnotes.</p>
+								</list-item>
+								<list-item>
+									<p>The authors are encouraged to use a recent version of EndNote (version 5 and above) or Reference Manager (version 10) when formatting their reference list, as this allows references to be automatically extracted.</p>
+								</list-item>
+
+							</list>
+						</p>
+            </sec>
+        </sec>
+        <sec id="r9">
+            <title>FIGURES/ILLUSTRATIONS:</title>
+            <p>All authors must strictly follow the guidelines below for preparing illustrations for publication in <bold><italic>Current Medical Imaging Reviews</italic></bold>. If the figures are found to be sub-standard, then the manuscripts will be rejected and the authors offered the option of figure improvement professionally by <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri> The costs for such improvement will be charged to the authors.</p>
+            <p>Illustrations should be embedded in the text file, and must be numbered consecutively in the order of their appearance. Each figure should include only a single illustration which should be cropped to minimize the amount of space occupied by the illustration.</p>
+            <p>If a figure is in separate parts, all parts of the figure must be provided in a single composite illustration file.</p>
+            <p>Photographs should be provided with a scale bar if appropriate, as well as high-resolution component files. </p>
+            <sec>
+                <title>Scaling/Resolution:</title>
+                <p>Line Art image type is normally an image based on lines and text. It does not contain tonal or shaded areas. The preferred file format should be TIFF or EPS, with the color mode being Monochrome 1-bit or RGB, in a resolution of 900-1200 dpi.</p>
+                <p>Halftone image type is a continuous tone photograph  containing no text. It should have the preferred file format  TIFF, with color mode being RGB or Grayscale, in a resolution of 300 dpi.</p>
+                <p>Combination image type is an image containing halftone  , text or line art elements. It should have the preferred file format  TIFF, with color mode being RGB or Grayscale, in a resolution of 500-900 dpi</p>
+            </sec>
+            <sec>
+                <title>Formats:</title>
+                <p>Illustrations may be submitted in the following file formats:
+							<list list-type="bullet">
+								<list-item>
+									<p><bold>Illustrator</bold></p>
+								</list-item>
+								<list-item>
+									<p><bold>EPS</bold> (preferred format for diagrams) </p>
+								</list-item>
+								<list-item>
+									<p><bold>PDF</bold> (also especially suitable for diagrams) </p>
+								</list-item>
+								<list-item>
+									<p><bold>PNG</bold> (preferred format for photos or images) </p>
+								</list-item>
+								<list-item>
+									<p><bold>Microsoft Word</bold> (version 5 and above; figures must be a single page)  </p>
+								</list-item>
+								<list-item>
+									<p><bold>PowerPoint</bold>  (figures must be a single page) </p>
+								</list-item>
+								<list-item>
+									<p><bold>TIFF </bold></p>
+								</list-item>
+								<list-item>
+									<p><bold>JPEG</bold> (conversion should be done using the original file)</p>
+								</list-item>
+								<list-item>
+									<p><bold> BMP</bold></p>
+								</list-item>
+								<list-item>
+									<p><bold>CDX </bold>(ChemDraw)</p>
+								</list-item>
+								<list-item>
+									<p><bold>TGF </bold>(ISISDraw) </p>
+								</list-item>
+							</list>
+						</p>
+                <p>Bentham Science does not process figures submitted in GIF format.</p>
+                <p>For TIFF or EPS figures with considerably large file size restricting the file size in online submissions is advisable. Authors may therefore convert to JPEG format before submission as this results in significantly reduced file size and upload time, while retaining acceptable quality. JPEG is a ‘lossy’ format. However, in order to maintain acceptable image quality, it is recommended that JPEG files are saved at High or Maximum quality.</p>
+                <p>Zipit or Stuffit tools should not be used to compress files prior to submission as the resulting compression through these tools is always negligible.</p>
+                <p>Please refrain from supplying:
+<list list-type="order">
+<list-item>
+<p>Graphics embedded in word processor (spreadsheet, presentation) document.</p>
+</list-item>
+<list-item>
+<p>Optimized files optimized for screen use (like GIF, BMP, PICT, WPG) because of the low resolution.</p>
+</list-item>
+<list-item>
+<p>Files with too low a resolution.</p>
+</list-item>
+<list-item>
+<p>Graphics that are disproportionately large for the content.</p>
+</list-item>
+							</list>
+						</p>
+            </sec>
+            <sec>
+                <title>Image Conversion Tools:</title>
+                <p>There are many software packages, many of them freeware or shareware, capable of converting to and from different graphics formats, including PNG.</p>
+                <p>General tools for image conversion include Graphic Converter on the Macintosh, Paint Shop Pro, for Windows, and ImageMagick, available on Macintosh, Windows and UNIX platforms.</p>
+                <p>Bitmap images (e.g. screenshots) should not be converted to EPS as they result in a much larger file size than the equivalent JPEG, TIFF, PNG or BMP, and poor quality. EPS should only be used for images produced by vector-drawing applications such as Adobe Illustrator or CorelDraw. Most vector-drawing applications can be saved in, or exported as, EPS format. If the images were originally prepared in an Office application, such as Word or PowerPoint, original Office files should be directly uploaded to the site, instead of being converted to JPEG or another format of low quality.</p>
+            </sec>
+            <sec>
+                <title>Color Figures/Illustrations:</title>
+                <p>
+                    <list list-type="bullet">
+                        <list-item>
+                            <p>Color figures publication in the journal: The cost for each individual page of color figures is <bold>US$ 997</bold>.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Color figures should be supplied in CMYK and not RGB colors.</p>
+                        </list-item>
+                    </list>
+                </p>
+                <p>
+                    <bold>Note for authors:</bold> To maintain publication quality, figures submitted in color will be published in color only.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Chemical Structures:</title>
+            <p>Chemical structures MUST be prepared in ChemDraw/CDX and provided as separate file.</p>
+            <sec>
+                <title>Structure Drawing Preferences:</title>
+                <p>[As according to the ACS style sheet]</p>
+                <p>
+                    <table-wrap id="T1" position="anchor">
+                        <table frame="border" rules="none" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td colspan="2"><underline>Drawing Settings:</underline></td>
+                                </tr>
+                                <tr>
+                                    <td>Chain angle</td>
+                                    <td>120&#x00B0;</td>
+                                </tr>
+                                <tr>
+                                    <td>Bond spacing</td>
+                                    <td>18% of width</td>
+                                </tr>
+                                <tr>
+                                    <td>Fixed length</td>
+                                    <td>14.4 pt (0.500cm, 0.2in)</td>
+                                </tr>
+                                <tr>
+                                    <td>Bold width</td>
+                                    <td>2.0 pt (0.071cm, 0.0278in)</td>
+                                </tr>
+                                <tr>
+                                    <td>Line width </td>
+                                    <td>0.6 pt (0.021cm, 0.0084in)</td>
+                                </tr>
+                                <tr>
+                                    <td>Margin width</td>
+                                    <td>1.6 pt (0.096cm)</td>
+                                </tr>
+                                <tr>
+                                    <td>Hash spacing</td>
+                                    <td>2.5 pt (0.088cm, 0.0347in)</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><underline>Text settings:</underline></td>
+                                </tr>
+                                <tr>
+                                    <td>Font</td>
+                                    <td>Times New Roman</td>
+                                </tr>
+                                <tr>
+                                    <td>Size</td>
+                                    <td>8 pt</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><underline>Under the Preference Choose:</underline></td>
+                                </tr>
+                                <tr>
+                                    <td>Units </td>
+                                    <td> points</td>
+                                </tr>
+                                <tr>
+                                    <td>Tolerances</td>
+                                    <td>3 pixels</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><underline>Under Page Setup Use:</underline></td>
+                                </tr>
+                                <tr>
+                                    <td>Paper</td>
+                                    <td>US letter</td>
+                                </tr>
+                                <tr>
+                                    <td>Scale</td>
+                                    <td>100%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </p>
+            </sec>
+        </sec>
+        <sec id="r10">
+            <title>TABLES:</title>
+            <p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Data Tables should be submitted in Microsoft Word table format.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Each table should include a title/caption being explanatory in itself with respect to the details discussed in the table. Detailed legends may then follow.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Table number in bold font <italic>i.e</italic>. Table <bold><xref ref-type="table" rid="T1">1</xref></bold>, should follow a title. The title should be in small case with the first letter in caps. A full stop should be placed at the end of the title.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Tables should be embedded in the text exactly according to their appropriate placement in the submitted manuscript.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Columns and rows of data should be made visibly distinct by ensuring that the borders of each cell are displayed as black lines.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Tables should be numbered in Arabic numerals sequentially in order of their citation in the body of the text.</p>
+                    </list-item>
+                    <list-item>
+                        <p>If a reference is cited in both the table and text, please insert a lettered footnote in the table to refer to the numbered reference in the text.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Tabular data provided as additional files can be submitted as an Excel spreadsheet.</p>
+                    </list-item>
+                </list>
+            </p>
+        </sec>
+        <sec id="r11">
+            <title>PERMISSION FOR REPRODUCTION:</title>
+            <p>Bentham Science has collaborated with the Copyright Clearance Center to meet our customer’s licensing, besides rights &#x0026; permission needs.</p>
+            <p>The Copyright Clearance Center’s RightsLink<sup>&#x00AE;</sup> service makes it faster and easier to secure permission from Bentham Science’s journal titles. Simply visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals-by-title/A/1/"><u>Journals by Title</u></uri> and locate the desired content. Then go to the article’s abstract and click on “Rights and Permissions” to open the RightsLink’s page. If you are unable to locate the content you wish to use or you are unable to secure the rights you are seeking, please e-mail us at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="permissions@benthamscience.org">permissions@benthamscience.org</email></p>
+            <p>Published/reproduced material should not be included unless written permission has been obtained from the copyright holder, which should be forwarded to the Editorial Office in case of acceptance of the article for publication.</p>
+        </sec>
+        <sec id="r12">
+            <title>AUTHORS AND INSTITUTIONAL AFFILIATIONS:</title>
+            <p>The names of the authors should be provided according to the previous citations or as the authors would want them to be published along with the institutional affiliations, current address, telephone, cell &#x0026; fax numbers and the email address. Email address must be provided with an asterisk in front of the name of the principal author. The corresponding author(s) should be designated and their complete address, business telephone and fax numbers and e-mail address must be stated to receive correspondence and galley proofs.</p>
+        </sec>
+        <sec id="r13">
+            <title>PAGE CHARGES:</title>
+            <p> No page charges will be levied to authors for the publication of their article. </p>
+        </sec>
+        <sec id="r14">
+            <title>LANGUAGE AND EDITING:</title>
+            <p>Manuscripts submitted containing language inconsistencies will not be published. Authors must seek professional assistance for correction of grammatical, scientific and typographical errors. Professional team available at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri> may assist you in the English language editing of your article. Please contact <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri> for a language editing quote at e-mail: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@eureka-science.com">info@eureka-science.com</email> stating the total number of words of the article to be edited.</p>
+            <sec>
+                <title>언어 및 편집:</title>
+                <p> 영문 오타가 많은 원고는 출판되지 않을 것입니다. 영문 오타를 없애겠다는 조건으로 받은 원고는 영어 편집 전문회사인 유럽 공동 기술개발 기구로부터 가격 견적서가 보내 질 것입니다. 영어 작문에 어려움이 있는 비영어권 국가의 저자들은 원고를 학술지에 제출하기 전에 영어 편집회사와 접촉할 것을 권합니다. 영어 편집 견적서를 받기 위해서 교정될 원고의 단어수를 적은 메일을 유럽 공동 기술개발 기구 메일인 <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@eureka-science.com">info@eureka-science.com</email> 로 보내시기 바랍니다. </p>
+            </sec>
+            <sec>
+                <title>语言和编辑:</title>
+                <p>含有很多英文印刷错误的提交稿将不予发表。接受发表的稿件其英文写作应是正确的；专业的语言编辑公司（尤里卡科学），可对稿件的英文润色提供报价。建议非英语国家、且英文写作欠佳的作者在投稿前先与语言编辑公司联系。请与尤里卡科学联系 <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@eureka-science.com">info@eureka-science.com</email>.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>EDITION ET LANGUE:</title>
+            <p>Les manuscrits soumis avec plusieurs erreurs typographiques en Anglais ne seront pas publi&#x00E9;s en l&#x2019;&#x00E9;tat. Les manuscrits sont accept&#x00E9;s pour publication &#x00E0; la condition que l'anglais utilis&#x00E9; soit corrig&#x00E9; apr&#x00E8;s la soumission et seront envoy&#x00E9;s pour examen &#x00E0; <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri>, une soci&#x00E9;t&#x00E9; d&#x0027;&#x00E9;dition de langue professionnelle. Les auteurs en provenance de pays o&#x00F9; la langue est diff&#x00E9;rente de l&#x0027;anglais et qui ont de m&#x00E9;diocres comp&#x00E9;tences en anglais &#x00E9;crit, sont pri&#x00E9;s de contacter la soci&#x00E9;t&#x00E9; d&#x0027;&#x00E9;dition de langue avant de soumettre leur manuscrit &#x00E0; la revue. Merci de contacter <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://eureka-science.com/publishing.php">Eureka Science</uri> &#x00E0; <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@eureka-science.com">info@eureka-science.com</email>  pour un devis en indiquant le nombre total de mot de l&#x2019;article &#x00E0; &#x00E9;diter.</p>
+        </sec>
+        <sec id="r15">
+            <title>PROOF CORRECTIONS:</title>
+            <p>Authors will receive page proofs of their accepted paper before publications. To avoid delays in publication, proofs should be checked immediately for typographical errors and returned within <bold>48 hours</bold>. Major changes are not acceptable at the proof stage. If unable to send corrections within <bold>48 hours</bold> due to some reason, the author(s) must at least send an acknowledgement on receiving the galley proofs or the article will be published exactly as received and the publishers will not be responsible for any error occurring in the published manuscript in this regard.</p>
+            <p>The corresponding author will be solely responsible for ensuring that the revised version of the manuscript incorporating all the submitted corrections receives the approval of all the co-authors of the manuscript.</p>
+        </sec>
+        <sec id="r16">
+            <title>REPRINTS:</title>
+            <p>Printed reprints and e-prints may be ordered from the Publisher prior to publication of the article. First named authors may also order a personal online subscription of the journal at 50% off the normal subscription rate by contacting the subscription department at e-mail: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.org">subscriptions@benthamscience.org</email>. </p>
+        </sec>
+        <sec id="r17">
+            <title>OPEN ACCESS PLUS:</title>
+            <p>Bentham Science also offers authors the choice of “Open Access Plus” publication of articles at a fee of <bold>US$ 1,250</bold> per article. This paid service allows for articles to be disseminated to a much wider audience, on the terms of the <italic>Creative Commons Attribution 4.0 International Public License</italic> (CC-BY 4.0) (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</uri>). Authors are asked to indicate whether or not they wish to pay to have their article made more widely available on this “Open Access Plus” basis. Where an author does not opt-in to this paid service, then the author’s article will be published only on Bentham Science’s standard subscription-based access, at no additional cost to the author.</p>
+            <p>Authors who select the “Quick Track” publication option (see below) and also wish to have their article made available on an “Open Access Plus” basis will be entitled to a <bold>50% discount</bold> on the “Open Access Plus” publication fee.</p>
+            <p>For more information please contact us at e-mail: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="openaccess@benthamscience.org">openaccess@benthamscience.org</email></p>
+        </sec>
+        <sec id="r18">
+            <title>REVIEWING AND PROMPTNESS OF PUBLICATION: </title>
+            <p>All manuscripts submitted for publication will be immediately subjected to peer-reviewing, usually in consultation with the members of the Editorial Advisory Board and a number of external referees. Authors may, however, provide in their Copyright Letter the contact details (including e-mail addresses) of four potential peer reviewers for their paper. Any peer reviewers suggested should not have recently published with any of the authors of the submitted manuscript and should not be members of the same research institution.</p>
+            <p>All peer-reviewing will be conducted via the Internet to facilitate rapid reviewing of the submitted manuscripts. Every possible effort will be made to assess the manuscripts quickly with the decision being conveyed to the authors in due course.</p>
+        </sec>
+        <sec id="r19">
+            <title>QUICK TRACK PUBLICATION:</title>
+            <p> For this journal an optional fast publication fee-based service called QUICK TRACK is available to authors for their submitted manuscripts.</p>
+            <p>QUICK TRACK allows online publication within 2 weeks of receipt of the final approved galley proofs from the authors. Similarly the manuscript can be published in the next forthcoming PRINT issue of the journal. The total publication time, from date of first receipt of manuscript to its online publication is 12 weeks, subject to its acceptance by the referees and modification (if any) by the authors within one week.</p>
+            <p>Authors who have availed QUICK TRACK services in a BSP journal will be entitled for an exclusive 30% discount if they again wish to avail the same services in any Bentham journal. </p>
+            <p>For more information please contact the Editorial Office by e-mail at  <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmir@benthamscience.org">cmir@benthamscience.org</email></p>
+        </sec>
+        <sec id="r20">
+            <title>COPYRIGHT:</title>
+            <p>Authors who publish in Bentham Science print &#x0026; online journals will transfer copyright to their work to Bentham Science Publishers. Submission of a manuscript to the respective journals implies that all authors have read and agreed to the content of the Copyright Letter or the Terms and Conditions. It is a condition of publication that manuscripts submitted to this journal have not been published and will not be simultaneously submitted or published elsewhere. Plagiarism is strictly forbidden, and by submitting the article for publication the authors agree that the publishers have the legal right to take appropriate action against the authors, if plagiarism or fabricated information is discovered. By submitting a manuscript the authors agree that the copyright of their article is transferred to the publishers if and when the article is accepted for publication. Once submitted to the journal, the author will not withdraw their manuscript at any stage prior to publication.</p>
+        </sec>
+        <sec id="r21">
+            <title>SELF-ARCHIVING</title>
+            <p>By signing the Copyright Letter the authors retain the rights of self-archiving. Following are the important features of self-archiving policy of Bentham Science journals:</p>
+            <list list-type="order">
+                <list-item>
+                    <p>Authors can deposit the first draft of a submitted article on their personal websites, their institution’s repositories or any non-commercial repository for personal use, internal institutional use or for permitted scholarly posting.</p>
+                </list-item>
+                <list-item>
+                    <p>Authors may deposit the ACCEPTED VERSION of the peer-reviewed article on their personal websites, their institution’s repository or any non-commercial repository such as PMC, arXiv after <bold>12 MONTHS of publication</bold> on the journal website. In addition, an acknowledgement must be given to the original source of publication and a link should be inserted to the published article on the journal's/publisher’s website.</p>
+                </list-item>
+                <list-item>
+                    <p>If the research is funded by NIH, Wellcome Trust or any other Open Access Mandate, authors are allowed the archiving of published version of manuscripts in an institutional repository after the mandatory embargo period. Authors should first contact the Editorial Office of the journal for information about depositing a copy of the manuscript to a repository. Consistent with the copyright agreement, Bentham Science does not allow archiving of FINAL PUBLISHED VERSION of manuscripts.</p>
+                </list-item>
+                <list-item>
+                    <p>The link to the original source of publication should be provided by inserting the DOI number of the article in the following sentence: “The published manuscript is available at EurekaSelect via http://www.eurekaselect.com/openurl/content.php?genre=article&#x0026;doi= [insert DOI]</p>
+                </list-item>
+                <list-item>
+                    <p>There is no embargo on the archiving of articles published under the OPEN ACCESS PLUS category. Authors are allowed deposition of such articles on institutional, non-commercial repositories and personal websites immediately after publication on the journal website.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec id="r22">
+            <title>PLAGIARISM PREVENTION:</title>
+            <p>Bentham Science Publishers uses the iThenticate software to detect instances of overlapping and similar text in submitted manuscripts. iThenticate software checks content against a database of periodicals, the Internet, and a comprehensive article database. It generates a similarity report, highlighting the percentage overlap between the uploaded article and the published material. Any instance of content overlap is further scrutinized for suspected plagiarism according to the publisher’s Editorial Policies. Bentham Science allows an overall similarity of 20% for a manuscript to be considered for publication. The similarity percentage is further checked keeping the following important points in view:</p>
+            <sec>
+                <title>Low Text Similarity:</title>
+                <p>The text of every submitted manuscript is checked using the Content Tracking mode in iThenticate. The Content Tracking mode ensures that manuscripts with an overall low percentage similarity (but which may have a higher similarity from a single source) are not overlooked. The acceptable limit for similarity of text from a <underline>single source</underline> is 5%. If the similarity level is above 5%, the manuscript is returned to the author for paraphrasing the text and citing the original source of the copied material.</p>
+                <p>It is important to mention that the text taken from different sources with an overall low similarity percentage will be considered as a <underline>plagiarized content</underline> if the majority of the article is a combination of copied material.  </p>
+            </sec>
+            <sec>
+                <title>High Text Similarity:</title>
+                <p>There may be some manuscripts with an overall low similarity percentage, but a higher percentage from a single source. A manuscript may have less than 20% overall similarity but there may be 15 % similar text taken from a single article. The similarity index in such cases is higher than the approved limit for a single source. Authors are advised to thoroughly rephrase the similar text and properly cite the original source to avoid plagiarism and copyright violation. </p>
+            </sec>
+            <sec>
+                <title>Types of Plagiarism:</title>
+                <p>We all know that scholarly manuscripts are written after thorough review of previously published articles. It is therefore not easy to draw a clear boundary between legitimate representation and plagiarism. However, the following important features can assist in identifying different kinds of plagiarized content. These are:
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Reproduction of others words, sentences, ideas or findings as one’s own without proper acknowledgement.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Text recycling, also known as self-plagiarism. It is an author’s use of a previous publication in another paper without proper citation and acknowledgement of the original source.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Paraphrasing poorly: Copying complete paragraphs and modifying a few words without changing the structure of original sentences or changing the sentence structure but not the words.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Verbatim copying of text without putting quotation marks and not acknowledging the work of the original author.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Properly citing a work but poorly paraphrasing the original text is considered as unintentional plagiarism. Similarly, manuscripts with language somewhere between paraphrasing and quoting are not acceptable. Authors  should either paraphrase properly or quote and in both cases, cite the original source.</p>
+                    </list-item>
+                    <list-item>
+                        <p>Higher similarity in the abstract, introduction, materials and methods, and discussion and conclusion sections indicates that the manuscript may contain plagiarized text. Authors can easily explain these parts of the manuscript in many ways. However, technical terms and sometimes standard procedures cannot be rephrased; therefore Editors must review these sections carefully before making a decision.</p>
+                    </list-item>
+                </list></p>
+            </sec>
+            <sec>
+                <title>Plagiarism in Published Manuscripts:</title>
+                <p>Published manuscripts which are found to contain plagiarized text are retracted from the journal website after careful investigation and approval by the Editor-in-Chief of the journal. A ‘Retraction Note’ as well as a link to the original article is published on the electronic version of the plagiarized manuscript and an addendum with retraction notification in the journal concerned. </p>
+            </sec>
+        </sec>
+        <sec id="r23">
+            <title>E-PUB AHEAD OF SCHEDULE:</title>
+            <p>Bentham Science Publishers are pleased to offer electronic publication of accepted papers prior to scheduled publication. These peer-reviewed papers can be cited using the date of access and the unique DOI number. Any final changes in manuscripts will be made at the time of print publication and will be reflected in the final electronic version of the issue. Articles ahead of schedule may be ordered by pay-per-view at the relevant links by each article stated <italic>via</italic> the <bold><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-medical-imaging-reviews/epub-ahead-of-print/#top">E-Pub Ahead of Schedule</uri></bold> </p>
+            <sec>
+                <title>Disclaimer:</title>
+                <p>Articles appearing in E-Pub Ahead-of-Schedule sections have been peer-reviewed and accepted for publication in this journal and posted online before scheduled publication. Articles appearing here may contain statements, opinions, and information that have errors in facts, figures, or interpretation. Accordingly, Bentham Science Publishers, the editors and authors and their respective employees are not responsible or liable for the use of any such inaccurate or misleading data, opinion or information contained of articles in the E-Pub Ahead-of-Schedule.</p>
+            </sec>
+            <sec>
+                <title>Member of Cope</title>
+                <p>
+                    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/ifa-images/cope.gif"/>
+                </p>
+            </sec>
+        </sec>
+    </sec></sec>
+</instructions-for-authors>

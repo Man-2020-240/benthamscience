@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">55</journal-id>
+            <journal-code>iemamc</journal-code>
+            <journal-eureka-code-one>IEMAMC</journal-eureka-code-one>
+            <journal-eureka-code-two>CMCIEMA</journal-eureka-code-two>
+            <nid nid-status="current">632</nid>
+            <nid-one nid-status="old">665</nid-one>
+            <journal-title>Immunology, Endocrine &#x0026; Metabolic Agents in Medicinal Chemistry (Under Re-organization)</journal-title>
+            <journal-former-title>Current Medicinal Chemistry - Immunology, Endocrine and Metabolic Agents</journal-former-title>
+            <full-journal-title>Immunology, Endocrine and Metabolic Agents in Medicinal Chemistry (Under Re-organization)</full-journal-title>
+            <journal-seo-title>immunology-endocrine-and-metabolic-agents-in-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6115</journal-issn>
+                <journal-issn issn-type="print">1875-5222</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Immunology, Endocrine &#x0026; Metabolic Agents in Medicinal Chemistry</italic>
+                    </bold> aims to cover all the latest and outstanding developments in medicinal chemistry and rational drug design for the discovery of new immunology, endocrine &#x0026; metabolic agents. The scope also covers research on functional foods and nutraceuticals of importance to immunology, endocrine &#x0026; metabolic agents.</p>
+                <p>Each issue of the journal contains a series of timely in-depth reviews and original research articles written by leaders in the field covering a range of current topics in immunology, endocrine &#x0026; metabolic agents . </p>
+            </journal-aims-scope>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608059850</ebook-id>
+                        <ebook-title>Immune Response to Parasitic Infections Vol: 2: Immunity to Helminths and Novel Therapeutic Approaches</ebook-title>
+                        <ebook-link>http://ebooks.benthamscience.com/book/9781608059850/</ebook-link>
+                        <ebook-cover>9781608059850.gif</ebook-cover>
+                        <ebook-content-link>http://ebooks.benthamscience.com/book/9781608059850/</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/125669</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>18</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>iemamc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.immunologyendocrinemetabolicagentsinmedicinalchemistry.com/</journal-insight>
+            <journal-description>Immunology, Endocrine &#x0026; Metabolic Agents in Medicinal Chemistry is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in immunology, endocrine &#x0026; metabolic drug discovery.</journal-description>
+            <keyword-group>
+                <keyword>Immunology, Endocrine &#x0026; Metabolic Agents in Medicinal Chemistry</keyword>
+                <keyword>endocrine &#x0026; metabolic medicinal chemistry</keyword>
+                <keyword> most important developments</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="iemamc@benthamscience.org">iemamc@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/cmciema">bsp-cms.eurekaselect.com/index.php/cmciema</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency  order='first'>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

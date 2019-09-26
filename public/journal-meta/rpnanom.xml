@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">116</journal-id>
+            <journal-code>rpnanom</journal-code>
+            <journal-eureka-code-one>PNM</journal-eureka-code-one>
+            <nid nid-status="current">693</nid>
+            <journal-title>Recent Patents on Nanomedicine</journal-title>
+            <full-journal-title>Recent Patents on Nanomedicine</full-journal-title><journal-seo-title>recent-patents-on-nanomedicine</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-9131</journal-issn>
+                <journal-issn issn-type="print">1877-9123</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Nanomedicine</italic>
+                    </bold> publishes reviews, research articles and guest edited thematic issues in the field of nanomedicine. The journal is essential reading for all academic, industrial and clinical researchers who wish to be kept informed about important breakthroughs in nanomedicine.</p>
+            </journal-aims-scope>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpnanom-journal-cover.gif</journal-cover-image>
+            <journal-description>Recent Patents on Nanomedicine publishes review and research articles, drug clinical trial studies and guest edited thematic issues on recent patents in the field of nanomedicine. A selection of important and relevant recent patents is also included in the journal.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Nanomedicine</keyword>
+                <keyword>industrial and clinical researchers</keyword>
+                <keyword>drug clinical trial</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpnanom-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rpnanomed@benthamscience.org">rpnanomed@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPNANOM">bsp-cms.eurekaselect.com/index.php/RPNANOM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO.</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

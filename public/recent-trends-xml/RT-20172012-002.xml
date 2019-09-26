@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20172012-002</article-id>
+            <title-group>
+                <article-title>Direct evidence of the GC-NSF(a) hypothesis on creation of an entirely new gene/protein</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/153401">Direct Evidence for GC-NSF(a) Hypothesis on Creation of Entirely New Gene/Protein</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 15-NOV-2017</aff>
+            <abstract>
+                <p>This article by Dr. Kenji Ikehara and Dr. Ryoko Oi has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cp/">Current Proteomics</uri>, Volume 14, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20172012-002.jpg"/>
+        </p>
+        <p>Diverse organisms with multiple kinds of genes inhabit most of the Earth. As is already known, these organisms have a fundamental biological system comprising genes that make up the genetic code and proteins. Therefore, an important area of research would be the mechanism underlying the production of an entirely new (EntNew) gene or the first protein belonging to a new family.</p>
+        <p>Previously, the design of a base sequence encoding a protein with a required function was not possible. Therefore, every EntNew gene would need to be created by random concatenation of monomeric units or mononucleotides. However, it would also be impossible to create an EntNew gene through this random process; diversity in a base sequence encoding a small protein composed of 100 amino acids is (43)100, or approximately 10180, implying that a gene encoding a small protein cannot be directly created by the random polymerization of mononucleotides.</p>
+        <p>Nonetheless, various protein families originating from an EntNew gene exist in extant organisms on Earth. Therefore, it is certain that, during evolution, organisms have acquired various genes encoding protein-like precision molecular machines to adapt to various environments on Earth. This indicates the existence of a specific mechanism, using which various EntNew genes have been created through substantially random processes.</p>
+        <p>We have proposed the GC-NSF(a) hypothesis for the formation of an EntNew gene, which suggests that an EntNew gene is generated from a non-stop frame on the antisense strand of a GC-rich gene (GC-NSF(a)). NSF(a) is the non-stop frame codon sequence on the antisense strand in the reading frame corresponding to the gene on the sense strand.</p>
+        <p>The GC-NSF(a) hypothesis assumes that an immature and flexible protein with weak catalytic activity, which is produced by GC-NSF(a) expression, evolves gradually into a mature enzyme with higher catalytic activity and more rigid structure as necessary base replacements accumulate onto GC-NSF(a).</p>
+        <p>Thereafter, to obtain direct evidence for the hypothesis, every amino acid sequence (AAS) of the imaginary protein encoded by GC-NSF(a) of the Pseudomonas aeruginosa PAO1 genome (GC content = 66.6%) was homology-searched against all AASs of extant proteins encoded by the same genome. We used NCBI BLASTP for computational investigation.</p>
+        <p>The results suggested that the GC-NSF(a) AAS of tal encoding the C-terminus domain of transaldolase B has sufficient homology with the AAS of ftsZ encoding the C-terminus domain of cell division protein FtsZ. In addition, three other AASs were obtained with similar analysis of 57 GC-rich microbial genomes. Thus, we conclude that the EntNew gene encoding the EntNew protein was generated according to the GC-NSF(a) hypothesis.</p>
+        <p>The EntNew gene can be created from GC-NSF(a) at a high probability because 0th-order structures (pre-primary structures) or the specific amino acid composition (actually an amino acid sequence) of a protein is written in the non-stop frame on the antisense strand (NSF(a)) of GC-rich, but not AT-rich, genes. In other words, GC-NSF(a) can encode the AAS of an immature protein, which is different from any previously existing proteins. Furthermore, AAS encoded by GC-NSF(a) satisfies the six conditions for the formation of a water-soluble globular structure at a high probability. Furthermore, the structure of this protein is slightly more flexible than that of extant proteins, making it possible to easily adjust surface amino acids according to newly encountered substrates.</p>
+        <p>The spread of organisms currently present on Earth is a result of the emergence of the first EntNew gene on primitive Earth, followed by the emergence of other homologous genes within the same gene family and their corresponding proteins; together, these emergent proteins allowed these organisms to adapt to the various environmental conditions on this planet.</p>
+        <p>The research article is available here:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/153401">http://www.eurekaselect.com/153401</ext-link></p>
+        <p>For citation:</p>
+        <p>Ikehara K, et al. Direct Evidence for GC-NSF(a) Hypothesis on Creation of Entirely New Gene/Protein.&#x00A0;Current Proteomics, 2017, Vol 14, DOI: 10.2174/1570164614666170619090537</p>
+    </body>
+    <back>
+    <p><bold>References:</bold></p>
+        <p>Ikehara K. "GADV hypothesis on the origin of life-Life emerged in this way." LAP LAMBERT Academic Publishing, Saarbrucken, Germany, 2016.</p>
+        <p>Ikehara K. Degeneracy of the genetic code has played an important role in evolution of organisms. SOJ Genet Sci 2016; 3: 1-3.</p>
+        <p>For more information:<break/>
+        <ext-link ext-link-type="uri" xlink:href="https://ikehara-gadv.sono-sys.net/en/">https://ikehara-gadv.sono-sys.net/en/</ext-link>
+    </p>
+    </back>
+</article>

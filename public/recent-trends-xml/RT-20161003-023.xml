@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20161003-023</article-id>
+<title-group>
+<article-title>An innovative active platform for wireless damage monitoring of concrete structures</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/145156/article">An Innovative Active Sensing Platform for Wireless Damage Monitoring of Concrete Structures</uri></aff>
+            <aff><bold>Public Release:</bold> 14-NOV-2016</aff>
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Costas Providakis et al. has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-smart-materials/#top">Current Smart Materials</uri> Volume 1, Issue 1, 2016</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Structural Health Monitoring (SHM) is playing an important role in evaluationprocess of structural integrity of concrete structures mainly because much of the expected construction demands will have to be accommodated on existing concrete structures with widespread signs of deterioration.</p>
+<p>Electromechanical Impedance (EMI) sensing approach has been proven that could be an effective alternative experimental approach for the damage detection of concrete structures even at very early-age stages. The wireless monitoring system proposed in the present work, denoted as Wireless impedance or Admittance Monitoring System (WiAMS), retains the benefits of low-budgeted EMI-based monitoring system but is not limited by the data acquisition device sampling rate in conventional EMI monitoring systems. This is achieved by utilizing a credit card-sized Raspberry Pi single-board computer which is capable of transferring data without a base station, can perform processing-hungry operations like video streaming by just simply adding the WiAMS device to the home network and perform SHM.</p>
+<p>Moreover, the use of the Raspberry Pi expands the available hardware interfaces making the sensing device to be ready not only as an SHM control unit, but also as a base station for many other useful sensing platforms like motion with video, audio or environmental sensors.</p>
+<p>WiAMS, as a whole, additionally offers extensive features such as remote control, high processing power, wireless data upload to an SQL database, email notifications, scheduled and iterative impedance (or admittance) measurements and frequency spans from 5kHz to 300 kHz with resolution down to 1 Hz.</p>
+<p>The proposed WiAMS is successfully applied on various concrete specimens detecting damage even in very early-age stages by establishing a damage identification index based on extreme value statistics.</p>
+<p>For More information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-smart-materials/article/145156/">http://benthamscience.com/journals/current-smart-materials/article/145156/</ext-link></p>
+</body>
+<back>
+<ref-list>
+<title>Reference:</title>
+<ref id="r1"><nlm-citation citation-type="book"><person-group person-group-type="author"><name><surname>Providakis</surname><given-names>C.</given-names></name><etal/></person-group><source>An Innovative Active Sensing Platform for Wireless Damage Monitoring of Concrete Structures.</source><year>2016</year><publisher-name>Current Smart Materials</publisher-name><pub-id pub-id-type="doi">10.2174/2405465801666160830155120</pub-id></nlm-citation></ref>
+</ref-list>
+</back>
+</article>

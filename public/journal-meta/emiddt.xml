@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">59</journal-id>
+            <journal-code>emiddt</journal-code>
+            <journal-eureka-code-one>EMIDDT</journal-eureka-code-one>
+            <journal-eureka-code-two>CDTIEMD</journal-eureka-code-two>
+            <nid nid-status="current">636</nid>
+            <nid-one nid-status="old">664</nid-one>
+            <journal-title>Endocrine, Metabolic &#x0026; Immune Disorders - Drug Targets</journal-title>
+            <journal-former-title>Current Drug Targets - Immune, Endocrine &#x0026; Metabolic Disorders</journal-former-title>
+            <full-journal-title>Endocrine, Metabolic and Immune Disorders - Drug Targets</full-journal-title>
+            <journal-seo-title>endocrine-metabolic-and-immune-disorders-drug-targets</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-3873</journal-issn>
+                <journal-issn issn-type="print">1871-5303</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    This journal is devoted to full-length/ mini reviews and original articles of experimental and clinical studies in the field of endocrine, metabolic, and immune disorders. Specific emphasis is placed on humoral and cellular targets for natural, synthetic, and genetically engineered drugs that enhance or impair endocrine, metabolic, and immune parameters and functions. Moreover, the topics related to the effects of food components and/or nutraceuticals on the endocrine-metabolic-immune axis and on microbioma composition are welcome.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4100151707</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608059850</ebook-id>
+                        <ebook-title>Immune Response to Parasitic Infections Vol: 2: Immunity to Helminths and Novel Therapeutic Approaches</ebook-title>
+                        <ebook-link>http://ebooks.benthamscience.com/book/9781608059850/</ebook-link>
+                        <ebook-cover>9781608059850.gif</ebook-cover>
+                        <ebook-content-link>http://ebooks.benthamscience.com/book/9781608059850/</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/125669</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>19</journal-current-volume>
+            <journal-current-issues>8</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>emiddt-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.endocrinemetabolicimmunedisordersdrugtargets.com/</journal-insight>
+<journal-history>Current Drug Targets - Immune, Endocrine &#x0026; Metabolic Disorders was launched in 2001 and later renamed in 2006 as Endocrine, Metabolic &#x0026; Immune Disorders - Drug Targets.</journal-history>
+            <journal-description>Endocrine, Metabolic &#x0026; Immune Disorders - Drug Targets is devoted to timely reviews of experimental and clinical studies in the field of endocrine, metabolic, and immune disorders.</journal-description>
+            <impact-factor>1.104</impact-factor>
+            <five-year-impact-factor>1.821</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Endocrinology &#x0026; Metabolism</category-name>
+                    <rank>134</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>145</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Immunology</category-name>
+                    <rank>148</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>158</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Pharmacology &#x0026; Pharmacy</category-name>
+                    <rank>237</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>267</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <keyword-group>
+                <keyword>Immune Disorders</keyword>
+                <keyword>neuroendocrine-immune</keyword>
+                <keyword>endocrine</keyword>
+            </keyword-group>
+            <journal-flyer>emiddt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdtiemd@benthamscience.net">cdtiemd@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDTIEMD">bsp-cms.eurekaselect.com/index.php/CDTIEMD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index (Thomson Reuters)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20190115-008</article-id>
+            <title-group>
+                <article-title>Computational advances in the label-free quantification of cancer proteomics data</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/166976/article">Computational Advances in the Label-free Quantification of Cancer Proteomics Data</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 27-DEC-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>27</day>
+                    <month>12</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>
+                    <italic>This article by Dr. Feng Zhu et al. is published in Current Pharmaceutical Design, 2018</italic>
+                </p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>In recent years, proteomics research has become a popular method for characterizing the functional proteins driving the transformation of malignancy, tracing the large-scale protein alterations induced by anti-cancer drug, as well as discovering the innovative targets and first-in-class drugs for oncologic disorders. Proteomics became popular due to its ability to provide quantitative and dynamic information on tumor genesis and development by directly profiling protein expression. Label-free Quantification (LFQ) is an important method for quantifying protein expression in cancer proteomics. However, the main challenge in using this method for discovering anti-cancer targets and drugs is the low precision, poor reproducibility, and inaccuracy of the LFQ of proteomics data.</p>
+        <p>This paper presents a review of the recent advances and the computational development of LFQ in cancer proteomics. PubMed and Web of Science databases were searched for label-free quantification approaches, cancer proteomics, and computational advances. A number of experiments including popular acquisition techniques and state-of-the-art quantification tools are critically analyzed and discussed. Following this, the processing approaches which included transformation, normalization, filtering, and imputation were discussed and their impacts on improving LFQ performance of cancer proteomics were evaluated.</p>
+        <p>The authors also discuss the future direction for enhancing the computation-based quantification technique for cancer proteomics. The dramatic increase in the use of LFQ approaches in cancer proteomics can lead to the enhancement of quantification strategies for studying cancer proteomics in the future once its limitations are accounted for.</p>
+        <p>The article is Open Access till 31st January, 2019. To obtain the article, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/166976">http://www.eurekaselect.com/166976</ext-link></p>
+    </body>
+</article>

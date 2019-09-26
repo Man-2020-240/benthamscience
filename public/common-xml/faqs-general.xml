@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<faqs>
+    <sec>
+        <title>General FAQs</title>
+        <sec>
+            <title>For Authors:</title>
+            <question-list>
+                <question-entry id="AUTHQ1">
+                    <question-text>How do I publish my article?</question-text>
+                    <answer-text>Please submit your article online. An online submission and tracking service via Internet facilitates a speedy and cost-effective submission of manuscripts. The full manuscript has to be submitted online via Bentham's Journal Management System (JMS) at (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bentham.manuscriptpoint.com/">bentham.manuscriptpoint.com/</uri>). The link “Submit Manuscript Online” leads you directly to the submission system used by that journal.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ2">
+                    <question-text>What reference style should I use?</question-text>
+                    <answer-text>For Author’s convenience Bentham has developed templates to help you prepare your manuscript. </answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ3">
+                    <question-text>How do I submit my manuscript?</question-text>
+                    <answer-text>Please submit your article online. An online submission and tracking service via Internet facilitates a speedy and cost-effective submission of manuscripts. The full manuscript has to be submitted online via Bentham's Journal Management System (JMS) at (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bentham.manuscriptpoint.com/">bentham.manuscriptpoint.com/</uri>). The link “Submit Manuscript Online” leads you directly to the submission system used by that journal.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ4">
+                    <question-text>What is JMS?</question-text>
+                    <answer-text>The Journal Management System (JMS) is a web-based manuscript submission and tracking system developed by Bentham Science Publishers for efficient, fast and cost effective processing of submitted manuscripts. JMS has been designed with the objective to ensure step-by-step online processing and tracking of manuscripts for authors, editors and the publisher; from submission to acceptance and final reproduction.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ5">
+                    <question-text>How do I check the status of my submitted article?</question-text>
+                    <answer-text>Each manuscript submission will be followed by a confirmation email to the corresponding author.
+                    <break/>Authors may track all the stages of publication online until their manuscript is finalized and is ready for publication. Log onto JMS and click the article title from the available list of your submitted manuscripts to view the detailed status at every stage of peer-review and editorial decision.
+                </answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ6">
+                    <question-text>How long will it take to process my submitted manuscript?</question-text>
+                    <answer-text>Most journals generally convey the editorial decision on the submission within two to three months from the initiation of the peer-review process. Time duration of the peer-review process varies due to factors such as availability and promptness of the reviewers approached to carry out reviewing of the submission. For the duration of the review process, the submission appears in the “In Review” section of the Journal Management System (JMS).</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ7">
+                    <question-text>Are there any charges for publishing in BSP journals?</question-text>
+                    <answer-text>For the majority of Bentham journals, publishing an article is free of charge. If a journal requires page charges, you will find them on the journal's Instructions for Authors.</answer-text>
+                </question-entry>
+                <question-entry id="AUTHQ8">
+                    <question-text>What is Scholar One?</question-text>
+                    <answer-text>Scholar One Manuscripts is the premier journal and peer review tool for scholarly publishers and societies. <break/>
+                	Scholar One Manuscripts has broad application in the marketplace, used by some of the most prestigious commercial publishers, societies, associations, and university presses in the world. Its high-level configuration delivers overviews of manuscript status and identifies bottlenecks to maximize workflow capacity.</answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+        <sec>
+            <title>For Reviewers:</title>
+            <question-list>
+                <question-entry id="REVQ1">
+                    <question-text>What is JMS?</question-text>
+                    <answer-text>The Journal Management System (JMS) is a web-based manuscript submission and tracking system developed by Bentham Science Publishers for efficient, fast and cost effective processing of submitted manuscripts. JMS has been designed with the objective to ensure step-by-step online processing and tracking of manuscripts for authors, editors, reviewers and the publisher; from submission to acceptance and final reproduction.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ2">
+                    <question-text>How can I become a reviewer?</question-text>
+                    <answer-text>Typically reviewers are invited to conduct a review by a journal or editor. Editors usually select researchers that are experts in the same subject area as the paper. However, if you think you would be a good reviewer for a specific journal you can always contact one of the journal's editors.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ3">
+                    <question-text>Where can I access articles for review?</question-text>
+                    <answer-text>The reviewers will receive a notification email requesting for peer-reviewing the assigned manuscript. Interested reviewers will submit their comments online. Alternatively, they may decline the activity online.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ4">
+                    <question-text>How do I post my review comments?</question-text>
+                    <answer-text>Interested reviewers will submit their comments online <italic>via</italic> Bentham's Journal Management System (JMS) at (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bentham.manuscriptpoint.com/">bentham.manuscriptpoint.com/</uri>)</answer-text>
+                </question-entry>
+                <question-entry id="REVQ5">
+                    <question-text>For Subscribers and Librarians?</question-text>
+                    <answer-text>For subscriber &#x0026; Librarians inquiries write at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscription@benthamscience.net">subscription@benthamscience.net</email>.</answer-text>
+                </question-entry>
+                <question-entry id="REVQ6">
+                    <question-text>Where can I find the subscription rates for all the journals?</question-text>
+                    <answer-text>Subscription rate of current year &#x0026; previous year can be found on the below links respectively:<break/>
+						<list list-type="order">
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2019/">http://benthamscience.com/journal-subscriptions/2019/</uri>
+			                    </p>
+			                </list-item>
+			                <list-item>
+			                    <p>
+			                        <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-subscriptions/2018/">http://benthamscience.com/journal-subscriptions/2018/</uri>
+			                    </p>
+			                </list-item>
+			            </list> 
+				 </answer-text>
+                </question-entry>
+            </question-list>
+        </sec>
+    </sec>
+</faqs>

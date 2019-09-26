@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-012</article-id>
+            <title-group>
+                <article-title>Fresh outlook on the photocatalytic reduction of carbon dioxide</article-title>
+            </title-group>
+            <aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-catalysis/article/141524/">Photocatalytic Reduction of Carbon Dioxide: Issues and Prospects</uri></aff>
+            <aff><bold>Public Release:</bold> 17-AUG-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>17</day>
+                    <month>08</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+        </article-meta>
+    </front>
+    <body>
+        <p>The conversion of carbon dioxide molecule into valuable chemicals and fuels is an interesting research area with multidisciplinary aspects. Scientists all over the world have been investigating ways of CO2 capture and conversion for the last four decades and have still yet to reach the goal of sustainable CO2 capture based chemical synthesis due to several barriers associated with the process. Photocatalytic Reduction of Carbon dioxide: Issues and Prospects, a recent critical review article published in the latest issue of <italic>Current Catalysis</italic>, attempts to place the various hurdles that pulls back the CO2 photoreduction from the track and summarizes the information on the subject. The article represents a collaborative effort between two Indian institutions, National Centre for Catalysis Research, Indian Institute of Technology Madras and School of Environmental Studies, Cochin University of Science and Technology, Cochin.</p>
+        <p>Though the article covers many of the problems and misconceptions associated with the semiconductor mediated CO2 photoreduction process, it also details the recent advances in photocatalytic conversion of carbon dioxide.</p>
+        <p>The article explains the critical issues related to CO2 capture. The lack of a standard procedure is one of bottlenecks for the CO2 photoreduction and it is very hard to compare the effects realised by different research laboratories since they were the experiments were conducted in different conditions. This difference results in the variance observed in the separation conditions.</p>
+        <p>&#x201C;In spite of the consistent research work pursued throughout the world on CO2 coversion, development of a commercial process is still a dream. In science, this kind of laxity appears to be common for example, hydrogen from decomposition of water, finding alternate catalysts for ammonia synthesis at room temperature, and in this list CO2 conversion to chemicals has now been added&#x201D; says Balasubramanian Viswanathan, chair professor at the National Centre for Catalysis Research, IIT Madras.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-catalysis/article/141524/">http://benthamscience.com/journals/current-catalysis/article/141524/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="r1">
+                <nlm-citation citation-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Narayanan</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <source>Photocatalytic Reduction of Carbon Dioxide: Issues and Prospects, Curr.</source>
+                    <year>2016</year>
+                    <publisher-name>Catal</publisher-name>
+                    <pub-id pub-id-type="doi">10.2174/2211544705666160427113828</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

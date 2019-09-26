@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180510-001</article-id>
+            <title-group>
+                <article-title>Pterocarpanquinones and carbapterocarpans with anti-tumor activity against MDR leukemias</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/161464/article">Insights into the Biological Evaluation of Pterocarpanquinones and Carbapterocarpans with Anti-Tumor Activity against MDR Leukemias</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 10-MAY-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>10</day>
+                    <month>05</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>The article by Dr. Vivian M. Rumjanek <italic>et al.</italic> is published in  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/anti-cancer-agents-in-medicinal-chemistry/">Anti-Cancer Agents in Medicinal Chemistry</uri>, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <break/>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20180510-001.jpg"/>
+        </p>
+        <p>Careful thinking must be put since the very first days of the design of a new drug candidate to consider variables such as cost-effectiveness, novelty, side effects and the peculiarity of the disease to be treated. Cancer, as a multifactorial sum of diseases, present challenges since its high mutational background often grants tumor cells varying mechanisms to sustain cellular proliferation. Our group, consisting on researchers with different backgrounds as well, resorted to nature to find chemical groups that would present good in vivo tolerance with possibilities for further development. Pterocarpans, secondary metabolites derived mainly from isoflavonoids of the Papilionoideae subfamily of the Leguminosae plant family, served this purpose. They possess anti-inflammatory and antineoplastic properties along with a highly &apos;moddable&apos; scaffold comprising phenolic rings. Addition of two prime pharmacophores such as naphthoquinones and sulfonamides added new mechanisms of antineoplastic action, since the first display prooxidant activity and the latter are described to inhibit tubulin polymerization and tyrosine kinases. Considering this, the resulting molecules LQB-118 and LQB-223 would likely induce toxicity to a variety of tumor cells.</p>
+        <p>Multidrug resistance (MDR), the major hurdle to a successful therapy outcome, would present additional challenges. Diverse mechanisms act in MDR to evade drug-induced apoptosis: changes in cell cycle and metabolic adaptation to the insult exerted by chemotherapeutics, upregulation of protective responses such as resistance to oxidative stress and antiapoptotic proteins (IAPs) and increase in the activity of efflux transporter proteins. These adaptations are dynamic and highly variable among tumor subtypes, in a way that drug design projects often show its shortcomings when MDR is considered. Our results indicated otherwise; in leukemic cells, inhibition induced by the hybrid pterocarpanquinone LQB-118 did not seem to associate with blockade on a particular phase of the cell cycle. On solid tumors, however, an increase in the G2/M phase was observed. On leukemias, suppression of the master cell cycle regulator FoxM1 produced changes in diverse phases of the cell cycle according to the cell subtype; on prostate cancer downregulation of cyclins B1 and D1 were present. Regarding protective responses, LQB-118 was able to overcome two of the most effective in dealing with cellular stress, increases in glutathione to counter oxidative damage and upregulation of survivin and XIAP to evade apoptosis. This profile would likely be associated to inhibition of a broad, upstream transcriptional regulator, and NF?B emerged as the cellular target of LQB-118. In addition, the effect of this compound was increased when autophagy was promoted with rapamycin, and no changes manifested when this pathway was inhibited with chloroquine. Downstream apoptotic responses were observed accordingly, such as calcium leakage from the endoplasmic reticulum, mitochondrial outer membrane depolarization, caspases&apos; and PARP activation, and DNA fragmentation.</p>
+        <p>It became clear that LQB-118 was able to &apos;tweak&apos; its mode of action and exert toxicity to different tumor cells. The multiple pathways affected are the reflection of the way the particular cell tries to circumvent the insult produced by this drug. This could partially be explained by the hybrid nature of LQB-118, in which both its pterocarpan and quinone scaffolds act in synergy for the bioactivation of this drug, producing oxidative and/or alkylating damage depending on the intrinsic biological feature of the tumor subtype. This would be nothing out of ordinary if this resulted in unacceptable toxicity to healthy organisms. Our group performed extensive studies on normal mice with diverse immunologic backgrounds, and this compound was able to reach its final targets in vivo, reducing tumor growth sparing normal cells. A similar outcome was observed on both healthy and neoplastic cells from leukemic patients at the National Cancer Institute of Brazil. Our compounds were designed to be effective in cells with MDR phenotype; as such, it was important to evaluate their efficacy on cells overexpressing ABC proteins. Given their isoflavonoid origin, LQB-118 was able to circumvent high levels of ABCB1 protein expression and functional activity, a profile that was maintained on LQB-223, the carba-derivative that was designed not to repeat the same molecular mechanisms displayed by LQB-118 (thus avoiding the non-innovative &apos;me-too&apos; molecules). LQB-223 acted regardless of both ABCB1 and ABCC1 overexpression in leukemias as well as breast cancer cells, being of broader scope than LQB-118. Owing to its sulfonamide moiety, LQB-223 was demonstrated to bind to the minor groove of DNA, and recent yet unpublished results suggest DNA topoisomerases and ?-tubulin as targets of this carbapterocarpan, expanding its use.</p>
+        <p>Tracing back to the origins of the compounds, the diverse natures of our research group and the variety of prime chemical groups employed resulted in compounds with a myriad of mechanisms, adaptable to diverse phenotypes of drug resistance. The radical innovation applied to a prototypical chemical structure propose LQB-118 and LQB-223 as antineoplastic drug candidates directed to drug-resistant neoplasias, with good selectivity and interesting mechanistic features.</p>
+        <p>For more information, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/161464">http://www.eurekaselect.com/161464</ext-link></p>
+        <p>
+            <bold>Reference:</bold>
+            <br/>
+Rumjanek, VM; Maia, RC; Salustiano, EJ; Costa, PRR. Insights into the Biological Evaluation of Pterocarpanquinones and Carbapterocarpans with Anti-Tumor Activity against MDR Leukemias. <italic>Anti-Cancer Agents in Medicinal Chemistry</italic>, 2018, Vol. 18. [<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/10.2174/1871520618666180420165128/">http://dx.doi.org/10.2174/1871520618666180420165128</uri>]</p>
+    </body>
+</article>

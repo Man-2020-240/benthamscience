@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20182302-005</article-id>
+            <title-group>
+                <article-title>Metabolomics, a promising tool for advancing in treatment personalization of oncological patients</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/153940">Metabolomics applications in precision medicine: An oncological perspective</uri>
+            </aff>
+            <aff>
+                <bold>PUBLIC RELEASE:</bold> 15-FEB-2018</aff>
+            <abstract>
+                <p>This article by Dr. Leonor Puchades-Carrasco and Dr. Antonio Pineda- Lucena is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/ctmc/">Current Topics in Medicinal Chemistry</uri>, Volume 17 , Issue 24 , 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Metabolomics, the analysis of the complete set of metabolites in a defined biological compartment, is a relatively novel approach. Metabolomics studies have been successfully applied to get a better understanding of many diseases, including a number of neoplastic processes. In this context, it is important to underline that cancer patients exhibit metabolic profiles that are different from those of healthy individuals and patients with benign diseases. Moreover, the site, the stage, and the location of the tumors have been shown to further alter the metabolic composition.</p>
+        <p>Currently, tumors are defined not only by their location but also by their molecular characteristics. The identification of specific mutations in tumors has started to play a critical role when determining therapeutic treatments. However, that information is not currently available for the majority of cancers, and the existing biomarkers are far from being optimal. Furthermore, there is considerable heterogeneity within the current definitions of pathological process, exemplified by the fact that patients who are given an identical diagnosis react differently to the same therapy and have different outcomes. In this context, metabolomics, in combination with other &quot;omics&quot; approaches, could contribute to get a deeper insight into the molecular mechanisms underlying pathological processes, thus facilitating the classification of patients and their therapeutic treatment.</p>
+        <p>Precision medicine promises to tailor therapies for each individual by delivering more effective drug treatments, while avoiding or reducing adverse drug reactions. Towards this end, considerable efforts have been made over the last few years in the field of pharmacogenomics, with a focus on genotyping and identifying specific genetic variations associated with drug response. However, clinical pharmacology would benefit from the introduction of new methodologies capable of providing information that could complement this genomic information. This is necessary because drug metabolism and utilization involves many different enzymes, multiple organs, several compartments and even the microbiome, being not always possible to screen for all possible genetic or tissue variants. Furthermore, because drug metabolism varies with ethnicity, age, gender, weight, height and diet - as well as other environmental and physiological variables - it can be particularly challenging to predict how an individual will respond to a drug based on their genotype alone.</p>
+        <p>In this context, the ability to directly and accurately assess the biological phenotype of patients will be a critical component in determining the correct drug treatment or in predicting the response following a therapeutic treatment. Metabolites are the final products of cellular regulatory processes and their levels can be regarded as the ultimate response of biological systems to genetic and environmental changes. Similarly, to the terms &apos;transcriptome&apos; or &apos;proteome&apos;, the set of metabolites synthetized by a biological system constitutes its &apos;metabolome&apos;. Since the metabolome is closely tied to the genotype of an individual as well as its physiology and the surrounding environment, metabolomics offers a unique opportunity to look at genotype-phenotype and genotype-environment relationships. Metabolomics is closely linked to the overall physiopathological status of an individual. Thus, metabolomics may incorporate the biochemical events of thousands of small molecules in cells, tissues, organs, or biological fluids. Disease state or drug exposure could alter such metabolite composition in qualitative and quantitative terms generating complex metabolic signatures. The analysis of these signatures can potentially provide useful information for the diagnosis and prognosis of patients as well as for predicting pharmacological responses to specific interventions. Additionally, specific metabolic signatures occur after drug treatment, thus providing information from pathways targeted or affected by drug therapy.</p>
+        <p>This review provides specific examples of metabolomics applications in the field of clinical pharmacology and precision medicine with a focus on the therapeutic management of cancer and in the translation of these results to the clinics.</p>
+        <p>Authors: Dr. Leonor Puchades-Carrasco</p>
+        <p>Affiliation: Joint Research Unit in Clinical Metabolomics, Centro de Investigaci&#x00F3;n Pr&#x00ED;ncipe Felipe / Instituto de Investigaci&#x00F3;n Sanitaria La Fe, Valencia, Spain</p>
+        <p>Dr. Antonio Pineda- Lucena</p>
+        <p>Affiliation: Drug Discovery Unit, Instituto de Investigaci&#x00F3;n Sanitaria La Fe, Valencia, Spain</p>
+    </body>
+</article>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">103</journal-id>
+            <journal-code>cas</journal-code>
+            <journal-eureka-code-one>CAS</journal-eureka-code-one>
+            <nid nid-status="current">680</nid>
+            <journal-title>Current Aging Science</journal-title>
+            <full-journal-title>Current Aging Science</full-journal-title>
+            <journal-seo-title>current-aging-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1874-6128</journal-issn>
+                <journal-issn issn-type="print">1874-6098</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Aging Science</italic>
+                    </bold> publishes frontier review and experimental articles in all areas of aging and age-related research that may influence longevity. This multidisciplinary journal will help in understanding the biology and mechanism of aging, genetics, pathogenesis, intervention of normal aging process and preventive strategies of age-related disorders. The journal publishes objective reviews written by experts and leaders actively engaged in research using cellular, clinical, molecular, and animal models, including lower organism models (e.g., yeast, Caenorhabditis elegans and Drosophila). In addition to the affect of aging on integrated systems, the journal also covers original articles on recent research in fast emerging areas of adults stem cells, brain imaging, calorie restriction, immunosenescence, molecular diagnostics, pharmacology and clinical aspects of aging. Manuscripts are encouraged that relate to developmental programming of aging and the synergistic mechanism of aging with cardiovascular diseases, obesity and neurodegenerative disorders.</p>
+                <p>Book reviews, meeting reports and letters-to-the-editor and drug clinical trial studies are also published. The journal is essential reading for researchers, educators and physicians with interest in aging, age-related dementia and Alzheimer’s disease and longevity. <bold><italic>Current Aging Science</italic></bold> provides a comprehensive coverage of the current state of aging research for gerontologists, neuroscientists, clinicians, health science planners, granting agencies and pharmaceutical scientists.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19600166318</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>12</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cas-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.current-aging-science.com/</journal-insight>
+<journal-history>Current Aging Science was introduced in 2008 with the assistance of Dr. Debomoy K. Lahiri, who is the current Editor-in-Chief serving since 2008.</journal-history>
+            <journal-description>Current Aging Science publishes frontier review and experimental articles in all areas of aging and age-related research that may influence longevity. This multidisciplinary journal will help in understanding the biology and mechanism of aging, genetics, pathogenesis, intervention of normal aging process and preventive strategies of age-related disorders.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cas-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cas@benthamscience.net">cas@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CAS">bsp-cms.eurekaselect.com/index.php/CAS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EMCare</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder® -Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

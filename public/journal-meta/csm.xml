@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">162</journal-id>
+            <journal-code>csm</journal-code>
+            <journal-eureka-code-one>CSM</journal-eureka-code-one>
+            <nid nid-status="current">140276</nid>
+            <journal-title>Current Smart Materials</journal-title>
+            <full-journal-title>Current Smart Materials</full-journal-title>
+            <journal-seo-title>current-smart-materials</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2405-4666</journal-issn>
+                <journal-issn issn-type="print">2405-4658</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Smart Materials</italic>
+                    </bold>, a peer reviewed journal publishes full length/mini-reviews, original research articles and thematic issues on experimental and applied research on smart materials.  The scope covers contemporary and future smart materials e.g. alloys, polymers, self-healing, shape memory alloys, dielectric elastomers, thermoelectric, magnetocaloric &#x0026; magnetostrictive, photomechanical, halochromic, chromogenic, piezoelectric and  ferroelectric materials.   Coverage also includes applications to sensors and actuators and other smart material systems applied to a range of disciplines</p>
+            </journal-aims-scope>
+            <journal-current-volume>4</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>csm-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentsmartmaterials.com/</journal-insight>
+<journal-history>Current Smart Materials was introduced in 2016 with the assistance of Dr. Seung-Bok Choi, who is the current Editor-in-Chief serving since 2016.</journal-history>
+            <journal-description>This inter-disciplinary journal will be of interest to scientists in both the physical and biomedical /pharmaceutical related disciplines in nanoscience research.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>csm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="csm@benthamscience.net">csm@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CSM">bsp-cms.eurekaselect.com/index.php/CSM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

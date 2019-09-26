@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">24</journal-id>
+            <journal-code>cg</journal-code>
+            <journal-eureka-code-one>CG</journal-eureka-code-one>
+            <nid nid-status="current">601</nid>
+            <journal-title>Current Genomics</journal-title>
+            <full-journal-title>Current Genomics</full-journal-title>
+            <journal-seo-title>current-genomics</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-5488</journal-issn>
+                <journal-issn issn-type="print">1389-2029</journal-issn>
+            </journal-issn-list>
+            <!-- <journal-aims-scope ifa-aims-scope="yes">-->
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Genomics</italic>
+                    </bold> is a peer-reviewed journal that provides essential reading for academic, clinical, government and pharmaceutical scientists who wish to be kept informed and up-to-date with the latest and most important developments in genome science and systems modeling. 
+</p>
+                <p>
+Current Genomics publishes three types of peer-reviewed articles including:
+</p>
+                <p>
+i) High-quality <underline>research papers</underline> reporting on new and original data generated at the genome scale level, including meta-analysis studies. Systems biology, molecular systems modeling, molecular evolution, developmental biology, aging research and human disease research are topics of particular interest. Position papers dealing with new or complex methodological approaches whether experimental or mathematical are greatly welcome in this section. 
+</p>
+                <p>
+ii) Authoritative and full-length/mini <underline>reviews</underline> from widely-recognized experts, covering all the latest and outstanding developments in genome science and computational/systems biology. Proposals for mini-hot topics (2-3 review papers) and full hot topics (6-8 review papers) are welcome in this section and they should not contain original data. Guest edited issues provide expert views on specific questions giving an extensive and comprehensive analysis of a specific field of activities in genomics. All aspects of genetic analysis and gene function will be covered, particularly in the growing areas of human genomics, functional genomics and next generation sequencing, molecular evolution, developmental biology, aging research and systems/statistical modeling. 
+</p>
+                <p>
+iii) <underline>Opinion papers</underline> from internationally and widely recognized experts addressing contemporary questions and issues in the field of genome science and systems biology and basic and clinical research practices.
+</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>22075</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608057566</ebook-id>
+                        <ebook-title>Advances in Genome Science: Probing Intracellular Regulation Vol 2</ebook-title>
+                        <ebook-link>http://www.benthamscience.com/ebooks/9781608057566/index.htm</ebook-link>
+                        <ebook-cover>9781608057566.gif</ebook-cover>
+                        <ebook-content-link>http://www.benthamscience.com/ebooks/contents.php?JCode=9781608057566</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/117269</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>20</journal-current-volume>
+            <journal-current-issues>8</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cg-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.current-genomics.com/</journal-insight>
+<journal-history>Current Genomics Journal was launched in 2000. Dr. Christian Néri serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Genomics, a peer-reviewed journal, publishes authoritative and comprehensive reviews and guest edited issues covering all the latest and outstanding developments in genome science and computational / systems biology. Guest edited issues provide expert views on specific questions giving an extensive and comprehensive analysis of a specific field of activities in genomics.</journal-description>
+            <impact-factor>2.174</impact-factor>
+            <five-year-impact-factor>3.090</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Biochemistry &#x0026; Molecular Biology</category-name>
+                    <rank>206</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>298</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Genetics &#x0026; Heredity</category-name>
+                    <rank>113</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>174</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">http://on.fb.me/1rDRCqt</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BSP_HighImpact</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cg-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cg@benthamscience.net">cg@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/cg">bsp-cms.eurekaselect.com/index.php/cg</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded<sup>TM</sup></agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Biochemistry &#x0026; Biophysics Citation Index</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>PubMed/PubMed Central</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Europe PMC</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>EMBiology</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX19</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX20</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX21</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

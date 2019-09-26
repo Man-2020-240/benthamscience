@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<about-us xmlns:xlink="http://www.w3.org/1999/xlink">
+    <sec>
+		<p>
+			<graphic xlink:href="about-us.jpg"/>
+		</p>
+	</sec>
+	<sec>
+	<p>Bentham Science is a science, technology, and medical (STM) publisher, providing academic researchers and industrial professionals with the latest information in diverse fields of science and technology. Our peer-reviewed scholarly journals and books have an ever-increasing readership of millions of researchers worldwide.</p>
+	<p>Bentham Science currently publishes more than 100 journals in both electronic and printed formats. Our journals cover various disciplines in pharmaceutical research and development, medical subspecialties, engineering, technology, and social sciences. The journals are indexed in recognized indexing agencies, such as Journal Citation Reports/Science Edition, MEDLINE/Index Medicus, PubMed, Scopus, Chemical Abstracts, and EMBASE.</p>
+	<p>Forty Bentham Science journals have received impact factor rankings in the annual Journal Citation Report. For more information, click here: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://eurekalert.org/pub_releases/2019-06/bsp-bsj062819.php">https://eurekalert.org/pub_releases/2019-06/bsp-bsj062819.php</uri></p>
+	<p>Bentham Science follows the single blind peer-review procedure for submissions of all manuscripts to its journals, except for a selected number of patent journals where double blind review is followed.</p>
+	<p>All submitted articles/eBook chapters are subjected to an extensive peer review in consultation with members of the journal’s editorial board and independent external referees (usually three reviewers). All manuscripts/chapters are assessed rapidly and the decision based on all the peer reviewers’ comments, taken by the journal’s Editor-in-Chief/eBook Editor, is then conveyed to the author(s).</p>
+	<p>In order to honor the essential role reviewers play in maintaining the integrity and accuracy of research, Bentham Science has partnered with Publon. Publon provides formal recognition to our peer reviewers by producing a verified record of their peer review and editorial contributions for academic journals. For more information, click here: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://publons.com/publisher/219/bentham-science-publishers">https://publons.com/publisher/219/bentham-science-publishers</uri></p>
+	<p>Besides our wide range of scientific journals, Bentham Science also has a book publishing program, catering to publishing of print and electronic books on diverse themes. Bentham takes pride in publishing more than 800 books so far, with a reasonable number in the process of publication. We continue to broaden our publishing scope, by expanding our books and journals catalog annually, to also include works relevant to emerging disciplines. For more information, click here: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ebooks.benthamscience.com/">https://ebooks.benthamscience.com/</uri></p>
+	<p>Bentham Science offers a reliable publishing experience to authors from the initial manuscript submission till the final publication, through our state of the art journal management system which makes the publication process smooth and timely. With a productive association of 10,000 eminent scientists on the editorial boards, (including Nobel laureates as honorary advisors), Bentham Science provides high-quality peer review services to maintain their standards in publication.</p>
+	<p>In addition to publication opportunities for researchers, we also offer scholarly content licensing solutions, through our online store Eureka Select, to academic and corporate libraries interested in our journals and books. The online store also make our publications available for individual readers and publishers. Visit the online store, Eureka Select, here: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/">EurekaSelect</uri></p>
+	<p>Bentham Science is always open to new ideas and partnerships. If you are a researcher, librarian or distributor, and wish to work with us, please contact us at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>.</p>
+       <!-- <p><bold>Bentham Science Publishers is a progressive science, technology, and medical (STM) publisher, providing academic researchers and industrial professionals with the latest information in diverse fields of science and technology. Our peer-reviewed scholarly journals and books have an ever-increasing readership of millions of researchers worldwide.</bold></p>
+        <p>Bentham Science currently publishes <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/bypublication/">more than 100 journals</uri> in both electronic and printed formats. Our journals cover various disciplines in pharmaceutical research and development, medical subspecialties, engineering, technology, and social sciences. Forty Bentham journals have also received <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journal/journals-impacting-science.php">impact factor</uri> rankings in the annual Journal Citation Report.</p>
+        <p>Besides our wide range of scientific journals, Bentham also has a <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ebooks.benthamscience.com/index.php">book publishing program</uri>, catering to publishing of print and electronic books on diverse themes. Bentham takes pride in publishing more than 700 books so far, with a reasonable number in the process of publication. We continue to broaden our publishing scope, by expanding our books and journals catalog annually, to also include works relevant to emerging disciplines.</p>
+        <p>Bentham Science offers a reliable publishing experience to authors from the initial manuscript submission till the final publication, through our state of the art <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jms.eurekaselect.com/">journal management system</uri> which makes the publication process smooth and timely. With a productive association of 10,000 eminent scientists on the editorial boards, (including 5 Nobel laureates as honorary advisors), <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://publons.com/publisher/219/bentham-science-publishers/">Bentham Science provides high-quality peer review</uri> services to maintain their standards in publication.</p>
+        <p>In addition to publication opportunities for researchers, we also offer scholarly content licensing solutions through our <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/alldiseases/">online store</uri> to academic and corporate libraries interested in our journals and books, as well as individual readers and publishers. Bentham Science is always open to new ideas and partnerships. If you are a researcher, librarian or distributor, and wish to work with us, please <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/contacts.php">contact us</uri>.</p>
+        
+        -->
+        
+        
+        <!--
+        <table width="50%">
+            <tr>
+                <td>1</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-neuropharmacology/">Current Neuropharmacology</uri></td>
+                <td>4.068</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cmc/">Current Medicinal Chemistry</uri></td>
+                <td width="130">3.469</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/ctmc/">Current Topics in Medicinal Chemistry</uri></td>
+                <td width="130">3.374</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/car/">Current Alzheimer Research</uri></td>
+                <td width="130">3.289</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cdt/">Current Drug Targets</uri></td>
+                <td width="130">3.112</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cpd/">Current Pharmaceutical Design</uri></td>
+                <td width="130">2.757</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cpps/">	Current Protein &#x0026; Peptide Science</uri></td>
+                <td width="130">2.696</td>
+            </tr>
+           
+            <tr>
+                <td>8</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cdm/">Current Drug Metabolism</uri></td>
+                <td width="130">2.655</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/mrmc/">Mini-Reviews in Medicinal Chemistry</uri></td>
+                <td width="130">2.645</td>
+            </tr>
+        </table>
+        <sec>
+            <title>Journal Sample Copies:</title>
+            <sec>
+                <title>Sample Copy(s):</title>
+                <p>We offer you the possibility of ordering free print sample copies or viewing free online sample copies. For information, visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com">www.benthamscience.com </uri> and select “Free Online Journals and Trials”</p>
+            </sec>
+            <sec>
+                <title>Ordering Information:</title>
+                <p>We offer great discounts for direct multiple subscription orders (institutional and personal), global and multi-site online licenses and consortia licenses.</p>
+            </sec>
+            <sec>
+                <title>3-Months FREE Online Journal Trial:</title>
+                <p>We currently offer institutions the possibility of gaining FREE access to all Bentham titles for a 3-months period.
+
+</p>
+            </sec>
+            <sec>
+                <title>Subscription Information:</title>
+                <p>All our Journals are available online. For information on Journals and how to order, please visit our web site at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journal/price-order.php">www.benthamscience.com/journal/price-order.php</uri> and select “Prices and Ordering” or contact our subscription department at: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.org">subscriptions@benthamscience.org</email></p>
+            </sec>
+            <sec>
+                <title>Pay-Per-View:</title>
+                <p>As an alternative to subscriptions, you can access a single manuscript online. By using your credit card, instant access to the desired article including the full text and illustrations is granted. For information, visit our web site at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com">www.benthamscience.com </uri></p>
+            </sec>
+            <sec>
+                <title>Metadata:</title>
+                <p>Bentham Science Publishers offers regular delivery of metadata of its bibliographic content to:
+             <list list-type="bullet">
+                    <list-item>
+                        <p>Librarians</p>
+                    </list-item>
+                    <list-item>
+                        <p>Aggregators</p>
+                    </list-item>
+                    <list-item>
+                        <p>Indexing Agencies</p>
+                    </list-item>
+                    <list-item>
+                        <p>Booksellers</p>
+                    </list-item>
+                    
+                </list>
+
+            </p>
+            </sec>
+        </sec>
+        <sec>
+            <p>
+                <bold>Important to Know!</bold>
+            </p>
+        </sec>
+        <sec>
+            <title>Abstracting Agencies:</title>
+            <p>Our Journals are indexed in: ISI Web of Science, MEDLINE, Chemical Abstracts, EMBASE, BIOBASE, BIOSIS, Science Citation Index Expanded, , Biochemistry &#x0026; Biophysics Citation Index®, Biotechnology Citation Index®, ISI Alerting Services, Index to Scientific Reviews, PubsHub ,BIOSIS Previews, BIOSIS Reviews Reports and Meetings, Journal Citation Reports/Science Edition, Genamics JournalSeek, Scopus and others.</p>
+        </sec>
+        <sec>
+            <title>Advertisements and Marketing Exchanges:</title>
+            <p>We accept advertisements in all of our Journals. Furthermore, we organize many marketing exchanges with relevant conferences. These conferences and attended conferences are highlighted on our conference site at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/conferences-by-discipline.php">www.benthamscience.com/conferences-by-discipline.php </uri> and on our CD. For information, contact us at: 
+            <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sales@benthamscience.org">sales@benthamscience.org</email></p>
+        </sec>
+        <sec>
+            <title>Open Access:</title>
+            <p>Bentham Science currently offers authors the choice of publishing their articles as open access. Please refer to the Journal instructions for authors for details.</p>
+            <p>For any help or assistance, please feel free to contact at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="support@benthamscience.org">support@benthamscience.org</email>
+          </p>
+        </sec>-->
+    </sec>
+</about-us>

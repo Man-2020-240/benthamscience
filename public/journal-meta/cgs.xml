@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">160</journal-id>
+            <journal-code>cgs</journal-code>
+            <journal-eureka-code-one>CGS</journal-eureka-code-one>
+            <nid nid-status="current">146736</nid>
+            <journal-title>Current Graphene Science</journal-title>
+            <full-journal-title>Current Graphene Science</full-journal-title>
+            <journal-seo-title>current-graphene-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2452-2740</journal-issn>
+                <journal-issn issn-type="print">2452-2732</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Graphene Science </italic>
+                    </bold>is peer-reviewed multi-disciplinary journal that covers fundamental and applied research in various areas related to graphene science, including all important recent developments in chemistry, physics, bioscience, materials science, nanotechnology and engineering. The journal publishes research articles, short communications and full-length/mini reviews on materials based on the graphene structure  including synthesis, production, structural modification, spectroscopy, optical, electrical, thermal and mechanical properties, growth, fabrication, industrial processing technologies, quantum mechanics, spin transport  and all other aspects concerned with basic and applied research in the field of graphene science.</p>
+            </journal-aims-scope>
+            <journal-current-volume>3</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cgs-journal-cover.gif</journal-cover-image>
+            <journal-history>Current Graphene Science was introduced in 2017 with the assistance of Dr. Zhen Zhou, who is the current Editor-in-Chief serving since 2017.</journal-history>
+            <journal-description>Current Graphene Science is   peer-reviewed multi-disciplinary journal that covers fundamental and applied research in various areas related to graphene science, including all important recent developments in chemistry, physics, bioscience, materials science, nanotechnology and engineering.</journal-description>
+            <social-media-link-list>
+                <!-- <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link> -->
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cgs-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cgs@benthamscience.net">cgs@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CGS">bsp-cms.eurekaselect.com/index.php/CGS</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX15</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

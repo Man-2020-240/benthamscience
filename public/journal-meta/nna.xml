@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">117</journal-id>
+            <journal-code>nna</journal-code>
+            <journal-eureka-code-one>NANOASIA</journal-eureka-code-one>
+            <nid nid-status="current">694</nid>
+            <journal-title>Nanoscience &#x0026; Nanotechnology-Asia</journal-title>
+            <full-journal-title>Nanoscience and Nanotechnology-Asia</full-journal-title>
+            <journal-seo-title>nanoscience-and-nanotechnology-asia</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-6820</journal-issn>
+                <journal-issn issn-type="print">2210-6812</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Nanoscience &#x0026; Nanotechnology-Asia</italic>
+                    </bold>  publishes expert reviews/ mini reviews, original research articles, letters and guest edited issues on all the most recent advances in nanoscience and nanotechnology with an emphasis on research in Asia and Japan. All aspects of the field are represented including chemistry, physics, materials science, biology and engineering mainly covering the following; synthesis, characterization, assembly, theory, and simulation of nanostructures (nanomaterials and assemblies, nanodevices, nano-bubbles, nano-droplets, nanofluidics, and self-assembled structures), nanofabrication, nanobiotechnology, nanomedicine and methods and tools for nanoscience and nanotechnology.</p>
+                <p>The Journal offers thorough and authoritative reviews, perspectives on cutting-edge research and discussions of topics that provide distinctive views about the future of nanoscience and nanotechnology.
+</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19900191891</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608057696</ebook-id>
+                        <ebook-title>Micro and Nanomachining Technology Size, Model and Complex Mechanism</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608057696/index.htm</ebook-link>
+                        <ebook-cover>9781608057696.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608057696</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119928</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>nna-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.nanosciencenanotechnologyasia.com/index.php</journal-insight>
+<journal-history>Nanoscience &#x0026; Nanotechnology-Asia Journal was launched in 2011. Dr. Bai Yang serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The Journal offers thorough and authoritative reviews, perspectives on cutting-edge research and discussions of topics that provide distinctive views about the future of nanoscience and nanotechnology.</journal-description>
+            <keyword-group>
+                <keyword>Nanoscience &#x0026; Nanotechnology-Asia </keyword>
+                <keyword>nano-bubbles, nano-droplets, nanofluidics</keyword>
+                <keyword>tools for nanoscience and nanotechnology.</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>nna-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nanoasia@benthamscience.net">nanoasia@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/NANOASIA">bsp-cms.eurekaselect.com/index.php/NANOASIA</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170110-006</article-id>
+            <title-group>
+                <article-title>Neural circuits underlying fly larval locomotion</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/article/148210/">Neural circuits underlying fly larval locomotion</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 15-DEC-2016</aff>
+            <abstract>
+                <p>This research article by Dr. Hiroshi Kohsaka et al will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/#top">Current Pharmaceutical Design</uri>,  Volume 22, 2016</p>
+            </abstract>
+        
+    </article-meta>
+</front>
+<body>
+    <p>In recent decades, larval fruit flies have generally been considered as a promising model to examine neural locomotor circuits. Drosophila larval locomotion offers a valuable opportunity to link genes to behavior, and also link sensory inputs to motor outputs in cellular and molecular resolution. This review article will provide a brief introduction to <italic>Drosophila</italic> larval locomotion for researchers who are new to the field and curious about what tiny maggots tell us.</p>
+    <p>Locomotion is a complex motor behavior that may be expressed in different ways using a variety of strategies depending upon species and pathological or environmental conditions. Quadrupedal or bipedal walking, running, swimming, flying and gliding constitute some of the locomotor modes enabling the body, in all cases, to move from one place to another. Despite these apparent differences in modes of locomotion, both vertebrate and invertebrate species share, at least in part, comparable neural control mechanisms for locomotor rhythm and pattern generation and modulation. Significant advances have been made in recent years in studies of the genetic aspects of these control systems. Findings made specifically using <italic>Drosophila</italic> (fruit fly) models and preparations have contributed to further understanding of the key role of genes in locomotion. This review focuses on some of the main findings made in larval fruit flies while briefly summarizing the basic advantages of using this powerful animal model for studying the neural locomotor system.</p>
+    <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/article/148210/">http://benthamscience.com/journals/current-pharmaceutical-design/article/148210/</ext-link></p>
+</body>
+<back>
+    <ref-list>
+        <title>Reference:</title>
+        <ref id="r1">
+            <nlm-citation citation-type="journal">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Kohsaka</surname>
+                        <given-names>H.</given-names>
+                    </name>
+                    <name>
+                        <surname>Guertin</surname>
+                        <given-names>P.A.</given-names>
+                    </name>
+                    <name>
+                        <surname>Nose</surname>
+                        <given-names>A.</given-names>
+                    </name>
+                </person-group>
+                <article-title>Neural circuits underlying fly larval locomotion.</article-title>
+                <source>Curr. Pharm. Des.</source>
+                <year>2016</year>
+                <pub-id pub-id-type="doi">10.2174/1381612822666161208120835</pub-id>
+                <pub-id pub-id-type="pmid">27928962</pub-id>
+            </nlm-citation>
+        </ref>
+    </ref-list>
+</back>
+</article>

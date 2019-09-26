@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">173</journal-id>
+            <journal-code>cort</journal-code>
+            <journal-eureka-code-one>CORT</journal-eureka-code-one>
+            <nid nid-status="current">167743</nid>
+            <journal-title>Current Obesity Research &#x0026; Therapy (Discontinued)</journal-title>
+            <full-journal-title>Current Obesity Research and Therapy (Discontinued)</full-journal-title>
+            <journal-seo-title>current-obesity-research-and-therapy</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2542-5927</journal-issn>
+                <journal-issn issn-type="print">2542-5919</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Obesity Research &#x0026; Therapy</italic>
+                    </bold> is a cutting-edge, peer-reviewed journal which will publish reviews, original research articles and guest edited thematic issues written by eminent experts in the field of obesity research and therapy. The journal aims to cover all the latest and outstanding developments in obesity research and therapy. The scope will cover all aspects of pre-clinical and clinical obesity research. Therapy includes new therapeutic research and methods such as surgical and pharmacologic.</p>
+            </journal-aims-scope>
+            <!--<new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608054671</ebook-id>
+                        <ebook-title>Neurobiology of Mood Disorders</ebook-title>
+                        <ebook-link>http://benthamscience.com/ebooks/9781608054671/index.htm</ebook-link>
+                        <ebook-cover>9781608054671.gif</ebook-cover>
+                        <ebook-content-link>http://benthamscience.com/ebooks/contents.php?JCode=9781608054671</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/119874</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>-->
+            <journal-current-volume>1</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cort-journal-cover.gif</journal-cover-image>
+            <!--<journal-description>The journal serves as a comprehensive, multidisciplinary expert forum for neuropharmacologists and neuroscientists.</journal-description>
+            <keyword-group>
+                <keyword>Current Neuropharmacology</keyword>
+                <keyword>systems/behavioura</keyword>
+                <keyword>comprehensive reviews</keyword>
+            </keyword-group>
+            <impact-factor>3.365</impact-factor>
+            <five-year-impact-factor>3.623</five-year-impact-factor>-->
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="benthamscience">http://benthamscience.com/social-media-main.php</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cort-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cort@benthamscience.org">cort@benthamscience.org</email>
+            </journal-email>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<process-flowchart>
+    <sec>
+        <title>Processing Cycle</title>
+        <p>The below given flowchart explains the manuscript submission at a glance.  Once the manuscript is submitted for publication, it is subjected to screening, quality assessment, reviewing, and further production processing involving language assessment, figure improvement, preparation of proofs and incorporation of required corrections.</p>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../../../../journal-images/process-flowchart/flowchart.jpg"/>
+        </p>
+    </sec>
+</process-flowchart>

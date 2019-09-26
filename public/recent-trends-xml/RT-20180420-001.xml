@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180420-001</article-id>
+            <title-group>
+                <article-title>Spit and polish: The beauty of saliva for epigenetic studies</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/160283/article">Epigenetic Changes Associated with Early Life Experiences: Saliva, A Biospecimen for DNA Methylation Signatures</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 20-APR-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>20</day>
+                    <month>04</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This article by Dr. Elaine L. Bearer and Dr. Brianna S. Mulligan is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-genomics/">Current Genomics</uri>, Volume 19, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Biomarkers in saliva identify changes that impact the body, according to research published in <italic>Current Genomics</italic>. This important paper details the drawbacks and benefits of using saliva as a tissue sample for the study of epigenetic changes affected by experiences. Beginning with a detailed review introducing epigenetics and providing background from previous studies, the new findings include strong examples of how analysis of saliva can be applied to vulnerable populations, such as children, to identify changes correlated with experience and behavior.</p>
+        <p>Examples of epigenetic changes in saliva of children who experienced pediatric trauma and of children with autism spectrum disorder (ASD) are presented. Pediatric trauma is a leading cause of death for children aged 1-14 in the United States (CDC, 2016), accounting for nearly 40% of all childhood fatalities. Adverse childhood experiences (ACEs), such as traumatic injury, lead to long-term health and behavioral outcomes, including post-traumatic stress disorder (PTSD). ACEs also include abuse, neglect, and community violence in addition to physical harm, all which also result in long-term effects. Early detection of trauma is crucial to preventing abuse-related deaths, as well as for addressing early the health and behavioral consequences of ACEs. Early detection is also critical for children with ASD. In 2012, 1 in 68 Americans (CDC, 2012) had ASD. Scientists have not found a single unifying genetic explanation for ASD, and as such behavioral diagnosis at or after 18 months is the standard. Most children are not diagnosed until 3 years and 10 months (CDC, 2012), over two years later. The earlier children are diagnosed, the more effective interventions will become.</p>
+        <p>In this paper, scientists investigated the impact of ACEs on children aged four to eight over the course of six to eight months by collecting saliva at two time-points from children who had experienced traumatic events and from those who had not. Similarly saliva was collected at a single time point from children diagnosed with ASD and normal children. Pooling the studies together, 45 children were sampled. The saliva from these studies was assessed for a form of epigenetics called DNA methylation -- a reversible biochemical process through which methyl groups are added to the DNA, which changes gene expression by turning genes &quot;on&quot; or &quot;off.&quot; Using a bead-chip array technology, over 425,000 methylation sites were assayed for each child, providing insight into the methylation pattern for each child.</p>
+        <p>Initial analysis showed that the children&apos;s methylation patterns did not cluster by diagnosis, experience, age, sex, or ethnicity. The scientists, Dr. Elaine L. Bearer and Brianna S. Mulligan of the University of New Mexico, discovered that the children grouped most closely by the cellular composition of their saliva, whether it contained primarily cheek cells or white blood cells. By correcting for cell type composition using methylation data from purified cheek and blood cells, sites were found that differed significantly according to experience. These sites are involved in brain development, rather than the differences between cheek and blood cell differentiation. The scientists are now exploring markers within corrected datasets for both cohorts of children. Preliminary results described in the paper, once verified, will be useful to flag young survivors of abuse or for earlier diagnosis of ASD in future.</p>
+        <p>Research was supported by the National Institute of Mental Health and the Harvey Family Endowment.</p>
+        <p>More information on this article available at:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/160283">http://www.eurekaselect.com/160283</ext-link></p>
+        <p>
+            <bold>Reference:</bold>
+            <br/> Bearer, E.L.; Mulligan, B.S. Epigenetic Changes Associated with Early Life Experiences: Saliva, A Biospecimen for DNA Methylation Signatures. Curr. Genomics, 2018, Vol. 19. http://dx.doi.org/10.2174/1389202919666180307150508</p>
+    </body>
+</article>

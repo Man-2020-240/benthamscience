@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">133</journal-id>
+            <journal-code>pnt</journal-code>
+            <journal-eureka-code-one>PNT</journal-eureka-code-one>
+            <nid nid-status="current">102195</nid>
+            <journal-title>Pharmaceutical Nanotechnology</journal-title>
+            <full-journal-title>Pharmaceutical Nanotechnology</full-journal-title>
+            <journal-seo-title>pharmaceutical-nanotechnology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2211-7393</journal-issn>
+                <journal-issn issn-type="print">2211-7385</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Pharmaceutical Nanotechnology</italic>
+                    </bold> publishes original manuscripts, full-length/mini reviews, thematic issues, rapid technical notes and commentaries that provide insights into the synthesis, characterisation and pharmaceutical (or diagnostic) application of materials at the nanoscale. The nanoscale is defined as a size range of below <italic>1 µm</italic>. Scientific findings related to micro and macro systems with functionality residing within features defined at the nanoscale are also within the scope of the journal. Manuscripts detailing the synthesis, exhaustive characterisation, biological evaluation, clinical testing and/ or toxicological assessment of nanomaterials are of particular interest to the journal’s readership. Articles should be self contained, centred around a well founded hypothesis and should aim to showcase the pharmaceutical/ diagnostic implications of the nanotechnology approach. Manuscripts should aim, wherever possible, to demonstrate the <italic>in vivo</italic> impact of any nanotechnological intervention. As reducing a material to the nanoscale is capable of fundamentally altering the material’s properties, the journal’s readership is particularly interested in new characterisation techniques and the advanced properties that originate from this size reduction. Both bottom up and top down approaches to the realisation of nanomaterials lie within the scope of the journal.</p>
+            </journal-aims-scope>
+            <journal-current-volume>7</journal-current-volume>
+            <journal-current-issues>6</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>pnt-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.pharmaceutical-nanotechnology.com/</journal-insight>
+<journal-history>Pharmaceutical Nanotechnology was launched in 2013. Dr. Ijeoma F. Uchegbu serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Pharmaceutical Nanotechnology provide insights into the synthesis, characterisation and pharmaceutical (or diagnostic) application of materials at the nanoscale.</journal-description>
+            <keyword-group>
+                <keyword>Nanotechnology</keyword>
+                <keyword>pharmaceutical</keyword>
+                <keyword>biological evaluation</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>pnt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pnt@benthamscience.net">pnt@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/PNT">bsp-cms.eurekaselect.com/index.php/PNT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Biological Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

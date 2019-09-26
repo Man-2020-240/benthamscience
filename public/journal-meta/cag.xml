@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">126</journal-id>
+            <journal-code>cag</journal-code>
+            <journal-eureka-code-one>CAG</journal-eureka-code-one>
+            <nid nid-status="current">53617</nid>
+            <journal-title>Current Angiogenesis (Discontinued)</journal-title>
+            <full-journal-title>Current Angiogenesis(Discontinued)</full-journal-title><journal-seo-title>current-angiogenesis</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2211-5536</journal-issn>
+                <journal-issn issn-type="print">2211-5528</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Angiogenesis</italic>
+                    </bold> is a cutting-edge, peer-reviewed journal which publishes expert reviews, original research articles, drug clinical trial studies, commentaries on  angiogenesis-related papers besides novel methods on angiogenesis analysis, and special topics on angiogenesis, covering all aspects from preclinical to clinical research pertaining to both neoplastic and non-neoplastic disorders.</p>
+                <p>Clinical applications of angiogenesis include angiogenesis parameters in diagnosis and prognosis, biomarkers of angiogenesis as well as therapeutic promotion or inhibition of angiogenesis. A major aim of the journal is not only to provide comprehensive reviews of the latest developments in angiogenesis research but also to promote new ideas by presenting emerging research directions.</p>
+                <p>Angiogenesis, the growth of new blood vessels, plays an essential role in development, reproduction, and tissue repair. Pathological angiogenesis occurs not only in tumor development but also in a range of non-neoplastic conditions referred to as "angiogenesis-dependent" diseases. Thus, angiogenesis research offers a common ground for many diseases that would otherwise appear unrelated. Current Angiogenesis provides a unifying forum for critical reviews of this quickly moving and expanding field.</p>
+            </journal-aims-scope>
+            <journal-current-volume>4</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>cag-journal-cover.gif</journal-cover-image>
+            <journal-description>Current Angiogenesis publishes expert review, original research articles, drug clinical trial studies and special topics on angiogenesis, covering all aspects from preclinical to clinical research pertaining to both neoplastic and non-neoplastic disorders.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BSPOncologyandCancerJournals?ref=hl</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cag-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cag@benthamscience.org">cag@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CAG">bsp-cms.eurekaselect.com/index.php/CAG</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts</agency-name>
+            </agency>
+             <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+			<agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+			<agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                 <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

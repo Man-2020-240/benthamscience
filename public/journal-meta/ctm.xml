@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>ctm</journal-code>
+            <journal-eureka-code-one>CTM</journal-eureka-code-one>
+            <nid nid-status="current">127157</nid>
+            <journal-title>Current Traditional Medicine</journal-title>
+            <full-journal-title>Current Traditional Medicine</full-journal-title>
+            <journal-seo-title>current-traditional-medicine</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2215-0846</journal-issn>
+                <journal-issn issn-type="print">2215-0838</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <italic>
+                        <bold>Current Traditional Medicine</bold>
+                    </italic> covers all the aspects of the modernization and standardization research on traditional medicine of the world, e.g. chemistry, pharmacology, molecular mechanism, systems biology, proteomics, genomics, metabolomics, safety, quality control, clinical studies of traditional Chinese, Ayurvedic, Unani, Arabic and other ethnomedicine. Each issue contains updated comprehensive in-depth/mini reviews along with high quality original experimental research articles. Current Traditional Medicine is a leading and important international peer-reviewed journal reflecting the current outstanding scientific research progresses of the global traditional, indigenous, folk and ethnologic medicine. It provides a bridge connected the tradition medicine system to the modern life science with the efforts of top scientists, as well as a resource to pursuit the solutions for the existing common issues in the traditional medicine.   </p>
+            </journal-aims-scope>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>ctm-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.current-traditional-medicine.com/</journal-insight>
+<journal-history>Current Traditional Medicine was introduced in 2015 with the assistance of Dr. Duan-Fang Liao, who is the current Editor-in-Chief serving since 2015.</journal-history>
+            <journal-description>Current Traditional Medicine covers all the aspects of the modernization and standardization research on traditional medicine of the world, e.g. chemistry, pharmacology, molecular mechanism, systems biology, proteomics, genomics, metabolomics, safety, quality control, clinical studies of traditional Chinese, Ayurvedic, Unani, Arabic and other ethnomedicine. Each issue contains updated comprehensive in-depth reviews along with high quality original experimental research articles. Current Traditional Medicine is a leading and important international peer-review journal reflecting the current outstanding scientific research progresses of the global traditional, indigenous, folk and ethnologic medicine. It provides a bridge connected the tradition medicine system to the modern life science with the efforts of top scientists, as well as a resource to pursuit the solutions for the existing common issues in the traditional medicine.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>ctm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ctm@benthamscience.net">ctm@benthamscience.net</email>
+            </journal-email>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

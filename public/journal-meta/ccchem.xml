@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>ccchem</journal-code>
+            <journal-eureka-code-one>CCCHEM</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Current Chinese Chemistry</journal-title>
+            <full-journal-title>Current Chinese Chemistry</full-journal-title>
+            <journal-seo-title>current-chinese-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2666-0008</journal-issn>
+                <journal-issn issn-type="print">2666-0016</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><bold>Current Chinese Chemistry</bold> publishes original research articles, letters, reviews/mini-reviews and guest edited thematic issues dealing with various topics related to chemistry in China, while contributions from abroad are also welcome.</p>
+                <p><bold>Current Chinese Chemistry</bold> is not limited to a specific aspect of the field but is instead devoted to a wide range of sub fields in the field. Articles of interdisciplinary nature are particularly welcome. Submission in the following areas are of special interest to the readers of this journal:
+            <list list-type="bullet">
+            <list-item>
+            <p>Physical Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Bioorganic Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Inorganic Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Biochemistry</p>
+            </list-item>
+            <list-item>
+            <p>Bioinorganic Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Environmental Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Organic Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Organometallic Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Medicinal Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Supramolecular Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Spectroscopy</p>
+            </list-item>
+            <list-item>
+            <p>Green Chemistry</p>
+            </list-item>
+            <list-item>
+            <p>Materials Chemistry</p>
+            </list-item>
+            </list>
+            </p>
+            </journal-aims-scope>
+               <!-- <scimago sjr-status="no">
+                    <scimago-jr-id>4700152434</scimago-jr-id>
+                </scimago>-->
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>ccchem-journal-cover.gif</journal-cover-image>
+                <!--  <journal-insight>http://www.currentpsychiatryreviews.com/</journal-insight>
+<journal-history>Current Psychiatry Reviews was launched in 2005 and later renamed in 2019 as Current Psychiatry Research and Reviews.</journal-history>
+            <journal-description>Current Psychiatry Reviews is an essential reading for all clinicians, psychiatrists and researchers in psychiatry.</journal-description>
+            <keyword-group>
+                <keyword>Psychiatry</keyword>
+                <keyword>psychiatrists</keyword>
+                <keyword>pharmacology</keyword>
+            </keyword-group>-->
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+                <journal-flyer>ccchem-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ccchem@benthamscience.net">ccchem@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CCCHEM">bsp-cms.eurekaselect.com/index.php/CCCHEM</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

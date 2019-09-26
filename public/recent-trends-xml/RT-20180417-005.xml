@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180417-005</article-id>
+<title-group>
+<article-title>Development of an enzymatic cycling method using pyruvate kinase</article-title>
+</title-group>
+<aff>Research article: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/158526/article">Development of an Enzymatic Cycling Method Using Pyruvate Kinase for Assaying Pyruvate or Phosphoenolpyruvate</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 16-MAR-2018</aff>
+            <abstract>
+                <p>This article by Dr. Shigeru Ueda et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cbiot/">Current Biotechnology</uri>, Volume 7, Issue 2, 2018</p>
+            </abstract></article-meta>
+</front>
+<body>
+<p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20180417-005-f1.jpg"/></p>
+<p>Pyruvate kinase (PK), an omnipresent and functionally important enzyme, catalyzes the conversion of ADP and phosphoenolpyruvate (PEP) to ATP and pyruvate. The reaction, physiologically irreversible, is a key step in glycolysis, responsible for the final substrate level phosphorylation step. Pyruvate and PEP are also key metabolites that act as precursors for various biosynthesis pathways.</p>
+<p>Enzyme cycling provides the means to enhance the sensitivity of enzyme detection systems by amplifying the signal. We have developed a novel enzymatic cycling method mediated by PK from rabbit muscle (RMPK) for the quantitative determination of pyruvate or PEP, which utilizes the reversibility of the reaction in the presence of an excess amount of ATP and IDP. The production rate of ADP or ITP was proportional to the concentration of the substrate. Real-time detection of ADP production was accomplished by including ADP-dependent glucokinase (ADP-GK) from Pyrococcus furiosus and glucose-6-phosphate dehydrogenase as auxiliary enzymes. The limit of detection was estimated as 12 nM of PEP.</p>
+<p>Unexpectedly, we observed approximately a 10-fold greater reaction efficiency with Mn2+ over that with Mg2+. However, our results from steady-state kinetics do not explain the differences observed between Mg2+ and Mn2+. It is also surprising that the efficiency of RMPK cycling with Mn2+ was much greater than that of creatine kinase from the same origin which we have previously reported, considering the greater preference of PK for the forward reaction (pyruvate forming).</p>
+<p>ADP-GK, one of the auxiliary enzymes, is inactive towards IDP and GDP, so the method should be applicable to other kinases that accept either IDP or GDP.</p>
+<p>For more information, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/158526">http://www.eurekaselect.com/158526</ext-link></p>
+</body>
+</article>

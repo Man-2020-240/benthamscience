@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170110-001</article-id>
+            <title-group>
+                <article-title>Polypharmacy in psychiatric practice, etiology and potential consequences</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-psychopharmacology/article/145585/">Psychiatric Polypharmacy, Etiology and Potential Consequences</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 6-DEC-2016</aff>
+            <abstract>
+                <p>This research article by Dr. Sonali Sarkar will be published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-proteomics/#top">Current Psychopharmacology</uri>, Volume 5, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Psychiatric polypharmacy is defined as the use of two or more drugs in the treatment of a psychiatric condition. Although, a lack of consensus has been reported among researchers globally about the number of medications that would quantify polypharmacy, nevertheless, it is widely prevalent in clinical practice. The rationale for polypharmacy is not clear. Etiologic factors are patient demographics (age, gender, race, low socio-economic status), personality disorder (obsessive-compulsive, borderline), psychiatric conditions (psychosis, schizophrenia, affective or mood disorders), comorbidities, severity of disease, treatment- refractoriness, prescribing practice, inpatient or outpatient setting, concern for reduction of extra-pyramidal and other side effects. Psychiatric polypharmacy is seen not only in adults but also in youths. Among children and adolescents&apos; the polypharmacy correlates are age (13 -15 years), male gender, caucasian race, low socio-economic status, medicaid or public insurance, disability, and foster care or child custody outside of biological family. Pediatric polypharmacy is also associated with a diagnosis of behavioral disorder, autism spectrum disorder, ADHD, conduct disorder/oppositional defiant disorder, personality disorder, violence, tics, psychosis, affective and mood disorder.</p>
+        <p>The concurrent administration of multiple drugs increases the risk of drug interactions and adverse effect including morbidity and mortality. Psychiatric polypharmacy is also associated with cumulative toxicity, poor medication adherence and treatment non-compliance. Thus, psychiatric polypharmacy poses a significant public health problem. However, not all polypharmacy is harmful. Polypharmacy is proven to be beneficial in patients with psychotic, mood or affective disorder having dual diagnosis with substance abuse, personality disorder (obsessive compulsive) and comorbid conditions including thyroid, pain or seizure disorder. Combination therapy with different class of drugs antidepressants or antipsychotics with different mechanism of action have beneficial therapeutic consequences. Therefore, a better understanding of physicians&apos; rationale for polypharmacy, patient tolerability and effectiveness of prescribing strategy is needed to guide practitioners and to inform the development of evidence based treatment guidelines.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-psychopharmacology/article/145585/">http://benthamscience.com/journals/current-psychopharmacology/article/145585/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sarkar</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                       
+                    </person-group>
+                    <article-title>Polypharmacy in Psychiatric Practice, Etiology and Potential Consequences.</article-title>
+                    <source>Curr. Psychopharmacol.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/2211556005666160916124719</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language-editing xmlns:xlink="http://www.w3.org/1999/xlink">
+    <sec>
+        <p>
+            <graphic xlink:href="../../../../../../journal-images/language-editing/language.jpg"/>
+        </p>
+        <p>Bentham Science ONLY accepts articles written in good English. A scientifically sound and grammatically correct article leaves a greater impact on the reader. Our copyeditors ensure the usage of correct grammar and spelling, consistent terminology and accurate punctuation.</p>
+    </sec>
+    <sec>
+        <title>OUR SERVICES INCLUDE:</title>
+        <p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Conforming to either British or American English</p>
+                </list-item>
+                <list-item>
+                    <p>Improvement in language by opting for appropriate word choice</p>
+                </list-item>
+                <list-item>
+                    <p>Correction of spelling, grammatical and punctuation errors</p>
+                </list-item>
+                <list-item>
+                    <p>Accurate usage of tenses</p>
+                </list-item>
+                <list-item>
+                    <p>Elimination of typographical errors</p>
+                </list-item>
+            </list>
+        </p>
+    </sec>
+    <sec>
+        <title>BUT WE DO NOT OFFER:</title>
+        <p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Editing of scientific, medical or technical content</p>
+                </list-item>
+                <list-item>
+                    <p>Re-writing or paraphrasing of any part or of the complete manuscript</p>
+                </list-item>
+                <list-item>
+                    <p>Formatting of manuscripts as per specific Journal guideline</p>
+                </list-item>
+                <list-item>
+                    <p>Editing or formatting of references </p>
+                </list-item>
+            </list>
+        </p>
+    </sec>
+    <sec>
+        <title>TYPES OF MANUSCRIPTS HANDLED:</title>
+        <p>Bentham Science caters to manuscripts requiring both <italic>Minor</italic> and <italic>Moderate copyediting</italic>.</p>
+        <list list-type="bullet">
+            <list-item>
+                <p>
+                    <bold>
+                        <italic>Minor Copyediting:</italic>
+                    </bold> Minor copyediting entails correction of spellings, punctuation, typographical errors and basic grammatical glitches.</p>
+            </list-item>
+            <list-item>
+                <p>
+                    <bold>
+                        <italic>Moderate copyediting:</italic>
+                    </bold> Moderate copyediting involves, besides typographical errors, correction of fundamental language errors mostly grammatical in nature, sentence clarity, redundancies and inconsistencies in the text of only linguistic nature.</p>
+            </list-item>
+        </list>
+    </sec>
+    <sec>
+        <title>TURN AROUND OPTIONS:</title>
+        <list list-type="bullet">
+            <list-item>
+                <p>
+                    <bold>
+                        <italic>Regular:</italic>
+                    </bold> 7 to 10 days depending on the type of editing required</p>
+            </list-item>
+            <list-item>
+                <p>
+                    <bold>
+                        <italic>Urgent:</italic>
+                    </bold> 3 to 5 days, depending on the type of editing required</p>
+            </list-item>
+        </list>
+    </sec>
+    <sec>
+        <title>EXAMPLES:</title>
+        <p>
+            <underline>
+                <bold>Minor Copyediting:</bold>
+            </underline>
+        </p>
+        <p>
+            <bold>Original:</bold> Fluorescein isothiocyanate (FITC)-Inulin and Paclitaxel in breast cancer cells, has potental to thrill the <italic>in-vitro</italic> breast tumors by local, sustained and long-term therapeutic drug delivery [52].</p>
+        <p>
+            <bold>Edited:</bold> Fluorescein isothiocyanate (FITC)-Inulin and Paclitaxel in breast cancer cells, <styled-content style="background:yellow">have the potential </styled-content>to <styled-content style="background:yellow">activate</styled-content> the <italic>in-vitro</italic> breast tumors by local, sustained and long-term therapeutic drug delivery [52].</p>
+    </sec>
+    <sec>
+        <p>
+            <underline>
+                <bold>Moderate Copyediting:</bold>
+            </underline>
+        </p>
+        <p>
+            <bold>Original:</bold> Green tea contain beta-carotene, vitamin C, and alpha-tocopherol, that inhibiting oxidation reactions promoted by oxygen and peroxides and that include many held to protect the living body from the deleterious effects of free radicals.</p>
+        <p>
+            <bold>Edited:</bold> Green tea <styled-content style="background:yellow">contains</styled-content> beta-carotene, vitamin C, and alpha-tocopherol, that <styled-content style="background:yellow">inhibit</styled-content> oxidation reactions promoted by oxygen and peroxides and <styled-content style="background:yellow">protect the living body</styled-content> from the deleterious effects of free radicals.</p>
+    </sec>
+    <sec>
+        <p>
+            <bold>For a quote and timeline, send an email to: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sara@benthamscience.ae">sara@benthamscience.ae</email></bold>
+            <p>&#x2003;</p>
+        </p>
+    </sec>
+</language-editing>

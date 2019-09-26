@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">110</journal-id>
+            <journal-code>rpmi</journal-code>
+            <journal-eureka-code-one>RPTMI</journal-eureka-code-one>
+            <nid nid-status="current">687</nid>
+            <journal-title>Recent Patents on Medical Imaging</journal-title>
+            <full-journal-title>Recent Patents on Medical Imaging</full-journal-title><journal-seo-title>recent-patents-on-medical-imaging</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1877-6132</journal-issn>
+                <journal-issn issn-type="print">2210-6847</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Medical Imaging </italic>
+                    </bold> publishes review and research articles, and guest edited single-topic issues on recent patents in the field of medical imaging. It provides an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in Medical Imaging.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19900192320</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpmi-journal-cover.gif</journal-cover-image>
+            <journal-description>It provides an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in Medical Imaging.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Medical Imaging </keyword>
+                <keyword>reliable source of current information</keyword>
+                <keyword>single-topic issues</keyword>
+                <keyword>Medical imaging</keyword>
+                <keyword>Radiographic Systems</keyword>
+                <keyword>Imaging</keyword>
+                <keyword>Radiography</keyword>
+                <keyword>Tensor Imaging</keyword>
+                <keyword>Sonography</keyword>
+                <keyword>Medical Imaging Applications</keyword>
+                <keyword>Optical Coherence Tomography </keyword>
+                <keyword>Thermography</keyword>
+                <keyword>tomography</keyword>
+                <keyword>Electroencephalography</keyword>
+                <keyword>Magnetoencephalography</keyword>
+                <keyword>MEG</keyword>
+                <keyword>electrocardiograph</keyword>
+                <keyword>radiology</keyword>
+                <keyword>Nuclear medicine</keyword>
+                <keyword>Tomogram</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpmi-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rptmi@benthamscience.org">rptmi@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTMI">bsp-cms.eurekaselect.com/index.php/RPTMI</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>MediaFinder<sup>&#x00AE;</sup>-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate.</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

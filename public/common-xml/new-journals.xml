@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<new-journal>
+    <new-journal-list journal-list-year="2020" enabled="yes">
+        <njl-year>2020</njl-year>
+        <journal-entry>nemj.xml</journal-entry>
+        <journal-entry>ccchem.xml</journal-entry>
+        <journal-entry>cccs.xml</journal-entry>
+        <journal-entry>ceng.xml</journal-entry>
+        <journal-entry>ccms.xml</journal-entry>
+        <journal-entry>cmam.xml</journal-entry>
+        <journal-entry>cnt.xml</journal-entry>
+        <journal-entry>cntp.xml</journal-entry>
+        <journal-entry>photocat.xml</journal-entry>
+        <journal-entry>vat.xml</journal-entry>
+    </new-journal-list>
+    <new-journal-list journal-list-year="2019" enabled="yes">
+        <njl-year>2019</njl-year>
+        <!-- <journal-entry>cath.xml</journal-entry>-->
+        <journal-entry>cdent.xml</journal-entry>
+        <!-- <journal-entry>cmrt.xml</journal-entry>-->
+        <!--<journal-entry>cort.xml</journal-entry>-->
+        <!--<journal-entry>sdrm.xml</journal-entry>-->
+    </new-journal-list>
+    <new-journal-list journal-list-year="2017" enabled="yes">
+        <njl-year>2017</njl-year>
+        <journal-entry>cae.xml</journal-entry>
+        <journal-entry>caps.xml</journal-entry>
+        <journal-entry>cgs.xml</journal-entry>
+    </new-journal-list>
+    <new-journal-list journal-list-year="2016" enabled="yes">
+        <njl-year>2016</njl-year>
+        <journal-entry>cnm.xml</journal-entry>
+        <journal-entry>csm.xml</journal-entry>
+    </new-journal-list>
+    <new-journal-list journal-list-year="2015" enabled="yes">
+        <njl-year>2015</njl-year>
+        <journal-entry>cbnt.xml</journal-entry>
+        <journal-entry>ctm.xml</journal-entry>
+        <journal-entry>edt.xml</journal-entry>
+    </new-journal-list>
+    <new-journal-list journal-list-year="2014" enabled="yes">
+        <njl-year>2014</njl-year>
+        <journal-entry>acctra.xml</journal-entry>
+        <journal-entry>caiaad.xml</journal-entry>
+        <journal-entry>cbe.xml</journal-entry>
+        <journal-entry>ccand.xml</journal-entry>
+        <journal-entry>cchg.xml</journal-entry>
+        <journal-entry>cee.xml</journal-entry>
+        <journal-entry>ciemd.xml</journal-entry>
+        <journal-entry>cgc.xml</journal-entry>
+        <journal-entry>cmic.xml</journal-entry>
+        <journal-entry>cocat.xml</journal-entry>
+        <journal-entry>tte.xml</journal-entry>
+    </new-journal-list>
+    <new-journal-list journal-list-year="2013" enabled="yes">
+        <njl-year>2013</njl-year>
+        <journal-entry>cmb.xml</journal-entry>
+        <journal-entry>nbe.xml</journal-entry>
+        <journal-entry>pnt.xml</journal-entry>
+    </new-journal-list>
+</new-journal>

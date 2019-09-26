@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">135</journal-id>
+            <journal-code>caiaad</journal-code>
+            <journal-eureka-code-one>CAIAAD</journal-eureka-code-one>
+            <nid nid-status="current">109674</nid>
+            <journal-title>Clinical Anti-Inflammatory &#x0026; Anti-Allergy Drugs (Discontinued)</journal-title>
+            <full-journal-title>Clinical Anti-Inflammatory and Anti-Allergy Drugs(Discontinued)</full-journal-title>
+            <journal-seo-title>clinical-anti-inflammatory-and-anti-allergy-drugs</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-7046</journal-issn>
+                <journal-issn issn-type="print">2212-7038</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Clinical Anti-Inflammatory &#x0026; Anti-Allergy Drugs</italic>
+                    </bold> publishes original research, expert reviews, drug clinical trials and thematic issues in all core areas of translational and clinical anti-inflammatory &amp; anti-allergy drug research.</p>
+                <p>The journal publishes pre-clinical and clinical studies on the development of new anti-inflammatory &amp; anti-allergy agents. Clinical studies of new reported anti-inflammatory &#x0026;  anti-allergy drugs include Phase 1 – IV clinical trial studies, their designs, research methodologies, and analyses. The journal is essential reading to clinicians, toxicologists, medicinal chemists, and to pharmacologists.</p>
+            </journal-aims-scope>
+            <journal-current-volume>2</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>caiaad-journal-cover.gif</journal-cover-image>
+            <journal-description>Clinical Anti-Inflammatory &#x0026; Anti-Allergy Drugs publishes original research, expert reviews, drug clinical trials and thematic issues in all core areas of translational and clinical anti-inflammatory &#x0026; anti-allergy drug research.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>caiaad-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="caiaad@benthamscience.org">caiaad@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CAIAAD">bsp-cms.eurekaselect.com/index.php/CAIAAD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service (CAS)</agency-name>
+                 <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX22</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+           
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

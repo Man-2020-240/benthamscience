@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">121</journal-id>
+            <journal-code>cpsp</journal-code>
+            <journal-eureka-code-one>CPSP</journal-eureka-code-one>
+            <nid nid-status="current">698</nid>
+            <journal-title>Current Psychopharmacology</journal-title>
+            <full-journal-title>Current Psychopharmacology</full-journal-title>
+            <journal-seo-title>current-psychopharmacology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2211-5579</journal-issn>
+                <journal-issn issn-type="print">2211-5560</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Psychopharmacology</bold> publishes peer-reviewed expert full-length/mini reviews, original research articles and single topic guest edited issues on all aspects of pre-clinical and clinical research in psychopharmacology. The journal aims to be the leading forum for expert review articles in the field. The journal also accepts high-level original research articles on outstanding topics of preclinical and clinical psychopharmacology.</p>
+            </journal-aims-scope>
+            <journal-current-volume>8</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cpsp-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentpsychopharmacology.com/index.php</journal-insight>
+<journal-history>Current Psychopharmacology was launched in 2012. Dr. Silvio Bellino serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Psychopharmacology accepts high-level original research articles on outstanding topics of preclinical and clinical psychopharmacology.</journal-description>
+            <keyword-group>
+                <keyword>Psychopharmacology</keyword>
+                <keyword>preclinical</keyword>
+                <keyword>clinical research</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cpsp-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cpsp@benthamscience.net">cpsp@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CPSP">bsp-cms.eurekaselect.com/index.php/CPSP</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Media Finder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

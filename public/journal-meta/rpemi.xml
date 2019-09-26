@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">77</journal-id>
+            <journal-code>rpemi</journal-code>
+            <journal-eureka-code-one>EMI</journal-eureka-code-one>
+            <nid nid-status="current">654</nid>
+            <journal-title>Recent Patents on Endocrine, Metabolic &#x0026; Immune Drug Discovery (Under Re-organization)</journal-title>
+            <full-journal-title>Recent Patents on Endocrine, Metabolic and Immune Drug Discovery (Under Re-organization)</full-journal-title>
+            <journal-seo-title>recent-patents-on-endocrine-metabolic-and-immune-drug-discovery</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-3334</journal-issn>
+                <journal-issn issn-type="print">1872-2148</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Endocrine, Metabolic &#x0026; Immune Drug Discovery</italic>
+                    </bold>   publishes review and research articles, and guest edited thematic issues on recent patents in the field of endocrine, metabolic and immune drug discovery e.g. on novel bioactive compounds, analogs &#x0026; targets. A selection of important and recent patents in the field is also included in the journal. The journal is essential reading for all researchers involved in endocrine, metabolic and immune drug design and discovery. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &#x0026; therapeutic agents related to endocrine, metabolic and immune drug discovery.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>11400153330</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>12</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>rpemi-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.recentpatentsonendocrinemetabolicimmunedrugdiscovery.com/</journal-insight>
+            <journal-description> The journal is essential reading for all researchers involved in endocrine, metabolic and immune drug design and discovery. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &#x0026; therapeutic agents related to endocrine, metabolic and immune drug discovery.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Endocrine Metabolic &#x0026; Immune Drug Discovery</keyword>
+                <keyword>endocrine</keyword>
+				<keyword>endocrine system</keyword>
+				<keyword>immunology</keyword>
+                <keyword>analogs &#x0026; targets</keyword>
+				<keyword>metabolic drugs</keyword>
+				<keyword>metabolism</keyword>
+				<keyword>immune system</keyword>
+				<keyword>drug discovery</keyword>
+                <keyword>novel bioactive compounds</keyword>
+				<keyword>recent patents</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Recent-Patents-on-Endocrine-Metabolic-Immune-Drug-Discovery/455845654497113</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="emi@benthamscience.org">emi@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/EMI">bsp-cms.eurekaselect.com/index.php/EMI</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>PubMed/MEDLINE</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Cambridge Scientific Abstracts (CSA)/ProQuest</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>METADEX</agency-name>
+            </agency>
+            <agency>
+                <agency-id>ID7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

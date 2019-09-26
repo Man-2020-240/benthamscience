@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">105</journal-id>
+            <journal-code>rpfna</journal-code>
+            <journal-eureka-code-one>FNA</journal-eureka-code-one>
+            <nid nid-status="current">682</nid>
+            <journal-title>Recent Patents on Food, Nutrition &#x0026; Agriculture</journal-title>
+            <full-journal-title>Recent Patents on Food, Nutrition and Agriculture</full-journal-title>
+            <journal-seo-title>recent-patents-on-food-nutrition-and-agriculture</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1876-1429</journal-issn>
+                <journal-issn issn-type="print">2212-7984</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Food, Nutrition &#x0026; Agriculture</italic>
+                    </bold> publishes full-length/mini reviews and research articles, and guest edited thematic issues on recent patents in all fields of food science &amp; technology, nutrition and agricultural science &amp; technology. A selection of important and recent patents in the areas covered is also included in the journal. The journal is essential reading for all researchers involved in food, nutrition and agricultural sciences and technology. The journal also covers recent research (where patents have been registered) in fast emerging technologies related to food additives, micro &amp; macro-molecular food supplements, edible alternatives, food technology, nutraceuticals, healthy diet, nutritional value, calorie intake, malnutrition &amp; related diseases, plant derivatives, agricultural technology and products, crop improvement and safety issues related to food, nutrition &amp; agriculture.</p>
+            </journal-aims-scope>
+            <journal-current-volume>10</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>rpfna-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.recentpatentsonfoodnutritionagriculture.com/index.php/</journal-insight>
+<journal-history>Recent Patents on Food, Nutrition &#x0026; Agriculture was launched in 2009. Dr. Bing-Huei Chen  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Recent Patents on Food, Nutrition &#x0026; Agriculture covers recent research (where patents have been registered) in fast emerging technologies related to food additives.</journal-description>
+            <keyword-group>
+                <keyword>Nutrition &#x0026; Agriculture</keyword>
+                <keyword>agricultural technology</keyword>
+                <keyword>food</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpfna-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fna@benthamscience.net">fna@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/PFNA">bsp-cms.eurekaselect.com/index.php/PFNA</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

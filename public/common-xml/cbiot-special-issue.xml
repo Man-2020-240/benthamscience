@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<special-issue>
+    <special-issue-front>
+        <special-issue-meta>
+            <journal-code>cbiot</journal-code>
+        </special-issue-meta>
+        <special-issue-meta>
+            <special-issue-text>
+                <sec>
+                    <title>FORTHCOMING SPECIAL/SINGLE TOPIC ISSUES</title>
+                    <sec>
+                        <title>Current Biotechnology</title>
+                        <p>publishes peer reviewed Special/Single Topic Issues in addition to the normal publication. Special Issues could consist of both solicited and unsolicited review articles focused on; timely areas of significant general interest; or meetings/conferences proceedings. Senior researchers or scientists in academia or industry may be interested in Guest Editing a Special Issues for the journal, in which case please contact <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cbio@benthamscience.org">cbio@benthamscience.org</email></p>
+                        <p>Alternately, you may be interested to contribute a single article in any of the listed Special Issues below; please click on the 'Submit Article' button for abstract or full paper submission. Visit <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.benthamscience.com/cbiot/MSandI.htm">http://www.benthamscience.com/cbiot/MSandI.htm</uri> for further information.</p>
+                        <p>To order in-advance 'in press' Special/Single Topic Issue copies and/or Open Access Plus at discounted rates, please contact our subscription department at email; <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.org">subscriptions@benthamscience.org</email> After publication, normal rates will apply. Personal subscriptions are strictly for personal, non-commercial use only, and must be purchased with a personal cheque or credit card. The passing on or reselling of personal subscriptions is prohibited.
+</p>
+                    </sec>
+                </sec>
+            </special-issue-text>
+            <total_issues>6
+            </total_issues>
+            <total_forthcoming>6
+            </total_forthcoming>
+            <total_published>0
+            </total_published>
+            <total_inpress>0
+            </total_inpress>
+        </special-issue-meta>
+    </special-issue-front>
+    <special-issue-body>
+        <special-issue-list issue-list-status="forthcoming">
+            <special-issue-entry article-submission-status="yes">
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20160426-01</ref-id>
+                    <issue-topic>Biotechnology for Wastewater Treatment</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Jacob-Lopes</surname>
+                                <given_name>Eduardo</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>May</month>
+                            <year>2018</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20161024-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="yes">
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20150423-01</ref-id>
+                    <issue-topic>Current Advances in Fungal Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Nevalainen</surname>
+                                <given_name>Helena</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>November</month>
+                            <year>2017</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20150423-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="yes">
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20150423-02</ref-id>
+                    <issue-topic>Bioconversion of Agro-Industrial Wastes for Economical Use</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Nigam</surname>
+                                <given_name>Poonam Singh</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>August</month>
+                            <year>2016</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20150423-02.pdf</special-issue-description>
+            </special-issue-entry>
+        </special-issue-list>
+        <special-issue-list issue-list-status="published">
+            <special-issue-entry article-submission-status="no">
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20141217-01</ref-id>
+                    <issue-topic>Current Advances In Algae Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Hallmann</surname>
+                                <given_name>Armin</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>November</month>
+                            <year>2015</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20141217-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>04</volume>
+                    <issue>03</issue>
+                    <year>2015</year>
+                    <issue-nid>138115</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140916-02</ref-id>
+                    <issue-topic>Current Advances in Marine Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Zohar</surname>
+                                <given_name>Yonathan</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>August</month>
+                            <year>2015</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140916-02.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>04</volume>
+                    <issue>02</issue>
+                    <year>2015</year>
+                    <issue-nid>133635</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140711-02</ref-id>
+                    <issue-topic>Enzymes for Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Engel</surname>
+                                <given_name>Paul C.</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>December</month>
+                            <year>2014</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140711-02.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>04</volume>
+                    <issue>01</issue>
+                    <year>2015</year>
+                    <issue-nid>131208</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140805-01</ref-id>
+                    <issue-topic>Bioinformatics and Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Giuliani</surname>
+                                <given_name>Alessandro</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <month>November</month>
+                            <year>2014</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140805-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>03</volume>
+                    <issue>01</issue>
+                    <year>2014</year>
+                    <issue-nid>120659</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140805-01</ref-id>
+                    <issue-topic>Applications of Extremophiles in Biotechnology</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Rampelotto</surname>
+                                <given_name>Pabulo Henrique</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <year>2014</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140805-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>02</volume>
+                    <issue>04</issue>
+                    <year>2013</year>
+                    <issue-nid>119008</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140805-01</ref-id>
+                    <issue-topic>Biotechnological Applications of Extremophiles</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Rampelotto</surname>
+                                <given_name>Pabulo Henrique</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <year>2013</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140805-01.pdf</special-issue-description>
+            </special-issue-entry>
+            <special-issue-entry article-submission-status="no">
+                <publish-information>
+                    <volume>02</volume>
+                    <issue>03</issue>
+                    <year>2013</year>
+                    <issue-nid>115823</issue-nid>
+                </publish-information>
+                <special-issue-details>
+                    <ref-id>CBIOT-SII20140805-01</ref-id>
+                    <issue-topic>Current Biotechnology in Space</issue-topic>
+                    <contrib_group>
+                        <contrib contrib-type="guest-editor">
+                            <person_name>
+                                <surname>Rampelotto</surname>
+                                <given_name>Pabulo Henrique</given_name>
+                            </person_name>
+                        </contrib>
+                    </contrib_group>
+                    <issue_deadlines>
+                        <publication_date media_type="print">
+                            <year>2013</year>
+                        </publication_date>
+                    </issue_deadlines>
+                </special-issue-details>
+                <special-issue-description>CBIOT-SII20140805-01.pdf</special-issue-description>
+            </special-issue-entry>
+        </special-issue-list>
+    </special-issue-body>
+</special-issue>

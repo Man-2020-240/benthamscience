@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">145</journal-id>
+            <journal-code>acctra</journal-code>
+            <journal-eureka-code-one>ACCTRA</journal-eureka-code-one>
+            <nid nid-status="current">115680</nid>
+            <journal-title>Applied Clinical Research, Clinical Trials and Regulatory Affairs</journal-title>
+            <full-journal-title>Applied Clinical Research, Clinical Trials and Regulatory Affairs</full-journal-title>
+            <journal-seo-title>applied-clinical-research-clinical-trials-and-regulatory-affairs</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-4778</journal-issn>
+                <journal-issn issn-type="print">2213-476X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Applied Clinical Research, Clinical Trials and Regulatory Affairs</italic>
+                    </bold>  is an international journal with market leadership in readership and contributions that are scientific, original, relevant, innovative and statistically validated. The journal aims to further bridge the gap in the publication of clinical drug development and regulatory affairs between high growth and potentially growing regions.</p>
+                <p>The journal Applied Clinical Research, Clinical Trials and Regulatory Affairs publishes innovative, developmental and original research on validated experimental design, methods, representation and interpretation of clinical research and drug trials. Additionally, the journal publishes original research articles, full-length/mini reviews, short communications and thematic journal issues. Published work is based on solid clinical, scientific and statistically relevant results that lead to advancements in clinical medicine including nanomedicine, clinical research, clinical devices, biomedical engineering related to clinical medicine, regulatory affairs and human subject protection in the areas of biological advances, drugs, bio-therapeutics and devices.</p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>acctra-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.appliedclinicalresearchclinicaltrialsandregulatoryaffairs.com/index.php</journal-insight>
+<journal-history>Applied Clinical Research, Clinical Trials and Regulatory Affairs was introduced in 2004 with the assistance of Dr. Satish C. Nair, who is the current Editor-in-Chief serving since 2004.</journal-history>
+            <journal-description>Adolescent Psychiatry, a peer-reviewed journal, and the official journal of the American Society for Adolescent Psychiatry,  aims to provide mental health professionals who work with adolescents with current information relevant to the diagnosis and treatment of psychiatric disorders in adolescence.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>acctra-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="acctra@benthamscience.net">acctra@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/acctra/">http://bsp-cms.eurekaselect.com/index.php/acctra/</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

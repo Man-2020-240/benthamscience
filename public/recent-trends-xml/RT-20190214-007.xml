@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20190214-007</article-id>
+            <title-group>
+                <article-title>Predicting enhancers from multiple cell lines and tissues based on SVM method</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/164057/article">Predicting Enhancers from Multiple Cell Lines and Tissues across Different Developmental Stages Based on SVM Method</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 14-JAN-2019</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>14</day>
+                    <month>01</month>
+                    <year>2019</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>
+                    <italic>This article by Dr. Jihong Guan et al. is published in Current Bioinformatics, volume 13, issue 6, 2018</italic>
+                </p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Gene expression in human contains a complex process which is regulated by a set of factors, including transcriptional regulatory elements. Enhancers are a type of such regulatory elements which are short DNA regions that help in transcription efficiency by using several transcription factors. To further the research on gene expression, identifying such enhancer regions has become a crucial element. One problem that exists in the research is to pinpoint these regions since enhancers are independent of their distances and orientations to the target genes. Hence, it has become difficult to locate these regions accurately. With the recent development of highthroughput ChIP-seq (Chromatin Immunoprecipitation sequencing) technologies, various computational methods were developed to predict enhancer regions.</p>
+        <p>This process also received some hindrance as most of these methods rely on p300 binding sites and/or DNase I hypersensitive sites (DHSs) for selecting positive training samples, which is imprecise and subsequently leads to unsatisfactory prediction performance The research of Jihong Guan proposes a method based on support vector machines (SVMs) to investigate enhancer prediction on cell lines and tissues from EnhancerAtlas. The research was mainly focused on predicting enhancers at different developmental stages of heart and lung diseases.</p>
+        <p>The results of this research were quite satisfactory. The new method, unlike previous procedures, achieved good performance on most cell lines and tissues, significantly outperforming most modern methods on heart and lungs. Moreover, it was also easier to predict enhancers from tissues of adult stage than from tissues of fetal stage, which is proven on both heart and lung tissues.</p>
+        <p>The article can be obtained from the following link: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/164057">http://www.eurekaselect.com/164057</ext-link></p>
+    </body>
+</article>

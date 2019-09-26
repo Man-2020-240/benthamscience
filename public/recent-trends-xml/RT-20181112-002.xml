@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20181112-002</article-id>
+            <title-group>
+                <article-title>Dosimetry and toxicity studies of a sulfonamide derivative of Sulforhodamine 101</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/165008/article">Dosimetry and Toxicity Studies of the Novel Sulfonamide Derivative of Sulforhodamine 101([18F]SRF101) at a Preclinical Level</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 5-OCT-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>05</day>
+                    <month>10</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>The article by Dr. E Savio <italic>et al.</italic> is published in  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-radiopharmaceuticals/">Current Radiopharmaceuticals</uri>, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="other1">
+            <title>Background</title>
+            <p>The SR101 N-(3-[18F]Fluoropropyl) sulfonamide ([18F]SRF101) is a Sulforhodamine 101 (SR101) derivative that was previously synthesised by our group. The fluorescent dye SR101 has been reported as a specific marker of astroglia in the neocortex of rodents in vivo. Some limitations of SR101 with respect to cell specificity have been identified. This derivative was labelled to study its biological in vivo behaviour through PET imaging.</p>
+            <p>As some recent investigations have shown, astroglia is affected in the early stages of different neurologic diseases, and reactive astrocytes contribute to neuroinflammation at later stages. This investigation focused on reactive astrocytosis in Alzheimer&apos;s disease (AD). It is postulated that [18F]SRF101 is a potential PET radiotracer for astrocytosis detection. A biological characterisation of the novel tracer in a triple-transgenic mice model of AD (3xTg) was performed, and the results were compared with those of healthy Black C57BL6J mice. The biodistribution studies showed a hepatobiliary metabolisation of the compound. PET imaging with [18F]SRF101 revealed that the novel tracer could be a marker of astrocytosis in this animal model. These results suggested that [18F]SRF101 is a promising candidate for a more extensive evaluation as a PET astrocyte tracer.</p>
+            <p>To conclude the preclinical characterisation of [18F]SRF101 and to allow for drafting a pilot clinical evaluation in patients, radiation dosimetry studies of [18F]SRF101 injections were conducted on mice considering the following issues: i) the absorbed dose assessment can be based on biokinetic data obtained in small animals and ii) to develop new radiotracers for brain imaging, studies have been carried out on time-activity curves in different sections of the brain and in other organs.</p>
+            <p>A single-dose toxicity study was also carried out considering the guidelines on toxicology studies applicable to radiopharmaceuticals. The toxicological limit chosen in this case was &lt;100 &#x03BC;g based on the concept of microdosing. The study was carried out with a dose set by allometric scaling with a safety factor of 100. Because [18F]SRF101 is a radiopharmaceutical prepared by a not-quantitative radiolabelling reaction and its synthetic procedure involves a purification step to separate the desired radioactive compound from the reaction mixture, toxicity studies were performed for unlabelled SRF101.</p>
+            <p>In summary, the aim of this study was to perform a toxicological evaluation of [18F]SRF101 and to estimate the human radiation dosimetry of this tracer based on preclinical studies. Obtaining this data will allow for moving forward to assess its potential as a PET imaging radiopharmaceutical for clinical use.</p>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>All animals survived until the end of the study with no systemic signs of toxicity throughout the entire observation period. No drug related changes were noted in the parameters examined during the 14-day study, including body weight, food consumption, eyes changes, clinical pathology parameters, gross necropsy findings, absolute and relative organ weights, histopathology findings, or microscopic lesions.</p>
+            <p>The absorbed and effective doses were estimated by OLINDA/EXM V2.0. Both dosimetric models--male and female--presented the same tendency. The highest total absorbed dose values were for the different sections of the intestines (left colon, small intestine, right colon and rectum). For the male dosimetric model, other organs exhibiting a high total absorbed dose included the liver, kidneys, gallbladder wall and pancreas. For the female dosimetric model, the uterus was added in addition to the mentioned organs.</p>
+            <p>The effective dose for male and female dosimetric models was 4.03E-03mSv/MBq and 5.08E-03mSv/MBq, respectively. For an administrated activity of 350MBq this would correspond to 1.41mSv and 1.78mSv for the same dosimetric models.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>A toxicological evaluation of SRF101 was performed, which verified the biosafety of the new compound for single-intravenous injections in humans. The dosimetry calculations from the animal data revealed that the radiation-associated risk of [18F]SRF101 would be of the same order as other 18F radiopharmaceuticals used in clinical applications. In summary, the data generated through these studies confirm that the novel radiotracer would be safe for use in human PET imaging. This would allow for drafting a pilot clinical evaluation of patients.</p>
+            <p>For more information please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/165008">http://www.eurekaselect.com/165008</ext-link></p>
+        </sec>
+    </body>
+</article>

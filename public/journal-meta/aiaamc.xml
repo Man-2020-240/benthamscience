@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">2</journal-id>
+            <journal-code>aiaamc</journal-code>
+            <journal-eureka-code-one>AIAAMC</journal-eureka-code-one>
+            <journal-eureka-code-two>CMCAIAA</journal-eureka-code-two>
+            <nid nid-status="current">579</nid>
+            <nid-one nid-status="old">657</nid-one>
+            <journal-title>Anti-Inflammatory &#x0026; Anti-Allergy Agents in Medicinal Chemistry</journal-title>
+            <journal-former-title>Current Medicinal Chemistry - Anti-Inflammatory and Anti-Allergy Agents</journal-former-title>
+            <full-journal-title>Anti-Inflammatory and Anti-Allergy Agents in Medicinal Chemistry</full-journal-title>
+            <journal-seo-title>anti-inflammatory-and-anti-allergy-agents-in-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-614X</journal-issn>
+                <journal-issn issn-type="print">1871-5230</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Anti-Inflammatory &#x0026; Anti-Allergy Agents in Medicinal Chemistry</italic>
+                    </bold> aims to cover all the latest and outstanding developments in medicinal chemistry and rational drug design for the discovery of new anti-inflammatory &#x0026;  anti-allergy agents.</p>
+                <p>The journal publishes full-length/mini reviews, original research articles, drug clinical trial studies and special topic issues. <bold><italic>Anti-Inflammatory &#x0026; Anti-Allergy Agents in Medicinal Chemistry</italic></bold> is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in the field.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4600151507</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>18</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>aiaamc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.antiinflammatoryantiallergyagentsinmedicinalchemistry.com/</journal-insight>
+<journal-history>Current Medicinal Chemistry - Anti-Inflammatory &#x0026; Anti-Allergy Agents was launched in 2002 and later renamed in 2006 as Anti-Inflammatory &#x0026; Anti-Allergy Agents in Medicinal Chemistry.</journal-history>
+            <journal-description>The journal publishes expert reviews, original research articles, drug clinical trial studies and special topic issues. <bold>Anti-Inflammatory &#x0026; Anti-Allergy Agents in Medicinal Chemistry</bold> is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in the field.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>aiaamc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aiaamc@benthamscience.net">aiaamc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMCAIAA">bsp-cms.eurekaselect.com/index.php/CMCAIAA</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

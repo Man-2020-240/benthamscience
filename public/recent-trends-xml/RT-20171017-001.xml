@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20171017-001</article-id>
+            <title-group>
+                <article-title>Bacterial outer membrane vesicles: An emerging tool in vaccine development</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/154475/article">Bacterial Outer Membrane Vesicles: An Emerging Tool in Vaccine Development, as Adjuvants, and for Therapeutic Delivery</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 26-SEP-2017</aff>
+            <abstract>
+                <p>This article by Kendrick B. Turner and Scott A. Walper is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/ddl/">Drug Delivery Letters</uri>, Volume 7, Issue 2, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20171017-001.jpg"/>
+        </p>
+        <p>Outer membrane vesicles, biological nanoparticles shed during normal growth by bacteria, have seen significant recent advances in engineering and are thus finding new utility as therapeutic and drug delivery agents. One specific research focus explored recently in the literature is the use of bacterial vesicles as adjuvants in vaccine formulations. Early success in this area has demonstrated protection against infection by a number of bacterial species in animal models by engineering vesicles to display species-specific antigens as cargo, either within the interior of the vesicles or displayed on the exterior vesicle surface. In an effort to highlight recent advances in this field, this article explores recent and ongoing efforts to develop novel engineering methods aimed at providing new functionalities for bacterial vesicles as they apply to vaccine formulations. Specifically emerging technologies for engineering these structures, including cargo loading and surface modification will be explored. Bacterial vesicles show great promise as biologically-, derived nanoparticles that could function as a platform technology in a variety of fields. With continued development of novel engineering tools, and an increased understanding in their biogenesis and biological fate in living systems there is significant potential to develop bacterial vesicles as tools for not only vaccine development but also for use in the delivery of therapeutic compounds to targeted cells.</p>
+        <p>For More information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/154475">http://www.eurekaselect.com/154475</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Turner</surname>
+                            <given-names>K.B.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Bacterial Outer Membrane Vesicles: An Emerging Tool in Vaccine Development, as Adjuvants, and for Therapeutic Delivery.</article-title>
+                    <source>Drug Deliv. Lett.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/2210303107666170725163826</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

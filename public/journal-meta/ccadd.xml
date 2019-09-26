@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">5</journal-id>
+            <journal-code>ccadd</journal-code>
+            <journal-eureka-code-one>CAD</journal-eureka-code-one>
+            <nid nid-status="current">582</nid>
+            <journal-title>Current Computer-Aided Drug Design</journal-title>
+            <full-journal-title>Current Computer-Aided Drug Design</full-journal-title>
+            <journal-seo-title>current-computer-aided-drug-design</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6697</journal-issn>
+                <journal-issn issn-type="print">1573-4099</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Computer-Aided Drug Design</italic>
+                    </bold> aims to publish all the latest developments in drug design based on computational techniques. The field of computer-aided drug design has had extensive impact in the area of drug design.</p>
+                <p>
+                    <bold>
+                        <italic>Current Computer-Aided Drug Design</italic>
+                    </bold> is an essential journal for all medicinal chemists who wish to be kept informed and up-to-date with all the latest and important developments in computer-aided methodologies and their applications in drug discovery. Each issue contains a series of timely, in-depth reviews/mini-reviews, original research articles and letter articles written by leaders in the field, covering a range of computational techniques for drug design, screening, ADME studies, theoretical chemistry;  computational chemistry; computer and molecular graphics; molecular modeling; protein engineering; drug design; expert systems; general structure-property relationships; molecular dynamics; chemical database development and usage etc., providing excellent rationales for drug development.			</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4700152609</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>15</journal-current-volume>
+            <journal-current-issues>5</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>ccadd-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentcomputeraideddrugdesign.com/index.php</journal-insight>
+<journal-history>Current Computer-Aided Drug Design was introduced in 2005 and Dr. Subhash C. Basak is acting as an Editor-in-Chief since 2012.</journal-history>
+            <journal-description>Current Computer-Aided Drug Design aims to publish all the latest developments in drug design based on computational techniques. The field of computer-aided drug design has had extensive impact in the area of drug design.</journal-description>
+            <impact-factor>1.2</impact-factor>
+            <five-year-impact-factor>1.098</five-year-impact-factor>
+<category-ranking-list>
+            <category-ranking>
+                    <category-name>Chemistry, Medicinal</category-name>
+                    <rank>54</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>61</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Computer Science, Interdisciplinary Applications</category-name>
+                    <rank>89</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>106</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/Current-Computer-Aided-Drug-Design-620324881470360/</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>ccadd-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cad@benthamscience.net">cad@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CCADD">bsp-cms.eurekaselect.com/index.php/CCADD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded<sup>TM</sup> (SciSearch®)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Biochemistry &#x0026; Biophysics Citation Index®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

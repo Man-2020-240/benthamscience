@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-026</article-id>
+            <title-group>
+                <article-title>Preclinical studies involving resistance to antiangiogenic therapies</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/137702/article">The Challenges of Modeling Drug Resistance to Antiangiogenic Therapy</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 18-NOV-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This research article by Dr. Michalis Mastri et al. has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-drug-targets/#top">Current Drug Targets</uri> Volume 17, Issue 5, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-5.jpg"/>
+        </p>
+        <p>New blood vessel growth, or angiogenesis, is critical for cancer to grow and spread throughout the body. Drugs that target vascular endothelial growth factor (VEGF) -- a key driver of angiogenesis -- are now approved for the treatment of several metastatic cancers. However, not all patients respond and many more eventually become resistant after initial treatment benefits.</p>
+        <p>While researchers have sought to identify possible mechanisms to explain drug resistance the methods to study have proven complex. Preclinical studies seeking to identify reasons for antiangiogenic treatment failure have relied on animal models of cancer because the complex interaction between the tumor and the &#x201C;normal&#x201D; blood vessels that the treatment targets is difficult to reproduce in a petri dish. But the use of animal models can also increase the varience in results.</p>
+        <p>In a review published in the journal <italic>Current Drug Targets</italic>, researchers at Roswell Park Cancer Institute in Buffalo, New York, examined this variability and found that the many mechanisms of resistance identified in laboratory models are based on inconsistent definitions of treatment failure. &#x201C;Most studies involve only a few drugs and animal models that do not fully recapitulate clinically relevant metastatic disease,&#x201D; said Dr. John Ebos, Assistant Professor at the Departments of Cancer Genetics and Medicine at Roswell Park. &#x201C;Many excellent studies have been performed; however, it is difficult to determine which are most applicable to patients.&#x201D;</p>
+        <p>The literature considered in this new review highlights the challenges of studying resistance to inhibitors of tumor angiogenesis in preclinical models and the need to improve methodology to help qualify and quantify treatment failure to predict alternative strategies that will be of greatest benefit to patients.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-drug-targets/volume/17/issue/15/page/1747/">http://benthamscience.com/journals/current-drug-targets/volume/17/issue/15/page/1747/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mastri</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rosario</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tracz</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Frink</surname>
+                            <given-names>R.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Brekken</surname>
+                            <given-names>R.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ebos</surname>
+                            <given-names>J.M.L.</given-names>
+                        </name>
+                    </person-group>
+                    <source>The Challenges of Modeling Drug Resistance to Antiangiogenic Therapy.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1389450117666151209123544</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

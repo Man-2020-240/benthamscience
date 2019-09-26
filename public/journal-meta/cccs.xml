@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cccs</journal-code>
+            <journal-eureka-code-one>CCCS</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Current Chinese Computer Science</journal-title>
+            <full-journal-title>Current Chinese Computer Science</full-journal-title>
+            <journal-seo-title>current-chinese-computer-science</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2665-9964</journal-issn>
+                <journal-issn issn-type="print">2665-9972</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><bold>Current Chinese Computer Science</bold> publishes original research articles, letters, reviews/mini-reviews and guest edited thematic issues dealing with various topics related to computer science in China, while contributions from abroad are also welcome.</p>
+                <p><bold>Current Chinese Computer Science</bold> is not limited to a specific aspect of the field but is instead devoted to a wide range of sub fields in the field. Articles of interdisciplinary nature are particularly welcome. Submission in the following areas are of special interest to the readers of this journal:
+            <list list-type="bullet">
+            <list-item>
+            <p>Computer Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Theoretical Computer Science</p>
+            </list-item>
+            <list-item>
+            <p>Machine Learning</p>
+            </list-item>
+            <list-item>
+            <p>Communication and Security</p>
+            </list-item>
+            <list-item>
+            <p>Telecommunications Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Artificial Intelligence</p>
+            </list-item>
+            <list-item>
+            <p>Evolutionary Computing/Quantum Computing</p>
+            </list-item>
+            <list-item>
+            <p>Relational Databases</p>
+            </list-item>
+            <list-item>
+            <p>Software Engineering</p>
+            </list-item>
+            <list-item>
+            <p>Computer Vision</p>
+            </list-item>
+            </list>
+            </p>
+            </journal-aims-scope>
+               <!-- <scimago sjr-status="no">
+                    <scimago-jr-id>4700152434</scimago-jr-id>
+                </scimago>-->
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>cccs-journal-cover.gif</journal-cover-image>
+                <!--  <journal-insight>http://www.currentpsychiatryreviews.com/</journal-insight>
+<journal-history>Current Psychiatry Reviews was launched in 2005 and later renamed in 2019 as Current Psychiatry Research and Reviews.</journal-history>
+            <journal-description>Current Psychiatry Reviews is an essential reading for all clinicians, psychiatrists and researchers in psychiatry.</journal-description>
+            <keyword-group>
+                <keyword>Psychiatry</keyword>
+                <keyword>psychiatrists</keyword>
+                <keyword>pharmacology</keyword>
+            </keyword-group>-->
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+               <journal-flyer>cccs-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cccs@benthamscience.net">cccs@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CCCS">bsp-cms.eurekaselect.com/index.php/CCCS</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

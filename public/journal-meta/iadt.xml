@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">92</journal-id>
+            <journal-code>iadt</journal-code>
+            <journal-eureka-code-one>IADT</journal-eureka-code-one>
+            <journal-eureka-code-two>CDTIA</journal-eureka-code-two>
+            <nid nid-status="current">616</nid>
+            <nid-one nid-status="old">669</nid-one>
+            <journal-title>Inflammation &#x0026; Allergy - Drug Targets (Discontinued)</journal-title>
+            <journal-former-title>'Current Drug Targets - Inflammation &#x0026; Allergy</journal-former-title>
+            <full-journal-title>Inflammation and Allergy - Drug Targets(Discontinued)</full-journal-title>
+            <journal-seo-title>inflammation-and-allergy-drug-targets</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-4055</journal-issn>
+                <journal-issn issn-type="print">1871-5281</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Inflammation &#x0026; Allergy - Drug Targets</bold> aims to cover all the latest and outstanding developments on the medicinal chemistry, pharmacology, molecular biology, genomics and biochemistry of contemporary molecular targets involved in inflammation and allergy e.g. disease specific proteins, receptors, enzymes, genes. The journal publishes expert in-depth reviews, original research articles, drug clinical trial studies and guest edited thematic issues covering a range of current topics on drug targets involved in inflammation and allergy. As the discovery, identification, characterization and validation of novel human drug targets for anti-inflammation and allergy drug discovery continue to grow, this journal has become essential reading for all pharmaceutical scientists involved in drug discovery and development.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4100151708</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>15</journal-current-volume>
+            <journal-current-issues>6</journal-current-issues>
+            <journal-current-year>2016</journal-current-year>
+            <journal-cover-image>iadt-journal-cover.gif</journal-cover-image>
+            <journal-description>Inflammation &#x0026; Allergy - Drug Targets publishes expert in-depth reviews, original research articles, drug clinical trial studies and guest edited thematic issues covering a range of current topics on drug targets involved in inflammation and allergy.</journal-description>
+            <keyword-group>
+                <keyword>Inflammation</keyword>
+                <keyword>pharmacology</keyword>
+                <keyword>genomics and biochemistry</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>iadt-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="iadt@benthamscience.org">iadt@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/IADT">bsp-cms.eurekaselect.com/index.php/IADT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+             <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO.</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

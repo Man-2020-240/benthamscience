@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-011</article-id>
+            <title-group>
+                <article-title>Calixarenes in lipase biocatalysis and cancer therapy</article-title>
+            </title-group>
+            <aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/article/137782/">Calixarenes in Lipase Biocatalysis and Cancer Therapy</uri></aff>
+            <aff><bold>Public Release:</bold> 17-AUG-2016</aff>
+            
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>17</day>
+                    <month>08</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+            <p>This research article by Dr. Serdar Karakurt et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/#top">Current Organic Chemistry</uri>, Volume 20, Issue 10, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Calixarenes bear a fascinating class of macrocycles that have served broadly in molecular recognition and supramolecular chemistry. These, supramolecular structures have been utilized in several different directions ranging from catalysis to therapy. Their multifactorial significance originates from their structural plasticity and the fact that they can be easily derivatized and manipulated to adapt and complement a mosaic of different specifications and applications. This paper provides an overview of the utilization of calixarenes in biocatalysis and cancer therapy and diagnosis. Several different examples are presented on the capacity of calixarenes to enhance the stereo- and regio-selectivity as also the catalytic potency of lipases. This ability of calixarenes to amplify, upon hosting different enzymes their catalytic capacity, can be fruitfully explored to develop novel therapeutics. Calixarenes can also facilitate and decrease the time required for the synthesis of complex molecules. This potential is further advanced upon appropriate formulation with magnetic nanoparticles that can ease the regeneration and separation of the biocatalyst from the reaction mixture. Such developments are especially important in complex diseases such as cancer, where there is an immense need of novel therapeutics as also drug formulations. Due to the ability of calixarenes to be tailored with different functional groups they can accommodate different cytotoxic agents and thus can serve as drug delivery vehicles. Through such formulations the pharmacokinetic profile of the original drug is refined. Calixarenes have also obliged as drug delivery machineries that are responsive to the tumor microenvironment and a selective release of the drug to cancer cells has been achieved. Besides cancer treatment calixarenes have also served as promising diagnostic biomarkers for early stage cancer. The reported examples highlighted in this work illuminate the applicability of calixarenes to advance the field of biocatalysis and cancer therapeutics and diagnostics. This intriguing scaffold and its associated plasticity should be further explored to model the construction of multifunctional and smart molecular machineries that could assist the synthesis of novel complex scaffolds and theranostics.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-organic-chemistry/article/137782/">http://benthamscience.com/journals/current-organic-chemistry/article/137782/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Karakurt</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Calixarenes in Lipase Biocatalysis and Cancer Therapy.</article-title>
+                    <source>Curr. Org. Chem.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1385272820666151211192249</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

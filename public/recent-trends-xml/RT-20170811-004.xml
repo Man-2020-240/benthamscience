@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170811-004</article-id>
+            <title-group>
+                <article-title>Synthesis of internal gem-diborylalkanes by copper-catalyzed double hydroboration</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/151056/article">Synthesis of Internal gem-Diborylalkanes by Copper-Catalyzed Double Hydroboration of Conjugated Internal Alkynes</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 7-JUL-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Yuma Netsu et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/letters-in-organic-chemistry/#top">Letters in Organic Chemistry</uri>, Volume 14, Issue 4, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Geminal organometallic reagents have attracted considerable attention due to their unique activity. Among them, gem-diboryl compounds are particularly valuable due to their stability, no-toxicity, and usability for a variety of transformations.</p>
+        <p>Despite the usefulness of the gem-diborylalkanes as synthetic reagents, effective methods for the synthesis of the gem-diborylalknaes have been still limited. Double hydroboration is a convenient and useful method because the reaction does not need unstable reagents such as diazo compounds or unusual directing groups, which are necessary for other synthetic methods. However, the double hydroboration has been applied mainly to terminal alkynes. In the reaction of internal alkynes, it is difficult to control the regioselectivity. Furthermore, 1,2-diboryl compounds can be obtained as side products if the regioselectivities of the first and the second hydroboration are opposite.</p>
+        <p>In this paper, the authors report the synthesis of internal geminal diboryl compounds by copper-catalyzed double hydroboration of internal alkynes bearing carbonyl groups. The regioselectivities of two hydroboration reactions can be perfectly restricted by the carbonyl groups. Although the second hydroboration is much slower by steric repulsion, the issue can be solved by an appropriate choice of ligands.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/151056">http://www.eurekaselect.com/151056</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Natsu</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Synthesis of Internal gem-Diborylalkanes by Copper-Catalyzed Double Hydroboration of Conjugated Internal Alkynes.</article-title>
+                    <source>Lett. Org. Chem.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1570178614666170321114445</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

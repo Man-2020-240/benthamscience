@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">1</journal-id>
+            <journal-code>cae</journal-code>
+            <journal-eureka-code-one>CAE</journal-eureka-code-one>
+            <nid nid-status="current">142726</nid>
+            <journal-title>Current Alternative Energy</journal-title>
+            <full-journal-title>Current Alternative Energy</full-journal-title>
+            <journal-seo-title>current-alternative-energy</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2405-464X</journal-issn>
+                <journal-issn issn-type="print">2405-4631</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Alternative Energy</italic>
+                    </bold>, a peer reviewed journal publishes full-length/mini reviews, original research articles and thematic issues on experimental and applied research on alternative energy sources. The scope covers sustainable and alternative energy sources e.g. solar, wind and wave energy, geothermal, photovoltaics, biofuels. Coverage also includes enabling technologies for renewable energy and energy efficiency studies including energy engineering, new developments in energy devices, energy policy and investment.</p>
+                <p>This inter-disciplinary journal will be of particular interest to environmental scientists and others in related disciplines.
+</p>
+            </journal-aims-scope>
+            <journal-current-volume>3</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cae-journal-cover.gif</journal-cover-image>
+            <journal-history>Current Alternative Energy was introduced in 2017 with the assistance of Dr. Junkuo Gao, who is the current Editor-in-Chief serving since 2017.</journal-history>
+            <journal-description>This inter-disciplinary journal will be of interest to scientists in both the physical and biomedical /pharmaceutical related disciplines in nanoscience research.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cae-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cae@benthamscience.net">cae@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CAE">bsp-cms.eurekaselect.com/index.php/CAE</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">crp</journal-id>
+            <journal-id journal-id-type="nlm-ta">Curr Radiopharm</journal-id>
+            <journal-title>Current Radiopharmaceuticals</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Curr. Radiopharm.</abbrev-journal-title>
+            <issn pub-type="ppub">1874-4710</issn>
+            <issn pub-type="epub">1874-4729</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">crp-20160726-001</article-id>
+            <title-group>
+                <article-title>Hypoxia radiotracer produced automatically in dose-on-demand fashion</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Yuan</surname>
+                        <given-names>Hong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff1">1</xref>
+                    <xref ref-type="aff" rid="aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Frank</surname>
+                        <given-names>Jonathan E.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Merrill</surname>
+                        <given-names>Joseph R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Hillesheim</surname>
+                        <given-names>Daniel A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Khachaturian</surname>
+                        <given-names>Mark H.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Anzellotti</surname>
+                        <given-names>Atilio I.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">3</xref>
+                </contrib>
+                <aff id="aff1">
+                    <label>1</label>Department of Radiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, <country>USA</country>;</aff>
+                <aff id="aff2">
+                    <label>2</label>Biomedical Imaging Research Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, <country>USA</country>;</aff>
+                <aff id="aff3">
+                    <label>3</label>ABT Molecular Imaging, Inc., Louisville, TN 37777, <country>USA</country></aff>
+            </contrib-group>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>Access to sophisticated and non-invasive diagnostic techniques like Positron Emission Tomography (PET) is difficult (and sometimes impossible) for the majority of patients worldwide that are far from radiotracer manufacturing centers. The BG75 system uses automation to simplify and reduce the cost of access to common radiotracers used in PET applications. The present study describes the automatic production and imaging validation of [<sup>18</sup>F]FMISO, a radiotracer with applications for diagnosis and patient management in oncology.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Positron Emission Tomography (PET) is a non-invasive imaging modality with applications for diagnosis and patient management in the specialties of oncology, neurology and cardiology. The possibility of imaging cellular processes in real time depends on the accurate detection of radiation coming from radiotracers, which are injected into the patient and later accumulate selectively based on the biological processes that are monitored.</p>
+        <p>The use of PET and combined modalities PET/CT or PET/MRI have dramatically improved the standard of care for patients in the last thirty years. However, access to radiotracers is far from trivial. The average cost for equipment, facilities and trained personnel can be close to 10 million USD, thus developing a centralized market model where the radiotracers are manufactured in bulk and then individual doses are shipped to hospitals or imaging facilities. An important caveat is that the doses can only reach a radius of <italic>ca.</italic> 3 hours in the best case, for fluorine-18 radiotracers. This manufacturing model hinders the application of PET to millions of patients that are outside the radius of central manufacturing sites. Automated systems like the BG 75 make possible to expand the coverage for application and the number of patients serviced without the need of life disruption events. Examples of used radiotracers include [<sup>18</sup>F]FDG for sugar metabolism, [<sup>18</sup>F]FLT for cellular proliferation and [<sup>18</sup>F]FMISO for imaging of hypoxia.</p>
+        <p>A total of twelve single-doses of [<sup>18</sup>F]FMISO were prepared over three days, passing all standard quality control requirements for radiochemical identity and purity. The average time for synthesis and purification for a single dose was less than 30 min in good yield, showing the potential for a full day manufacture of sixteen doses with a single set of reagents. The system has the potential to automate the majority of quality control tests providing a final report for review of the operators. The doses produced were injected in mice and its uptake and biodistribution evaluated. The radiotracer exhibited the same expected features for this type of radiotracers. These results validate and confirm the capability for the BG75 system to produce common fluorine-18 radiotracers in a consistent and automated fashion, minimizing costs related to personnel and medical facilities.</p>
+        <p>In conclusion, the hypoxia radiotracer [<sup>18</sup>F]FMISOcan be prepared and purified in automated fashion in a single dose and single use cartridge. The radiotracer prepared in this way passes standard quality controls and accumulates selectively in hypoxic tissue, thus establishing equivalency to the radiotracer manufactured in bulk in a centralized facility.</p>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="r1">
+                <label>1</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Yuan</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Automated PET Radiotracer Manufacture on the BG75 System. Imaging Validation studies of [18F]fluoromisonidazole ([18F]FMISO).</article-title>
+                    <source>Curr. Radiopharm.</source>
+                    <year>2016</year>
+                </nlm-citation>
+            </ref>
+            <ref id="r2">
+                <label>2</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Anzellotti</surname>
+                            <given-names>A.I.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Automated production and quality testing of [18F]labeled radiotracers using the BG75 system.</article-title>
+                    <source>J. Radioanal. Nucl. Chem.</source>
+                    <year>2015</year>
+                    <volume>305</volume>
+                    <issue>2</issue>
+                    <fpage>387</fpage>
+                    <lpage>401</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10967-015-4045-1</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r3">
+                <label>3</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Awasthi</surname>
+                            <given-names>V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Watson</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gali</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Matlock</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>McFarland</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bailey</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Anzellotti</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A &#x201C;dose on demand&#x201D; Biomarker Generator for automated production of [(18)F]F(-) and [(18)F]FDG.</article-title>
+                    <source>Appl. Radiat. Isot.</source>
+                    <year>2014</year>
+                    <volume>89</volume>
+                    <fpage>167</fpage>
+                    <lpage>175</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.apradiso.2014.02.015</pub-id>
+                    <pub-id pub-id-type="pmid">24650573</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r4">
+                <label>4</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Anzellotti</surname>
+                            <given-names>A.I.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Towards the Full Automation of QC Release Tests for [18F]fluoride-labeled Radiotracers.</article-title>
+                    <source>Curr. Org. Chem.</source>
+                    <year>2013</year>
+                    <volume>17</volume>
+                    <issue>19</issue>
+                    <fpage>2153</fpage>
+                    <lpage>2158</lpage>
+                    <pub-id pub-id-type="doi">10.2174/13852728113179990107</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r5">
+                <label>5</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dhani</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fyles</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hedley</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Milosevic</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The clinical significance of hypoxia in human cancers.</article-title>
+                    <source>Semin. Nucl. Med.</source>
+                    <year>2015</year>
+                    <volume>45</volume>
+                    <issue>2</issue>
+                    <fpage>110</fpage>
+                    <lpage>121</lpage>
+                    <pub-id pub-id-type="doi">10.1053/j.semnuclmed.2014.11.002</pub-id>
+                    <pub-id pub-id-type="pmid">25704384</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r6">
+                <label>6</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lopci</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Grassi</surname>
+                            <given-names>I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chiti</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Nanni</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cicoria</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Toschi</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fonti</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lodi</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mattioli</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fanti</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>PET radiopharmaceuticals for imaging of tumor hypoxia: a review of the evidence.</article-title>
+                    <source>Am. J. Nucl. Med. Mol. Imaging</source>
+                    <year>2014</year>
+                    <volume>4</volume>
+                    <issue>4</issue>
+                    <fpage>365</fpage>
+                    <lpage>384</lpage>
+                    <pub-id pub-id-type="pmid">24982822</pub-id>
+                </nlm-citation>
+            </ref>
+            <ref id="r7">
+                <label>7</label>
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Blom</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Automated synthesis of [18F]FMISO on IBA Synthera&#x00AE;.</article-title>
+                    <source>J. Radioanal. Nucl. Chem.</source>
+                    <year>2014</year>
+                    <volume>299</volume>
+                    <issue>1</issue>
+                    <fpage>265</fpage>
+                    <lpage>270</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10967-013-2753-y</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">119s</journal-id>
+            <journal-code>ddl</journal-code>
+            <journal-eureka-code-one>DDL</journal-eureka-code-one>
+            <nid nid-status="current">696</nid>
+            <journal-title>Drug Delivery Letters</journal-title>
+            <full-journal-title>Drug Delivery Letters</full-journal-title>
+            <journal-seo-title>drug-delivery-letters</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-304X</journal-issn>
+                <journal-issn issn-type="print">2210-3031</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Drug Delivery Letters</italic>
+                    </bold> publishes letters, original research papers, full-length/mini reviews and guest edited issues in all important aspects of drug delivery, gene delivery, and drug targeting.</p>
+                <p>The journals’ scope covers all the basic and applied research in drug delivery and targeting at molecular and cellular levels and novel delivery systems. The journal also focuses on all innovative aspects of all pharmaceutical dosage forms and the most advanced research on controlled release, bioavailability and drug absorption, nanomedicines and gene delivery, <italic>etc.</italic> The manuscript submission process is fully electronic to ensure rapid publication of research results.
+
+</p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>ddl-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.drugdeliveryletters.com/</journal-insight>
+<journal-history>Drug Delivery Letters Journal was launched in 2011. Dr. Jia-You Fang serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The journal scope covers all basic and applied research in drug delivery and targeting at molecular and cellular levels and novel delivery systems. The manuscript submission process is fully electronic , to ensure the rapid publication of research results. </journal-description>
+            <keyword-group>
+                <keyword>Drug Delivery Letters    </keyword>
+                <keyword>drug delivery, gene delivery</keyword>
+                <keyword>molecular and cellular levels </keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>ddl-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ddl@benthamscience.net">ddl@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/DDL">bsp-cms.eurekaselect.com/index.php/DDL</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

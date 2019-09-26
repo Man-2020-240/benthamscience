@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20181112-006</article-id>
+            <title-group>
+                <article-title>Modified LDL particles activate inflammatory pathways in monocyte-derived macrophages</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/165291/article">Modified LDL Particles Activate Inflammatory Pathways in Monocyte-derived Macrophages: Transcriptome Analysis</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 29-OCT-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>29</day>
+                    <month>10</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>The article by Dr. . Alexander N. Orekhov <italic>et al.</italic> is published in  <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cpd/">Current Pharmaceutical Design</uri>, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        
+        <p>One of the main characteristics of atherosclerosis is the accumulation of lipids in the intimal layer of the arterial wall. In atherosclerotic plaques, phagocytic cells, such as macrophages, engulf atherogenic low-density lipoprotein (LDL) particles, but are unable to process them, and thus become foam cells, having cytoplasm packed with lipid droplets. Foam cells are characterized by several typical features: they have decreased ability to migrate, while displaying enhanced production of pro-inflammatory cytokines. Therefore foam cells participate in maintaining chronic inflammation in the lesion. Such changes of phenotype in comparison to normal macrophages should be based on changes in gene expression patterns of these cells. The study of foam cell formation is of key importance to our understanding of atherosclerosis pathogenesis and for the development of novel diagnostic and therapeutic tools. However, little is known so far on gene expression changes that take place during conversion of macrophages to foam cells.</p>
+        <p>Previous studies have shown several clusters of genes up- or down-regulated in macrophages in response to oxidized LDL, which is known to be atherogenic. Among the up-regulated genes were scavenger receptors SCA and CD36, nuclear receptors PPAR&#x03B3;, LXR&#x03B1; and RXR&#x03B3;, and cholesterol efflux protein ABCA1. Regarding the inflammatory response, modified LDL appeared to trigger up-regulation of genes with anti-inflammatory activities, such as IL1-RA, DSCR1, annexin 1, and the Burton&apos;s tyrosine kinase repressor SH3 protein, and down-regulation of a number of pro-inflammatory genes, including leukotriene A4 hydrolase, cathepsin G, elastase 2, RNase A family 2 and 3 proteins, cytochromeb-245, and CD64. However, modern powerful tools, such as transcriptome analysis, may provide more detailed data on change of gene expression patterns during atherosclerotic plaque development and reveal causative relationships between gene expression patterns and pathologic phenotypic alterations.</p>
+        <p>We performed a transcriptome analysis of macrophages treated with atherogenic LDL that causes intracellular cholesterol accumulation. We used the strategy of upstream analysis for causal interpretation of the expression changes. This strategy has three major steps: (1) analysis of promoters and enhancers of identified differentially expressed genes to identify transcription factors involved in the process under study; (2) reconstruction of signaling pathways that activate these transcription factors; and (3) identification of master-regulators of these pathways.</p>
+        <p>In this study, we used human monocyte-derived macrophages treated with different lipoprotein-containing samples : high-density lipoprotein (HDL), native LDL, which does not induce cholesterol accumulation in cultured cells, and 3 types of modified atherogenic LDL (oxidized LDL, acetylated LDL and desialylated LDL). In this experiment, low concentrations of native LDL and HDL did not increase the total or esterified cholesterol content in cultured macrophages. After incubation with the substances, mRNA was isolated from the cells and analysed using high-throughput sequencing on HiSeq 1500.</p>
+        <p>In this study, we discovered 27 transcription factors, including c-Ets, GR-alpha, BRCA1, E2F-1, E2F-6 and EGR-1, that were potentially responsible for the changes in gene expression induced by modified atherogenic LDL. These transcription factors were used for identifying the master-regulators (genes and proteins) responsible for regulation of large cascades of differentially expressed genes. The most reliable of identified master-regulators were IL7R, TIGIT, CXCL8, F2RL1, EIF2AK3, IL7, TSPYL2, ANXA1, DUSP1 and IL15. In the Discussion section of our paper, we give more detail on each of these master-regulators. In general, the genes that were up-regulated in response to lipid accumulation in macrophages induced by atherogenic LDL were mostly involved in inflammation and immune response, and not in cholesterol metabolism. Our results suggest a possibility that it is not cholesterol accumulation that causes an innate immunity response, but rather the immune response is a consequence of a cellular reaction to modified LDL. These results highlight the importance of the inflammatory component in the pathogenesis of atherosclerosis.</p>
+        <p>For more information, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/165291/article">http://www.eurekaselect.com/165291/article</ext-link></p>
+        <p>Alexander N. Orekhov1,2*, Yumiko Oishi 3, Nikita G. Nikiforov1,4, Andrey V. Zhelankin5, Larisa Dubrovsky12, Igor A. Sobenin4, Alexander Kel6,7,8, Daria Stelmashenko6,7,8, Vsevolod J. Makeev9, Kathy Foxx10, Xueting Jin11, Howard S. Kruth11, Michael Bukrinsky12</p>
+        <p>1 Laboratory of Angiopathology, Institute of General Pathology and Pathophysiology, 125315 Moscow, Russia</p>
+        <p>2 Institute for Atherosclerosis Research, Skolkovo Innovative Center, 121609 Moscow, Russia</p>
+        <p>3 Department of Cellular and Molecular Medicine, Medical Research Institute, Tokyo Medical and Dental University, Tokyo 1138510, Japan</p>
+        <p>4 Laboratory of Medical Genetics, Institute of Experimental Cardiology, National Medical Research Center of Cardiology, 121552 Moscow, Russia</p>
+        <p>5 Laboratory of postgenomic research, Federal Research and Clinical Center of Physical-Chemical Medicine, 119435 Moscow, Russia</p>
+        <p>6 Biosoft.ru Ltd, 630001 Novosibirsk, Russia</p>
+        <p>7 GeneXplain, GmbH, Wolfenb&#x00FC;ttel 38304, Germany</p>
+        <p>8 Institute of Chemical Biology and Fundamental Medicine, 630001 Novosibirsk, Russia</p>
+        <p>9 Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow 119991, Russia</p>
+        <p>10 Kalen Biomedical, LLC, Montgomery Village, MD 20886, USA</p>
+        <p>11 Experimental Atherosclerosis Section, National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD 20892, USA</p>
+        <p>12 GW School of Medicine and Health Sciences, George Washington University, Washington, DC 20037, USA</p>
+        <p>*Corresponding author:</p>
+        <p>Alexander N. Orekhov <email xlink:href="a.h.opexob@gmail.com">a.h.opexob@gmail.com</email> +7 903 169 08 66 Laboratory of Angiopathology Institute of General Pathology and Pathophysiology Moscow 125315, Russia</p>
+    </body>
+</article>

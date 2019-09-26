@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">157</journal-id>
+            <journal-code>racdd</journal-code>
+            <journal-eureka-code-one>PRC</journal-eureka-code-one>
+            <nid nid-status="current">128125</nid>
+            <nid-one nid-status="old">638</nid-one>
+            <journal-title>Recent Advances in Cardiovascular Drug Discovery (Discontinued)</journal-title>
+            <journal-former-title>Recent Patents on Cardiovascular Drug Discovery</journal-former-title>
+            <journal-seo-title>recent-advances-in-cardiovascular-drug-discovery</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-3962</journal-issn>
+                <journal-issn issn-type="print">1574-8901</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Advances in Cardiovascular Drug Discovery</italic>
+                    </bold> publishes review and research articles, drug clinical trial studies and guest edited thematic issues on cardiovascular drug discovery.  The scope covers but is not limited to,  medicinal chemistry, pharmacology, genomics, biochemistry, novel bioactive compounds, analogs &#x0026; targets,  and important patents in cardiovascular drug discovery research.</p>
+            </journal-aims-scope>
+            <journal-current-volume>10</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>racdd-journal-cover.jpg</journal-cover-image>
+            <journal-description>The journal is essential reading for all researchers involved in cardiovascular drug design and discovery. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &amp; therapeutic agents related to cardiovascular drug discovery.</journal-description>
+            <keyword-group>
+                <keyword>Recent Advances in Cardiovascular Drug Discovery</keyword>
+                <keyword>concepts in surface chemistry</keyword>
+                <keyword>homogeneous catalysis</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Cardiology-Journals/347226935416914?ref=bookmarks</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>racdd-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="prc@benthamscience.org">prc@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/PRC">bsp-cms.eurekaselect.com/index.php/PRC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical Abstracts</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>METADEX</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

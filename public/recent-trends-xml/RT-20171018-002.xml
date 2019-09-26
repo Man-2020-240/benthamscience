@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20171018-002</article-id>
+            <title-group>
+                <article-title>Androgen receptor targeted imaging of prostate cancer as future modality for diagnosis</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/154253">Past and Present of Imaging Modalities Used for Prostate Cancer Diagnosis: Androgen Receptor Targeted Imaging of Prostate Cancer as a Future Modality for Early, Rapid and Efficient Diagnosis</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 6-OCT-2017</aff>
+            <abstract>
+                <p>This article by Dr. Ghulam Murtaza et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/cmir/">Current Medical Imaging Reviews</uri>, Volume 13, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Prostate cancer is the second most prevailing cancer among men worldwide. In the most cases, prostate cancer is slowly progressing, whereas, in some cases, it is a rapidly progressing disease with a significantly high mortality rate. Thus, there is still demand for prostate-specific imaging in order to provide image-guided early diagnosis and for provision of patient-specific therapy. Besides discussing traditional diagnostic approaches, this review illustrates a perspective on prostate cancer imaging summarizing current imaging approaches with a special focus on prostate specific membrane antigen (PSMA), bombesin (BN) and androgen receptor (AR) targeted imaging using positron emission tomography (PET) and single positron emission computed tomography (SPECT) based on 99mTc and other radiotracers. Here, the prostate biology is rethought for nuclear imaging as future modality for early, rapid and efficient diagnosis of prostate cancer. Future direction in prostate cancer imaging involves the development of androgen receptor based imaging using nonsteroidal antiandrogen agent for early diagnosis of prostate cancer.</p>
+        <p>For more information on this research study, please visit: <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/154253">http://www.eurekaselect.com/154253</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Murtaza</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Past and Present of Imaging Modalities Used for Prostate Cancer Diagnosis: Androgen Receptor Targeted Imaging of Prostate Cancer as a Future Modality for Early, Rapid and Efficient Diagnosis.</article-title>
+                    <source>Curr. Med. Imaging Rev.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1573405613666170718093336</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

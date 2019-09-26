@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cmam</journal-code>
+            <journal-eureka-code-one>CMAM</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Current Mechanics and Advanced Materials</journal-title>
+            <full-journal-title>Current Mechanics and Advanced Materials</full-journal-title>
+            <journal-seo-title>current-mechanics-and-advanced-materials</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2666-1853</journal-issn>
+                <journal-issn issn-type="print">2666-1845</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><bold>Current Mechanics and Advanced Materials</bold> is an international journal devoted to publishing peer-reviewed, high quality, original papers in the field of Materials science. The following article types are published: original research articles, reviews, thematic issues, editorials, letters, and conference reports.</p>
+                <p>The journal welcomes, but not limited to, the papers from the following topics:
+                <list list-type="bullet">
+                <list-item>
+                <p>Composite materials</p>
+                </list-item>
+                <list-item>
+                <p>Ceramics</p>
+                </list-item>
+                <list-item>
+                <p>New properties of materials</p>
+                </list-item>
+                <list-item>
+                <p>Polymer</p>
+                </list-item>
+                <list-item>
+                <p>Biomechanics and biomaterials</p>
+                </list-item>
+                <list-item>
+                <p>Constitutive modelling</p>
+                </list-item>
+                <list-item>
+                <p>Computational engineering</p>
+                </list-item>
+                <list-item>
+                <p>Advanced fibre composites</p>
+                </list-item>
+                <list-item>
+                <p>Smart materials and structures</p>
+                </list-item>
+                <list-item>
+                <p>Fracture and damage mechanics</p>
+                </list-item>
+                <list-item>
+                <p>Failure analysis and residual strength</p>
+                </list-item>
+                <list-item>
+                <p>Viscoelasticity</p>
+                </list-item>
+                <list-item>
+                <p>Microstructure and characterisation of materials</p>
+                </list-item>
+                <list-item>
+                <p>Solidification of materials</p>
+                </list-item>
+                <list-item>
+                <p>Interfaces of composite materials</p>
+                </list-item>
+                <list-item>
+                <p>Amorphous material</p>
+                </list-item>
+                <list-item>
+                <p>Structure-property relationship in engineering material</p>
+                </list-item>
+                <list-item>
+                <p>Nanomaterials and nanomechanics</p>
+                </list-item>
+                <list-item>
+                <p>Aerodynamics</p>
+                </list-item>
+                <list-item>
+                <p>Micromechanics</p>
+                </list-item>
+                <list-item>
+                <p>Multiscale simulation</p>
+                </list-item>
+                <list-item>
+                <p>Biological materials</p>
+                </list-item>
+                <list-item>
+                <p>Metamaterials</p>
+                </list-item>
+                <list-item>
+                <p>Soft matter</p>
+                </list-item>
+                <list-item>
+                <p>Structural engineering</p>
+                </list-item>
+                <list-item>
+                <p>Building materials</p>
+                </list-item>
+                <list-item>
+                <p>Aerospace structures</p>
+                </list-item>
+                </list></p>
+            </journal-aims-scope>
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>cmam-journal-cover.gif</journal-cover-image>
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+                <journal-flyer>cmam-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmam@benthamscience.net">cmam@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMAM">bsp-cms.eurekaselect.com/index.php/CMAM</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

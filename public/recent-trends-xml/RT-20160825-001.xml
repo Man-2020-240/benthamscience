@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+<issn pub-type="ppub">0929-8673</issn>
+<issn pub-type="epub">1875-533X</issn>
+<publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">RT-20160825-001</article-id>
+<title-group>
+<article-title>Characterizing the Zika virus genome</article-title>
+</title-group>
+<aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-computer-aided-drug-design/article/140862/">Characterizing the Zika Virus Genome &#x2013; A Bioinformatics Study</uri></aff>
+<aff><bold>Public Release:</bold> 5-AUG-2016</aff>
+
+<pub-date pub-type="ppub"><year></year></pub-date>
+<volume></volume>
+<issue></issue>
+<history>
+                <date date-type="released">
+                    <day>05</day>
+                    <month>08</month>
+                    <year>2016</year>
+                </date>
+            </history>
+<permissions>
+<copyright-year></copyright-year>
+</permissions>
+<abstract>
+<p>This research article by Dr. Ashesh Nandy et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-computer-aided-drug-design/#top">Current Computer-Aided Drug Design</uri>, Volume 12, Issue 2, 2016</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>The sudden emergence of the Zika virus epidemic in Latin America in 2015-16 has caught the scientific world unawares. A little known disease that was first diagnosed in the Zika forest environment of Uganda in 1947, the disease largely affected populations in Africa until its emergence in French Polynesia a few years ago and then in Brazil and South America last year. The Zika virus is spread mainly by the Aedes aegypti mosquitoes and, like the dengue virus, belongs to the flaviviridae family along with Japanese encephalitis and West Nile virus. As of now there are no known cures or prophylactics for Zika virus infections that cause chills, aches and fevers, but what makes it worse is the association of microcephaly (small brain case) in newborns and other neurological diseases such as the Guillian-Barre syndrome. The Olympic event in Rio this year is another cause for concern on the possibilities of increased spread of the disease around the world.</p>
+<p>While governments in Latin America and elsewhere are concentrating on vector control and increasing citizen awareness, research labs around the world are deeply engaged in developing drugs and vaccines against the Zika virus. In this process understanding the character of the Zika virus in terms of its molecular biology is of vital concern, for the effectiveness of drugs and vaccines will largely depend on what we can fundamentally understand of the virus. The availability of nucleotide and protein sequence data has enabled this study using computer-based approaches to characterize the virus in terms of various biological properties of interest like phylogenetic relationships, transition-transversion ratios, amino acid usage, codon usage bias and hydropathy index.</p>
+<p>Our studies showed that the Zika virus has close parallels to the dengue virus in several aspects such as transition-transversion ratios, preferential vector for its spread, genome structure and the like, with the genome structure being more convoluted with a large amount of complex base distribution along the sequence; these have been clearly evident in some of the 2D graphical representation plots. We have also reported very noticeable differences between the viral sequences isolated in African countries and the isolates from more recent periods in Asia, the Pacific regions and the Americas. The codon usage and amino acid counts also show remarkable differences in frequencies of some residues. These aspects of the Zika virus genome suggest qualitative changes have taken place between the older African sequences and the more recent variants circulating in the Asia-Pacific-America region. Since the outbreak in Yap island in 2007 and the recent epidemic in Brazil in 2015 have led to serious infections in pregnant women and reported cases of novel transmission through sexual contact, it is possible that some of the changes determined through this research could constitute factors facilitating this pathogenicity. Given the propensity of humans to travel and the consequences of climate change which are likely to aid the spread of the disease, these bioinformatics studies could form the basis of effective surveillance and closer monitoring of the genomes of the Zika virus. Some of the present authors have suggested computer-assisted approaches towards such surveillance and consequent design of drugs and vaccines to combat the growth and spread of Zika and other zoonotic viruses, which may be taken under advisement for the benefit of the populations at large.</p>
+</body>
+<back>
+<ref-list>
+<title>Reference</title>
+<ref id="r1"><nlm-citation citation-type="book"><person-group person-group-type="author"><name><surname>Nandy</surname><given-names>A.</given-names></name><etal/></person-group><source>Characterizing the Zika Virus Genome - A Bioinformatics Study, Curr.</source><year>2016</year><publisher-name>Comput. Aided. Drug. Des.</publisher-name><pub-id pub-id-type="doi">10.2174/1573409912666160401115812</pub-id></nlm-citation></ref>
+</ref-list>
+</back>
+</article>

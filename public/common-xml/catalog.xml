@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+    <catalog-list catalog-type="journal">
+    
+    <catalog-entry>
+            <catalog-name>Journal Catalog 2019</catalog-name>
+            <catalog-image>JournalCatalog2019.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2019 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2019.pdf</catalog-link>
+                    <catalog-size>1 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        
+    <catalog-entry>
+            <catalog-name>Journal Catalog 2018</catalog-name>
+            <catalog-image>JournalCatalog2018.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2018 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2018.pdf</catalog-link>
+                    <catalog-size>1 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+    <!--<catalog-entry>
+            <catalog-name>Journal Catalog 2017</catalog-name>
+            <catalog-image>JournalCatalog2017.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2017 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2017.pdf</catalog-link>
+                    <catalog-size>1 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>Journal Catalog 2016</catalog-name>
+            <catalog-image>JournalCatalog2016.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2016 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2016.pdf</catalog-link>
+                    <catalog-size>1 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        
+        <catalog-entry>
+            <catalog-name>Journal Catalog 2015</catalog-name>
+            <catalog-image>JournalCatalog2015.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2015 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2015.pdf</catalog-link>
+                    <catalog-size>1.352 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>Journal Catalog 2014</catalog-name>
+            <catalog-image>JournalCatalog2014.jpg</catalog-image>
+            <catalog-description>Bentham Science Publishers’ 2014 journals collection &#x0026; subscription prices.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/JournalCatalog2014.pdf</catalog-link>
+                    <catalog-size>1.345 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        -->
+        <catalog-entry>
+            <catalog-name>Patent Review &amp; Research Journals</catalog-name>
+            <catalog-image>PatentCatalog.jpg</catalog-image>
+            <catalog-description>This is a catalog of our patent review and research journals. You can learn about our publications about the latest patents in several scientific fields.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/PatentCatalog.pdf</catalog-link>
+                    <catalog-size>1.00 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+    </catalog-list>
+    <catalog-list catalog-type="ebook">
+        <catalog-entry>
+            <catalog-name>eBook Catalog</catalog-name>
+            <catalog-image>eBookCatalog.jpg</catalog-image>
+            <catalog-description>Browse our E-books catalog for titles of your interest. Bentham eBooks presents readers with scientific research on a wide range of disciplines - including Pharmaceutical Sciences, Medicine, Nanoscience, Engineering, Social Sciences and much more. You can also view our catalog in the Excel format.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="excel">
+                    <catalog-link>http://benthamscience.com/catalog/catalog-files/eBookCatalog.xlsx</catalog-link>
+                    <catalog-size>0.465 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <!--
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Book Series</catalog-name>
+            <catalog-image>catalog-series.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook Series comprises of various subject areas.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-series.php</catalog-link>
+                    <catalog-size>1.79 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        -->
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Agriculture</catalog-name>
+            <catalog-image>catalog-agriculture.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in  agriculture comprises various ebooks on recent development in plant science, research topics in agricultural and applied economics, practical applications in agriculture and human health, toxicology and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-agriculture.php</catalog-link>
+                    <catalog-size>2.07 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Bioinformatics</catalog-name>
+            <catalog-image>catalog-bioinformatics.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-bioinformatics.php</catalog-link>
+                    <catalog-size>2.07 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Biotechnology</catalog-name>
+            <catalog-image>catalog-biotechnology.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-biotechnology.php</catalog-link>
+                    <catalog-size>2.07 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Business</catalog-name>
+            <catalog-image>catalog-business.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-business.php</catalog-link>
+                    <catalog-size>2.07 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Chemistry</catalog-name>
+            <catalog-image>catalog-chemistry.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in chemistry comprises various ebooks on  combinatorial chemistry and high throughput screening, advances in organic synthesis, new developments in medicinal chemistry, advances in protein and peptide sciences, frontiers in drug design and discovery, modern applications of high throughput R&amp;D in heterogeneous catalysis and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-chemistry.php</catalog-link>
+                    <catalog-size>2.02 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Computer &amp; Information Sciences</catalog-name>
+            <catalog-image>catalog-computer-information-sciences.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in computer and information sciences comprises various ebooks on  Ad Hoc and Sensor Wireless Networks, advanced geo-simulation models, applications of modern high performance networks, internet multimedia and search mining, introduction to computer data representation, recent advances in robust speech recognition technology, negotiation and argumentation in multi-agent systems and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-computer-information-sciences.php</catalog-link>
+                    <catalog-size>1.94 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Drug Design, Discovery &amp; Therapy</catalog-name>
+            <catalog-image>catalog-drug-design-discovery-therapy.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-drug-design-discovery-therapy.php</catalog-link>
+                    <catalog-size>2.07 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Earth &amp; Environmental Sciences</catalog-name>
+            <catalog-image>catalog-earth-environmental-sciences.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in earth and environmental sciences comprises various ebooks on  spatial ecology, advances in the development of cool materials for the built environment, application of adsorbents for water pollution control, flood risk assessment and management, groundwater reactive transport models and mechanisms of landscape rehabilitation and sustainability and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-earth-environmental-sciences.php</catalog-link>
+                    <catalog-size>1.86 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Energy &amp; Fuels</catalog-name>
+            <catalog-image>catalog-energy-fuels.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-energy-fuels.php</catalog-link>
+                    <catalog-size>1.86 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Engineering &amp; Technology</catalog-name>
+            <catalog-image>catalog-engineering-technology.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in engineering and technology comprises various ebooks on  advances in biomedical sciences and engineering, advances in multiphase flow and heat transfer, analogue circuit design for communication SOC, artificial intelligence resources in control and automation engineering, green energy and technology, image processing for embedded devices, industrial applications of laser remote sensing, infrared thermography, mechatronic and innovative applications, switching mode circuit analysis and design, the theory of thin antennas and its use in antenna engineering, trends in nano and micro cavities and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-engineering-technology.php</catalog-link>
+                    <catalog-size>2.62 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Food Science &amp; Nutrition</catalog-name>
+            <catalog-image>catalog-food-science-nutrition.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-food-science-nutrition.php</catalog-link>
+                    <catalog-size>1.86 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Genetics</catalog-name>
+            <catalog-image>catalog-genetics.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-genetics.php</catalog-link>
+                    <catalog-size>1.86 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Healthcare</catalog-name>
+            <catalog-image>catalog-healthcare.jpg</catalog-image>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-healthcare.php</catalog-link>
+                    <catalog-size>1.86 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Life Sciences</catalog-name>
+            <catalog-image>catalog-life-sciences.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in life sciences comprises various ebooks on oral physiology and oral biology, advances in biotechnology, advances in genome sciences, neurobiology of mood disorders, biochemical and biological effects of organotins, biology and chemistry of beta glucan, biotechnological production of plant secondary metabolites, cellular and molecular biology of autism spectrum disorders, computational biology of embryonic stem cells, methods to determine enzymatic activity, phenotypic and genotypic diversity of rhizobia and recent advances towards improved phytoremediation of heavy metal pollution and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-life-sciences.php</catalog-link>
+                    <catalog-size>2.33 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Material Sciences</catalog-name>
+            <catalog-image>catalog-material-sciences.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in material sciences comprises various ebooks on advanced numerical methods for Complex Environmental Models, advances in sampling theory-ratio method of estimation, advances in time series forecasting, analysis and optimal control of phase-field transition system, applied computational mathematics in social sciences, discrete calculus by analogy, discrete Hilbert-type integral inequalities, exponential data fitting and its applications, set and ordered structures, some recent advances in partial difference equations , summability theory and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-material-sciences.php</catalog-link>
+                    <catalog-size>1.68 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Mathematics &amp; Statistics</catalog-name>
+            <catalog-image>catalog-mathematics-statistics.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in mathematics and statistics comprises various ebooks on advanced numerical methods for Complex Environmental Models, advances in sampling theory-ratio method of estimation, advances in time series forecasting, analysis and optimal control of phase-field transition system, applied computational mathematics in social sciences, discrete calculus by analogy, discrete Hilbert-type integral inequalities, exponential data fitting and its applications, set and ordered structures, some recent advances in partial difference equations, summability theory and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-mathematics-statistics.php</catalog-link>
+                    <catalog-size>1.45 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Medicine</catalog-name>
+            <catalog-image>catalog-medicine.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in medicine comprises various ebooks on advances in Alzheimer research, antibodies applications and new developments, advances in anti-cancer agents in medicinal chemistry, angiogenesis and therapeutic  targets in cancer, cardiac resynchronization therapy, chemical induced seizures, chemoinformatics, bioencapsulation of living cells for diverse medical applications, dermatological treatments, electrocardiography, glucose homeostatis and insulin resistance, immunology of pregnancy, kidney transplantation, tuberculosis treatment, helicobacter pylori, therapeutic revolution, surgical inflammation, thyroid cancer, stem cell and regenerative medicine, oral infections and cardiovascular disease, physiologic autoimmunity and preventive medicine and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-medicine.php</catalog-link>
+                    <catalog-size>2.80 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Nanoscience</catalog-name>
+            <catalog-image>catalog-nanoscience.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in nanoscience comprises various ebooks on advances in III-V semiconductor nanowires and nanodevices, current advances in the medical application of nanotechnology, recent advances in nanoscience and technology, smart nanomaterials for sensor application, toxic effects of nanomaterials, micro and nanomachining technology size, model and complex mechanism and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-nanoscience.php</catalog-link>
+                    <catalog-size>1.93 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Physics &amp; Astronomy</catalog-name>
+            <catalog-image>catalog-physics-astronomy.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in physics and astronomy comprises various ebooks on advances in classical field theory, astrobiology, atomic coherence and its potential applications, challenges in stellar pulsation, digital signal processing in experimental research, dynamical processes in atomic and molecular physics, field, force, energy and momentum in classical electrodynamics, fundamental problems in quantum field theory, new methods of celestial mechanics, quantum mechanics with applications, radiation processes in crystal solid solutions, scientific natural philosophy, solitary waves in fluid media, spline-interpolation solution of one elasticity theory problem, subwavelength optics, transport phenomena in particulate systems and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-physics-astronomy.php</catalog-link>
+                    <catalog-size>1.96 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+        <catalog-entry>
+            <catalog-name>eBooks Catalog - Social Sciences</catalog-name>
+            <catalog-image>catalog-social-sciences.jpg</catalog-image>
+            <catalog-description>This catalogue of our eBook titles in social sciences comprises various ebooks on air pollution economic modelling and control policies, applications of spreadsheets in education, art psychotherapy and narrative therapy, casual inference and scientific paradigms in epidemiology, commercial space tourism, cultural competence in assessment, diagnosis and intervention with ethnic minorities, educational technologies for teaching argumentation skills, mental health promotion in schools, poststructuralism at work with marginalized children, the economics of alternative energy sources and globalization, the primitive mind and modern man, the relationship between democracy and education and many more.</catalog-description>
+            <catalog-file-list>
+                <catalog-file catalog-file-type="pdf">
+                    <catalog-link>http://ebooks.benthamscience.com/bookshelf/catalog-social-sciences.php</catalog-link>
+                    <catalog-size>1.81 MB</catalog-size>
+                </catalog-file>
+            </catalog-file-list>
+        </catalog-entry>
+    </catalog-list>
+</catalog>

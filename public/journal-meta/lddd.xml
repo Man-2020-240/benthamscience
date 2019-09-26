@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">57</journal-id>
+            <journal-code>lddd</journal-code>
+            <journal-eureka-code-one>LDDD</journal-eureka-code-one>
+            <nid nid-status="current">634</nid>
+            <journal-title>Letters in Drug Design &#x0026; Discovery</journal-title>
+            <full-journal-title>Letters in Drug Design and Discovery</full-journal-title>
+            <journal-seo-title>letters-in-drug-design-and-discovery</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-628X</journal-issn>
+                <journal-issn issn-type="print">1570-1808</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Letters in Drug Design &#x0026; Discovery</italic>
+                    </bold> publishes letters, full-length/mini-reviews, highlights and guest edited thematic issues in all areas of rational drug design and discovery including medicinal chemistry, in-silico drug design, combinatorial chemistry, high-throughput screening, drug targets, and structure-activity relationships. The emphasis is on publishing quality papers very rapidly by taking full advantage of latest Internet technology for both submission and review of manuscripts. The online journal is an essential reading to all pharmaceutical scientists involved in research in drug design and discovery.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>130038</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>16</journal-current-volume>
+            <journal-current-issues>12</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>lddd-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.lettersindrugdesigndiscovery.com/</journal-insight>
+<journal-history>Letters in Drug Design &#x0026; Discovery was introduced in 2004. Dr. Kamil Kuca serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Letters in Drug Design &#x0026; Discovery is an essential reading to all pharmaceutical scientists involved in research in drug design and discovery.</journal-description>
+            <keyword-group>
+                <keyword>Drug Design &#x0026; Discovery</keyword>
+                <keyword>combinatorial chemistry</keyword>
+                <keyword>high-throughput screening</keyword>
+                <keyword>pharmaceutical scientists</keyword>
+                <keyword>Drug Design &#x0026; Discovery</keyword>
+                <keyword>Drug Design</keyword>
+                <keyword>rational drug design</keyword>
+                <keyword>in-silico drug design</keyword>
+                <keyword>drug discovery</keyword>
+                <keyword>combinatorial chemistry</keyword>
+                <keyword>drug targets</keyword>
+                <keyword>structure-activity relationships</keyword>
+                <keyword>computer-aided drug design</keyword>
+                <keyword>Drug Formulation</keyword>
+                <keyword>de-novo Drug Design</keyword>
+                <keyword>Molecular Modeling</keyword>
+                <keyword>Molecular Docking</keyword>
+                <keyword>in silico Docking</keyword>
+                <keyword>Pharmacophore Modeling</keyword>
+                <keyword>QSAR</keyword>
+                <keyword>3D-QSAR</keyword>
+                <keyword>Molecular Descriptors</keyword>
+                <keyword>Virtual Screening</keyword>
+                <keyword>structure-based drug desig</keyword>
+                <keyword>Ligand-based drug design</keyword>
+            </keyword-group>
+            <impact-factor>0.953</impact-factor>
+            <five-year-impact-factor>0.789</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Chemistry, Medicinal</category-name>
+                    <rank>57</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>61</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Drug-Discovery-Journals/185992978276304</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>lddd-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lddd@benthamscience.net">lddd@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/LDDD">bsp-cms.eurekaselect.com/index.php/LDDD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded<sup>TM</sup></agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Chemistry Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Current Contents&#x00AE;/Physical</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Chemical and Earth Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>ISI Alerting Service</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

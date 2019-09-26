@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">150</journal-id>
+            <journal-code>racnt</journal-code>
+            <journal-eureka-code-one>RACNT</journal-eureka-code-one>
+            <journal-eureka-code-two>RPTELC</journal-eureka-code-two>
+            <nid nid-status="current">121017</nid>
+            <nid-one nid-status="old">99979</nid-one>
+            <journal-title>Recent Advances in Communications and Networking Technology (Discontinued)</journal-title>
+            <journal-former-title>Recent Patents on Telecommunications</journal-former-title>
+            <full-journal-title>Recent Advances in Communications and Networking Technology(Discontinued)</full-journal-title>
+            <journal-seo-title>recent-advances-in-communications-and-networking-technology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2215-082X</journal-issn>
+                <journal-issn issn-type="print">2215-0811</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Advances in Communications and Networking Technology</italic>
+                    </bold> publishes review and research articles, and guest edited thematic issues by experts on new advances in communications and networking technology, including reviews on recent patents. The journal also covers recent research in fast emerging areas of the field of communications (including communications software, services, and multimedia applications, cognitive networks, Internet, wireless communications, optical, ad-hoc and sensor networks, etc.) and related issues, as well as networking technology. The journal is essential reading for all researchers involved in telecommunication and networking science and technology.</p>
+            </journal-aims-scope>
+            <journal-current-volume>7</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>racnt-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.recentadvancesincommunicationsandnetworkingtechnology.com/</journal-insight>-->
+            <journal-description>Recent Advances in Communications and Networking Technology publishes review and research articles, and guest edited thematic issues by experts on new advances in communications and networking technology, including reviews on recent patents. The journal also covers recent research in fast emerging areas of the field of communications (including communications software, services, and multimedia applications, cognitive networks, Internet, wireless communications, optical, ad-hoc and sensor networks, etc.) and related issues, as well as networking technology. The journal is essential reading for all researchers involved in telecommunication and networking science and technology.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Engineering-Journals/188450778011259</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="racnt@benthamscience.org">racnt@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTELC">bsp-cms.eurekaselect.com/index.php/RPTELC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

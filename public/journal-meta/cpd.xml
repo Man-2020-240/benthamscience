@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">29</journal-id>
+            <journal-code>cpd</journal-code>
+            <journal-eureka-code-one>CPD</journal-eureka-code-one>
+            <nid nid-status="current">606</nid>
+            <journal-title>Current Pharmaceutical Design</journal-title>
+            <full-journal-title>Current Pharmaceutical Design</full-journal-title>
+            <journal-seo-title>current-pharmaceutical-design</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1873-4286</journal-issn>
+                <journal-issn issn-type="print">1381-6128</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Pharmaceutical Design</italic>
+                    </bold> publishes timely in-depth/mini reviews and research articles from leading pharmaceutical researchers in the field, covering all aspects of current research in rational drug design. Each issue is devoted to a single major therapeutic area guest edited by an acknowledged authority in the field.</p>
+                <p>Each thematic issue of <italic><bold>Current Pharmaceutical Design</bold></italic> covers all subject areas of major importance to modern drug design including: medicinal chemistry, pharmacology, drug targets and disease mechanism.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>20682</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>25</journal-current-volume>
+            <journal-current-issues>46</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cpd-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.current-pharmaceutical-design.com/</journal-insight>
+<journal-history>Current Pharmaceutical Design was introduced in 1995 with the assistance of Dr. William A. Banks, who is the current Editor-in-Chief serving since 1995.</journal-history>
+            <journal-description>Current Pharmaceutical Design publishes timely in-depth reviews and research articles from leading pharmaceutical researchers in the field, covering all aspects of current research in rational drug design.</journal-description>
+            <keyword-group>
+                <keyword>Biochemistry &#x0026; Biophysics Citation Index<sup>&#x00AE;</sup></keyword>
+                <keyword>BIOSIS</keyword>
+                <keyword>Chemical Abstracts</keyword>
+                <keyword>Current Contents<sup>&#x00AE;</sup>/Life Sciences</keyword>
+                <keyword>EMBASE/Excerpta Medica</keyword>
+                <keyword>MEDLINE/Index Medicus</keyword>
+                <keyword>Medical Documentation Service<sup>&#x00AE;</sup></keyword>
+                <keyword>Research Alert<sup>&#x00AE;</sup></keyword>
+                <keyword>Science Citation Index<sup>&#x00AE;</sup></keyword>
+                <keyword>Science Citation Index Expanded (SciSearch<sup>&#x00AE;</sup>)</keyword>
+                <keyword>Cambridge Scientific Abstracts (CSA)</keyword>
+                <keyword>PubsHub</keyword>
+                <keyword>Journal Citation Reports/Science Edition</keyword>
+                <keyword>Index to Scientific Reviews<sup>&#x00AE;</sup></keyword>
+                <keyword>ISI Custom Information Services<sup>&#x00AE;</sup></keyword>
+                <keyword>BIOSIS Previews</keyword>
+                <keyword>BIOSIS Reviews Reports and Meetings</keyword>
+                <keyword>Scopus</keyword>
+                <keyword>EMBASE</keyword>
+                <keyword>Genamics JournalSeek</keyword>
+                <keyword>J-Gate</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BenthamScienceP</social-media-link>
+            </social-media-link-list>
+            <impact-factor>2.412</impact-factor>
+            <five-year-impact-factor>2.832</five-year-impact-factor>
+<category-ranking-list>
+            <category-ranking>
+                    <category-name>Pharmacology &#x0026; Pharmacy</category-name>
+                    <rank>148</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>267</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>cpd-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cpd@benthamscience.net">cpd@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://jms.eurekaselect.com/journals/cpd">http://jms.eurekaselect.com/journals/cp64</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded (SciSearch®)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Science Citation Index®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Biochemistry &#x0026; Biophysics Citation Index®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Current Contents® - Life Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Medical Documentation Service®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Research Alert®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Index to Scientific Reviews®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Custom Information Services®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>Cambridge Scientific Abstracts (CSA)/ProQuest</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX19</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX20</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX21</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

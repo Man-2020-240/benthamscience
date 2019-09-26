@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>vat</journal-code>
+            <journal-eureka-code-one>VAT</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Venoms and Toxins</journal-title>
+            <full-journal-title>Venoms and Toxins</full-journal-title>
+            <journal-seo-title>venoms-and-toxins</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2666-1225</journal-issn>
+                <journal-issn issn-type="print">2666-1217</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p><bold>Venoms and Toxins</bold> publishes up-to-date review articles, research articles, thematic issues, short communications, and case reports covering all aspects of toxins, venomous animals (e.g. scorpions, snakes, sea anemones, cone snails, worms, wasps and frogs) and their derivative products.</p>
+                <p>The journal is devoted to the many aspects of marine and non-marine toxins/molecules (and derivatives thereof) from animal venoms, including their structural characteristics, structure-function relationship, pharmacological and immunological properties, molecular engineering/drug design, biotechnological potential, and therapeutic value. The journal also covers all aspects of other types of toxins (including toxic substances of non-protein/peptide origin), such as plant/algae, viral and bacterial toxins.</p>
+            </journal-aims-scope>
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>vat-journal-cover.gif</journal-cover-image>
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+                <journal-flyer>vat-flyer.pdf</journal-flyer>
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="vat@benthamscience.net">vat@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/VAT">bsp-cms.eurekaselect.com/index.php/VAT</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

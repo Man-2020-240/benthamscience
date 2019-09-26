@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cntp</journal-code>
+            <journal-eureka-code-one>CNTP</journal-eureka-code-one>
+            <nid nid-status="current">
+            </nid>
+            <journal-title>Current Nanotoxicity and Prevention</journal-title>
+            <full-journal-title>Current Nanotoxicity and Prevention</full-journal-title>
+            <journal-seo-title>current-nanotoxicity-and-prevention</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2665-9816</journal-issn>
+                <journal-issn issn-type="print">2665-9808</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>Current Nanotoxicity and Prevention aims to provide an interdisciplinary forum for researchers and practitioners, to share innovative research and engineering practices that prevent nano-toxicity.</p>
+                <p>The journal also aims to explore how innovative methods are used for detection, evaluation and mitigating nanotoxicity. In addition, new safety regulations for manufacturer/application/disposal/exposure of nanomaterials will be proposed in the journal.</p> 
+                <p>The emphasis will be on publishing high-quality articles, including research papers, reviews, short communication, thematic issues and case reports.</p>
+            </journal-aims-scope>
+                <journal-current-volume>1</journal-current-volume>
+                <journal-current-issues>1</journal-current-issues>
+                <journal-current-year>2020</journal-current-year>
+                <journal-cover-image>cntp-journal-cover.gif</journal-cover-image>
+                <social-media-link-list>
+                    <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                    <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                </social-media-link-list>
+                <!--<journal-flyer>cntp-flyer.pdf</journal-flyer>-->
+                <journal-email>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cntp@benthamscience.net">cntp@benthamscience.net</email>
+                </journal-email>
+                <journal-management-system>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CNTP">bsp-cms.eurekaselect.com/index.php/CNTP</uri>
+                </journal-management-system>
+            </journal-meta>
+        </journal-front>
+    </journal>

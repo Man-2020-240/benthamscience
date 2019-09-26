@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">67</journal-id>
+            <journal-code>chivr</journal-code>
+            <journal-eureka-code-one>CHR</journal-eureka-code-one>
+            <nid nid-status="current">644</nid>
+            <journal-title>Current HIV Research</journal-title>
+            <full-journal-title>Current HIV Research</full-journal-title>
+            <journal-seo-title>current-hiv-research</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1873-4251</journal-issn>
+                <journal-issn issn-type="print">1570-162X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current HIV Research</italic>
+                    </bold> covers all the latest and outstanding developments of HIV research by publishing original research, full-length/mini review articles and guest edited thematic issues. The novel pioneering work in the basic and clinical fields on all areas of HIV research covers: virus replication and gene expression, HIV assembly, virus-cell interaction, viral pathogenesis, epidemiology and transmission, anti-retroviral therapy and adherence, drug discovery, the latest developments in HIV/AIDS vaccines and animal models, mechanisms and interactions with AIDS related diseases, social and public health issues related to HIV disease, and prevention of viral infection. Periodically, the journal invites guest editors to devote an issue on a particular area of HIV research of great interest that increases our understanding of the virus and its complex interaction with the host.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>21834</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>17</journal-current-volume>
+            <journal-current-issues>6</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>chivr-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currenthivresearch.com/</journal-insight>
+<!--<journal-history>Current HIV Research was introduced in 2003 with the assistance of Dr. Charles Wood, who is the current acting Editor-in-Chief since 2003.</journal-history>-->
+            <journal-description>Current HIV Research covers all the latest and outstanding developments of HIV research by publishing original research, review articles and guest edited thematic issues. The novel pioneering work in the basic and clinical fields on all areas of HIV research covers: virus replication and gene expression, HIV assembly, virus-cell interaction, viral pathogenesis, epidemiology and transmission, anti-retroviral therapy and adherence, drug discovery, the latest developments in HIV/AIDS vaccines and animal models, mechanisms and interactions with AIDS related diseases, social and public health issues related to HIV disease, and prevention of viral infection. Periodically, the journal invites guest editors to devote an issue on a particular area of HIV research of great interest that increases our understanding of the virus and its complex interaction with the host.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/benthamimpactfactorjournals</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/bentham-science-publishers-journals-impacting-science?trk=biz-brand-tree-co-name</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BSP_HighImpact</social-media-link>
+            </social-media-link-list>
+            <impact-factor>1.115</impact-factor>
+            <five-year-impact-factor>1.429</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Immunology</category-name>
+                    <rank>147</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>158</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Infectious Diseases</category-name>
+                    <rank>83</rank>
+                    <rank-suffix>rd</rank-suffix>
+                    <total-journals>89</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Virology</category-name>
+                    <rank>32</rank>
+                    <rank-suffix>nd</rank-suffix>
+                    <total-journals>36</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <journal-flyer>chivr-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="chivr@benthamscience.net">chivr@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CHIVR">bsp-cms.eurekaselect.com/index.php/CHIVR</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded™</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Web of Science/Thomson Reuters</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>ISI Alerting Services</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

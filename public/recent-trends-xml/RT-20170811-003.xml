@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170811-003</article-id>
+            <title-group>
+                <article-title>Virus-derived expression vectors as gene therapy vehicles</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/150556/article">Virus-Based RNA Silencing Agents and Virus-Derived Expression Vectors as Gene Therapy Vehicles</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 6-JUL-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Srividhya Venkataraman et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/recent-patents-on-biotechnology/#top">Recent Patents on Biotechnology</uri>, Volume 11, Issue 2, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Even as new viruses are being identified, the emerging field of virus discovery, identification of their nucleotide sequences, gene expression patterns and complexities of virus-host interactions at the molecular level are being used in recent years towards applications in the human medicine as well as veterinary, agricultural and other biotechnological purposes. Several patents pertaining to this field have been filed successfully and the current review addresses recent patents pertaining to the use of virus sequences as RNA silencing agents and virus-derived expression vectors as gene therapy vehicles. Specifically, these patents demonstrate the use of viral sequences to silence positive-sense RNA viruses such as Flaviviruses, Picornaviruses, Togaviruses, Herpesviruses and minus-stranded RNA viruses such as Filoviruses, virus-induced gene silencing in plants, expression vectors of Poxviruses, Flaviviruses, Influenza viruses, Adeno-associated viruses, expression vectors based on plant viruses and viral expression vectors applicable to the fish industry. Virus-derived short double-stranded RNAs and DNA-based antisense antiviral compounds are used at low dosage to specifically and effectively mediate RNA interference or RNA silencing and downregulate viral replication. Also, Virus-Induced Gene Silencing (VIGS) is used to identify gene functions in plants. Expression vectors based on poxviruses engineered to code for HIV and other viral immunogens are popular vaccine candidates. Pseudoinfectious viruses that can undergo a single round of infection in vivo, mimicking whole viral infections while inducing strong T- and B-cell immunity are also discussed. Another patent discusses a multi-vector scheme for generating recombinant and reassortant Influenza Viruses. A recombinant Papaya Mosaic Virus coat protein forming virus-like particles (VLPs) with Influenza Virus epitopes exposed on their surface is also mentioned. However, the current inventions addressed in these patents require scrupulous testing in clinical trials (for medical and veterinary uses) and field trials (for agricultural uses) that are yet to be achieved. It is also important to consider the influence of prior host-environment interactions and the previous history of exposure to pathogenic organisms. Testing of these virus-derived genetically engineered vehicles has to go further beyond mere success in laboratory-derived cell culture systems and experimental animals / plants.</p>
+        <p>For more information, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/150556">http://www.eurekaselect.com/150556</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Venkataraman</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Virus-Based RNA Silencing Agents and Virus-Derived Expression Vectors as Gene Therapy Vehicles.</article-title>
+                    <source>Recent Pat. Biotechnol.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1872208311666170301103722</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

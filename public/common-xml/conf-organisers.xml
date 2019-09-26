@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conf-organisers>
+    <media-partner-list list-type="conf-organisers">
+        <media-entry>
+            <media-name>CONFERENCES HEALTH</media-name>
+            <media-image>conf-health.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.healthtech.com/">http://www.healthtech.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry>
+            <media-name>LD ORGANISATION</media-name>
+            <media-image>ld-organisation.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ldorganisation.com/">http://www.ldorganisation.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry>
+            <media-name>GLOBAL TECHNOLOGY COMMUNITY</media-name>
+            <media-image>global-technology-community.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.gtcbio.com/">http://www.gtcbio.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry>
+            <media-name>OXFORD INTERNATIONAL</media-name>
+            <media-image>oxford-international.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.oxfordint.com/">http://www.oxfordint.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry>
+            <media-name>IBG COMPANY</media-name>
+            <media-image>ibg-company.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ibgintl.com/">http://www.ibgintl.com/</uri>
+            </media-link>
+        </media-entry>
+        <media-entry>
+            <media-name>ABC COMPANY</media-name>
+            <media-image>abc-technologies.gif</media-image>
+            <media-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.abctechnologies.ch/">http://www.abctechnologies.ch/</uri>
+            </media-link>
+        </media-entry>
+    </media-partner-list>
+</conf-organisers>

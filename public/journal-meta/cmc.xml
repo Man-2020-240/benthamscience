@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="no">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">25</journal-id>
+            <journal-code>cmc</journal-code>
+            <journal-eureka-code-one>CMC</journal-eureka-code-one>
+            <nid nid-status="current">602</nid>
+            <chinese-abstract-year>2016</chinese-abstract-year>
+            <journal-title>Current Medicinal Chemistry</journal-title>
+            <full-journal-title>Current Medicinal Chemistry</full-journal-title>
+            <journal-seo-title>current-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-533X</journal-issn>
+                <journal-issn issn-type="print">0929-8673</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Medicinal Chemistry</bold> covers all the latest and outstanding developments in medicinal chemistry and rational drug design. Each issue contains a series of timely in-depth/mini reviews and guest edited thematic issues written by leaders in the field covering a range of the current topics in medicinal chemistry. The journal also publishes reviews on recent patents. Current Medicinal Chemistry is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments.</p>
+            </journal-aims-scope>
+            <processing-charges>
+                <p>There are no publication charges in this journal under normal publication process.  However, authors have to pay if they avail optional services such as (i) Quick Track (ii)Open Access Plus (iii) Featured Articles (iv) Copy Editing and (v) Publishing Colour figures.  For more details please visit: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/node/602/current-medicinal-chemistry/ifa">http://www.eurekaselect.com/node/602/current-medicinal-chemistry/ifa</uri></p>
+            </processing-charges>
+            <scimago sjr-status="no">
+                <scimago-jr-id>23488</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>26</journal-current-volume>
+            <journal-current-issues>42</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cmc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentmedicinalchemistry.com/</journal-insight>
+<journal-history>Current Medicinal Chemistry was introduced in 1994 with the assistance of Dr. Atta-ur-Rahman, who is the current Editor-in-Chief serving since 1994.</journal-history>
+            <journal-description>Current Medicinal Chemistry Journal aims to provide a reliable, up-to-date and freely available scientific information platform that bypasses the delays and accessibility restrictions of the traditional scientific press</journal-description>
+            <keyword-group>
+                <keyword>Medicinal Chemistry</keyword>
+                <keyword>rational drug design</keyword>
+                <keyword>current topics in medicinal chemistry</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Current-Medicinal-Chemistry/280578072138186?fref=ts</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/current-medicinal-chemistry?trk=biz-brand-tree-co-name</social-media-link>
+                <social-media-link social-media-link-type="twitter">https://twitter.com/BSP_HighImpact</social-media-link>
+            </social-media-link-list>
+            <impact-factor>3.894</impact-factor>
+            <five-year-impact-factor>3.693</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Biochemistry &#x0026; Molecular Biology</category-name>
+                    <rank>91</rank>
+                    <rank-suffix>st</rank-suffix>
+                    <total-journals>298</total-journals>
+                    <quartile>Q2</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Chemistry, Medicinal</category-name>
+                    <rank>12</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>61</total-journals>
+                    <quartile>Q1</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Pharmacology &#x0026; Pharmacy</category-name>
+                    <rank>55</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>267</total-journals>
+                    <quartile>Q1</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            
+            <journal-flyer>cmc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmc@benthamscience.net">cmc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMC">bsp-cms.eurekaselect.com/index.php/CMC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index&#x00AE;</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Science Citation Index Expanded</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Index to Scientific Reviews&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Biochemistry and Biophysics Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Current Contents® - Life Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Research Alert</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Prous Science Integrity&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>Reference Update</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX19</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX20</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX21</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX22</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

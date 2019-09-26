@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">125</journal-id>
+            <journal-code>rpcat</journal-code>
+            <journal-eureka-code-one>RPCAT</journal-eureka-code-one>
+            <nid nid-status="current">51128</nid>
+            <journal-title>Recent Patents on Catalysis (Discontinued)</journal-title>
+            <full-journal-title>Recent Patents on Catalysis(Discontinued)</full-journal-title>
+            <journal-seo-title>recent-patents-on-catalysis</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2211-5498</journal-issn>
+                <journal-issn issn-type="print">2211-548X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Catalysis</italic>
+                    </bold> publishes review, research articles and guest edited thematic issues on recent patents in the field of catalysis. The journal aims to provide recent patent information in all areas of catalysis science, including heterogeneous, homogeneous catalysis, synthesis and properties of new catalysts including synthesis and catalytic function of novel inorganic solids and complexes, studies that relate catalytic function to fundamental chemical processes in metal complexes and at surfaces, novel concepts in surface chemistry. A selection of important and recent patents on catalysis is also included in the journal. The journal is essential reading for all academic and industrial researchers, including IP authorities who wish to be kept informed about important patent breakthroughs in catalysis science and technology. </p>
+            </journal-aims-scope>
+            <journal-current-volume>3</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpcat-journal-cover.gif</journal-cover-image>
+            <journal-description>The journal aims to provide recent patent information in all areas of catalysis science, including heterogeneous, homogeneous catalysis, synthesis and properties of new catalysts including synthesis and catalytic function of novel inorganic solids and complexes, studies that relate catalytic function to fundamental chemical processes in metal complexes and at surfaces, novel concepts in surface chemistry. A selection of important and recent patents on catalysis is also included in the journal. The journal is essential reading for all academic and industrial researchers, including IP authorities who wish to be kept informed about important patent breakthroughs in catalysis science and technology. </journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Catalysis    </keyword>
+                <keyword>concepts in surface chemistry</keyword>
+                <keyword> homogeneous catalysis</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012?ref=bookmarks</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpcat-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rpcat@benthamscience.org">rpcat@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPCAT">bsp-cms.eurekaselect.com/index.php/RPCAT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+             <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service (CAS)</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name> PubsHub.</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>J-Gate</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

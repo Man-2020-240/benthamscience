@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.1" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20171018-003</article-id>
+            <title-group>
+                <article-title>Early stages of antibacterial damage of metallic nanoparticles by TEM and STEM-HAADF</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/155372/article">Early Stages of Antibacterial Damage of Metallic Nanoparticles by TEM and STEM-HAADF</uri>
+            </aff>
+            <aff>
+                <bold>PUBLIC RELEASE:</bold> 12-OCT-2017</aff>
+            <abstract>
+                <p>This article by Dr. Beatriz Liliana España Sánchez is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/cnano/">Current Nanoscience</uri>, Volume 13, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>The virulence of pathogens is considered an important health care problem due to their resistance against conventional antibiotics. The recent challenge for researchers involves the design of functional alternatives such as nanomaterials, used as antibacterial agents. Recently, metallic nanoparticles (NPs) have demonstrated high bacteriostatic and bactericidal properties associated with the increase of surface area to volume ratio, enhancing their physical and chemical activity, and they are considered as the new generation of antimicrobial agents. Several studies have been focused on the antimicrobial properties of metallic NPs and their action mechanism in contact with microorganisms, but is still not well understood. Different bacterial damage processes have been reported, and they are associated with alterations to different cellular components, such as cell wall, proteins and DNA. All of them induce changes in cell function to finally promote cell death. Recent advances in electron microscopy offer new analytical techniques based on the image contrast and their correlation with the atomic mass, allowing to determine morphology and composition. The progress of combined STEM-HAADF technique is related with the imaging of biological samples morphology and its elemental analysis at nanometric scale. A major feature of combined techniques is the analyses of bacterial damage produced by the interaction with NPs, aiming to elucidate the early stages of the process.</p>
+        <p>The present study is focused on the antibacterial damage produced by the interaction of Silver (Ag) and Copper (Cu) based NPs with Gram-negative Pseudomonas aeruginosa by means of TEM and combined STEM-HAADF. In this regard, NP structure and their antibacterial activity (AA) were determined. The adhesion and penetration of NPs were determined by TEM and STEM-HAADF, aiming to contribute to the elucidation of the primary antibacterial mechanism of metallic NPs.</p>
+        <p>Ag and Cu NPs have emerged as relevant materials for the synthesis of biomedical devices due to their antibacterial properties. Here we go into a detailed observation of the early stages of AA produced by Ag and Cu NPs using commercial sources. In this regard, both NPs display AA depending on NP concentration. TEM images show NPs adhesion on bacterial cells, suggesting that the interaction between bacteria and NPs induce changes in bacterial structure as the overall shape becomes irregular and the cell wall is distorted after direct contact. Metallic NPs and other ionic species that they might release from their surface when in solution could interact with the anionic lipopolysaccharides of the Gram-negative cell wall, as it has been reported before. These interactions then lead to the disequilibrium on the cell causing permeation and finally result in cell death. The STEM-HAADF technique also proves the NP adhesion and penetration by intracellular localization, detecting Ag/Cu species analyzed by elemental mapping. Moreover, the relative amount of phosphorus (P) and sulfur (S) increases slightly in P. aeruginosa with the presence of NPs. These elements are associated with damaged proteins of the outer cell membrane.</p>
+        <p>This study shows the early stages of antibacterial damage caused by metallic NPs on Gram-negative Pseudomonas aeruginosa by means of HRTEM and combined STEM-HAADF. Combined analyses by TEM and STEM-HAADF can be a powerful tool to understand the primary antibacterial mechanism of metallic NPs and the bacterial response to damage, which are key processes for the rational design of antimicrobial nanomaterials.</p>
+        <p>B.L. España-Sánchez<sup>a,b</sup>, C. Ávila-Orta<sup>*b</sup>, F. Padilla-Vaca<sup>*c</sup>, E. Díaz Barriga-Castro<sup>a</sup>, F. Soriano-Corral<sup>a</sup>, P. González-Morones<sup>a</sup>, D. Ramírez-Wong<sup>b</sup>, G. Luna-Bárcenas<sup>b</sup>.</p>
+        <p>
+            <sup>a</sup>Departamento de Materiales Avanzados, Centro de Investigación en Química Aplicada (CIQA), Blvd. Enrique Reyna Hermosillo No. 140, Saltillo, Coahuila 25294, México.</p>
+        <p>
+            <sup>b</sup>Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV) Unidad Querétaro. Libramiento Norponiente No. 2000, Fracc. Real de Juriquilla. Querétaro, Querétaro, 76230, México.</p>
+        <p>
+            <sup>c</sup>Departamento de Biología, División de Ciencias Naturales y Exactas, Universidad de Guanajuato. Noria Alta s/n, Guanajuato, Guanajuato 36050, México.</p>
+    </body>
+</article>

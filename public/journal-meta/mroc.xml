@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">45</journal-id>
+            <journal-code>mroc</journal-code>
+            <journal-eureka-code-one>MROC</journal-eureka-code-one>
+            <nid nid-status="current">622</nid>
+            <journal-title>Mini-Reviews in Organic Chemistry</journal-title>
+            <full-journal-title>Mini-Reviews in Organic Chemistry</full-journal-title>
+            <journal-seo-title>mini-reviews-in-organic-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-6298</journal-issn>
+                <journal-issn issn-type="print">1570-193X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Mini-Reviews in Organic Chemistry</italic>
+                    </bold> is a peer reviewed journal which publishes original reviews/mini reviews on all areas of organic chemistry including organic synthesis, bioorganic and medicinal chemistry, natural product chemistry, molecular recognition, and physical organic chemistry. The emphasis will be on publishing quality papers very rapidly, without any charges.</p>
+                <p>The journal encourages submission of reviews on emerging fields of organic chemistry including:</p>
+                <list list-type="bullet">
+                    <list-item>
+                        <p>Bioorganic Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Carbohydrate Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Chemical Biology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Chemical Process Research</p>
+                    </list-item>
+                    <list-item>
+                        <p>Computational Organic Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Development of Synthetic Methodologies</p>
+                    </list-item>
+                    <list-item>
+                        <p>Functional Organic Materials</p>
+                    </list-item>
+                    <list-item>
+                        <p>Heterocyclic Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Macromolecular Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Natural Products Isolation And Synthesis</p>
+                    </list-item>
+                    <list-item>
+                        <p>New Synthetic Methodology</p>
+                    </list-item>
+                    <list-item>
+                        <p>Organic Reactions</p>
+                    </list-item>
+                    <list-item>
+                        <p>Organocatalysis</p>
+                    </list-item>
+                    <list-item>
+                        <p>Organometallic Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Theoretical Organic Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Polymer Chemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Stereochemistry</p>
+                    </list-item>
+                    <list-item>
+                        <p>Structural Investigations</p>
+                    </list-item>
+                    <list-item>
+                        <p>Supramolecular Chemistry</p>
+                    </list-item>
+                </list>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4700152614</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>16</journal-current-volume>
+            <journal-current-issues>7</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>mroc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.minireviewsinorganicchemistry.com</journal-insight>
+<journal-history>Mini-Reviews in Organic Chemistry was launched in 2004. Dr. Renato Dalpozzo serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Mini-Reviews in Organic Chemistry is essential reading to all organic chemists in both academia and industry.</journal-description>
+            <keyword-group>
+                <keyword>Organic Chemistry</keyword>
+                <keyword>supramolecular</keyword>
+                <keyword>molecular recognition</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012?ref=br_rs</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <impact-factor>1.12</impact-factor>
+            <five-year-impact-factor>1.394</five-year-impact-factor>
+            <category-ranking-list>
+             <category-ranking>
+                    <category-name>Chemistry, Organic</category-name>
+                    <rank>43</rank>
+                    <rank-suffix>rd</rank-suffix>
+                    <total-journals>57</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+             </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>mroc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mroc@benthamscience.net">mroc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/MROC">bsp-cms.eurekaselect.com/index.php/MROC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded (SciSearch&#x00AE;)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Current Contents&#x00AE;/Physical</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical and Earth Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Chemistry Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Current Chemical Reactions&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Reaction Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>ISI Alerting Services&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

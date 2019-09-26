@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<price-order>
+    <sec>
+        <title>Subscriptions, Pricing and Ordering Information</title>
+        <p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>Journal and Book Information</p>
+                </list-item>
+                <list-item>
+                    <p>Subscriptions and Pricing</p>
+                </list-item>
+                <list-item>
+                    <p>Information for Librarians</p>
+                </list-item>
+                <list-item>
+                    <p>Terms and Conditions</p>
+                </list-item>
+            </list>
+        </p>
+        <sec>
+            <title>Journal and Book Information</title>
+            <p>For information on our titles, select Browse Titles ---> "<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="journals-by-title/A/1/">Journals by Titles</uri>" , to view a list of titles or search according to your field of interest or select “Search”. To view a FREE sample copy of the journal of your choice, please visit the journals home page. </p>
+        </sec>
+        <sec>
+            <title>Subscriptions and Pricing</title>
+            <sec>
+                <title>Price Lists:</title>
+                <p>Click here to view or download our Journal Subscription &#x0026; Book price lists.</p>
+               <p>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../journal-files/ratelist2019.pdf">2019 Bentham Science Publishers - Price List (pdf, 256 KB)</uri></p>
+               <p>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../journal-files/ratelist2018.pdf">2018 Bentham Science Publishers - Price List (pdf, 256 KB)</uri>
+                </p>
+            </sec>
+            <sec>
+                <title>Current Volumes:</title>
+                <p>To subscribe to current volumes of either books or journals, you may either: 
+					    <list list-type="bullet">
+							<list-item>
+								<p>Submit the below online Journal Subscription &#x0026; Book form. You can request an invoice, pay by credit card, or print and send us the form by post or fax</p>
+							</list-item>
+							<list-item>
+								<p>Contact our subscription department: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email></p>
+							</list-item>
+							<list-item>
+								<p>Contact your journal agent.</p>
+							</list-item>
+						</list>
+					</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Online Journal Archives at Attractive Discount</title>
+            <p>Bentham Science offers online back volumes of all journals on a title-by-title basis at the following discounts:</p>
+            <p>For existing subscribers: 85% discount on the current years listed subscription price X (multiplied by) the number of years involved.</p>
+            <p>For new Subscribers: 80% discount on the current years listed subscription price X (multiplied by) the number of years involved.</p>
+            <p>Others: 70% discount on the current years listed subscription price X (multiplied by) the number of years involved.</p>
+            <p>For details please contact us at<break/>
+						Subscription Department<break/>
+                        BENTHAM SCIENCE PUBLISHERS<break/>
+                        Executive Suite Y - 2<break/>
+                        P.O Box 7917, Saif Zone<break/>
+                        Sharjah<break/>
+                        U.A.E<break/>
+                        +971-6-5571132<break/>
+                        +971-6-5571134<break/>
+                        <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email> or your local journal subscription agency </p>
+            <sec>
+                <title>Online Journal Subscription Form:</title>
+                <p>Online Journal Subscription Form for each journal is available on the journal website via the  “Subscribe” button on the journal home page. Moreover this option, for every journal, is also available on <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscription-main.php">SUBSCRIPTION RATES</uri> page.</p>
+            </sec>
+            <sec>
+                <title>Subscription Department Contact Details:</title>
+                <p>Subscription Department<break/>
+                        Bentham Science Publishers<break/>
+                        Executive Suite Y - 2<break/>
+                        P.O Box 7917, Saif Zone<break/>
+                        Sharjah<break/>
+                        U.A.E<break/>
+                        Phone: +971-6-5571132<break/>
+                        Fax: +971-6-5571134<break/>
+                        <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email>
+                        </p>
+            </sec>
+            <sec>
+                <title>Payment Options: </title>
+                <p>Payment can be made by Bank (Wire) Transfer, Cheque and Credit Card (Mastercard, Eurocard, Visa or American Express).</p>
+                <p>All payments should be made to Bentham Science Publishers. All subscriptions back volumes and single issues are paid in US Dollars.</p>
+            </sec>
+            <sec>
+                <title>Back Volumes: </title>
+                <p>All back volumes can be purchased via our subscription department or via your journal agent. <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">Click here</email> to start an e-mail to request pricing and availability. </p>
+            </sec>
+            <sec>
+                <title>Purchase Single Issues and Pay-per-view: </title>
+                <p>Single and multiple print issues are available for each journal. To request pricing, please send us an email <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">click here</email>. Our subscription department will then contact you with a quote and ordering information.</p>
+            </sec>
+            <sec>
+                <title>Pay-per-view: </title>
+                <p>All journals are available online and single articles can be obtained for a document delivery fee from <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=" http://www.eurekaselect.com">www.eurekaselect.com</uri> . For more information on purchasing single issues online, please email us at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email>.</p>
+            </sec>
+            <sec>
+                <title>Claims: </title>
+                <p>Claims for missing issues are only accepted within 4 months of dispatch. If your order has been processed via a Subscription Agent, kindly contact them to claim the missing issue(s).</p>
+            </sec>
+            <sec>
+                <title>Cancellations: </title>
+                <p>No refunds will be made after the first issue of the journal for the year has been dispatched.</p>
+            </sec>
+            <sec>
+                <title>Terms and Conditions:</title>
+                <p>Please <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="price-order-terms-conditions.php">click here</uri> to view or download our terms and conditions for subscriptions. </p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Information for Librarians</title>
+            <sec>
+                <title>Collection and Consortia Purchasing:</title>
+                <p>We offer a range of purchasing options, including tailor-made packages, for our online collection &#x0026; for individual organizations, multi-sites and consortia. Contact us at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email> and for Europe: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sales@benthamscience.net">sales@benthamscience.net</email></p>
+            </sec>
+            <sec>
+                <title>Ordering and Access:</title>
+                <p>You may order via your local subscription agency (some are listed here) directly online, or contact our subscriptions department at: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email>. Our content is also accessible from a selection of gateways including SwetsWise, EBSCOhost Electronic Journals and IngentaConnect.
+Online Institutional Access is available using IP recognition and user name and password.</p>
+            </sec>
+            <sec>
+                <title>Subscription Options: </title>
+                <p>To view or download our subscription catalogues, please <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="catalogs.php">click here</uri>. Online subscription prices are valid for single site access only. </p>
+                <p>There are various subscription options, namely:</p>
+                <sec>
+                    <title>Print or Online: </title>
+                    <p>Print or single site online only ordering option where the standard print or online only rates are charged.</p>
+                </sec>
+                <sec>
+                    <title>Print and Online:</title>
+                    <p>In addition to the standard print or online only rate we levy a 10% surcharge for online access in the case of Academic Institutions and a 20% surcharge for Corporate Institutions. This applies to a single site license only.</p>
+                </sec>
+            </sec>
+            <sec>
+                <title>CrossRef:</title>
+                <p>Bentham Science Publishers is a member of CrossRef and all the content of its journals are linked by DOIs through CrossRef.</p>
+                <p>The DOI, or digital object identifier, serves as a persistent, actionable identifier for intellectual property online. CrossRef is the official DOI registration agency for scholarly and professional publications, including journals, books, and other content types. For further details see: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.crossref.org">www.crossref.org</uri></p>
+            </sec>
+            <sec>
+                <title>User Statistics:</title>
+                <p>Usage statistics are available, enabling you to monitor and evaluate your institutions usage of our content.</p>
+            </sec>
+            <sec>
+                <title>Library Conference Schedule:</title>
+                <p>We attend various library conferences. Please come and visit us at upcoming library conferences. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/exhibit-schedule.php">Click here</uri> to view our conference schedule.</p>
+            </sec>
+        </sec>
+    </sec>
+</price-order>

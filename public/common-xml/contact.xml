@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contact>
+    <contact-list contact-list-type="office-world-wide">
+        <region>
+            <region-name>UNITED ARAB EMIRATES</region-name>
+            <contact-entry>
+                <office-name>Subscription Office</office-name>
+                <address>
+                    <institute>Bentham Science Publishers</institute>
+                    <street-address>Executive Suite Y - 2</street-address>
+                    <street-address>Building Y</street-address>
+                    <street-address>Saif Zone</street-address>
+                    <city>Sharjah</city>
+                    <country>U.A.E</country>
+                    <phone>+971-6-5571132</phone>
+                    <fax>+971-6-5571134</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="subscriptions@benthamscience.net">subscriptions@benthamscience.net</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <office-name>For All Other Inquiries</office-name>
+                <address>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>NETHERLANDS/EUROPE</region-name>
+            <contact-entry>
+                <office-name>Marketing and Sales Office</office-name>
+                <name>
+                    <surname>Kluiters</surname>
+                    <given-names>Chris</given-names>
+                    <prefix>Mr.</prefix>
+                </name>
+                <address>
+                    <institute>Anna Paulownalaan 34</institute>
+                    <street-address>3761 CW Soest</street-address>
+                    <country>The Netherlands</country>
+                    <phone>+ 31 6 15 62 88 09</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="chris@benthamscience.net">chris@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>CHINA</region-name>
+            <contact-entry>
+                <office-name>For Marketing, Sales and Subscriptions Inquiries</office-name>
+                <name>
+                    <surname>Yan</surname>
+                    <given-names>Cassie</given-names>
+                    <prefix>Ms.</prefix>
+                </name>
+                <address>
+                    <institute>Bentham Science Publishers</institute>
+                    <phone>+86(0) 137 0122 0420</phone>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/">http://www.eurekaselect.com/</uri>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cassie@benthamscience.ae">cassie@benthamscience.ae</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <office-name>For All Other Inquiries</office-name>
+                <address>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>INDIA</region-name>
+            <contact-entry>
+                <office-name>For Marketing, Sales and Subscriptions Inquiries</office-name>
+                <name>
+                    <surname>Babu</surname>
+                    <given-names>B. Kamal</given-names>
+                </name>
+                <address>
+                    <institute>Product Manager</institute>
+                    <street-address>Bentham Science Publishers</street-address>
+                    <country>India</country>
+                    <phone>+91 9940621177</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Kamal@benthamscience.ae">Kamal@benthamscience.ae</email>
+                </address>
+                <address>
+                    <institute>Skype - kamal.b.babu</institute>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <office-name>For All Other Inquiries</office-name>
+                <address>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>JAPAN</region-name>
+            <contact-entry>
+                <office-name>For Marketing, Sales and Subscriptions Inquiries</office-name>
+                <name>
+                    <surname>Ogura</surname>
+                    <given-names>Hisao</given-names>
+                    <prefix>Mr.</prefix>
+                </name>
+                <address>
+                    <institute>Bentham Science Publishers</institute>
+                    <street-address>3-16-14 Ryukakujidai</street-address>
+                    <street-address>Sakae-machi, Imba-gun</street-address>
+                    <city>Chiba</city>
+                    <zip>270-1505</zip>
+                    <country>Japan</country>
+                    <fax>+81-476-95-0897</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="homediajapan@gmail.com">homediajapan@gmail.com</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <office-name>For All Other Inquiries</office-name>
+                <address>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>NORTH AMERICA</region-name>
+            <contact-entry>
+                <office-name>Sales and Marketing</office-name>
+                <name>
+                    <surname>Myers</surname>
+                    <given-names>David</given-names>
+                    <prefix>Mr.</prefix>
+                </name>
+                <address>
+                    <institute>DMedia Associates, Inc.</institute>
+                    <street-address>11700 Le Havre Dr.</street-address>
+                    <city>Potomac</city>
+                    <state>MD</state>
+                    <zip>20854</zip>
+                    <country>USA</country>
+                    <phone>+1-301-340-1987</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dave@dmediaassoc.com">dave@dmediaassoc.com</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <office-name>Customer Service and North American Exhibitions</office-name>
+                <name>
+                    <surname>Morrissy</surname>
+                    <given-names>Richard E.</given-names>
+                    <prefix>Mr.</prefix>
+                </name>
+                <address>
+                    <institute>PO Box 446</institute>
+                    <street-address>Oak Park</street-address>
+                    <state>IL</state>
+                    <zip>60303</zip>
+                    <country>USA</country>
+                    <phone>708-308-4203</phone>
+                    <fax>312-275-7530</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="morrissy@benthamscience.net">morrissy@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+    </contact-list>
+    <contact-list contact-list-type="partners-world-wide">
+        <region>
+            <region-name>AUSTRALIA</region-name>
+            <contact-entry>
+                <address>
+                    <institute>EMpact Sales</institute>
+                    <street-address>Part of the EBSCO Group</street-address>
+                    <country>AUSTRALIA</country>
+                    <phone>+61 (0) 7 5453 7675</phone>
+                    <mobile>+61 (0) 419 875 240 </mobile>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dviollet@ebsco.com">dviollet@ebsco.com</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>CENTRAL AND LATIN AMERICA</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Dotlib Information</institute>
+                    <street-address>Av. das Américas</street-address>
+                    <street-address>3434 Bl 02 sala 506 - Barra da Tijuca</street-address>
+                    <street-address>Rio de Janeiro, RJ</street-address>
+                    <zip>22640-102</zip>
+                    <phone>(21) 3431-3430</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@dotlib.com">info@dotlib.com</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>CZECH REPUBLIC</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Sestupna 153/11</institute>
+                    <street-address>16200 Praha 6 – Liboc</street-address>
+                    <street-address>Czech republic</street-address>
+                    <phone>00420 242 459 202</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="obchod@suweco.cz">obchod@suweco.cz</email>
+                 </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>GERMANY / AUSTRIA / GERMAN-SPEAKING SWITZERLAND / EASTERN EUROPE</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Ebsco Information Services Gmbh</institute>
+                    <city>Berlin</city>
+                    <country>GERMANY</country>
+                    <phone>49-30-34005-258</phone>
+                    <fax>49-30-34005-290</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="salesberlin@ebsco.com">salesberlin@ebsco.com</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>INDIA</region-name>
+            <contact-entry>
+                <name>
+                    <surname>Babu</surname>
+                    <given-names>B. Kamal</given-names>
+                </name>
+                <address>
+                    <institute>Product Manager</institute>
+                    <street-address>Bentham Science Publishers</street-address>
+                    <country>India</country>
+                    <phone>+91 9940621177</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Kamal@benthamscience.ae">Kamal@benthamscience.ae</email>
+                </address>
+                <address>
+                    <institute>Skype - kamal.b.babu</institute>
+                </address>
+            </contact-entry>
+
+            <contact-entry>
+                <address>
+                    <institute>Allied Publishers Group</institute>
+                    <street-address>Allied Publishers Private Limited (APPL) &#x0026; Allied Publishers Subscription Agency (APSA)</street-address>
+                    <street-address>1<sup>st</sup> Floor, Dubash House, 15, J.N. Heredia Marg, Ballard Estate </street-address>
+                    <city>Mumbai</city>
+                    <zip>400 001</zip>
+                    <country>INDIA</country>
+                    <phone>+91-22-22617926 / 27</phone>
+                    <fax>+91-22-22617928</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="alliedpl@hathway.com">alliedpl@hathway.com</email>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.alliedpublishers.com">www.alliedpublishers.com</uri>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.apsaonline.net">www.apsaonline.net</uri>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>Balani Infotech Pvt Limited I</institute>
+                    <street-address>B-116, Sector 67, Noida, UP</street-address>
+                    <phone>+91-120-2484152</phone>
+                    <fax>+91-120-2484150</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="neha.shukla@balaniinfotech.com">neha.shukla@balaniinfotech.com</email>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.Balaniinfotech.com">www.Balaniinfotech.com</uri>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>Globe Publication Pvt. Ltd</institute>
+                    <street-address>B-13, LSC Block - A</street-address>
+                    <street-address>Naraina Vihar</street-address>
+                    <street-address>New Delhi</street-address>
+                    <zip>110028</zip>
+                    <country>India</country>
+                    <phone>+91-011-45055516</phone>
+                    <phone>+91-011-45055555 Extn: 516</phone>
+                    <fax>+91-011-25778876</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jkaur@globepub.com">jkaur@globepub.com</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>Global Information Systems Technology</institute>
+                    <street-address>877 Udyog Vihar, Phase V</street-address>
+                    <street-address>Gurgaon - 122 016 (Haryana)</street-address>
+                    <country>INDIA</country>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dpatwal@gist.in">dpatwal@gist.in</email>
+                    <phone>+91- (124) 4614000, +91 (124) 4614026</phone>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.gist.in">www.gist.in</uri>
+                </address>
+            </contact-entry>
+        </region>
+        
+        <region>
+            <region-name>JAPAN</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Kinokuniya co.Ltd</institute>
+                    <street-address>Journal Department</street-address>
+                    <street-address>Shin-Mizonokuchi Bldg. 2F</street-address>
+                    <street-address>5-7, Hisamoto 3-Chome</street-address>
+                    <street-address>Takatsu-ku, Kawasaki</street-address>
+                    <street-address>Kanagawa</street-address>
+                    <zip>213-8506</zip>
+                    <country>JAPAN</country>
+                    <phone>+81-44-874-9643</phone>
+                    <fax>+81-44-829-1026</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="journal@kinokuniya.co.jp">journal@kinokuniya.co.jp</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>Maruzen-Yushodo Company, Ltd.</institute>
+                    <street-address>1-9-18 Kaigan, Minato-ku,</street-address>
+                    <street-address>Tokyo 105-0022</street-address>
+                    <country>JAPAN</country>
+                    <phone>+81-3-6367-6114</phone>
+                    <fax>+81-3-6367-6160</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="journal@maruzen.co.jp">journal@maruzen.co.jp</email>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>USACO Corporation</institute>
+                    <street-address>2-17-12 Higashi-Azabu Minato-ku</street-address>
+                    <city>Tokyo</city>
+                    <zip>106-0044</zip>
+                    <country>JAPAN</country>
+                    <phone>+81-3-3505-3256</phone>
+                    <fax>+81-3-3505-6282</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="import@usaco.co.jp">import@usaco.co.jp</email>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.usaco.co.jp">www.usaco.co.jp</uri>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>KOREA</region-name>
+            <contact-entry>
+                <address>
+                    <institute>JOURNALPIA.CO.LTD.</institute>
+                    <street-address>CPO BOX 5907</street-address>
+                    <street-address>SEOUL, 04535</street-address>
+                    <street-address>SOUTH KOREA</street-address>
+                    <street-address>Mr. Tony Kim</street-address>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tony.kim@journalpia.com">tony.kim@journalpia.com</email>
+                </address>
+            </contact-entry>
+        </region>
+        
+        
+        <region>
+            <region-name>NORTH AMERICA</region-name>
+            <contact-entry>
+                <name>
+                    <surname>Myers</surname>
+                    <given-names>David</given-names>
+                    <prefix>Mr</prefix>
+                </name>
+                <address>
+                    <institute>DMedia Associates, Inc.</institute>
+                    <street-address>11700 Le Havre Dr.</street-address>
+                    <city>Potomac</city>
+                    <state>MD</state>
+                    <zip>20854</zip>
+                    <country>USA</country>
+                    <phone>+1-301-340-1987</phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dave@dmediaassoc.com">dave@dmediaassoc.com</email> or <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="info@benthamscience.net">info@benthamscience.net</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>SINGAPORE</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Infohost Pte Ltd</institute>
+                    <street-address>31 Kaki Bukit Road 3</street-address>
+                    <street-address>#06-07 Techlink</street-address>
+                    <zip>417818</zip>
+                    <country>SINGAPORE</country>
+                    <phone>65 6741 8422</phone>
+                    <fax>65 6741 8821 </fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aviya@igroupnet.com">aviya@igroupnet.com </email>
+                </address>
+            </contact-entry>
+            
+        </region>
+        <region>
+            <region-name>SOUTH AFRICA</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Worldwide Information Services</institute>
+                    <street-address>Private Bag X10072</street-address>
+                    <street-address>Randburg</street-address>
+                    <zip>2125</zip>
+                    <country>SOUTH AFRICA</country>
+                    <phone>+27 11 789-9947</phone>
+                    <fax>+27 11 789-9967</fax>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="andre.vantonder@wwis.co.za">andre.vantonder@wwis.co.za</email>
+                </address>
+            </contact-entry>
+        </region>
+        <region>
+            <region-name>TAIWAN</region-name>
+            <contact-entry>
+                <address>
+                    <institute>Ebsco Information Services</institute>
+                    <street-address>6F, No 550, Sec 4 ZhongXiao East Rd. Xinyi District</street-address>
+                    <street-address>Taipei </street-address>
+                    <zip>11071</zip>
+                    <country>TAIWAN</country>
+                    <phone>02-8786-0601 ext.502</phone>
+                </address>
+            </contact-entry>
+            <contact-entry>
+                <address>
+                    <institute>Flysheet Med-Informatics co., Ltd. Taipei, Taiwan</institute>
+                    <phone>+886-2-2658-2223 ext.111 </phone>
+                    <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="vivian@flysheet.com.tw">vivian@flysheet.com.tw </email>
+                    <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://medinfo.flysheet.com.tw">medinfo.flysheet.com.tw</uri>
+                </address>
+            </contact-entry>
+        </region>
+        
+    </contact-list>
+</contact>

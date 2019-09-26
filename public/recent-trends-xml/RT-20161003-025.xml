@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-025</article-id>
+            <title-group>
+                <article-title>Solid-phase extraction of ibuprofen from pharmaceuticals</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/135981/article">Solid-Phase Extraction of Ibuprofen from Pharmaceuticals via Ligand Exchange Using Zirconium Dioxide</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 14-NOV-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This research article by Dr. Michal Klivick&#x00FD; et al. has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-analytical-chemistry/#top">Current Analytical Chemistry</uri>, Volume 12, Issue 6, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-4.jpg"/>
+        </p>
+        <p>The content of active ingredients in pharmaceuticals is mostly assessed by reversed-phase HPLC. Nevertheless, the excipients in case of suppositories are usually not soluble in commonly used mobile phases solvents (methanol, acetonitrile). That is the reason why a labour intensive and tedious sample pre-treatment is necessary, in order to remove the matrix from the sample.</p>
+        <p>The presence of Lewis acid sites on the surface of metal oxides is responsible for strong interactions with Lewis bases due to ligand exchange. Although this phenomenon is not desirable in chromatography, these interactions might be employed in a sample pre-treatment based on solid phase extraction.</p>
+        <p>We newly tested this approach on ibuprofen, which is a favourable drug for the management of pain and fever. Due to the inability of infants to swallow tablets, ibuprofen is often administered in the form of suppositories and oral suspensions in paediatric clinics.</p>
+        <p>Using the zirconium dioxide as the extraction material, efficient trapping of ibuprofen from a hydrophobic suppository matrix was enabled. It demonstrated the pivotal role of interactions between the carboxylic moiety of ibuprofen and the Lewis acid sites on the zirconia surface. The excellent extraction of ibuprofen was also obtained from the hydrophilic environment, which was tested on an oral suspension. Titania as a second tested material was not capable of trapping ibuprofen from pharmaceuticals efficiently due to its weaker ligand exchange properties.</p>
+        <p>We have described the first successful utilization of the ligand exchange process on zirconia in the extraction of ibuprofen from hydrophobic as well as hydrophilic media using two different dosages forms. The procedure can be applied in cases where excipients or a drug are not soluble in commonly used HPLC solvents and/or if co-eluting peaks from matrix are an issue. The recoveries of ibuprofen were 95% and 94% from suppositories and the oral suspension, respectively.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-analytical-chemistry/article/135981/">http://benthamscience.com/journals/current-analytical-chemistry/article/135981/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Klivicky</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Klimes</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kucera</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Solid-Phase Extraction of Ibuprofen from Pharmaceuticals via Ligand Exchange Using Zirconium Dioxide.</article-title>
+                    <source>Curr. Anal. Chem.</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1573411012666151022194146</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

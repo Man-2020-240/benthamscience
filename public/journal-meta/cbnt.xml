@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-code>cbnt</journal-code>
+            <journal-eureka-code-one>CBNT</journal-eureka-code-one>
+            <nid nid-status="current">120841</nid>
+            <journal-title>Current Bionanotechnology (Discontinued)</journal-title>
+            <full-journal-title>Current Bionanotechnology(Discontinued)</full-journal-title>
+            <journal-seo-title>current-bionanotechnology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-5308</journal-issn>
+                <journal-issn issn-type="print">2213-5294</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Current Bionanotechnology</bold> is an international, peer-reviewed journal for bionanoscience and technology, which provides a link between nanotechnology and biological structures/materials for a range of engineered systems. The journal publishes short communications, original research articles, mini-reviews and special issues in all fields of biology, chemistry, physics, engineering, materials science and medicine dealing with biological materials at the nanoscale. The scope covers research which combines biological principles with physical and chemical procedures to generate nano-sized building blocks with specific functions and new properties. Also covered are the design and development of biologically-based procedures, the implementation of biological components and systems, the design of biocompatible objects and systems and the use of nanotechnology to support biotechnological processes. Emphasis is on bottom-up approaches for the design and development of novel nanomaterials.</p>
+                <p>
+                    <bold>Current Bionanotechnology</bold> covers basic research in biological nanosciences, including in silico work as well as applied research toward the development of new devices and technologies for applications in various industrial fields. Authors are reminded of the interdisciplinary nature of the readership which requires emphasizing the relevance of the topic to a broad audience.</p>
+            </journal-aims-scope>
+            <journal-current-volume>4</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2018</journal-current-year>
+            <journal-cover-image>cbnt-journal-cover.gif</journal-cover-image>
+            <!--<journal-insight>http://www.currentbionanotechnology.com/</journal-insight>-->
+            <journal-description>Current Bionanotechnology covers the design and development of biologically-based procedures, the implementation of biological components and systems, the design of biocompatible objects and systems and the use of nanotechnology to support biotechnological processes.</journal-description>
+            <keyword-group>
+                <keyword>Bionanotechnology</keyword>
+                <keyword>nanomaterials</keyword>
+                <keyword>bionanoscience</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/biotechnology?trk=biz-brand-tree-co-name</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cbnt@benthamscience.org">cbnt@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CBNT">bsp-cms.eurekaselect.com/index.php/CBNT</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+         <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

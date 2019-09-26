@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<free-online-subscription>
+    <journal-list>
+        <journal-entry>acamc.xml</journal-entry>
+        <journal-entry>acctra.xml</journal-entry>
+        <journal-entry>chamc.xml</journal-entry>
+        <journal-entry>cnsamc.xml</journal-entry>
+        <!-- <journal-entry>caiaad.xml</journal-entry>-->
+        <!-- <journal-entry>ccd.xml</journal-entry>-->
+        <!--<journal-entry>cnsd.xml</journal-entry>-->
+        <journal-entry>ciemd.xml</journal-entry>
+        <!--<journal-entry>cag.xml</journal-entry>-->
+        <journal-entry>cnsnddt.xml</journal-entry>
+        <journal-entry>cchts.xml</journal-entry>
+        <journal-entry>cac.xml</journal-entry>
+        <journal-entry>cbe.xml</journal-entry>
+        <journal-entry>cbio.xml</journal-entry>
+        <journal-entry>cctr.xml</journal-entry>
+        <journal-entry>cchg.xml</journal-entry>
+        <journal-entry>ccadd.xml</journal-entry>
+        <journal-entry>cdd.xml</journal-entry>
+        <journal-entry>cdm.xml</journal-entry>
+        <journal-entry>cdth.xml</journal-entry>
+        <journal-entry>cee.xml</journal-entry>
+        <journal-entry>cg.xml</journal-entry>
+        <journal-entry>cgc.xml</journal-entry>
+        <journal-entry>chivr.xml</journal-entry>
+        <journal-entry>chr.xml</journal-entry>
+        <journal-entry>cir.xml</journal-entry>
+        <journal-entry>cic.xml</journal-entry>
+        <journal-entry>cmir.xml</journal-entry>
+        <journal-entry>cmb.xml</journal-entry>
+        <journal-entry>cmic.xml</journal-entry>
+        <journal-entry>cmm.xml</journal-entry>
+        <!--<journal-entry>cmi.xml</journal-entry>-->
+        <journal-entry>cmp.xml</journal-entry>
+        <journal-entry>cnano.xml</journal-entry>
+        <journal-entry>cnr.xml</journal-entry>
+        <journal-entry>coc.xml</journal-entry>
+        <journal-entry>cos.xml</journal-entry>
+        <journal-entry>cocat.xml</journal-entry>
+        <journal-entry>cpa.xml</journal-entry>
+        <journal-entry>cpb.xml</journal-entry>
+        <journal-entry>cpd.xml</journal-entry>
+        <journal-entry>cpps.xml</journal-entry>
+        <journal-entry>cp.xml</journal-entry>
+        <journal-entry>crp.xml</journal-entry>
+        <journal-entry>crmr.xml</journal-entry>
+        <journal-entry>crr.xml</journal-entry>
+        <journal-entry>cstt.xml</journal-entry>
+        <journal-entry>cte.xml</journal-entry>
+        <journal-entry>ctmc.xml</journal-entry>
+        <journal-entry>cvp.xml</journal-entry>
+        <journal-entry>dml.xml</journal-entry>
+        <journal-entry>emiddt.xml</journal-entry>
+        <journal-entry>iemamc.xml</journal-entry>
+        <journal-entry>iddt.xml</journal-entry>
+        <!-- <journal-entry>iadt.xml</journal-entry>-->
+        <journal-entry>icms.xml</journal-entry>
+        <journal-entry>iswcc.xml</journal-entry>
+        <journal-entry>lddd.xml</journal-entry>
+        <journal-entry>loc.xml</journal-entry>
+        <journal-entry>mc.xml</journal-entry>
+        <journal-entry>mirna.xml</journal-entry>
+        <journal-entry>mroc.xml</journal-entry>
+        <journal-entry>nna.xml</journal-entry>
+        <journal-entry>nbe.xml</journal-entry>
+        <journal-entry>pnt.xml</journal-entry>
+        <journal-entry>ppl.xml</journal-entry>
+        <!-- <journal-entry>radnag.xml</journal-entry>-->
+        <journal-entry>raeeng.xml</journal-entry>
+        <!-- <journal-entry>rpcdd.xml</journal-entry>-->
+        <journal-entry>rpcseng.xml</journal-entry>
+        <!-- <journal-entry>rpsp.xml</journal-entry>-->
+        <!--  <journal-entry>rpst.xml</journal-entry>-->
+        <journal-entry>rpnanotec.xml</journal-entry>
+        <journal-entry>tte.xml</journal-entry>
+    </journal-list>
+</free-online-subscription>

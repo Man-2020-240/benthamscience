@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170828-003</article-id>
+            <title-group>
+                <article-title>Grid-based continual analysis of molecular interior for drug discovery, QSAR and QSPR</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/149863/article">Grid-based Continual Analysis of Molecular Interior for Drug Discovery, QSAR and QSPR</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 28-AUG-2017</aff>
+            <abstract>
+                <p>This article by Dr. Andrey V. Potemkin et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/cddt/#top">Current Drug Discovery Technologies</uri>, Volume 14, Issue 3, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>A series of grid-based computational technologies for in silico virtual screening and molecular design of new drugs is proposed. The technologies are based on original CoMIn (Continual Molecular Interior analysis) software. The grid-based analysis is done by means of a lattice construction analogously to many other grid-based methods. Further continual elucidation of molecular structure is performed in various ways: (i) in the terms of intermolecular interactions potentials. This can be represented as a superposition of Coulomb, Van der Waals interactions and hydrogen bonds. All the potentials are well known continual functions and their values can be determined in all lattice points for a molecule. (ii) In the terms of quantum functions such as electron density distribution, Laplacian and Hamiltonian of electron density distribution, potential energy distribution, the highest occupied and the lowest unoccupied molecular orbitals distribution and their superposition. To reduce the time of calculations using quantum methods based on the first principles, an original quantum free-orbital approach AlteQ is proposed. All the functions can be calculated using a quantum approach at a sufficient level of theory and their values can be determined in all lattice points for a molecule. Then, the molecules of a dataset can be superimposed in the lattice for the maximal coincidence (or minimal deviations) of the potentials (i) or the quantum functions (ii). The methods and criteria of the superimposition are discussed. After that a functional relationship between biological activity or property and characteristics of potentials (i) or functions (ii) is created. The methods of the quantitative relationship construction are discussed. New approaches for rational virtual drug design based on intermolecular potentials and quantum functions are invented. All the invented methods are explained on the <ext-link ext-link-type="uri" xlink:href="http://www.chemosophia.com">http://www.chemosophia.com</ext-link> website.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/149863">http://www.eurekaselect.com/149863</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Potemkin</surname>
+                            <given-names>V.K.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Grid-based Continual Analysis of Molecular Interior for Drug Discovery, QSAR and QSPR.</article-title>
+                    <source>Curr. Drug Discov. Technol.</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1570163814666170207144018</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

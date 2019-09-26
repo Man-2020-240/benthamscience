@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">1</journal-id>
+            <journal-code>acamc</journal-code>
+            <journal-eureka-code-one>ACAMC</journal-eureka-code-one>
+            <journal-eureka-code-two>CMCACA</journal-eureka-code-two>
+            <nid nid-status="current">578</nid>
+            <nid-one nid-status="old">662</nid-one>
+            <journal-title>Anti-Cancer Agents in Medicinal Chemistry</journal-title>
+            <journal-former-title>Current Medicinal Chemistry - Anti-Cancer Agents</journal-former-title>
+            <full-journal-title>Anti-Cancer Agents in Medicinal Chemistry</full-journal-title>
+            <journal-seo-title>anti-cancer-agents-in-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-5992</journal-issn>
+                <journal-issn issn-type="print">1871-5206</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Anti-Cancer Agents in Medicinal Chemistry</italic>
+                    </bold> aims to cover all the latest and outstanding developments in medicinal chemistry and rational drug design for the discovery of anti-cancer agents. </p>
+                <p>Each issue contains a series of timely in-depth/mini reviews and guest edited issues written by leaders in the field covering a range of current topics in cancer medicinal chemistry. The journal only considers high quality research papers for publication.</p>
+                <p>
+                    <bold>
+                        <italic>Anti-Cancer Agents in Medicinal Chemistry</italic>
+                    </bold> is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in cancer drug discovery.</p>
+            </journal-aims-scope>
+            <journal-current-volume>19</journal-current-volume>
+            <journal-current-issues>18</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>acamc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.anticanceragentsinmedicinalchemistry.com/</journal-insight>
+<journal-history>Current Medicinal Chemistry - Anti-Cancer Agents was launched in 2001 and later renamed in 2006 as  Anti-Cancer Agents in Medicinal Chemistry.</journal-history>
+            <journal-description>Anti-Cancer Agents in Medicinal Chemistry is an essential journal for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important developments in cancer drug discovery</journal-description>
+            <impact-factor>2.18</impact-factor>
+            <five-year-impact-factor>2.418</five-year-impact-factor>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Anti-Cancer-Agents-in-Medicinal-Chemistry/338703509625342?ref=hl</social-media-link>
+            </social-media-link-list>
+            <category-ranking-list>
+             <category-ranking>
+                    <category-name>Chemistry, Medicinal</category-name>
+                    <rank>39</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>61</total-journals>
+                 </category-ranking>
+                <category-ranking>
+                    <category-name>Oncology</category-name>
+                    <rank>172</rank>
+                    <rank-suffix>nd</rank-suffix>
+                    <total-journals>229</total-journals>
+                 </category-ranking>
+            </category-ranking-list>
+            <journal-flyer>acamc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="acamc@benthamscience.net">acamc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMCACA">bsp-cms.eurekaselect.com/index.php/CMCACA</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index-Expanded (SciSearch®)</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

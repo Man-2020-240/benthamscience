@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">79</journal-id>
+            <journal-code>rpiad</journal-code>
+            <journal-eureka-code-one>IAD</journal-eureka-code-one>
+            <nid nid-status="current">656</nid>
+            <journal-title>Recent Patents on Inflammation &#x0026; Allergy Drug Discovery</journal-title>
+            <full-journal-title>Recent Patents on Inflammation and Allergy Drug Discovery</full-journal-title>
+            <journal-seo-title>recent-patents-on-inflammation-and-allergy-drug-discovery</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-2710</journal-issn>
+                <journal-issn issn-type="print">1872-213X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Inflammation &#x0026; Allergy Drug Discovery</italic>
+                    </bold> publishes full-length/mini reviews and research articles that reflect or deal with studies in relation to a patent, application of reported patents in a study, discussion of comparison of results regarding application of a given patent, etc., and also guest edited thematic issues on recent patents in the field of inflammation and allergy drug discovery e.g. on novel bioactive compounds, analogs and targets. A selection of important and recent patents in the field is also included in the journal. The journal is essential reading for all researchers involved in inflammation and allergy drug design and discovery. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &#x0026; therapeutic agents related to inflammation and allergy drug discovery.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>11400153335</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>13</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>rpiad-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.recentpatentsoninflammationallergydrugdiscovery.com/index.php/</journal-insight>
+            <journal-description> The journal is essential reading for all researchers involved in endocrine, metabolic and immune drug design and discovery. The journal also covers recent research (where patents have been registered) in fast emerging therapeutic areas/targets &#x0026; therapeutic agents related to endocrine, metabolic and immune drug discovery.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Inflammation &#x0026; Allergy Drug Discovery </keyword>
+                <keyword>compounds, analogs and targets.</keyword>
+                <keyword>areas/targets &#x0026; therapeutic agents</keyword>
+                <keyword>Allergy</keyword>
+                <keyword>antihistamines</keyword>
+                <keyword>Hypersensitivity</keyword>
+                <keyword>Allergen</keyword>
+                <keyword>Innate immunity</keyword>
+                <keyword>Neutrophil</keyword>
+                <keyword>Bradykinin</keyword>
+                <keyword>Inflammation</keyword>
+                <keyword>Interleukin</keyword>
+                <keyword>Eczema</keyword>
+                <keyword>Dermatitis</keyword>
+                <keyword>decongestants</keyword>
+                <keyword>Immunotherapy</keyword>
+                <keyword>hypersensitivity disorder</keyword>
+                <keyword>Conjunctivitis</keyword>
+                <keyword>Allergies</keyword>
+                <keyword>Itching</keyword>
+                <keyword>Asthma</keyword>
+                <keyword>Allergic rhinitis</keyword>
+                <keyword>Allergic</keyword>
+                <keyword>Anaphylaxis</keyword>
+                <keyword>Drug allergy</keyword>
+                <keyword>Hives</keyword>
+                <keyword>Hay Fever</keyword>
+                <keyword>Angioedema</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamScienceRecentPatentJournals</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpiad-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="iad@benthamscience.net">iad@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/IAD">bsp-cms.eurekaselect.com/index.php/IAD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Cambridge Scientific Abstracts (CSA)/ProQuest</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>METADEX</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

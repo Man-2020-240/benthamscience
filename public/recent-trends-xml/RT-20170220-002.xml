@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170220-002</article-id>
+            <title-group>
+                <article-title>Non-ambient conditions in the investigation and manufacturing of drug forms</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144519">Non-ambient Conditions in the Investigation and Manufacturing of Drug Forms</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 17-JAN-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Elena V Boldyreva is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/#top">Current Pharmaceutical Design</uri>, Volume 22, Issue 32, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>To become a drug, a pharmacologically active compound must be prepared in a specific form. This form must be robust during manufacturing, packaging, storage and transport, and must administer the correct dose to the patient. To successfully prepare a drug form, one often needs to produce solid samples with controlled crystal structure and a specific particle size and shape. To further complicate matters, these compounds, these drug particles must often end up as a part of a multi-component composite. The present review summarizes how extreme pressure and temperature conditions help achieve this highly tuned material.</p>
+        <p>In modern culture, it is very rare to find an individual who has never taken any form of medication. It must follow that the pharmaceutical industry is required to produce an enormous quantity of drug products, which can take a variety of different forms: solutions for injections, inhalation powders, sprays, tablets, ointments, patches, amongst others. In many cases, although adopting different administration routes, different trade names are used to market the very same active pharmaceutical ingredient (API). This begs the question: if these products are the same API, is there any difference in which form is taken?</p>
+        <p>Quite simply put, yes.</p>
+        <p>Drug molecules move around the body and, by necessity, act at the molecular level. However, many of these compounds are manufactured as solids, which must either be dissolved prior to injection, or are expected to dissolve on digestion in biological fluids. In either case, dissolution is required to release individual molecules into the body.</p>
+        <p>Solid pharmaceuticals containing the same API (either pure or with additives) can have different crystal structures (polymorphism) or be amorphous. Additionally, solid particles can differ in size, shape, meso-structure, and surface charge. Within the bulk material, the spatial distribution of an API and the additives can vary. Control of these, and many other, characteristics is within the scope of materials sciences and solid-state chemistry. The chemical and material properties of their physical form therefore needs to be identified and optimized for in vivo performance, reliable manufacture and the protection of intellectual property.</p>
+        <p>Drugs are materials, not simply molecules [1-12], By viewing drugs in this way, one can apply the knowledge of solid-state chemistry, materials science and non-ambient conditions to obtain solid forms with optimized properties. These conditions include, among others, different types of mechanical and ultrasonic treatment, hydrostatic compression, high-temperature or cryogenic spray-drying, and crystallization from supercritical solvents. Solid-state reactions (e.g. dehydration or clathrate decomposition) can be efficient in accessing metastable polymorphs or in uniformly micronizing the sample. To achieve control over drug forms and the processes used for their robust manufacturing, one needs to account for both the thermodynamic and kinetic aspects of their transformations.</p>
+        <p>The review contains over 400 references and provides a comprehensive guide through the vast ocean of publications in this field. This work is based on the personal experience of the author over several decades of active research.</p>
+        <p>For more information visit: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-pharmaceutical-design/volume/22/issue/32/page/4981/">http://benthamscience.com/journals/current-pharmaceutical-design/volume/22/issue/32/page/4981/</uri></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="r1">
+                <nlm-citation citation-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Boldyreva</surname>
+                            <given-names>Elena V.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Institute of Solid State Chemistry and Mechanochemistry, Siberian Branch of Russian Academy of Sciences, ul. Kutateladze, 18, Novosibirsk 630128 Russia.</article-title>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

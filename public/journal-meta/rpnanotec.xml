@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">76</journal-id>
+            <journal-code>rpnanotec</journal-code>
+            <journal-eureka-code-one>NANOTEC</journal-eureka-code-one>
+            <nid nid-status="current">653</nid>
+            <journal-title>Recent Patents on Nanotechnology</journal-title>
+            <full-journal-title>Recent Patents on Nanotechnology</full-journal-title>
+            <journal-seo-title>recent-patents-on-nanotechnology</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-4020</journal-issn>
+                <journal-issn issn-type="print">1872-2105</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Recent Patents on Nanotechnology</italic>
+                    </bold> publishes full-length/mini reviews and research articles that reflect or deal with studies in relation to a patent, application of reported patents in a study, discussion of comparison of results regarding application of a given patent, etc., and also guest edited thematic issues on recent patents in the field of nanotechnology. A selection of important and recent patents on nanotechnology is also included in the journal. The journal is essential reading for all researchers involved in nanotechnology.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>11500153308</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>13</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>rpnanotec-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.recentpatentsonnanotechnology.com/index.php/</journal-insight>
+<journal-history>Recent Patents on Nanotechnology was launched in 2007. Dr. Eduardo Ruiz-Hitzky  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Recent Patents on Nanotechnology is essential reading for all researchers involved in nanotechnology.</journal-description>
+            <keyword-group>
+                <keyword>Nanotechnology</keyword>
+                <keyword>thematic issues</keyword>
+                <keyword>essential reading</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <impact-factor>1.75</impact-factor>
+            <five-year-impact-factor>2.115</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Materials Science, Multidisciplinary</category-name>
+                    <rank>190</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>293</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Nanoscience &#x0026; Nanotechnology</category-name>
+                    <rank>71</rank>
+                    <rank-suffix>st</rank-suffix>
+                    <total-journals>94</total-journals>
+                    <quartile>Q4</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Physics, Applied</category-name>
+                    <rank>82</rank>
+                    <rank-suffix>nd</rank-suffix>
+                    <total-journals>148</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>rpnanotec-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nanotec@benthamscience.net">nanotec@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/NANOTEC">bsp-cms.eurekaselect.com/index.php/NANOTEC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index-Expanded SciSearch&#x00AE;</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Materials Science Citation Index&#x00AE;</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>MEDLINE/PubMed</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>EI/Compendex</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <menu-list menu-list-type="main">
+        <menu-item>
+            <menu-id>MM1</menu-id>
+            <menu-title>Home</menu-title>
+            <menu-link>https://benthamscience.com/index.php</menu-link>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM2</menu-id>
+            <menu-title>Journals &amp; eBooks</menu-title>
+            <menu-pop-down>yes</menu-pop-down>
+            <sub-menu-item>
+                <menu-id>MM2SME2</menu-id>
+                <menu-title>Browse Journals by Subject</menu-title>
+                <menu-link>https://benthamscience.com/browse-by-subject/business-and-economics-and-finance-and-accounting/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME1</menu-id>
+                <menu-title>Browse Journals by Title</menu-title>
+                <menu-link>https://benthamscience.com/journals-by-title/A/1/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME3</menu-id>
+                <menu-title>Browse Patent Journals</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/browse-patent-journals/1/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME11</menu-id>
+                <menu-title>Free Online Samples</menu-title>
+                <menu-link>https://benthamscience.com/journal/free-online-samples.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM1SME11</menu-id>
+                <menu-title>Journals Impacting Science</menu-title>
+                <menu-link>https://benthamscience.com/journal/journals-impacting-science.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME5</menu-id>
+                <menu-title>New Titles 2020</menu-title>
+                <menu-link>https://benthamscience.com/new-journals/2020/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME4</menu-id>
+                <menu-title>Price and Ordering Information</menu-title>
+                <menu-link>https://benthamscience.com/journal/price-order.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME8</menu-id>
+                <menu-title>Subscription Rates 2019</menu-title>
+                <menu-link>https://benthamscience.com/journal-subscriptions/2019/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME9</menu-id>
+                <menu-title>Subscription Rates 2018</menu-title>
+                <menu-link>https://benthamscience.com/journal-subscriptions/2018/</menu-link>
+                <menu-divider/>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME1</menu-id>
+                <menu-title>eBooks Website</menu-title>
+                <menu-link>http://ebooks.benthamscience.com/</menu-link>
+                
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME3</menu-id>
+                <menu-title>Browse eBooks by Subject</menu-title>
+                <menu-link>http://ebooks.benthamscience.com/browse-by-subject/business-and-economics-and-finance-and-accounting/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME2</menu-id>
+                <menu-title>Browse eBooks by Title</menu-title>
+                <menu-link>http://ebooks.benthamscience.com/bookshelf-by-title/A/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SME4</menu-id>
+                <menu-title>Browse Video Books</menu-title>
+                <menu-link>https://ebooks.benthamscience.com/bookshelf/video-books.php</menu-link>
+                <menu-divider/>
+            </sub-menu-item>
+            
+            <sub-menu-item>
+                <menu-id>MM2SM4</menu-id>
+                <menu-title>Journals and eBooks Catalog</menu-title>
+                <menu-link>https://benthamscience.com/catalogs-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SM6</menu-id>
+                <menu-title>Free Online Trials</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/bsptrials.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM2SM5</menu-id>
+                <menu-title>Endorsements</menu-title>
+                <menu-link>https://benthamscience.com/endorsements-main.php</menu-link>
+            </sub-menu-item>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM8</menu-id>
+            <menu-title>Articles by Disease</menu-title>
+            <menu-link>http://www.eurekaselect.com/alldiseases</menu-link>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM3</menu-id>
+            <menu-title>Bentham Online</menu-title>
+            <sub-menu-item>
+                <menu-id>MM3SM6</menu-id>
+                <menu-title>Accessibility Of Content</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/bsp-content.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM3SM5</menu-id>
+                <menu-title>Bentham Insight</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://benthamsciencepublishers.wordpress.com/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM3SM2</menu-id>
+                <menu-title>Purchase Articles</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://eurekaselect.com/bypublication</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM3SM3</menu-id>
+                <menu-title>Search Articles</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://eurekaselect.com/search/apachesolr_search</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM3SM5</menu-id>
+                <menu-title>Social Media</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/social-media-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM3SM1</menu-id>
+                <menu-title>Submit Manuscripts</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://jms.eurekaselect.com/</menu-link>
+            </sub-menu-item>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM4</menu-id>
+            <menu-title>Marketing Opportunities</menu-title>
+            <sub-menu-item>
+                <menu-id>MM4SME1</menu-id>
+                <menu-title>Advertise With Us</menu-title>
+                <menu-link>https://benthamscience.com/advertise-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SME2</menu-id>
+                <menu-title>Journals and eBooks Catalog</menu-title>
+                <menu-link>https://benthamscience.com/catalogs-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SME3</menu-id>
+                <menu-title>Media-Pack-2019</menu-title>
+                <menu-link>http://benthamscience.com/journal-files/Media-Pack-2019.pdf</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM1</menu-id>
+                <menu-title>Author's Benefits Guide</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/journal-files/AUTHORS-BENEFITS-GUIDE-BSP.pdf</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM1</menu-id>
+                <menu-title>Events by Region</menu-title>
+                <menu-link>https://benthamscience.com/partnering-events/region/north-america/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM1</menu-id>
+                <menu-title>Events by Subject Areas</menu-title>
+                <menu-link>https://benthamscience.com/partnering-events/subject/business-and-economics-and-finance-and-accounting/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SME5</menu-id>
+                <menu-title>Exhibit Schedule</menu-title>
+                <menu-link>https://benthamscience.com/exhibit-schedule.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM3</menu-id>
+                <menu-title>Healthcare Industry Resources</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/corporate-sales.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM3</menu-id>
+                <menu-title>Kudos</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/kudos.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SME6</menu-id>
+                <menu-title>Media Partners</menu-title>
+                <menu-link>https://benthamscience.com/media-partners-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM1</menu-id>
+                <menu-title>Partnering Events</menu-title>
+                <menu-link>https://benthamscience.com/partnering-events/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SME7</menu-id>
+                <menu-title>Promotional Services</menu-title>
+                <menu-link>https://benthamscience.com/promotional-services.php</menu-link>
+            </sub-menu-item>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM5</menu-id>
+            <menu-title>For Librarians</menu-title>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>FAQs for e-prints/reprints</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/faqs-reprints.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Journal Catalog 2019</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/catalog/catalog-files/JournalCatalog2019.pdf</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM1</menu-id>
+                <menu-title>Library Recommendations</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://www.eurekaselect.com/library-recommendation</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM1</menu-id>
+                <menu-title>Order Bulk ePrints</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://www.eurekaselect.com/direct-order-eprint</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM5</menu-id>
+                <menu-title>Order Bulk Reprints</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://www.eurekaselect.com/direct-order-reprint</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Table of Contents Alert</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://benthamalerts.com/</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Trial Requests</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/bsptrials.php</menu-link>
+            </sub-menu-item>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM6</menu-id>
+            <menu-title>For Authors &#38; Editors</menu-title>
+            <sub-menu-item>
+                <menu-id>MM6SM5</menu-id>
+                <menu-title>Author Benefits</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/author-benefits.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM5</menu-id>
+                <menu-title>Author Reprints</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/author-reprints.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Copyediting Services</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/language-editing.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM4SM1</menu-id>
+                <menu-title>Author's Benefits Guide</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/journal-files/AUTHORS-BENEFITS-GUIDE-BSP.pdf</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM1</menu-id>
+                <menu-title>Editorial Policies</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/editorial-policies-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>General FAQs</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/faqs-general.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Guidelines for Guest Editors</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/guest-editors-guidelines.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM2</menu-id>
+                <menu-title>Journal Catalog 2019</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/catalog/catalog-files/JournalCatalog2019.pdf</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM3</menu-id>
+                <menu-title>Manuscript Transfer Facility</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/manuscript-transfer-facility.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM5SM3</menu-id>
+                <menu-title>Online Manuscript Submission</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/instructions.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM1</menu-id>
+                <menu-title>Publication Cycle - Process Flowchart</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/process-flowchart-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM2</menu-id>
+                <menu-title>Publishing Ethics</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/publishing-ethics-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM4</menu-id>
+                <!--<menu-title>Reviewer Guidelines</menu-title>-->
+                <menu-title>Peer Review</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/peer-review.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM3</menu-id>
+                <menu-title>Self-Archiving Policies</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/self-archiving-policies-main.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM6SM2</menu-id>
+                <menu-title>Table of Contents Alert</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>http://benthamalerts.com/</menu-link>
+            </sub-menu-item>
+        </menu-item>
+        <menu-item>
+            <menu-id>MM7</menu-id>
+            <menu-title>Contact Us</menu-title>
+            <menu-link>https://benthamscience.com/contacts.php</menu-link>
+            <!--<sub-menu-item>
+                <menu-id>MM7SM1</menu-id>
+                <menu-title>About Us</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/about-us.php</menu-link>
+            </sub-menu-item>
+            <sub-menu-item>
+                <menu-id>MM7SM2</menu-id>
+                <menu-title>Contact</menu-title>
+                <menu-pop-down>yes</menu-pop-down>
+                <menu-link>https://benthamscience.com/contacts.php</menu-link>
+            </sub-menu-item>-->
+        </menu-item>
+    </menu-list>
+</menu>

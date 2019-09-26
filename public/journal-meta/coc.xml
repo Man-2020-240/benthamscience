@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="no">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">19</journal-id>
+            <journal-code>coc</journal-code>
+            <journal-eureka-code-one>COC</journal-eureka-code-one>
+            <nid nid-status="current">596</nid>
+            <journal-title>Current Organic Chemistry</journal-title>
+            <full-journal-title>Current Organic Chemistry</full-journal-title>
+            <journal-seo-title>current-organic-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-5348</journal-issn>
+                <journal-issn issn-type="print">1385-2728</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Organic Chemistry</italic>
+                    </bold> aims to provide in-depth/mini reviews on the current progress in various fields related to organic chemistry including bioorganic chemistry, organo-metallic chemistry, asymmetric synthesis, heterocyclic chemistry, natural product chemistry, catalytic and green chemistry, suitable aspects of medicinal chemistry and polymer chemistry, as well as analytical methods in organic chemistry. The frontier reviews provide the current state of knowledge in these fields and are written by chosen experts who are internationally known for their eminent research contributions. The Journal also accepts high quality research papers focusing on <italic>hot topics</italic>, highlights and letters besides thematic issues in these fields. Current Organic Chemistry should prove to be of great interest to organic chemists in academia and industry, who wish to keep abreast with recent developments in key fields of organic chemistry.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>25836</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>23</journal-current-volume>
+            <journal-current-issues>28</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>coc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentorganicchemistry.com/index.php</journal-insight>
+<journal-history>Current Organic Chemistry was launched in 2007. Dr. György Keglevich  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Organic Chemistry should prove to be of great interest to organic chemists in academia and industry who wish to keep abreast with recent developments in key fields of organic chemistry.</journal-description>
+            <keyword-group>
+                <keyword>Organic Chemistry</keyword>
+                <keyword>Current Organic Chemistry</keyword>
+                <keyword>heterocyclic chemistry</keyword>
+                <keyword>bioorganic chemistry</keyword>
+                <keyword>Organic Synthesis</keyword>
+                <keyword>Alkane</keyword>
+                <keyword>Alkene</keyword>
+                <keyword>Alkyne</keyword>
+                <keyword>hydrocarbon</keyword>
+                <keyword>aldehyde</keyword>
+                <keyword>ketones</keyword>
+                <keyword>alcohol</keyword>
+                <keyword>ester</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012?fref=ts</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <impact-factor>2.029</impact-factor>
+            <five-year-impact-factor>1.913</five-year-impact-factor>
+            <category-ranking-list>
+            <category-ranking>
+                    <category-name>Chemistry, Organic</category-name>
+                    <rank>31</rank>
+                    <rank-suffix>st</rank-suffix>
+                    <total-journals>57</total-journals>
+                    <quartile>Q1</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>coc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="coc@benthamscience.net">coc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/COC">bsp-cms.eurekaselect.com/index.php/COC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index</agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Science Citation Index Expanded</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>SciSearch</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Current Contents®(Physical, Chemical and Earth Sciences)</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Research Alert</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Chemistry Citation Index®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Engineering Village/Chimica</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Cabell's Directory</agency-name>
+                <agency-logo>cabells.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

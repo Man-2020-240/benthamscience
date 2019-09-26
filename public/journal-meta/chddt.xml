@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">22</journal-id>
+            <journal-code>chddt</journal-code>
+            <journal-eureka-code-one>CHDDT</journal-eureka-code-one>
+            <journal-eureka-code-two>CDTCHD</journal-eureka-code-two>
+            <nid nid-status="current">599</nid>
+            <nid-one nid-status="old">660</nid-one>
+            <journal-title>Cardiovascular &#x0026; Hematological Disorders-Drug Targets</journal-title>
+            <journal-former-title>Current Drug Targets - Cardiovascular &#x0026; Hematological Disorders</journal-former-title>
+            <full-journal-title>Cardiovascular and Hematological Disorders-Drug Targets</full-journal-title>
+            <journal-seo-title>cardiovascular-and-hematological-disorders-drug-targets</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2212-4063</journal-issn>
+                <journal-issn issn-type="print">1871-529X</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Cardiovascular &#x0026; Hematological Disorders-Drug Targets</italic>
+                    </bold> aims to cover all the latest and outstanding developments on the medicinal chemistry, pharmacology, molecular biology, genomics and biochemistry of contemporary molecular targets involved in cardiovascular and hematological disorders e.g. disease specific proteins, receptors, enzymes, genes. Each issue of the journal contains a series of in-depth/mini reviews, original research articles, drug clinical trial studies and guest edited thematic issues written by leaders in the field covering a range of current topics on drug targets involved in cardiovascular and hematological disorders. As the discovery, identification, characterization and validation of novel human drug targets for cardiovascular and hematological drug discovery continues to grow; this journal is essential reading for all pharmaceutical scientists involved in drug discovery and development.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>4600151526</scimago-jr-id>
+            </scimago>
+            <new-ebook>
+                <ebook-list new-ebook-list-type="ebooks">
+                    <ebook-item>
+                        <ebook-id>9781608058587</ebook-id>
+                        <ebook-title>"Frontiers in Clinical Drug Research: Hematology"</ebook-title>
+                        <ebook-link>http://www.benthamscience.com/ebooks/9781608058587/index.htm</ebook-link>
+                        <ebook-cover>9781608058587.gif</ebook-cover>
+                        <ebook-content-link>http://ebooks.benthamscience.com/book/9781608058587/</ebook-content-link>
+                        <ebook-purchase-link>http://www.eurekaselect.com/purchase-ebook/122851</ebook-purchase-link>
+                    </ebook-item>
+                </ebook-list>
+            </new-ebook>
+            <journal-current-volume>19</journal-current-volume>
+            <journal-current-issues>3</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>chddt-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.cardiovascularhematologicaldisordersdrugtargets.com/</journal-insight>
+<journal-history>Cardiovascular and Hematological Disorders-drug Targets was launched in 2001. Dr. Garry X. Shen  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Cardiovascular &#x0026; Hematological Disorders-Drug Targets aims to cover all the latest and outstanding developments on the medicinal chemistry, pharmacology, molecular biology, genomics and biochemistry of contemporary molecular targets involved in cardiovascular and hematological disorders e.g. disease specific proteins, receptors, enzymes, genes.</journal-description>
+            <journal-flyer>chddt-flyer.pdf</journal-flyer>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Cardiology-Journals/347226935416914?ref=hl</social-media-link>
+                <social-media-link social-media-link-type="linkedin">https://www.linkedin.com/company/cardiology-and-cardiovascular-science?trk=biz-brand-tree-co-name</social-media-link>
+            </social-media-link-list>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdtchd@benthamscience.net">cdtchd@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDTCHD">bsp-cms.eurekaselect.com/index.php/CDTCHD</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>Cambridge Scientific Abstracts (CSA)/ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>BIOBASE</agency-name>
+                <agency-logo>Biobase.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

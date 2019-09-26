@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170110-005</article-id>
+            <title-group>
+                <article-title>New hopes in cancer battle -- a review of new molecules and treatment strategies</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/medicinal-chemistry/article/141662/">New Hopes in Cancer Battle - A Review of New Molecules and Treatment Strategies</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 14-DEC-2016</aff>
+            <abstract>
+                <p>This research article by Dr. Marika Turek et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/medicinal-chemistry/#top">Medicinal Chemistry</uri>, Volume 12, Issue 8, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+    <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20170110-005.jpg"/>
+        </p>
+        <p>Cancer treatment is still one of the most intractable challenge for medicine. There are several approaches to fight cancer, which include: surgery, radiation therapy, chemotherapy, immunotherapy, targeted therapy and hormone therapy. From all these treatment methods, chemotherapy seems to be the most widely used. Therefore, it is understandable that scientists are trying to discover new molecules which may be applied as effective chemotherapeutics.</p>
+        <p>The researchers from Jan D?ugosz University in Cz?stochowa and Centre of Molecular and Macromolecular Studies, Polish Academy of Sciences reviewed the most significant achievements in the area of cancer treatment, published in 2014/2015. This review describes newly discovered anticancer molecules interacting with DNA or affecting cancer cell cycles. New cancer treatment strategies, which increase efficiency of chemotherapy or radiotherapy and new chemotherapeutic delivery systems have also been mentioned in the review. Multiplicity of the described compounds proves that cancer battle is still in progress. We constantly learn something new about cancer cells and hopefully we are getting closer to find effective cancer treatment. We know that molecules can interact with cancer DNA by inhibiting its synthesis, transcription or duplication.</p>
+        <p>Chemotherapeutics are also able to affect tumor cell cycle by suppressing itsproliferation and angiogenesis, and also promoting its apoptosis.</p>
+        <p>However, developing effective cancer treatment is, still, a demanding task because the number of cancer cell-types known to researchers constantly increases. In spite of all these odds, we hope that along with the development of science, people will win the race with still incurable cancers.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/medicinal-chemistry/article/141662/">http://benthamscience.com/journals/medicinal-chemistry/article/141662/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Turek</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Krzyczmonik</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Balczewski</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>New Hopes in Cancer Battle - A Review of New Molecules and Treatment Strategies.</article-title>
+                    <source>Med. Chem.</source>
+                    <year>2016</year>
+                    <volume>12</volume>
+                    <issue>8</issue>
+                    <fpage>700</fpage>
+                    <lpage>719</lpage>
+                    <pub-id pub-id-type="doi">10.2174/1573406412666160502153700</pub-id>
+                    <pub-id pub-id-type="pmid">27140184</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

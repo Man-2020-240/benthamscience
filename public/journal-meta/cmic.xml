@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">144</journal-id>
+            <journal-code>cmic</journal-code>
+            <journal-eureka-code-one>CMIC</journal-eureka-code-one>
+            <nid nid-status="current">114480</nid>
+            <journal-title>Current Microwave Chemistry</journal-title>
+            <full-journal-title>Current Microwave Chemistry</full-journal-title>
+            <journal-seo-title>current-microwave-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2213-3364</journal-issn>
+                <journal-issn issn-type="print">2213-3356</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Microwave Chemistry</italic>
+                    </bold> is an international peer-reviewed journal that publishes important contributions describing advances in the use of the microwave in the fields of chemistry, biology, medicine, biomedical science, and engineering. The journal covers microwave-assisted synthesis of novel organic, organometallic and inorganic molecules or complexes, kinetics and mechanistic studies of microwave-induced chemical reactions and potential use of microwave irradiation in the fields of drug discovery, green chemistry, catalysis and industrial process development. It is the premier source of microwave related information for chemists, biologists, pharmacologists and engineers in both industry and academia.</p>
+            </journal-aims-scope>
+            <journal-current-volume>6</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cmic-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentmicrowavechemistry.com/</journal-insight>
+<journal-history>Current Microwave Chemistry was introduced in 2014 with the assistance of Dr. Bimal K. Banik, who is the current Editor-in-Chief serving since 2014.</journal-history>
+            <journal-description>is an international peer-reviewed journal that publishes important contributions describing advances in the use of the microwave across the field of in chemistry, biology, medicine, biomedical science, and engineering. The journal covers microwave-assisted synthesis of novel organic, organometallic and inorganic molecules or complexes, kinetics and mechanistic studies of microwave-induced chemical reactions and potential use of microwave irradiation in the fields of drug discovery, green chemistry, catalysis and industrial process development. It is the premier source of microwave related information for chemists, biologists, pharmacologists and engineers in both industry and academia.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Chemistry-Journals/520094931431012?fref=ts</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>cmic-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cmic@benthamscience.net">cmic@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CMIC">bsp-cms.eurekaselect.com/index.php/CMIC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Emerging Sources Citation Index (ESCI)</agency-name>
+                <agency-logo>ESCI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX20</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

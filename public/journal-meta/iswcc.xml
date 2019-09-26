@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">115</journal-id>
+            <journal-code>iswcc</journal-code>
+            <journal-eureka-code-one>SWCC</journal-eureka-code-one>
+            <nid nid-status="current">692</nid>
+            <journal-title>International Journal of Sensors, Wireless Communications and Control</journal-title>
+            <full-journal-title>International Journal of Sensors, Wireless Communications and Control</full-journal-title>
+            <journal-seo-title>international-journal-of-sensors-wireless-communications-and-control</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2210-3287</journal-issn>
+                <journal-issn issn-type="print">2210-3279</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>International Journal of Sensors, Wireless Communications and Control </italic>
+                    </bold>   publishes timely research articles, full-length/ mini reviews and communications on these three strongly related areas, with emphasis on networked control systems whose sensors are interconnected via wireless communication networks.</p>
+                <p>The emergence of high speed wireless network technologies allows a cluster of devices to be linked together economically to form a distributed system. Wireless communication is playing an increasingly important role in such distributed systems. Transmitting sensor measurements and control commands over wireless links allows rapid deployment, flexible installation, fully mobile operation and prevents the cable wear and tear problem in industrial automation, healthcare and environmental assessment. Wireless networked systems has raised and continues to raise fundamental challenges in the fields of science, engineering and industrial applications, hence, more new modelling techniques, problem formulations and solutions are required. </p>
+            </journal-aims-scope>
+            <journal-current-volume>9</journal-current-volume>
+            <journal-current-issues>4</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>iswcc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.internationaljournalofsensorswirelesscommunicationsandcontrol.com/</journal-insight>
+<journal-history>International Journal of Sensors, Wireless Communications and Control was launched in 2011. Dr. Sing Kiong Nguang  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>The emergence of high speed wireless network technologies allows a cluster of devices to be linked together economically to form a distributed system. Wireless communication is playing an increasingly important role in such distributed systems. Transmitting sensor measurements and control commands over wireless links allows rapid deployment, flexible installation, fully mobile operation and prevents the cable wear and tear problem in industrial automation, healthcare and environmental assessment. Wireless networked systems has raised and continues to raise fundamental challenges in the fields of science, engineering and industrial applications, hence, more new modelling techniques, problem formulations and solutions are required.</journal-description>
+            <keyword-group>
+                <keyword>International Journal of Sensors, Wireless Communications and Control</keyword>
+                <keyword>continues to raise fundamental challenges</keyword>
+                <keyword>network technologies allows a cluster of devices</keyword>
+                <keyword>Sensors</keyword>
+                <keyword>Wireless</keyword>
+                <keyword>Communication</keyword>
+                <keyword>radio waves</keyword>
+                <keyword>Telecommunication</keyword>
+                <keyword>Mobile Information Systems</keyword>
+                <keyword>Wireless Communications</keyword>
+                <keyword>Mobile Computing</keyword>
+                <keyword>Mobile Information Systems</keyword>
+                <keyword>Antennas And Propagation</keyword>
+                <keyword>Ad Hoc Networks</keyword>
+                <keyword>Broadcasting</keyword>
+                <keyword>Optical Communications and Networking</keyword>
+                <keyword>Sensor Networks</keyword>
+                <keyword>Internet</keyword>
+                <keyword>Optical Networking</keyword>
+                <keyword>Radar</keyword>
+                <keyword>Distributed Sensor Networks</keyword>
+                <keyword>radio receivers</keyword>
+                <keyword>satellite television</keyword>
+                <keyword>broadcast television</keyword>
+                <keyword>cordless telephones</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Bentham-Science-Publishers-Engineering-Journals/188450778011259</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>iswcc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="swcc@benthamscience.net">swcc@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/SWCC">bsp-cms.eurekaselect.com/index.php/SWCC</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

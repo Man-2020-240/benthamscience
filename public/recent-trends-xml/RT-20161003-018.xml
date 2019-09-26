@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article SYSTEM "journalpublishing.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-018</article-id>
+            <title-group>
+                <article-title>Nanomaterials for neurology: State-of-the-art</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144419/article">Nanomaterials for Neurology: State-of-the-Art</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 1-NOV-2016</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This research article by Dr. Mar&#x00ED;a Fernanda Veloz-Castillo has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/cns-and-neurological-disorders-drug-targets/#top">CNS &#x0026; Neurological Disorders -- Drug Targets</uri>, Volume 15, Issue 10, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>Despite the numerous challenges associated with the application of nanotechnology in neuroscience, it promises to have a significant impact on our understanding of how the nervous system works, how it fails in disease, and the development of earlier and less-invasive diagnostic procedures so we can intervene in the pre-clinical stage of neurological disease before extensive neurological damage has taken place.</p>
+        <p>Chronic neurodegenerative disorders are disease processes in which intrinsic functions of brain cells and systems are progressively altered. The enormous growth in our understanding of the brain that has taken place over the past several decades has not been accompanied by a comparable increase in the efficacy of treatment of neurological disorders.</p>
+        <p>Because nanotechnology uses bio-engineered systems that interact with biological systems at a molecular level, it can offer impressive improvement in the treatment of these disorders. Nanotechnological tools operate on a dimensional scale that facilitates physical interactions with neurons as well as with the smaller glial cells. These small-scale tools and devices have great potential for medicinal and pharmaceutical applications. Nanomedicine has already made the current drug regimen more effective with attributes like sustained release, increased half-life, higher drug concentrations at target sites, reduced toxicity and fewer side effects.</p>
+        <p>Nanotechnology shows great promise for the diagnosis and therapy of neurodegenerative disorders by supporting and promoting functional regeneration of damaged neurons, providing neuroprotection, and enabling the delivery of drugs, growth factors, genes and cells across the blood brain barrier.</p>
+        <p>In this review we provide a neurobiological overview of key neurological disorders and describe the different types of nanomaterials in use. We present many of the different applications that advances in nanotechnology are having in the field of neurological sciences and discuss the issue of toxicity of the nanomaterials.</p>
+        <p>In conclusion, we weigh in on what the promises and challenges lie ahead of researchers for future developments in this groundbreaking field.</p>
+        <p>For More information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/cns-and-neurological-disorders-drug-targets/volume/15/issue/10/page/1306/">http://benthamscience.com/journals/cns-and-neurological-disorders-drug-targets/volume/15/issue/10/page/1306/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference:</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Veloz-Castillo</surname>
+                            <given-names>M.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>West</surname>
+                            <given-names>R.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cordero-Arreola</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Arias-Carrión</surname>
+                            <given-names>O.</given-names>
+                        </name>
+                        <name>
+                            <surname>Méndez-Rojas</surname>
+                            <given-names>M.A.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Nanomaterials for Neurology: State-of-the-Art.</article-title>
+                    <source>CNS Neurol. Disord. Drug Targets</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1871527315666160801144637</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes" journal-status="discontinued">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">110</journal-id>
+            <journal-code>rpti</journal-code>
+            <journal-eureka-code-one>RPTMI</journal-eureka-code-one>
+            <journal-eureka-code-two>RPTI</journal-eureka-code-two>
+            <nid nid-status="current">131614</nid>
+            <nid-one nid-status="old">687</nid-one>
+            <journal-title>Recent Patents and Topics on Imaging (Discontinued)</journal-title>
+            <journal-former-title>Recent Patents on Medical Imaging</journal-former-title>
+            <full-journal-title>Recent Patents and Topics on Imaging (Discontinued)</full-journal-title>
+            <journal-seo-title>recent-patents-and-topics-on-imaging</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">2451-8255</journal-issn>
+                <journal-issn issn-type="print">2451-8271</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>Recent Patents and Topics on Imaging</bold> publishes review and research articles, and guest edited single-topic issues in the field of imaging including reviews on patents. It provides an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in the field of Imaging. Research areas covered by the journal are: cellular, molecular, digital and diagnostic imaging.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>19900192320</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>5</journal-current-volume>
+            <journal-current-issues>2</journal-current-issues>
+            <journal-current-year>2015</journal-current-year>
+            <journal-cover-image>rpti-journal-cover.gif</journal-cover-image>
+            <journal-description>It provides an important and reliable source of current information on developments in the field. The journal is essential reading for all researchers involved in Medical Imaging.</journal-description>
+            <keyword-group>
+                <keyword>Recent Patents on Medical Imaging </keyword>
+                <keyword>reliable source of current information</keyword>
+                <keyword>single-topic issues</keyword>
+                <keyword>Medical imaging</keyword>
+                <keyword>Radiographic Systems</keyword>
+                <keyword>Imaging</keyword>
+                <keyword>Radiography</keyword>
+                <keyword>Tensor Imaging</keyword>
+                <keyword>Sonography</keyword>
+                <keyword>Medical Imaging Applications</keyword>
+                <keyword>Optical Coherence Tomography </keyword>
+                <keyword>Thermography</keyword>
+                <keyword>tomography</keyword>
+                <keyword>Electroencephalography</keyword>
+                <keyword>Magnetoencephalography</keyword>
+                <keyword>MEG</keyword>
+                <keyword>electrocardiograph</keyword>
+                <keyword>radiology</keyword>
+                <keyword>Nuclear medicine</keyword>
+                <keyword>Tomogram</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/BenthamSciencePublishers</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers---uae</social-media-link>
+            </social-media-link-list>
+            <journal-flyer>rpti-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="rptmi@benthamscience.org">rptmi@benthamscience.org</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/RPTMI">bsp-cms.eurekaselect.com/index.php/RPTMI</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>EMBASE</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+              </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>MediaFinder&#x00AE;-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

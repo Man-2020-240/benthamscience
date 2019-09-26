@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">15</journal-id>
+            <journal-code>cdm</journal-code>
+            <journal-eureka-code-one>CDM</journal-eureka-code-one>
+            <nid nid-status="current">592</nid>
+            <journal-title>Current Drug Metabolism</journal-title>
+            <full-journal-title>Current Drug Metabolism</full-journal-title>
+            <journal-seo-title>current-drug-metabolism</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1875-5453</journal-issn>
+                <journal-issn issn-type="print">1389-2002</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Drug Metabolism</italic>
+                    </bold> aims to cover all the latest and outstanding developments in drug metabolism, pharmacokinetics, and drug disposition. The journal serves as an international forum for the publication of full-length/mini review, research articles and guest edited issues in drug metabolism. Current Drug Metabolism is an essential journal for academic, clinical, government and pharmaceutical scientists who wish to be kept informed and up-to-date with the most important developments. The journal covers the following general topic areas: pharmaceutics, pharmacokinetics, toxicology, and most importantly drug metabolism.</p>
+                <p>
+                    More specifically, <italic>in vitro</italic> and <italic>in vivo</italic> drug metabolism of phase I and phase II enzymes or metabolic pathways; drug-drug interactions and enzyme kinetics; pharmacokinetics, pharmacokinetic-pharmacodynamic modeling, and toxicokinetics; interspecies differences in metabolism or pharmacokinetics, species scaling and extrapolations; drug transporters; target organ toxicity and interindividual variability in drug exposure-response; extrahepatic metabolism; bioactivation, reactive metabolites, and developments for the identification of drug metabolites. Preclinical and clinical reviews describing the drug metabolism and pharmacokinetics of marketed drugs or drug classes.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>20663</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>20</journal-current-volume>
+            <journal-current-issues>14</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>cdm-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currentdrugmetabolism.com/</journal-insight>
+<journal-history>Current Drug Metabolism was launched in 2000. Dr. Michael Sinz  serves as the Editor-in-Chief of the journal.</journal-history>
+            <journal-description>Current Drug Metabolism aims to cover all the latest and outstanding developments in drug metabolism and disposition. The journal serves as an international forum for the publication of timely reviews and guest edited issues in drug metabolism.</journal-description>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/pages/Current-Drug-Metabolism/1460992044163938?ref=hl</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/bentham-science-publishers-drug-metabolism-journals?trk=biz-brand-tree-co-name%20</social-media-link>
+            </social-media-link-list>
+            <impact-factor>2.277</impact-factor>
+            <five-year-impact-factor>2.559</five-year-impact-factor>
+<category-ranking-list>
+            <category-ranking>
+                    <category-name>Biochemistry &#x0026; Molecular Biology</category-name>
+                    <rank>200</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>298</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+                <category-ranking>
+                    <category-name>Pharmacology &#x0026; Pharmacy</category-name>
+                    <rank>158</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>267</total-journals>
+                    <quartile>Q3</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <journal-flyer>cdm-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cdm@benthamscience.net">cdm@benthamscience.net</email>
+            </journal-email>
+            <journal-management-system>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bsp-cms.eurekaselect.com/index.php/CDM">bsp-cms.eurekaselect.com/index.php/CDM</uri>
+            </journal-management-system>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index-Expanded (SciSearch)<sup>TM</sup></agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Index to Scientific Reviews®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Biochemistry &#x0026; Biophysics Citation Index<sup>TM</sup></agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Current Contents® - Life Sciences</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>ProQuest</agency-name>
+                <agency-logo>proquest.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX15</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>British Library</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

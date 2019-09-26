@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">
+            </issn>
+            <issn pub-type="epub">
+            </issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20180419-001</article-id>
+            <title-group>
+                <article-title>Hydrogenation of Levulinic Acid Over Carbon Supported Small Ruthenium Nanoparticles</article-title>
+            </title-group>
+            <aff id="aff1">
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/160829/article">New Insights in the Development of Carbon Supported Ruthenium Catalysts for Hydrogenation of Levulinic Acid</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 19-APR-2018</aff>
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>19</day>
+                    <month>04</month>
+                    <year>2018</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+                <p>This article by Dr. Wenjing Song et al. is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/current-catalysis/">Current Catalysis</uri>, Volume 7, 2018</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <break/>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20180419-001.jpg"/>
+        </p>
+        <p>Selective hydrogenation of levulinic acid (LA) to &#x03B3;-valerolactone (GVL) is one of the target reactions for converting lignocellulose into renewable fuels and chemicals. A literature survey of hydrogenation of biomass-derived carbonyl compounds shows that ruthenium (Ru) is the most efficient active phase element to achieve a rapid and selective conversion. Carbon supported Ru catalysts especially display the best performances in an aqueous-medium. But carbon materials have a large range of properties which may be tuned for specific applications. But in spite of the variety of properties of the carbon materials few reports deal with the influence of carbon characteristics such as the degree of graphitization, nanostructure and surface chemical properties on the performance of the carbon supported Ru catalysts for the synthesis of &#x03B3;-valerolactone from levulinic acid.</p>
+        <p>In this context, researchers of the Group for Molecular Design of Heterogeneous Catalysts (GDMCH) at the Institute of Catalysis and Petrochemistry in Madrid have prepared Ru catalysts supported on very different carbon materials, such as: i) activated carbon (AC) with a non-graphitizable and highly microporous and turbostratic structure; ii) high surface area graphites (HSAG) and reduced graphene oxide (rGO), both materials with highly ordered structure and non-porous open surface morphologies; iii) carbon nanotubes (CNT), with the mesoporous cylindrical structures formed from graphene sheets. All the carbon materials used are pristine carbons and they were not subjected to functionalization treatments. Therefore a similar surface chemical nature is envisaged for all the carbon materials. As the performance of supported metallic catalysts is highly dependent on their composition and structural characteristics, features which are ultimately determined by the preparation method, the researchers have controlled the metal precursor (Ru chloride) and preparation technique (incipient impregnation) to assess the influence of the support characteristics. By using carbon materials with different surface areas and porosity though similar surface chemical nature the researchers have prepared Ru catalysts with Ru particle sizes ranging from 1.2 to 2.9 nm. The effect of Ru particle size was evaluated in the levulinic acid hydrogenation under similar mild experimental conditions (100&#x00BA;C, 50 bars and water solvent) in batch reactor and that with the best performance has also been tested in a continuous-flow reactor.</p>
+        <p>Through their work, the team has found that the TOF increases with the decreasing particle size of Ru based particles, since the LA hydrogenation reaction is structure sensitive to Ru nanoparticles supported on carbon materials. However, no dependency of selectivity toward GVL was observed as this was of around 95% after 6 hours of reaction for all the catalysts. The Ru/rGO-700 catalyst with the smallest metal particle size (1.2 nm) and highest activity at 100&#x00BA;C also showed a very high activity at room temperature.</p>
+        <p>In previous studies where various supports were compared for Ru catalysts, the superior catalytic activity of Ru supported on reduced few-layers graphene in LA hydrogenation was associated with the formation of electro-rich Ru nanoparticles by interaction with the graphenic support in comparison to metal oxide supports and non-graphitic carbon (carbon black, activated carbon) supports. In order to assess the accuracy of these statements, the researchers have studied the strength and energetic distribution of the surface adsorption sites on the prepared Ru catalysts using the microcalorimetry of CO adsorption. They found that the order of CO adsorption heats seems to follow the trend of the Ru mean particle sizes, the higher the metal particle size the higher the heat of CO adsorption. So the Ru/rGO-700 catalyst with the smallest particles presents the profile with the lowest heats of CO which means lowest electron density. This sample displays the highest initial activity and TOF in the LA hydrogenation reaction suggesting that, in contrast with previously described results, the low-coordination unsaturated Ru sites at the small metal nanoparticles are responsible of the improved activity in reaction.</p>
+        <p>This Ru/rGO-700 catalyst with superior activity displays also excellent stability in a continuous packed bed reactor. Therefore the developed catalyst, consisting in Ru nanoparticles supported on reduced graphite oxide, will allow for the clean and continuous hydrogenation of the biomass-derived levulinic acid.</p>
+        <p>In conclusion, the extensive characterization study of the fresh and spent catalysts have provided insight into the influence of carbon characteristics on the Ru nanoparticles supported on them and on their catalytic performance (activity, selectivity and stability) in the LA hydrogenation reaction.</p>
+        <p>For more information on the research, please visit:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/160829/article">http://www.eurekaselect.com/160829/article</ext-link></p>
+        <p>
+            <bold>Reference:</bold>
+            <br/>
+Song W. <italic>et al.</italic>, New Insights in the Development of Carbon Supported Ruthenium Catalysts for Hydrogenation of Levulinic Acid, <italic>Current Catalysis</italic>, 2018, Vol 7, DOI: 10.2174/2211544707666180328162825</p>
+    </body>
+</article>

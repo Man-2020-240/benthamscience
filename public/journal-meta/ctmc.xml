@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<journal xmlns:xlink="http://www.w3.org/1999/xlink" editors-choice-status="yes">
+    <journal-front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">38</journal-id>
+            <journal-code>ctmc</journal-code>
+            <journal-eureka-code-one>CTMC</journal-eureka-code-one>
+            <nid nid-status="current">615</nid>
+            <journal-title>Current Topics in Medicinal Chemistry</journal-title>
+            <full-journal-title>Current Topics in Medicinal Chemistry</full-journal-title>
+            <journal-seo-title>current-topics-in-medicinal-chemistry</journal-seo-title>
+            <journal-issn-list>
+                <journal-issn issn-type="online">1873-4294</journal-issn>
+                <journal-issn issn-type="print">1568-0266</journal-issn>
+            </journal-issn-list>
+            <journal-aims-scope>
+                <p>
+                    <bold>
+                        <italic>Current Topics in Medicinal Chemistry</italic>
+                    </bold> is a forum for the review of areas of keen and topical interest to medicinal chemists and others in the allied disciplines. Each issue is solely devoted to a specific topic, containing six to nine reviews, which provide the reader a comprehensive survey of that area. A Guest Editor who is an expert in the topic under review, will assemble each issue. The scope of Current Topics in Medicinal Chemistry will cover all areas of medicinal chemistry, including current developments in rational drug design, synthetic chemistry, bioorganic chemistry, high-throughput screening, combinatorial chemistry, compound diversity measurements, drug absorption, drug distribution, metabolism, new and emerging drug targets, natural products, pharmacogenomics, and structure-activity relationships. Medicinal chemistry is a rapidly maturing discipline. The study of how structure and function are related is absolutely essential to understanding the molecular basis of life. Current Topics in Medicinal Chemistry aims to contribute to the growth of scientific knowledge and insight, and facilitate the discovery and development of new therapeutic agents to treat debilitating human disorders. The journal is essential for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important advances.</p>
+            </journal-aims-scope>
+            <scimago sjr-status="no">
+                <scimago-jr-id>12331</scimago-jr-id>
+            </scimago>
+            <journal-current-volume>19</journal-current-volume>
+            <journal-current-issues>32</journal-current-issues>
+            <journal-current-year>2019</journal-current-year>
+            <journal-cover-image>ctmc-journal-cover.gif</journal-cover-image>
+            <journal-insight>http://www.currenttopicsinmedicinalchemistry.com/</journal-insight>
+
+            <journal-history>Current Topics in Medicinal Chemistry was introduced in 2001 with the assistance of Dr. Allen B. Reitz, who is the current Editor-in-Chief serving since 2001.</journal-history>
+            <journal-description>The study of how structure and function are related is absolutely essential to understanding the molecular basis of life. Current Topics in Medicinal Chemistry aims to contribute to the growth of scientific knowledge and insight, and facilitate the discovery and development of new therapeutic agents to treat debilitating human disorders. The journal is essential for every medicinal chemist who wishes to be kept informed and up-to-date with the latest and most important advances.</journal-description>
+            <keyword-group>
+                <keyword>Medicinal Chemistry</keyword>
+                <keyword>bioorganic chemistry</keyword>
+                <keyword>compound diversity measurements</keyword>
+            </keyword-group>
+            <social-media-link-list>
+                <social-media-link social-media-link-type="facebook">https://www.facebook.com/ctmcnews</social-media-link>
+                <social-media-link social-media-link-type="linkedin">http://www.linkedin.com/company/current-topics-in-medicinal-chemistry</social-media-link>
+            </social-media-link-list>
+            <impact-factor>3.442</impact-factor>
+            <five-year-impact-factor>3.144</five-year-impact-factor>
+            <category-ranking-list>
+                <category-ranking>
+                    <category-name>Chemistry, Medicinal</category-name>
+                    <rank>20</rank>
+                    <rank-suffix>th</rank-suffix>
+                    <total-journals>61</total-journals>
+                    <quartile>Q2</quartile>
+                </category-ranking>
+            </category-ranking-list>
+            <scopus-journal-ranking>
+            </scopus-journal-ranking>
+            <journal-flyer>ctmc-flyer.pdf</journal-flyer>
+            <journal-email>
+                <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ctmc@benthamscience.net">ctmc@benthamscience.net</email>
+            </journal-email>
+        </journal-meta>
+    </journal-front>
+    <journal-body>
+        <agency-list>
+            <agency order='first'>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Science Citation Index Expanded<sup>TM</sup></agency-name>
+                <agency-logo height="100">Clarivate-Analytics.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>Journal Citation Reports/Science Edition</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX2</agency-id>
+                <agency-name>InCites</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX3</agency-id>
+                <agency-name>Index to Scientific Reviews®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX4</agency-id>
+                <agency-name>Biochemistry &#x0026; Biophysics Citation Index<sup>TM</sup></agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>Current Contents®</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>BIOSIS</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX7</agency-id>
+                <agency-name>BIOSIS Previews</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX8</agency-id>
+                <agency-name>BIOSIS Reviews Reports and Meetings</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX9</agency-id>
+                <agency-name>ISI Alerting Services</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX10</agency-id>
+                <agency-name>MEDLINE/PubMed/Index Medicus</agency-name>
+                <agency-logo>pubmed.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX11</agency-id>
+                <agency-name>Scopus</agency-name>
+                <agency-logo>scopus.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX12</agency-id>
+                <agency-name>EMBASE/Excerpta Medica</agency-name>
+                <agency-logo>EMBASE.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX13</agency-id>
+                <agency-name>Chemical Abstracts Service/SciFinder</agency-name>
+                <agency-logo>cas.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>ProQuest</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>ChemWeb</agency-name>
+                <agency-logo>chemweb.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Google Scholar</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX16</agency-id>
+                <agency-name>PubsHub</agency-name>
+                <agency-logo>pubshub.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX14</agency-id>
+                <agency-name>Index Copernicus</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX17</agency-id>
+                <agency-name>Genamics JournalSeek</agency-name>
+                <agency-logo>Genomics-journalseek.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX18</agency-id>
+                <agency-name>MediaFinder®-Standard Periodical Directory</agency-name>
+                <agency-logo>media-finder.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX19</agency-id>
+                <agency-name>J-Gate</agency-name>
+                <agency-logo>jgate.png</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX5</agency-id>
+                <agency-name>CNKI Scholar</agency-name>
+                <agency-logo>CNKI.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>Suweco CZ</agency-name>
+                <agency-logo>suweco.jpg</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>TOC Premier</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX6</agency-id>
+                <agency-name>EBSCO</agency-name>
+                <agency-logo>EBSCO.gif</agency-logo>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>Ulrich's Periodicals Directory</agency-name>
+            </agency>
+            <agency>
+                <agency-id>IDX1</agency-id>
+                <agency-name>JournalTOCs</agency-name>
+            </agency>
+        </agency-list>
+    </journal-body>
+</journal>

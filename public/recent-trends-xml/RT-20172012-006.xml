@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article article-type="research-article" dtd-version="1.1" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20172012-006</article-id>
+            <title-group>
+                <article-title>Semiconducting carbon nanotubes can reduce noise in carbon nanotube interconnects</article-title>
+            </title-group>
+            <aff>
+                <bold>Review Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/155065">Reducing Crosstalk Induced Delay and Peak Noise in Carbon Nanotube Interconnects</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 17-NOV-2017</aff>
+            <abstract>
+                <p>This article by Dr. Uma Sathyakam and Dr. Partha S. Mallick is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://benthamscience.com/journals/cnano/">Current Nanoscience</uri>, Volume 13, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journal-images/recent-trend/RT-20172012-006.jpg"/>
+        </p>
+        <p>Crosstalk and noise can become a major source of reliability problems of CNT based VLSI interconnects in the near future. Downscaling of component size in integrated circuits (ICs) to nanometer scale coupled with high density integration makes it challenging for researchers to maintain signal integrity in ICs. There are high chances of occurrence of crosstalk between adjacent wires. This crosstalk in turn, will increase the peak noise in the transient signals that pass through the interconnects. As multiple occurrences of crosstalk happen, the noise propagates through multiple stages of wires and the problem worsens to logic failure.</p>
+        <p>But thanks to semiconducting CNTs, which till now have found applications in the fabrication of futuristic field effect transistors, when placed around an interconnect, can reduce crosstalk to a large extent. Basically, semiconducting CNTs are non-conducting, have small dielectric constant, medium to large band gaps and hence can act as insulating shields to electric fields.</p>
+        <p>As semiconducting CNTs are one dimensional nanowires, they have very high anisotropic properties along their axis as well as their radius. The dielectric polarizability, which is the measure of number of polarizable bonds in a material, is found to be very smaller along the CNT radius compared to its axis. So, semiconducting CNTs are less polarizable along their radius which further suggests that they have small dielectric constants. The famous Clausius-Mossotti relation can be used to derive the dielectric constant from the dielectric polarizability. Further, this relation also tells that the dielectric constant of a CNT increases with its radius. So, obviously small diameter semiconducting CNTs are the ideal candidates as the low-k dielectric medium between two CNT interconnects.</p>
+        <p>The contact geometry is modified in such a way that more metal atoms are present at the centre where metallic CNTs are present. The contact has lesser number of metal atoms at the periphery where semiconducting CNTs are present. This helps in building a Schottky barrier at the contact semiconducting CNT interface and hence, inhibits any carrier movement.</p>
+        <p>Finally, experimental results show that the radial dielectric constant can be as low as 2.82 if (2,2) CNTs are used as shields. The coupling capacitance between adjacent wires is dependent on the interconnect thickness as well as the semiconducting CNT shield thickness. Crosstalk between CNT wires can be reduced by 28% if semiconducting CNTs are used. The crosstalk induced peak noise was also found to be 25% lesser for semiconducting CNT shielded interconnects at different input voltages of 0.8V, 0.5V and 0.3V.</p>
+        <p>The article is available here:&#x00A0;<ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/155065">http://www.eurekaselect.com/155065</ext-link></p>
+    </body>
+    <back>
+        <p>Reference: Mallick PS, et al. Reducing Crosstalk Induced Delay and Peak Noise in Carbon Nanotube Interconnects. Current Nanoscience, 2017, Vol 13, DOI: 10.2174/1573413713666170821123024</p>
+    </back>
+</article>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conf-exhibits>
+    <conf-list conf-list-type="exhibits">
+    	<conf-entry>
+            <conf-name>Society for Neuroscience 2019 Annual Meeting</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>October</conf-month>
+            <conf-month-id>10</conf-month-id>
+            <conf-date>19-23</conf-date>
+            <conf-city>Chicago, Illinois</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sfn.org/Meetings/Neuroscience-2019">https://www.sfn.org/Meetings/Neuroscience-2019</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Access Dunia Online Conference 2019 (ADOC 2019)</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>October</conf-month>
+            <conf-month-id>10</conf-month-id>
+            <conf-date>23</conf-date>
+            <conf-city>Sheraton Petaling Jaya Hotel, Selangor</conf-city>
+            <conf-country>Malaysia</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://eventful.com/events/access-dunia-online-conference-2019-/E0-001-128715491-5">https://eventful.com/events/access-dunia-online-conference-2019-/E0-001-128715491-5</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>The 40th Annual Scientific Meeting of The Japanese Society of Clinical Pharmacology and Therapeutics</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>December</conf-month>
+            <conf-month-id>12</conf-month-id>
+            <conf-date>03-05</conf-date>
+            <conf-city>Keio Plaza Hotel, Tokyo</conf-city>
+            <conf-country>Japan</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.c-linkage.co.jp/jscpt40/en/index.html">http://www.c-linkage.co.jp/jscpt40/en/index.html</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>257th ACS National Meeting &#x0026; Exposition</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>31-04</conf-date>
+            <conf-city>Orlando, Florida</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://global.acs.org/events/257th-acs-national-meeting-exposition/">https://global.acs.org/events/257th-acs-national-meeting-exposition/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>ACRL 2019</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>April</conf-month>
+            <conf-month-id>04</conf-month-id>
+            <conf-date>10-13</conf-date>
+            <conf-city>Clevland</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://conference.acrl.org/exhibits/">https://conference.acrl.org/exhibits/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Experimental Biology</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>April</conf-month>
+            <conf-month-id>04</conf-month-id>
+            <conf-date>06-10</conf-date>
+            <conf-city>Orlando, FL</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://experimentalbiology.org/2016/About-EB/Future-Meeting-Dates.aspx">http://experimentalbiology.org/2016/About-EB/Future-Meeting-Dates.aspx</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>SLA PHT Meeting 2019</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>April</conf-month>
+            <conf-month-id>04</conf-month-id>
+            <conf-date>14-16</conf-date>
+            <conf-city>Loews Philadelphia</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://decisionresourcesgroup.com/events/sla-pharmaceutical-health-technologies-division-spring-meeting/">https://decisionresourcesgroup.com/events/sla-pharmaceutical-health-technologies-division-spring-meeting/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>AACR 2019: American Association for Cancer Research</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>29-03</conf-date>
+            <conf-city>Atlanta, Georgia</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=174">https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=174</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Alzheimer Association International Conference</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>July</conf-month>
+            <conf-month-id>07</conf-month-id>
+            <conf-date>14-18</conf-date>
+            <conf-city>Los Angeles, California</conf-city>
+            <conf-country>United States</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.alz.org/aaic/overview.asp">https://www.alz.org/aaic/overview.asp</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>258th ACS National Meeting &#x0026; Exposition</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>August</conf-month>
+            <conf-month-id>08</conf-month-id>
+            <conf-date>25-29</conf-date>
+            <conf-city>SanDiego,California</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://global.acs.org/events/258th-acs-national-meeting-exposition/">https://global.acs.org/events/258th-acs-national-meeting-exposition/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>The 14th Annual CMHC</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>October</conf-month>
+            <conf-month-id>10</conf-month-id>
+            <conf-date>10-13</conf-date>
+            <conf-city>Chicago IL</conf-city>
+            <conf-country>USA</conf-country>
+           <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cardiometabolichealth.org/2019/chicago-14th-annual-cmhc.html">https://www.cardiometabolichealth.org/2019/chicago-14th-annual-cmhc.html</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>AAPS Annual Meeting and Exposition</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>November</conf-month>
+            <conf-month-id>11</conf-month-id>
+            <conf-date>03-07</conf-date>
+            <conf-city>San Antonio, Texas</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.emedevents.com/c/medical-conferences-2019/american-association-of-pharmaceutical-scientists-aaps-annual-meeting-and-exposition-2019">https://www.emedevents.com/c/medical-conferences-2019/american-association-of-pharmaceutical-scientists-aaps-annual-meeting-and-exposition-2019</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>SLA Annual Conference 2019</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>June</conf-month>
+            <conf-month-id>06</conf-month-id>
+            <conf-date>14-18</conf-date>
+            <conf-city>Clevland, Ohio</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://connect.sla.org/ac2019/home">https://connect.sla.org/ac2019/home</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>11th ;Joint Meeting on Medicinal Chemistry 2019 (JMMC 2019)</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>June</conf-month>
+            <conf-month-id>06</conf-month-id>
+            <conf-date>27-30</conf-date>
+            <conf-city>Orea Hotel Pyramida Prague</conf-city>
+            <conf-country>Czech Republic</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.jmmc2019.cz/">https://www.jmmc2019.cz/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>American College Of Cardiology 68th Annual Scientific Session &#x0026; Expo 2018 (ACC 2019)</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>16-18</conf-date>
+            <conf-city>New Orleans, LA</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://accscientificsession.acc.org/Information-Pages/future-meetings">https://accscientificsession.acc.org/Information-Pages/future-meetings</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>London Bookfair</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>12-14</conf-date>
+            <conf-city>Olympia, London</conf-city>
+            <conf-country>UK</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.londonbookfair.co.uk/The-London-Book-Fair-2019/">http://www.londonbookfair.co.uk/The-London-Book-Fair-2019/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>The 92nd Annual Meeting of The Japanese Pharmacological Society</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>14-16</conf-date>
+            <conf-city>Osaka</conf-city>
+            <conf-country>Japan</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pharmacology.main.jp/92nenkai/en/">http://pharmacology.main.jp/92nenkai/en/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>139th Annual Meeting of the Pharmaceutical Society of Japan</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>March</conf-month>
+            <conf-month-id>03</conf-month-id>
+            <conf-date>20-23</conf-date>
+            <conf-city>Chiba, Chiba Prefecture</conf-city>
+            <conf-country>Japan</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://nenkai.pharm.or.jp/139/web/en/">http://nenkai.pharm.or.jp/139/web/en/</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Annual Meeting of Japan Pharmaceutical Library Association</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>June</conf-month>
+            <conf-month-id>06</conf-month-id>
+            <conf-date>TBD</conf-date>
+            <conf-city>
+            </conf-city>
+            <conf-country>Japan</conf-country>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>1st Pharma Labo Expo</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>July</conf-month>
+            <conf-month-id>07</conf-month-id>
+            <conf-date>03-05</conf-date>
+            <conf-city>Tokyo</conf-city>
+            <conf-country>Japan</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/61956">https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/61956</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Meeting of JMLA/JPLA Consortium</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>September</conf-month>
+            <conf-month-id>09</conf-month-id>
+            <conf-date>TBD</conf-date>
+            <conf-city>Tokyo</conf-city>
+            <conf-country>Japan</conf-country>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>37th Medicinal Chemistry Symposium</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>
+            </conf-month>
+            <conf-month-id>
+            </conf-month-id>
+            <conf-date>TBD</conf-date>
+            <conf-city>Tokyo</conf-city>
+            <conf-country>Japan</conf-country>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>International Meeting on 22nd MDO and 33rd JSSX</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>
+            </conf-month>
+            <conf-month-id>
+            </conf-month-id>
+            <conf-date>TBD</conf-date>
+            <conf-city>Kanazawa</conf-city>
+            <conf-country>Japan</conf-country>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Frankfurt Book Fair</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>October</conf-month>
+            <conf-month-id>10</conf-month-id>
+            <conf-date>16-20</conf-date>
+            <conf-city>Frankfurt</conf-city>
+            <conf-country>Germany</conf-country>
+             <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.tradefairdates.com/Frankfurt-Book-Fair-M95/Frankfurt.html">https://www.tradefairdates.com/Frankfurt-Book-Fair-M95/Frankfurt.html</uri>
+            </conf-link>
+        </conf-entry>
+        <conf-entry>
+            <conf-name>Charleston Conference</conf-name>
+            <conf-year>2019</conf-year>
+            <conf-month>November</conf-month>
+            <conf-month-id>11</conf-month-id>
+            <conf-date>4-8</conf-date>
+            <conf-city>Charleston</conf-city>
+            <conf-country>USA</conf-country>
+            <conf-link>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://charlestonlibraryconference.com/">https://charlestonlibraryconference.com/</uri>
+            </conf-link>
+        </conf-entry>
+    </conf-list>
+</conf-exhibits>

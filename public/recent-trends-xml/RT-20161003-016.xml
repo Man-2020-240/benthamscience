@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+<journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+<journal-title>Recent Trends</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <issn pub-type="ppub">0929-8673</issn>
+            <issn pub-type="epub">1875-533X</issn>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20161003-016</article-id>
+            <title-group>
+                <article-title>Constructing Networks of Organelle Functional Modules in Arabidopsis</article-title>
+            </title-group>
+            <aff id="aff1"><bold>Research Article: </bold> <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-genomics/volume/17/issue/5/page/427/">Constructing Networks of Organelle Functional Modules in Arabidopsis</uri></aff>
+            <aff><bold>Public Release:</bold> 25-SEP-2016</aff>
+            
+            <pub-date pub-type="ppub">
+                <year>
+                </year>
+            </pub-date>
+            <volume>
+            </volume>
+            <issue>
+            </issue>
+            <history>
+                <date date-type="released">
+                    <day>25</day>
+                    <month>09</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-year>
+                </copyright-year>
+            </permissions>
+            <abstract>
+            <p>This research article by Dr. <bold><italic><underline>Jin Chen</underline></italic></bold> et al has been published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/current-genomics/#top">Current Genomics</uri>, Volume 17, Number 6, 2016</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>With emerging high-throughput sequencing and phenotyping techniques, it becomes promising to apply gene functional module analysis to explore the system-level functionality of gene groups in microorganisms, plants, animals and humans. A gene functional module can be considered as a substructure of a biological network, <italic>i.e.,</italic> a group of genes that are tightly related by one or many types of biological interactions such as gene co-expression or co-regulation, protein-protein interaction and functional association. In addition, a functional module is topologically and functionally separable from other modules, suggesting that genes in the same module often have tighter relations among themselves than with genes of other modules. Functional module analysis is particularly useful for exploring organelle functions. Organelles need to communicate with each other to collaborate and perform complex functions that they cannot do individually, and the complex interactions between organelles are often vital for the survival of organisms. However, the underlining mechanism of how organelles coordinate their functions in a cell is still largely unknown. Peng <italic>et al</italic> present a soft thresholding approach to construct networks of functional modules using gene expression data, in which nodes are strongly co-expressed genes that encode proteins residing in the same subcellular localization, and links represent strong inter-module connections. The algorithm has three steps. First, it identifies functional modules by analyzing gene expression data. Next, it uses a self-adaptive approach to construct a mixed network of functional modules and genes. Finally, it links functional modules that are tightly connected in the mixed network. Analysis of experimental data from the Arabidopsis plant demonstrates that this approach is effective in improving the ability of researchers to interpret high-throughput transcriptomic data and infer the function of unknown genes.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://benthamscience.com/journals/current-genomics/volume/17/issue/5/page/427/">http://benthamscience.com/journals/current-genomics/volume/17/issue/5/page/427/</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Peng</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <article-title>Constructing Networks of Organelle Functional Modules in Arabidopsis.</article-title>
+                    <source>Curr. Genomics</source>
+                    <year>2016</year>
+                    <pub-id pub-id-type="doi">10.2174/1389202917666160726151048</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

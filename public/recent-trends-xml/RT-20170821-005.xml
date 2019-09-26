@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article article-type="research-article" dtd-version="2.3" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">RT</journal-id>
+            <journal-id journal-id-type="nlm-ta">Rec Trend</journal-id>
+            <journal-title>Recent Trends</journal-title>
+            <abbrev-journal-title abbrev-type="pubmed">Rec. Trend.</abbrev-journal-title>
+            <publisher>
+                <publisher-name>Bentham Science Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">RT-20170821-005</article-id>
+            <title-group>
+                <article-title>Methicillin resistance among clinical isolates of Staphylococcus aureus in Egypt</article-title>
+            </title-group>
+            <aff>
+                <bold>Research Article: </bold>
+                <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.eurekaselect.com/144438/article">The Status of Methicillin Resistance Among Egyptian Staphylococcus aureus Isolates: An Overview</uri>
+            </aff>
+            <aff>
+                <bold>Public Release:</bold> 26-MAY-2017</aff>
+            <abstract>
+                <p>This research article by Dr. Alaa Abouelfetouh is published in <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://benthamscience.com/journals/infectious-disorders-drug-targets/#top">Infectious Disorders -- Drug Targets</uri>, Volume 17, Issue 1, 2017</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p>About 40-70% of the infections caused by <italic>Staphylococcus aureus</italic> strains are due to methicillin resistant ones. These isolates are usually multi-drug resistant and harder to treat endangering hundreds of thousands of patients worldwide and costing billions in added health care costs. Accurate numbers describing the prevalence and characteristics of these infections and the added burden they cause to developing countries in the eastern Mediterranean and African regions are lacking. Egypt is no exception. In this article that appeared in <italic>Infectious Disorders - Drug Targets</italic>, Dr. AlaaAbouelfetouh, Associate Professor of Microbiology at the Faculty of Pharmacy, Alexandria University, is gathering the published data describing methicillin resistance in S. aureus (MRSA) in Egypt.</p>
+        <p>The reports described a general MRSA prevalence rate of 50-82% among hospitalized patients mainly in the largest two Egyptian cities Cairo and Alexandria and a lower rate of 24% in Minia, an important but less populated city in southern Egypt. The articles that investigated community acquired MRSA reported 19-47% prevalence. Some of these studies molecularly characterized the types of the MRSA isolates using different techniques; SCCmec typing, or spa typing and Multi-locus sequence typing (MLST). SCCmec types V, IV and its subtypes were detected in two separate studies. A different study revealed a MRSA prevalence rate among retail chickens of 38% which could act as reservoir for resistance transfer to humans.</p>
+        <p>&#x201C;Although the numbers point to an increasing rate of MRSA occurrence, especially in large cities such as Cairo and Alexandria, in the absence of a national surveillance program it is not possible to extrapolate these results to cover the whole country&#x201D;, warns Dr. Abouelfetouh.</p>
+        <p>Despite these alarming levels of MRSA in hospital and community settings, awareness of MRSA control measures among the medical staff at one of the major health centers in Egypt was at the 67% level.</p>
+        <p>For more information about the article, please visit <ext-link ext-link-type="uri" xlink:href="http://www.eurekaselect.com/144438/article">http://www.eurekaselect.com/144438/article</ext-link></p>
+    </body>
+    <back>
+        <ref-list>
+            <title>Reference: </title>
+            <ref id="r1">
+                <nlm-citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Abouelfetouh</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The Status of Methicillin Resistance Among Egyptian <italic>Staphylococcus aureus</italic> Isolates: An Overview.</article-title>
+                    <source>Infect. Disord. Drug Targets</source>
+                    <year>2017</year>
+                    <pub-id pub-id-type="doi">10.2174/1871526516666160802111200</pub-id>
+                </nlm-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>
